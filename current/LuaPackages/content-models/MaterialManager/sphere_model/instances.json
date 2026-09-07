@@ -1,0 +1,45 @@
+[
+  {
+    "class": "MeshPart",
+    "name": "MeshPart",
+    "path": "Model/MeshPart",
+    "properties": {
+      "AttributesSerialize": "",
+      "LODData": "",
+      "MeshID": "rbxasset://models/MaterialManager/sphere.mesh",
+      "MeshId": "rbxasset://models/MaterialManager/sphere.mesh",
+      "PhysicsData": "",
+      "Tags": "",
+      "TextureID": ""
+    },
+    "unreadable": [
+      "PhysicalConfigData:binary-shared-string"
+    ]
+  },
+  {
+    "class": "Model",
+    "name": "Model",
+    "path": "Model",
+    "properties": {
+      "AttributesSerialize": "",
+      "ModelMeshData": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SurfaceAppearance",
+    "name": "SurfaceAppearance",
+    "path": "Model/MeshPart/SurfaceAppearance",
+    "properties": {
+      "AttributesSerialize": "",
+      "ColorMap": "",
+      "MetalnessMap": "",
+      "NormalMap": "",
+      "RoughnessMap": "",
+      "Tags": "",
+      "TexturePack": ""
+    },
+    "unreadable": []
+  }
+]

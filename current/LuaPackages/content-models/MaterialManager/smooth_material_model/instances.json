@@ -1,0 +1,31 @@
+[
+  {
+    "class": "MeshPart",
+    "name": "MeshPart",
+    "path": "Model/MeshPart",
+    "properties": {
+      "AttributesSerialize": "",
+      "LODData": "",
+      "MaterialVariantSerialized": "",
+      "MeshID": "rbxasset://models/MaterialManager/smooth_sphere.mesh",
+      "MeshId": "rbxasset://models/MaterialManager/smooth_sphere.mesh",
+      "PhysicsData": "",
+      "Tags": "",
+      "TextureID": ""
+    },
+    "unreadable": [
+      "PhysicalConfigData:binary-shared-string"
+    ]
+  },
+  {
+    "class": "Model",
+    "name": "Model",
+    "path": "Model",
+    "properties": {
+      "AttributesSerialize": "",
+      "ModelMeshData": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  }
+]

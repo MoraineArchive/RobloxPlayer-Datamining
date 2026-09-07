@@ -1,0 +1,34 @@
+{
+  "observationMode": "live",
+  "provenance": [
+    {
+      "bytes": 103,
+      "sha256": "5d189e1b7e7bd72738d399a6f49dd5a1ec9df19600724581b2d2e9d92a33b2dd",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettings.roblox.com/v2/client-version/WindowsPlayer"
+    },
+    {
+      "buildGuid": "version-e7d81637d42c4b23",
+      "bytes": 1636,
+      "sha256": "bbb0045b74c22de4068b80d1ab32692e539ebc7d2ac5b0dce07264ced98a43a9",
+      "sourceType": "official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-e7d81637d42c4b23-rbxPkgManifest.txt"
+    },
+    {
+      "buildGuid": "version-e7d81637d42c4b23",
+      "bytes": 252328,
+      "sha256": "ccacee2bb3c87e13e8b51fce5bfb5ca85fa22ce5205f5590e654c7a32ca4a64a",
+      "sourceType": "official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-e7d81637d42c4b23-rbxManifest.txt"
+    }
+  ],
+  "status": "available",
+  "summary": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "target": "WindowsPlayer"
+}

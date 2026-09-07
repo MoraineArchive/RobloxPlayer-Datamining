@@ -1,0 +1,139 @@
+{
+  "exports": [
+    "AmdPowerXpressRequestHighPerformance",
+    "NvOptimusEnablement"
+  ],
+  "fileBytes": 138885584,
+  "imageSize": 153038848,
+  "imports": [
+    "RobloxPlayerBeta.dll"
+  ],
+  "machine": 34404,
+  "peTimestamp": 3804437524,
+  "sections": [
+    {
+      "characteristics": 32,
+      "name": ".text",
+      "rawOffset": 1536,
+      "rawSize": 100483584,
+      "virtualAddress": 4096,
+      "virtualSize": 100483100
+    },
+    {
+      "characteristics": 1610612768,
+      "name": ".rodata",
+      "rawOffset": 100485120,
+      "rawSize": 2560,
+      "virtualAddress": 100491264,
+      "virtualSize": 2288
+    },
+    {
+      "characteristics": 1073741888,
+      "name": ".rdata",
+      "rawOffset": 100487680,
+      "rawSize": 28908544,
+      "virtualAddress": 100495360,
+      "virtualSize": 28908070
+    },
+    {
+      "characteristics": 3221225536,
+      "name": ".data",
+      "rawOffset": 129396224,
+      "rawSize": 4639232,
+      "virtualAddress": 129404928,
+      "virtualSize": 18767760
+    },
+    {
+      "characteristics": 1073741888,
+      "name": "",
+      "rawOffset": 134035456,
+      "rawSize": 3361792,
+      "virtualAddress": 148172800,
+      "virtualSize": 3361308
+    },
+    {
+      "characteristics": 3221225536,
+      "name": ".didat",
+      "rawOffset": 137397248,
+      "rawSize": 512,
+      "virtualAddress": 151535616,
+      "virtualSize": 376
+    },
+    {
+      "characteristics": 3221225536,
+      "name": "CPADinfo",
+      "rawOffset": 137397760,
+      "rawSize": 512,
+      "virtualAddress": 151539712,
+      "virtualSize": 56
+    },
+    {
+      "characteristics": 1073741888,
+      "name": "_RDATA",
+      "rawOffset": 137398272,
+      "rawSize": 1024,
+      "virtualAddress": 151543808,
+      "virtualSize": 560
+    },
+    {
+      "characteristics": 3254779968,
+      "name": ".xbld",
+      "rawOffset": 137399296,
+      "rawSize": 512,
+      "virtualAddress": 151547904,
+      "virtualSize": 445
+    },
+    {
+      "characteristics": 3221225536,
+      "name": ".rsrc",
+      "rawOffset": 137399808,
+      "rawSize": 378880,
+      "virtualAddress": 151552000,
+      "virtualSize": 378712
+    },
+    {
+      "characteristics": 1107296320,
+      "name": ".reloc",
+      "rawOffset": 137778688,
+      "rawSize": 1094656,
+      "virtualAddress": 151932928,
+      "virtualSize": 1094564
+    },
+    {
+      "characteristics": 3221225536,
+      "name": "tempest",
+      "rawOffset": 138873344,
+      "rawSize": 512,
+      "virtualAddress": 153030656,
+      "virtualSize": 20
+    },
+    {
+      "characteristics": 3221225536,
+      "name": ".byfron",
+      "rawOffset": 138873856,
+      "rawSize": 1024,
+      "virtualAddress": 153034752,
+      "virtualSize": 594
+    }
+  ],
+  "sha256": "1434af7e4365aaa795ee566a9fde833592cf43d83f62648930d7da4c33319905",
+  "signing": {
+    "certificates": [
+      {
+        "revision": 512,
+        "sha256": "f32b69f4335e2f2f4778568b79f20df2f43c4e49d9819b0d67032dee4d40e983",
+        "size": 10704,
+        "type": 2
+      }
+    ],
+    "verification": "Not verified; no external certificate lookup or executable launch."
+  },
+  "timestampNote": "Raw linker timestamp; may be reproducible-build data rather than wall-clock time.",
+  "versionResource": {
+    "fileFlags": 0,
+    "fileType": 1,
+    "fileVersion": "0.737.0.31552",
+    "productVersion": "0.737.0.31552"
+  },
+  "warnings": []
+}

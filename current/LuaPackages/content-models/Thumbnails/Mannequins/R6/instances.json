@@ -1,0 +1,237 @@
+[
+  {
+    "class": "Animator",
+    "name": "Animator",
+    "path": "MrGrey/Humanoid/Animator",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Attachment",
+    "name": "BodyBackAttachment",
+    "path": "MrGrey/Torso/BodyBackAttachment",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Attachment",
+    "name": "BodyFrontAttachment",
+    "path": "MrGrey/Torso/BodyFrontAttachment",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Attachment",
+    "name": "FaceCenterAttachment",
+    "path": "MrGrey/Head/FaceCenterAttachment",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Attachment",
+    "name": "FaceFrontAttachment",
+    "path": "MrGrey/Head/FaceFrontAttachment",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Attachment",
+    "name": "HairAttachment",
+    "path": "MrGrey/Head/HairAttachment",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Attachment",
+    "name": "HatAttachment",
+    "path": "MrGrey/Head/HatAttachment",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Attachment",
+    "name": "LeftCollarAttachment",
+    "path": "MrGrey/Torso/LeftCollarAttachment",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Attachment",
+    "name": "LeftShoulderAttachment",
+    "path": "MrGrey/Left Arm/LeftShoulderAttachment",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Attachment",
+    "name": "NeckAttachment",
+    "path": "MrGrey/Torso/NeckAttachment",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Attachment",
+    "name": "RightCollarAttachment",
+    "path": "MrGrey/Torso/RightCollarAttachment",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Attachment",
+    "name": "RightShoulderAttachment",
+    "path": "MrGrey/Right Arm/RightShoulderAttachment",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Attachment",
+    "name": "WaistBackAttachment",
+    "path": "MrGrey/Torso/WaistBackAttachment",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Attachment",
+    "name": "WaistCenterAttachment",
+    "path": "MrGrey/Torso/WaistCenterAttachment",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Attachment",
+    "name": "WaistFrontAttachment",
+    "path": "MrGrey/Torso/WaistFrontAttachment",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Decal",
+    "name": "face",
+    "path": "MrGrey/Head/face",
+    "properties": {
+      "Texture": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Humanoid",
+    "name": "Humanoid",
+    "path": "MrGrey/Humanoid",
+    "properties": {
+      "DisplayName": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Model",
+    "name": "MrGrey",
+    "path": "MrGrey",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Motor6D",
+    "name": "Left Hip",
+    "path": "MrGrey/Torso/Left Hip",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Motor6D",
+    "name": "Left Shoulder",
+    "path": "MrGrey/Torso/Left Shoulder",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Motor6D",
+    "name": "Neck",
+    "path": "MrGrey/Torso/Neck",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Motor6D",
+    "name": "Right Hip",
+    "path": "MrGrey/Torso/Right Hip",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Motor6D",
+    "name": "Right Shoulder",
+    "path": "MrGrey/Torso/Right Shoulder",
+    "properties": {},
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Head",
+    "path": "MrGrey/Head",
+    "properties": {
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Left Arm",
+    "path": "MrGrey/Left Arm",
+    "properties": {
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Left Leg",
+    "path": "MrGrey/Left Leg",
+    "properties": {
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Right Arm",
+    "path": "MrGrey/Right Arm",
+    "properties": {
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Right Leg",
+    "path": "MrGrey/Right Leg",
+    "properties": {
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Torso",
+    "path": "MrGrey/Torso",
+    "properties": {
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SpecialMesh",
+    "name": "Mesh",
+    "path": "MrGrey/Head/Mesh",
+    "properties": {
+      "MeshId": "",
+      "TextureId": ""
+    },
+    "unreadable": []
+  }
+]

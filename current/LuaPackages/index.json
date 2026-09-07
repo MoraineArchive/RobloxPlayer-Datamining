@@ -1,0 +1,146 @@
+[
+  {
+    "bytecodeOrUnreadable": 0,
+    "instances": 2,
+    "package": "content-models.zip",
+    "path": "MaterialManager/material_model.rbxm",
+    "sha256": "62ae4e56958f21956a4d3a3259fe7895ec99860fe77300ed906057ac81ceb9b1",
+    "sources": 0
+  },
+  {
+    "bytecodeOrUnreadable": 0,
+    "instances": 2,
+    "package": "content-models.zip",
+    "path": "MaterialManager/smooth_material_model.rbxm",
+    "sha256": "c42f5eb05f80ef9d9662373121f099d6678d923977fe17a458d275154e9a6487",
+    "sources": 0
+  },
+  {
+    "bytecodeOrUnreadable": 0,
+    "instances": 3,
+    "package": "content-models.zip",
+    "path": "MaterialManager/sphere_model.rbxm",
+    "sha256": "0e767facb7d0b36836d0a28b7b7aadc3055cd9014b35580d871072672d7c5dd0",
+    "sources": 0
+  },
+  {
+    "bytecodeOrUnreadable": 0,
+    "instances": 6,
+    "package": "content-models.zip",
+    "path": "Thumbnails/MakeupCameras.rbxm",
+    "sha256": "be807e42fde49ffcc74a836c674b61fa4a9f055d85fcf66761b7a3492d2eea30",
+    "sources": 0
+  },
+  {
+    "bytecodeOrUnreadable": 0,
+    "instances": 8,
+    "package": "content-models.zip",
+    "path": "Thumbnails/MakeupLighting.rbxm",
+    "sha256": "e558ee23bc9fb3bb788e5271c1b972dd7d2b8b77f42fc611a6754c9049e9bdb1",
+    "sources": 0
+  },
+  {
+    "bytecodeOrUnreadable": 0,
+    "instances": 461,
+    "package": "content-models.zip",
+    "path": "Thumbnails/Mannequins/R15-plus.rbxm",
+    "sha256": "f0b7a00784b96518f9e81eddc10c5955931f6de4a233c2c9c6b051e2749650a7",
+    "sources": 0
+  },
+  {
+    "bytecodeOrUnreadable": 0,
+    "instances": 144,
+    "package": "content-models.zip",
+    "path": "Thumbnails/Mannequins/R15.rbxm",
+    "sha256": "150ccd9367e73f523c2e3ee1690fda9408ef271b901e78b7d6a3c21e5dcacd95",
+    "sources": 0
+  },
+  {
+    "bytecodeOrUnreadable": 0,
+    "instances": 37,
+    "package": "content-models.zip",
+    "path": "Thumbnails/Mannequins/R6.rbxm",
+    "sha256": "74887aadf2e485ae4c3deb8dd8845f80147238513e15e717b61cb5a59eeb96b9",
+    "sources": 0
+  },
+  {
+    "bytecodeOrUnreadable": 0,
+    "instances": 30,
+    "package": "content-models.zip",
+    "path": "Thumbnails/Mannequins/R6.rbxmx",
+    "sha256": "53ddf0a5a746a95ee4448bf5ddaea78c8d7273b9d418a7b7c63ec16b90dd5e67",
+    "sources": 0
+  },
+  {
+    "bytecodeOrUnreadable": 0,
+    "instances": 99,
+    "package": "content-models.zip",
+    "path": "Thumbnails/Mannequins/Rthro.rbxm",
+    "sha256": "a1f25f81ccbb8afc38fade56d57d3d779e165502a6bcba9cb94d7a57bb3a7555",
+    "sources": 0
+  },
+  {
+    "bytecodeOrUnreadable": 0,
+    "instances": 1,
+    "package": "extracontent-models.zip",
+    "path": "AccessoryAdjustment/Ring.rbxm",
+    "sha256": "dbe61fca1c195ce04887fc460144e5f34f73968a41259cf9dc87c3d754a68390",
+    "sources": 0
+  },
+  {
+    "bytecodeOrUnreadable": 0,
+    "instances": 1,
+    "package": "extracontent-models.zip",
+    "path": "AvatarContextMenu/AvatarContextArrow.rbxm",
+    "sha256": "0a69decf50c83fb9caeec3f7e9c26a0c4a5ef3338ca1a275a208df890a27787b",
+    "sources": 0
+  },
+  {
+    "bytecodeOrUnreadable": 1542,
+    "instances": 1609,
+    "package": "extracontent-models.zip",
+    "path": "CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch.rbxm",
+    "sha256": "87341c554cd4c47bc2ee449f0c52c9949b40d87d29a4f975a52868f55885d53d",
+    "sources": 0
+  },
+  {
+    "bytecodeOrUnreadable": 28507,
+    "instances": 30993,
+    "package": "extracontent-models.zip",
+    "path": "InExperience/InExperience.rbxm",
+    "sha256": "cfa4367b9fa35a4046801c42acaec562a7772c72cfe01ffbb96894446e60b758",
+    "sources": 0
+  },
+  {
+    "bytecodeOrUnreadable": 0,
+    "instances": 10,
+    "package": "extracontent-models.zip",
+    "path": "Licenses/Licenses.rbxm",
+    "sha256": "8e59230014dc44b6ae2c4f57c5e17e57a3337f8d233c5302a3cffc9ec700172a",
+    "sources": 0
+  },
+  {
+    "bytecodeOrUnreadable": 0,
+    "instances": 26,
+    "package": "extracontent-models.zip",
+    "path": "Photobooth/AbyssBlue.rbxm",
+    "sha256": "09d8e29e4ebf8cd656aa0ea2f2ca30e218ad1f8975b539006cca82ece933a353",
+    "sources": 0
+  },
+  {
+    "bytecodeOrUnreadable": 0,
+    "instances": 25,
+    "package": "extracontent-models.zip",
+    "path": "Photobooth/AbyssBlueLight.rbxm",
+    "sha256": "ceef3e60a744618faa2e14e4f12acde123ccc9446958f30c676b5db1571026c6",
+    "sources": 0
+  },
+  {
+    "bytecodeOrUnreadable": 4452,
+    "instances": 5063,
+    "package": "extracontent-models.zip",
+    "path": "UniversalApp/UniversalApp.rbxm",
+    "sha256": "b3414fe7a944f17a591683d3f9e2c7cf872aba4905a03d8396ce07dbf049297d",
+    "sources": 0
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "hashes": {
+    "PatchRoot/CoreScripts/Assets.txt": "7cc10b69c292edba0127e417d78be0b26bb8f5b93e891d058dc5b83b5b579459",
+    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Resources/Resources/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
+    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals/Signals/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
+    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsExperimental/SignalsExperimental/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
+    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsReact/SignalsReact/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
+    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
+    "instances.json": "89b8dd2aeaee27743fff0d99cefa8344a6877fc68abd8a2522dc580faed7607c",
+    "metadata.json": "6bedf33855af08291759a8672009f1b581fc5524cae1ec3fc12a6b5e92dcb919",
+    "ota-config.json": "d0a911935d44277bc962e1214b25c6264994059ff012245dc5ef7468b89c2575"
+  },
+  "id": "181023b66655d135a4ad18f74b962bc9c42c7406ffaa47149e6f0642771590e9",
+  "observationMode": "live",
+  "observedAt": "2026-09-06T16:46:19.403Z",
+  "provenance": [
+    {
+      "bytes": 42226,
+      "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
+      "sha256": "10f7ddd7efb69cafefd5ff06193bacdffdc8f8641567081916bab3412f7e5d8d",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.737.0.7371584&tag=Release&name=app-patch-universal-app"
+    },
+    {
+      "bytes": 12009776,
+      "derivedFrom": "UniversalApp.rbxm",
+      "sha256": "9d92e086a0725c5dc9a188b7669f4a5cc9c28c08f025bc0a7733902e29e4eb78",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=13429"
+    }
+  ],
+  "sequence": 2,
+  "status": "partial",
+  "summary": {
+    "assetId": "118593852151835",
+    "assetVersion": "13429",
+    "engineRevision": 1,
+    "instances": 5063,
+    "localizationFiles": 0,
+    "sources": 0,
+    "unreadableScripts": 4452
+  },
+  "surface": "UniversalApp",
+  "target": "WindowsPlayer"
+}

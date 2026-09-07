@@ -1,0 +1,92 @@
+[
+  {
+    "class": "Model",
+    "name": "Lighting",
+    "path": "Lighting",
+    "properties": {
+      "AttributesSerialize": "",
+      "ModelMeshData": "",
+      "SlimHash": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Fill",
+    "path": "Lighting/LightRig/Fill",
+    "properties": {
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "LightRig",
+    "path": "Lighting/LightRig",
+    "properties": {
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Rim_Left",
+    "path": "Lighting/LightRig/Rim_Left",
+    "properties": {
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Rim_Right",
+    "path": "Lighting/LightRig/Rim_Right",
+    "properties": {
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SpotLight",
+    "name": "SpotLight",
+    "path": "Lighting/LightRig/Fill/SpotLight",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SpotLight",
+    "name": "SpotLight",
+    "path": "Lighting/LightRig/Rim_Left/SpotLight",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SpotLight",
+    "name": "SpotLight",
+    "path": "Lighting/LightRig/Rim_Right/SpotLight",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  }
+]

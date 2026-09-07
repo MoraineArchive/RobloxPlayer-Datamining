@@ -1,0 +1,319 @@
+[
+  {
+    "class": "Atmosphere",
+    "name": "Atmosphere",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/LightingObjects/Atmosphere",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "BloomEffect",
+    "name": "Bloom",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/LightingObjects/Bloom",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "ColorCorrectionEffect",
+    "name": "ColorCorrection",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/LightingObjects/ColorCorrection",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Configuration",
+    "name": "LightingConfig",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/LightingConfig",
+    "properties": {
+      "Tags": ""
+    },
+    "unreadable": [
+      "AttributesSerialize:non-UTF8"
+    ]
+  },
+  {
+    "class": "DepthOfFieldEffect",
+    "name": "DepthOfField",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/LightingObjects/DepthOfField",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Folder",
+    "name": "LightingObjects",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/LightingObjects",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "MeshPart",
+    "name": "BackGroundMesh_AbyssBlue_0723",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/BackGroundMesh_AbyssBlue_0723",
+    "properties": {
+      "AeroMeshData": "",
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "MeshId": "rbxassetid://132226192147710",
+      "PhysicsData": "",
+      "Tags": "",
+      "TextureID": "rbxassetid://114004368129722"
+    },
+    "unreadable": [
+      "PhysicalConfigData:binary-shared-string"
+    ]
+  },
+  {
+    "class": "MeshPart",
+    "name": "mesh",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/shadowMesh/mesh",
+    "properties": {
+      "AeroMeshData": "",
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "MeshId": "rbxassetid://138839723885236",
+      "PhysicsData": "",
+      "Tags": "",
+      "TextureID": ""
+    },
+    "unreadable": [
+      "PhysicalConfigData:binary-shared-string"
+    ]
+  },
+  {
+    "class": "MeshPart",
+    "name": "pPlane1",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/pPlane1",
+    "properties": {
+      "AeroMeshData": "",
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "MeshId": "rbxassetid://97441469646628",
+      "PhysicsData": "",
+      "Tags": "",
+      "TextureID": ""
+    },
+    "unreadable": [
+      "PhysicalConfigData:binary-shared-string"
+    ]
+  },
+  {
+    "class": "Model",
+    "name": "BG_ver5_Mesh_Dark_shadowmap",
+    "path": "BG_ver5_Mesh_Dark_shadowmap",
+    "properties": {
+      "AttributesSerialize": "",
+      "ModelMeshData": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Model",
+    "name": "Lighting",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/Lighting",
+    "properties": {
+      "AttributesSerialize": "",
+      "ModelMeshData": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Model",
+    "name": "shadowMesh",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/shadowMesh",
+    "properties": {
+      "AttributesSerialize": "",
+      "ModelMeshData": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Behind",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/Behind",
+    "properties": {
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Behind",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/Lighting/Behind~Part-0",
+    "properties": {
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Behind",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/Lighting/Behind~Part-1",
+    "properties": {
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Behind",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/Lighting/Behind~Part-2",
+    "properties": {
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Behind",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/Lighting/Behind~Part-3",
+    "properties": {
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Sky",
+    "name": "NIGHT",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/LightingObjects/NIGHT",
+    "properties": {
+      "AttributesSerialize": "",
+      "MoonTextureId": "rbxasset://sky/moon.jpg",
+      "SkyboxBk": "http://www.roblox.com/Asset/?ID=12064107",
+      "SkyboxDn": "http://www.roblox.com/Asset/?ID=12064152",
+      "SkyboxFt": "http://www.roblox.com/Asset/?ID=12064121",
+      "SkyboxLf": "http://www.roblox.com/Asset/?ID=12063984",
+      "SkyboxRt": "http://www.roblox.com/Asset/?ID=12064115",
+      "SkyboxUp": "http://www.roblox.com/Asset/?ID=12064131",
+      "SunTextureId": "rbxasset://sky/sun.jpg",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SpotLight",
+    "name": "SpotLight",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/Lighting/Behind~Part-0/SpotLight",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SpotLight",
+    "name": "SpotLight",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/Lighting/Behind~Part-3/SpotLight",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SunRaysEffect",
+    "name": "SunRays",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/LightingObjects/SunRays",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SurfaceAppearance",
+    "name": "SurfaceAppearance",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/BackGroundMesh_AbyssBlue_0723/SurfaceAppearance",
+    "properties": {
+      "AttributesSerialize": "",
+      "ColorMap": "rbxassetid://131867289262407",
+      "MetalnessMap": "rbxassetid://89354825161585",
+      "NormalMap": "rbxassetid://129867461827198",
+      "RoughnessMap": "rbxassetid://124756176354998",
+      "Tags": "",
+      "TexturePack": "rbxassetid://129928853015790"
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SurfaceAppearance",
+    "name": "SurfaceAppearance",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/pPlane1/SurfaceAppearance",
+    "properties": {
+      "AttributesSerialize": "",
+      "ColorMap": "rbxassetid://131867289262407",
+      "MetalnessMap": "rbxassetid://89354825161585",
+      "NormalMap": "rbxassetid://129867461827198",
+      "RoughnessMap": "rbxassetid://124756176354998",
+      "Tags": "",
+      "TexturePack": "rbxassetid://129928853015790"
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SurfaceLight",
+    "name": "SurfaceLight",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/Lighting/Behind~Part-1/SurfaceLight",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SurfaceLight",
+    "name": "SurfaceLight",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/Lighting/Behind~Part-2/SurfaceLight",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Texture",
+    "name": "Texture",
+    "path": "BG_ver5_Mesh_Dark_shadowmap/shadowMesh/mesh/Texture",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": "",
+      "Texture": "rbxassetid://71594928977584"
+    },
+    "unreadable": []
+  }
+]

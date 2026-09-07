@@ -1,0 +1,15 @@
+/node_modules/
+/dataminer/node_modules/
+/.cache/
+/History/
+/Comparisons/
+/HistoricalSources/
+*.exe
+*.dll
+*.zip
+*.rbxm
+*.rbxl
+*.pdb
+*.tmp
+*.temp
+*.log

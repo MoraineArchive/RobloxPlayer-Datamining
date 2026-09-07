@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "type": "baseline",
+  "upstreamChange": false,
+  "product": "Player",
+  "target": "WindowsPlayer",
+  "observedAt": "2026-09-07T12:38:35.208Z",
+  "version": "0.737.0.7371584",
+  "guid": "version-e7d81637d42c4b23",
+  "datasets": [
+    "Build",
+    "FastVariables",
+    "InExperience",
+    "LiveSettings",
+    "LuaPackages",
+    "Native",
+    "UniversalApp",
+    "Web"
+  ],
+  "note": "This directory represents the initial public repository baseline, not an upstream Roblox update. observedAt is the repository initialization time, not a Roblox release time."
+}

@@ -1,0 +1,308 @@
+[
+  {
+    "class": "Atmosphere",
+    "name": "Atmosphere",
+    "path": "BG_ver5_Mesh_Light/LightingObjects/Atmosphere",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "BloomEffect",
+    "name": "Bloom",
+    "path": "BG_ver5_Mesh_Light/LightingObjects/Bloom",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "ColorCorrectionEffect",
+    "name": "ColorCorrection",
+    "path": "BG_ver5_Mesh_Light/LightingObjects/ColorCorrection",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Configuration",
+    "name": "LightingConfig",
+    "path": "BG_ver5_Mesh_Light/LightingConfig",
+    "properties": {
+      "Tags": ""
+    },
+    "unreadable": [
+      "AttributesSerialize:non-UTF8"
+    ]
+  },
+  {
+    "class": "DepthOfFieldEffect",
+    "name": "DepthOfField",
+    "path": "BG_ver5_Mesh_Light/LightingObjects/DepthOfField",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Folder",
+    "name": "LightingObjects",
+    "path": "BG_ver5_Mesh_Light/LightingObjects",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "MeshPart",
+    "name": "BackGroundMesh_AbyssBlueLight_0723",
+    "path": "BG_ver5_Mesh_Light/BackGroundMesh_AbyssBlueLight_0723",
+    "properties": {
+      "AeroMeshData": "",
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "MeshId": "rbxassetid://132226192147710",
+      "PhysicsData": "",
+      "Tags": "",
+      "TextureID": "rbxassetid://114004368129722"
+    },
+    "unreadable": [
+      "PhysicalConfigData:binary-shared-string"
+    ]
+  },
+  {
+    "class": "MeshPart",
+    "name": "mesh",
+    "path": "BG_ver5_Mesh_Light/shadowMesh/mesh",
+    "properties": {
+      "AeroMeshData": "",
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "MeshId": "rbxassetid://138839723885236",
+      "PhysicsData": "",
+      "Tags": "",
+      "TextureID": ""
+    },
+    "unreadable": [
+      "PhysicalConfigData:binary-shared-string"
+    ]
+  },
+  {
+    "class": "MeshPart",
+    "name": "pPlane1",
+    "path": "BG_ver5_Mesh_Light/pPlane1",
+    "properties": {
+      "AeroMeshData": "",
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "MeshId": "rbxassetid://97441469646628",
+      "PhysicsData": "",
+      "Tags": "",
+      "TextureID": ""
+    },
+    "unreadable": [
+      "PhysicalConfigData:binary-shared-string"
+    ]
+  },
+  {
+    "class": "Model",
+    "name": "BG_ver5_Mesh_Light",
+    "path": "BG_ver5_Mesh_Light",
+    "properties": {
+      "AttributesSerialize": "",
+      "ModelMeshData": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Model",
+    "name": "shadowMesh",
+    "path": "BG_ver5_Mesh_Light/shadowMesh",
+    "properties": {
+      "AttributesSerialize": "",
+      "ModelMeshData": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Fill",
+    "path": "BG_ver5_Mesh_Light/LightRig/Fill",
+    "properties": {
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "LightRig",
+    "path": "BG_ver5_Mesh_Light/LightRig",
+    "properties": {
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Rim_Left",
+    "path": "BG_ver5_Mesh_Light/LightRig/Rim_Left",
+    "properties": {
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Rim_Right",
+    "path": "BG_ver5_Mesh_Light/LightRig/Rim_Right",
+    "properties": {
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Part",
+    "name": "Shadow",
+    "path": "BG_ver5_Mesh_Light/LightRig/Shadow",
+    "properties": {
+      "AttributesSerialize": "",
+      "CollisionGroup": "Default",
+      "MaterialVariantSerialized": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Sky",
+    "name": "NIGHT",
+    "path": "BG_ver5_Mesh_Light/LightingObjects/NIGHT",
+    "properties": {
+      "AttributesSerialize": "",
+      "MoonTextureId": "rbxasset://sky/moon.jpg",
+      "SkyboxBk": "http://www.roblox.com/Asset/?ID=12064107",
+      "SkyboxDn": "http://www.roblox.com/Asset/?ID=12064152",
+      "SkyboxFt": "http://www.roblox.com/Asset/?ID=12064121",
+      "SkyboxLf": "http://www.roblox.com/Asset/?ID=12063984",
+      "SkyboxRt": "http://www.roblox.com/Asset/?ID=12064115",
+      "SkyboxUp": "http://www.roblox.com/Asset/?ID=12064131",
+      "SunTextureId": "rbxasset://sky/sun.jpg",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SpotLight",
+    "name": "SpotLight",
+    "path": "BG_ver5_Mesh_Light/LightRig/Fill/SpotLight",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SpotLight",
+    "name": "SpotLight",
+    "path": "BG_ver5_Mesh_Light/LightRig/Shadow/SpotLight",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SunRaysEffect",
+    "name": "SunRays",
+    "path": "BG_ver5_Mesh_Light/LightingObjects/SunRays",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SurfaceAppearance",
+    "name": "SurfaceAppearance",
+    "path": "BG_ver5_Mesh_Light/BackGroundMesh_AbyssBlueLight_0723/SurfaceAppearance",
+    "properties": {
+      "AttributesSerialize": "",
+      "ColorMap": "rbxassetid://94727192268848",
+      "MetalnessMap": "rbxassetid://89354825161585",
+      "NormalMap": "rbxassetid://129867461827198",
+      "RoughnessMap": "rbxassetid://124756176354998",
+      "Tags": "",
+      "TexturePack": "rbxassetid://131906973661058"
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SurfaceAppearance",
+    "name": "SurfaceAppearance",
+    "path": "BG_ver5_Mesh_Light/pPlane1/SurfaceAppearance",
+    "properties": {
+      "AttributesSerialize": "",
+      "ColorMap": "rbxassetid://94727192268848",
+      "MetalnessMap": "rbxassetid://89354825161585",
+      "NormalMap": "rbxassetid://129867461827198",
+      "RoughnessMap": "rbxassetid://124756176354998",
+      "Tags": "",
+      "TexturePack": "rbxassetid://131906973661058"
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SurfaceLight",
+    "name": "SurfaceLight",
+    "path": "BG_ver5_Mesh_Light/LightRig/Rim_Left/SurfaceLight",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "SurfaceLight",
+    "name": "SurfaceLight",
+    "path": "BG_ver5_Mesh_Light/LightRig/Rim_Right/SurfaceLight",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Texture",
+    "name": "Texture",
+    "path": "BG_ver5_Mesh_Light/shadowMesh/mesh/Texture",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": "",
+      "Texture": "rbxassetid://71594928977584"
+    },
+    "unreadable": []
+  }
+]

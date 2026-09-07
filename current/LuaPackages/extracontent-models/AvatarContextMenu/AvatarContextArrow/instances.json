@@ -1,0 +1,16 @@
+[
+  {
+    "class": "UnionOperation",
+    "name": "Union",
+    "path": "Union",
+    "properties": {
+      "AssetId": "",
+      "Tags": ""
+    },
+    "unreadable": [
+      "ChildData:non-UTF8",
+      "MeshData:non-UTF8",
+      "PhysicsData:non-UTF8"
+    ]
+  }
+]

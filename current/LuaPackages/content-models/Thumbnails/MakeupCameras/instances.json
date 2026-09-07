@@ -1,0 +1,62 @@
+[
+  {
+    "class": "Camera",
+    "name": "Eyebrow",
+    "path": "MakeupCameras/Eyebrow",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Camera",
+    "name": "Eyelash",
+    "path": "MakeupCameras/Eyelash",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Camera",
+    "name": "Eyes",
+    "path": "MakeupCameras/Eyes",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Camera",
+    "name": "Face",
+    "path": "MakeupCameras/Face",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Camera",
+    "name": "Lips",
+    "path": "MakeupCameras/Lips",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Folder",
+    "name": "MakeupCameras",
+    "path": "MakeupCameras",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  }
+]

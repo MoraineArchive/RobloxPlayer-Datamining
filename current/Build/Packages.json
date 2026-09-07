@@ -1,0 +1,134 @@
+[
+  {
+    "checksum": "38f817537f4cfdc3d22192eeb6b3a881",
+    "compressedSize": 287793,
+    "name": "content-avatar.zip",
+    "uncompressedSize": 1014723
+  },
+  {
+    "checksum": "9270dea103b1460614aaa04996fe0c89",
+    "compressedSize": 306439,
+    "name": "content-configs.zip",
+    "uncompressedSize": 1805049
+  },
+  {
+    "checksum": "7071af81f7fad1d26ec29b7699f2d96f",
+    "compressedSize": 5944830,
+    "name": "content-fonts.zip",
+    "uncompressedSize": 12192571
+  },
+  {
+    "checksum": "b0eaea6e38883c2f552ebfc3c49a66a7",
+    "compressedSize": 620166,
+    "name": "content-models.zip",
+    "uncompressedSize": 1413471
+  },
+  {
+    "checksum": "e51d76723be65df2bce636749da203b3",
+    "compressedSize": 405780,
+    "name": "content-platform-dictionaries.zip",
+    "uncompressedSize": 1355210
+  },
+  {
+    "checksum": "8f379ec2b22ff106b837d79f7fdbf0d8",
+    "compressedSize": 13686751,
+    "name": "content-platform-fonts.zip",
+    "uncompressedSize": 16427228
+  },
+  {
+    "checksum": "1d0390337d1a4a58e5514be1a9481ad6",
+    "compressedSize": 2448711,
+    "name": "content-sky.zip",
+    "uncompressedSize": 4304365
+  },
+  {
+    "checksum": "eb9dd4d0637fd6ae21747e6b6a281d21",
+    "compressedSize": 470471,
+    "name": "content-sounds.zip",
+    "uncompressedSize": 499208
+  },
+  {
+    "checksum": "fe7b3ecee91e83f9fade72e8b0f4d47f",
+    "compressedSize": 4807,
+    "name": "content-terrain.zip",
+    "uncompressedSize": 47610
+  },
+  {
+    "checksum": "7261e58eb4c49c6ebdad1ff1171a3360",
+    "compressedSize": 5738076,
+    "name": "content-textures2.zip",
+    "uncompressedSize": 5985469
+  },
+  {
+    "checksum": "10461fdfb35f35cca13dbe35dcf21343",
+    "compressedSize": 3716441,
+    "name": "content-textures3.zip",
+    "uncompressedSize": 8780146
+  },
+  {
+    "checksum": "0b0a6580ee385c29120b886ec6d125fc",
+    "compressedSize": 2961846,
+    "name": "extracontent-luapackages.zip",
+    "uncompressedSize": 3271364
+  },
+  {
+    "checksum": "c8a93d0e54a3ae068ad32b5189048839",
+    "compressedSize": 25107719,
+    "name": "extracontent-models.zip",
+    "uncompressedSize": 25215458
+  },
+  {
+    "checksum": "35e4efb6e5fcb0ac5382d4b43e9d0027",
+    "compressedSize": 776370,
+    "name": "extracontent-places.zip",
+    "uncompressedSize": 1112622
+  },
+  {
+    "checksum": "bc138844dbab2ab85f9106242854ef61",
+    "compressedSize": 5859211,
+    "name": "extracontent-textures.zip",
+    "uncompressedSize": 6293521
+  },
+  {
+    "checksum": "05ad996224bf0ecb21cd232070fbbd2b",
+    "compressedSize": 610717,
+    "name": "extracontent-translations.zip",
+    "uncompressedSize": 1919259
+  },
+  {
+    "checksum": "ed10fd7bd5cf3d860a507af1708fd701",
+    "compressedSize": 135189909,
+    "name": "RobloxApp.zip",
+    "uncompressedSize": 173265963
+  },
+  {
+    "checksum": "be4ee7c43bebc9dbe029421e585419eb",
+    "compressedSize": 13589456,
+    "name": "RobloxPlayerInstaller.exe",
+    "uncompressedSize": 13589456
+  },
+  {
+    "checksum": "a8946647e278b45d2fc5e792440fd99e",
+    "compressedSize": 11485214,
+    "name": "shaders.zip",
+    "uncompressedSize": 68072917
+  },
+  {
+    "checksum": "2feb171f8ace7829e354cd39573194db",
+    "compressedSize": 130569,
+    "name": "ssl.zip",
+    "uncompressedSize": 228725
+  },
+  {
+    "checksum": "767c9d8c0129f34afa7bb5082545e86f",
+    "compressedSize": 83405,
+    "name": "WebView2.zip",
+    "uncompressedSize": 166000
+  },
+  {
+    "checksum": "33edb5a4ed7ff2d851b009472d14d59d",
+    "compressedSize": 1532149,
+    "name": "WebView2RuntimeInstaller.zip",
+    "uncompressedSize": 1636484
+  }
+]

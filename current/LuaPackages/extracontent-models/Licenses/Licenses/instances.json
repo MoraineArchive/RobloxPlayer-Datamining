@@ -1,0 +1,102 @@
+[
+  {
+    "class": "Folder",
+    "name": "CoreGui",
+    "path": "PatchRoot/DataModelInstances/CoreGui",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Folder",
+    "name": "CorePackages",
+    "path": "PatchRoot/DataModelInstances/CorePackages",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Folder",
+    "name": "CoreScripts",
+    "path": "PatchRoot/CoreScripts",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Folder",
+    "name": "DataModelInstances",
+    "path": "PatchRoot/DataModelInstances",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Folder",
+    "name": "Modules",
+    "path": "PatchRoot/DataModelInstances/CoreGui/RobloxGui/Modules",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Folder",
+    "name": "PatchRoot",
+    "path": "PatchRoot",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "Folder",
+    "name": "RobloxGui",
+    "path": "PatchRoot/DataModelInstances/CoreGui/RobloxGui",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "StringValue",
+    "name": "0-FMOD",
+    "path": "PatchRoot/CoreScripts/0-FMOD",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "StringValue",
+    "name": "1-WebView2",
+    "path": "PatchRoot/CoreScripts/1-WebView2",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  },
+  {
+    "class": "StringValue",
+    "name": "2-WIL",
+    "path": "PatchRoot/CoreScripts/2-WIL",
+    "properties": {
+      "AttributesSerialize": "",
+      "Tags": ""
+    },
+    "unreadable": []
+  }
+]
