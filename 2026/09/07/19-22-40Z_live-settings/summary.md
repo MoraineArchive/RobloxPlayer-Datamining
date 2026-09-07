@@ -1,6 +1,6 @@
 # Latest Roblox Player Datamining
 
-Observed: 2026-09-07T19:22:40.178Z
+**Observed:** 07/09/2026, 21:22:40 CEST (19:22:40 UTC)
 
 Version: 0.737.0.7371584
 GUID: version-e7d81637d42c4b23
@@ -14,13 +14,13 @@ LiveSettings       +1 ~4 -0
 
 ## Notable Changes
 
-+ FFlagLuaAppsMarkButtonStartWithHat
-+ DFStringFlagRepoGitHashDynamicString
-+ DFStringFlipTimeStampDynamicString
-+ FStringFlagRepoGitHashFastString
-+ FStringFlipTimeStampFastString
-+ current.json
+- `FFlagLuaAppsMarkButtonStartWithHat`
+- `DFStringFlagRepoGitHashDynamicString`
+- `DFStringFlipTimeStampDynamicString`
+- `FStringFlagRepoGitHashFastString`
+- `FStringFlipTimeStampFastString`
+- `current.json`
 
 ## Provenance
 
-See the event provenance under `provenance.json` in this same directory.
+Event provenance is available in this directory's `provenance.json` file.

@@ -1,3 +1,3 @@
 # Findings
 
-No cross-surface high-signal correlations in this event.
+No strong cross-surface correlations in this event.
