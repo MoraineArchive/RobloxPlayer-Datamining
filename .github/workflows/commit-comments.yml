@@ -8,7 +8,7 @@ on:
       - "*/*/*/*/event.json"
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
   group: commit-comment-${{ github.sha }}
@@ -28,5 +28,5 @@ jobs:
         env:
           BEFORE_SHA: ${{ github.event.before }}
           AFTER_SHA: ${{ github.event.after }}
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.COMMIT_COMMENT_TOKEN }}
         run: node .github/scripts/commit-comments.mjs

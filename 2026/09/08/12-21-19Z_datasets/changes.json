@@ -1,0 +1,82 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "a9b665d82ab5df4af07cc5ab8f019df6cdd4e6439dc3657271687b2dd520b357",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "b983e8c26e4e34f5329ba1927e3b994f54988ac6479b615308512978abe34faa",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 26
+        }
+      }
+    },
+    "InExperience": {
+      "current": "a666aefaf18496adb47afb585888307d312612d6bb08dfc6d85c35b3128a76ff",
+      "files": {
+        "added": [
+          "latest-asset.json"
+        ],
+        "changed": [
+          "PatchRoot/CoreScripts/Assets.txt",
+          "instances.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 8
+      },
+      "previous": "a7caedf97904d176b72fc6cb382253cf82ab1b62c8653a8df821855749e598ff",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "UniversalApp": {
+      "current": "4ed5805d7f2d6496a40727243d63871280501a40b15cb3b01dcb9f8572b7d172",
+      "files": {
+        "added": [
+          "latest-asset.json"
+        ],
+        "changed": [
+          "PatchRoot/CoreScripts/Assets.txt",
+          "instances.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 6
+      },
+      "previous": "181023b66655d135a4ad18f74b962bc9c42c7406ffaa47149e6f0642771590e9",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}

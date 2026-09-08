@@ -102,7 +102,11 @@ export function changeRows(changes) {
   const rows = [];
   for (const [surface, dataset] of Object.entries(changes.datasets)) {
     const semantic = semanticRows(surface, dataset?.semantic);
-    if (semantic.length) rows.push(...semantic);
+    if (
+      semantic.length &&
+      semantic.some((row) => row.added || row.changed || row.removed)
+    )
+      rows.push(...semantic);
     else {
       const files = dataset?.files;
       if (
@@ -119,7 +123,7 @@ export function changeRows(changes) {
       });
     }
   }
-  return rows;
+  return rows.filter((row) => row.added || row.changed || row.removed);
 }
 
 export function findingLines(markdown, limit = 20) {
@@ -155,6 +159,7 @@ export function renderComment({
     "universal-app.changed": "UniversalApp update",
     "native.changed": "Native update",
     "fastvariables.changed": "FastVariables update",
+    "datasets.changed": "Datamining update",
   };
   const lines = [MARKER, `## ${clean(event.product)} Datamining`, ""];
   if (isBuild) {

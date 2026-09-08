@@ -163,6 +163,25 @@ test("semantic and file deltas use + ~ - counts", () => {
     },
   });
   assert.equal(semantic[0].label, "API Classes");
+  const zeroSemantic = changeRows({
+    datasets: {
+      InExperience: {
+        files: {
+          added: ["latest-asset.json"],
+          changed: ["instances.json"],
+          removed: [],
+        },
+        semantic: { sources: { added: [], changed: [], removed: [] } },
+      },
+    },
+  });
+  assert.deepEqual(zeroSemantic[0], {
+    surface: "InExperience",
+    label: "InExperience",
+    added: 1,
+    changed: 1,
+    removed: 0,
+  });
 });
 
 test("rerun updates the marker comment instead of duplicating it", async () => {
