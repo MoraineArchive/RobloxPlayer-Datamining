@@ -40,14 +40,6 @@
     "url": "https://js.rbxcdn.com/6a4f34ad31eb6140352b6f56ec74074ded95955876a7454612ec6f72d2277bc3-Builder.js"
   },
   {
-    "path": "js.rbxcdn.com/page-0/Captcha.js",
-    "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "476cc66e12fdd16baacc925cea78c5f1180bf20bf686e7e7895e5d1f6efda5da",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/578b26a5eebbbbeb3756dc30e792d730-captcha.bundle.min.js.map",
-    "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/b604dac29d89b56aef30844f099c5640c2f1870a97a06f4e692208d24097f9ed-Captcha.js"
-  },
-  {
     "path": "js.rbxcdn.com/page-0/CaptchaCore.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
     "sha256": "c5b3958c8f4bed86ea5626d83337e7edbb0ac96743e2f8d23772924d2e1a20ad",
@@ -82,10 +74,10 @@
   {
     "path": "js.rbxcdn.com/page-0/CoreUtilities.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "578068f20f95bfa41585f5197a1f86d3079a9745463753298f94f38b16a4dd04",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/coreUtilities-4b9b92557f8d5633.js.map",
+    "sha256": "733204cb86e0005c368f29e19ebd7fb443f69f5c3f6f0f60ea81a64166db61eb",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/coreUtilities-5e5705573e662041.js.map",
     "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/2584f8dd62c76f61eaafcb8aab01b7170be3eace299d09f590360ffc1db41937-CoreUtilities.js"
+    "url": "https://js.rbxcdn.com/0e7e27bb3548b2b7b371c1d626b6b287911be84d696119967ba18fca34db82da-CoreUtilities.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/CrossTabCommunication.js",
@@ -160,14 +152,6 @@
     "url": "https://js.rbxcdn.com/1f5c50ba918a5773a2e4a0308683747225b446c67f5089282954865c0e0f76a6.js"
   },
   {
-    "path": "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
-    "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "69ab9eaffab6590cbf410cbb31d2f71267f918e69dfc40fafae72928ef43ccb9",
-    "sourceMap": null,
-    "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/6dc36b0b25f1a0b26d2674ed14aeff8b19674976250b1a10bbf61e88791ea1d9.js"
-  },
-  {
     "path": "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.TwoStepVerification.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
     "sha256": "161157316877409f3964b42f87de015763773e1969fcbc19fee1e9faa77983aa",
@@ -182,14 +166,6 @@
     "sourceMap": null,
     "sourcePage": "https://www.roblox.com/",
     "url": "https://js.rbxcdn.com/e171b6008ca0199b35099c1bf14e13b50d48456d5f4db1208a2421ef55e11de0.js"
-  },
-  {
-    "path": "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
-    "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "b6f43b4ac263dc88582dd0b651d5b2cc5590590fce8c78da3fa9b14df4429eec",
-    "sourceMap": null,
-    "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/5f2ee2913bf919a8576bbe4120a6d41b933e814a4779a0a3fc1d9d941c5ee368.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Presence.js",
@@ -368,14 +344,6 @@
     "url": "https://js.rbxcdn.com/54c13aaea011e94d285d4171277dbaa0a2ec1bf763b408d71f2adc7f72bad919.js"
   },
   {
-    "path": "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
-    "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "829a226cc39e641e6b3720099baa7f3077acb03a222484d67464e291019e91af",
-    "sourceMap": null,
-    "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/686bd55707be42af370b81d2f36f55b6e10c56edb105502b3f9f0a34f7412bf5.js"
-  },
-  {
     "path": "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.LegallySensitiveContent.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
     "sha256": "0860ee21dce36d864a507616c877d84552825a4599b5ad5bacc54febc01e74a3",
@@ -406,6 +374,14 @@
     "sourceMap": null,
     "sourcePage": "https://www.roblox.com/",
     "url": "https://js.rbxcdn.com/e7e3731285889059db29156a67cd4e5358a2dbf2102a88f49403c524cab2ba91.js"
+  },
+  {
+    "path": "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+    "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
+    "sha256": "2791e508d3453efa6c5541d5ba69b504a2f276ce7b3f261332c7cd5204f1c459",
+    "sourceMap": null,
+    "sourcePage": "https://www.roblox.com/",
+    "url": "https://js.rbxcdn.com/7774e92ccee60b92717e18209b9060b35988362a9493cadb5234c96550e27d90.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Premium.js",
@@ -486,6 +462,14 @@
     "sourceMap": null,
     "sourcePage": "https://www.roblox.com/",
     "url": "https://js.rbxcdn.com/88bacf62dae20f1d352d30afbd3df4c64ba7a24c551c6ee02152719cfb11b830.js"
+  },
+  {
+    "path": "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+    "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
+    "sha256": "0f58408d85723e36635d10682ecfdc6f31e1b9e01c913ba33d50413faf85ebc0",
+    "sourceMap": null,
+    "sourcePage": "https://www.roblox.com/",
+    "url": "https://js.rbxcdn.com/07709f6b2cecb7b34d4779d27348293fa0d4058d95fc98bc601c2d0b8f7070aa.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SecurityQuestions.js",
@@ -666,10 +650,10 @@
   {
     "path": "js.rbxcdn.com/page-0/Navigation.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "7597c7d909933ea668a15b1e4e38b36cbb42a095abf21cc7408847cd724d6528",
+    "sha256": "072600760e771daedc90f4383eea05feeb09f8d12d49e1df3018d714b00e4627",
     "sourceMap": "https://sourcemaps.rbxcdn.com/navigation-4f1a0f798771011d.js.map",
     "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/51064220877aba0b56fff476d6f18201ba606a883b6e77712286126fd53cbb8c-Navigation.js"
+    "url": "https://js.rbxcdn.com/bfdae6a3641edbda2c4f7f2f162f9fda2e72c7e80c1dcb3c8d2bd6d2fe0896b2-Navigation.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/Polyfill.js",
@@ -678,14 +662,6 @@
     "sourceMap": "https://sourcemaps.rbxcdn.com/polyfill-db099c6e914babb6.js.map",
     "sourcePage": "https://www.roblox.com/",
     "url": "https://js.rbxcdn.com/fc00826f9e0f8fd2f6bfe2152fb652d4f73e1a12e1ad50ad234d2f60854a311c-Polyfill.js"
-  },
-  {
-    "path": "js.rbxcdn.com/page-0/PresenceRegistration.js",
-    "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "18b2490a7eaa9e2fbd45a45d9c7a1b68b0f750c42ab48bfce71d368fe56f30e1",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/presenceRegistration-a5511e8a272ef008.js.map",
-    "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/215fe9b0fe92491f665645f65f57db6668d716af72e02465db259b715f061118.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/PresenceStatus.js",
@@ -710,14 +686,6 @@
     "sourceMap": "https://sourcemaps.rbxcdn.com/react-0d46626bc5d8efb1.js.map",
     "sourcePage": "https://www.roblox.com/",
     "url": "https://js.rbxcdn.com/b1eec88f581c575b721433689f5e4e1b5b47ec1df1bfbe5595660480ba2b104c-React.js"
-  },
-  {
-    "path": "js.rbxcdn.com/page-0/ReactLanding.js",
-    "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "c4cfb5af9806bba23176e6635265face6241eaf7a81cc41d5290532b11b651ee",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/def8eb0d9f047e88d0f87845d20a330e-reactLanding.bundle.min.js.map",
-    "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/2336f31eb1a5e853cc4ccc06b95da11e9b14438899a09b6b61c4d3b9b063c1aa-ReactLanding.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/ReactStyleGuide.js",
@@ -750,6 +718,14 @@
     "sourceMap": "https://sourcemaps.rbxcdn.com/robloxBadges-8ea27eaf1ed63265.js.map",
     "sourcePage": "https://www.roblox.com/",
     "url": "https://js.rbxcdn.com/0f91ae7a3efbb94ac1888931d53d6309fc65812b5a64b240c4861d9ab48011e1.js"
+  },
+  {
+    "path": "js.rbxcdn.com/page-0/SduiLandingPage.js",
+    "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
+    "sha256": "8d8b06cd872794124b36f26a52aa3ce3e7b0a307d0ad797dd5210e94ab817da3",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/sduiLandingPage-214e4b0c8cdc6b06.js.map",
+    "sourcePage": "https://www.roblox.com/",
+    "url": "https://js.rbxcdn.com/8fb9246e5a0a44b7ee49af75ccffb42167a2e2554338964b46872afb5529d917-SduiLandingPage.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/SearchLandingPage.js",
@@ -882,10 +858,10 @@
   {
     "path": "js.rbxcdn.com/page-0/pageEnd.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "285627a46508fb48bcc76b774d9473d5654f4e12f83c8de5bf1215ba65fe4e08",
+    "sha256": "c7ba6e846fddf66a226524b8c021ec8c2a13746fc20d0a579175ed40bd979c4c",
     "sourceMap": null,
     "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/d43358fe7c1bb9688339130f2d0a1537.js"
+    "url": "https://js.rbxcdn.com/9e51dd9dda426f9ceb4a97c371d4a8c8.js"
   },
   {
     "path": "js.rbxcdn.com/page-1/AccessManagementUpsell.js",
@@ -962,10 +938,10 @@
   {
     "path": "js.rbxcdn.com/page-1/CoreUtilities.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "578068f20f95bfa41585f5197a1f86d3079a9745463753298f94f38b16a4dd04",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/coreUtilities-4b9b92557f8d5633.js.map",
+    "sha256": "733204cb86e0005c368f29e19ebd7fb443f69f5c3f6f0f60ea81a64166db61eb",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/coreUtilities-5e5705573e662041.js.map",
     "sourcePage": "https://www.roblox.com/discover",
-    "url": "https://js.rbxcdn.com/2584f8dd62c76f61eaafcb8aab01b7170be3eace299d09f590360ffc1db41937-CoreUtilities.js"
+    "url": "https://js.rbxcdn.com/0e7e27bb3548b2b7b371c1d626b6b287911be84d696119967ba18fca34db82da-CoreUtilities.js"
   },
   {
     "path": "js.rbxcdn.com/page-1/CrossTabCommunication.js",
@@ -1562,10 +1538,10 @@
   {
     "path": "js.rbxcdn.com/page-1/Navigation.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "7597c7d909933ea668a15b1e4e38b36cbb42a095abf21cc7408847cd724d6528",
+    "sha256": "072600760e771daedc90f4383eea05feeb09f8d12d49e1df3018d714b00e4627",
     "sourceMap": "https://sourcemaps.rbxcdn.com/navigation-4f1a0f798771011d.js.map",
     "sourcePage": "https://www.roblox.com/discover",
-    "url": "https://js.rbxcdn.com/51064220877aba0b56fff476d6f18201ba606a883b6e77712286126fd53cbb8c-Navigation.js"
+    "url": "https://js.rbxcdn.com/bfdae6a3641edbda2c4f7f2f162f9fda2e72c7e80c1dcb3c8d2bd6d2fe0896b2-Navigation.js"
   },
   {
     "path": "js.rbxcdn.com/page-1/PeopleList.js",
