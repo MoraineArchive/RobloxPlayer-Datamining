@@ -1,7 +1,5 @@
 [![Moraine Roblox Datamining](https://github.com/ImElio/Moraine-asset/blob/main/roblox/banner_roblox.png?raw=true)](https://github.com/ImElio/Moraine-asset/blob/main/roblox/banner_roblox.png)
 
-﻿[![Moraine Roblox Datamining](https://github.com/ImElio/Moraine-asset/blob/main/roblox/banner_roblox.png?raw=true)](https://github.com/ImElio/Moraine-asset/blob/main/roblox/banner_roblox.png)
-
 # Latest Roblox Player Datamining
 
 **Observed:** 07/09/2026, 21:22:40 CEST (19:22:40 UTC)

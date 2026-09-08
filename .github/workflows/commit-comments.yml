@@ -1,0 +1,32 @@
+name: Commit comments
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "*/*/*/*/event.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: commit-comment-${{ github.sha }}
+  cancel-in-progress: false
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Validate event and publish commit comment
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA: ${{ github.event.after }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node .github/scripts/commit-comments.mjs

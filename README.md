@@ -26,3 +26,7 @@ Readable source is preserved only where an official artifact exposes it. Compile
 The summary convention is `+` added, `~` changed, and `-` removed. The presence of an identifier, flag, endpoint, source module, configuration value, or other artifact does not confirm that a feature is enabled, publicly available, or planned for release.
 
 Read [the methodology](docs/METHODOLOGY.md) for provenance and event details, and [SECURITY.md](SECURITY.md) before reporting sensitive material.
+
+## Commit comments
+
+The Commit comments workflow is triggered by observed datamining commits and posts a compact summary directly on the corresponding commit. It does not perform datamining, generate events, modify datasets, or run for no-op checks; every displayed value comes from the event that was already committed.
