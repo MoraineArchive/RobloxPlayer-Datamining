@@ -1,0 +1,180 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "892bc41c2ef8591728b4efee71f5eb7190dcf755c465f7c838485a6377a7844d",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "9ab52e762d3f7c564b364f14d8fa00c879c7f060efb17ec89220012eb92e870f",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 26
+        }
+      }
+    },
+    "InExperience": {
+      "current": "c8740108685840e803e966d3c2cb194ebec92fa8591abcee911ca93f942ff7e4",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "a70b7b8e9b2647e8565c614919036a1f95eb1c62eb2c3b908e9d17921d986fac",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "64e8fd7d4126cf72d98cbc2b9319f242c4bb530dbd8e48979bcac0b918f1dd4e",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "abad0912f3f45fc4ba0b0a4ad80f6a7b269691c5d9e825c4fde3a5e5d3bce280",
+      "semantic": {
+        "added": [
+          "DFFlagAddInstanceToStreamQueueMRDOptimization",
+          "DFFlagDuplicateELTToAddFields",
+          "DFFlagJointEnableSkinningProperty_Staged",
+          "DFFlagMacSyncLaunchAtStartupWithSystem",
+          "DFFlagRealtimeDurableReplayGzipBugFix",
+          "DFFlagRealtimeMediaTelemetryAccuracy",
+          "DFFlagSTRTopologyTelemetryEnabled_Staged",
+          "DFFlagSpawnStatsAcountForEnabled",
+          "DFFlagTextChatChannelWindowFontOverride",
+          "DFFlagVideoVpxEncodeLowLatency",
+          "FFlagAXCatalogOffersRefetchOnVisible_Staged",
+          "FFlagActionMgrCheckForLegacyAlias_Staged",
+          "FFlagAdsLifecycleManagerOwnsOnDemandAdsProvider_Staged",
+          "FFlagAppChatToastChatTerminologyFixEnabled_Staged",
+          "FFlagAppThemeClassicForAll_Staged",
+          "FFlagAsyncUpdatePlaybackSettingsIOS_Staged",
+          "FFlagDMCTMigrateDragDetector_Staged",
+          "FFlagDMCTMigrateLuaSourceContainerMedium_Staged",
+          "FFlagDMCTMigrateTextChatMessage_Staged",
+          "FFlagDispatchDeeplinkReceivedTelemetryOffMainThreadIOS_Staged",
+          "FFlagEnableAdConsentAttribution_Staged",
+          "FFlagEnableDelayedAppsFlyerStartConsentCache_Staged",
+          "FFlagEnableDelayedAppsFlyerStart_Staged",
+          "FFlagEnableSchoolsSuggestedEmail_v2_Staged",
+          "FFlagEnableUserOffers2_PlaceFilter",
+          "FFlagExpChatTextChannelWindowFontOverride_Staged",
+          "FFlagFixNavBarColorOnTokenUpdateV3_Staged",
+          "FFlagFmodDspConstructCallback_Staged",
+          "FFlagFoundationCheckboxBeta",
+          "FFlagFoundationIncludeSpaceRequiredLabel",
+          "FFlagFoundationInternalInputBeta2",
+          "FFlagFoundationRadioBeta",
+          "FFlagFoundationToggleBetaUpdate",
+          "FFlagGuardServiceCreationOfChildren_Staged",
+          "FFlagInputDebugLogMacModifiers_Staged",
+          "FFlagPassOfferIdInPurchasePayload_Staged",
+          "FFlagRCCMicroProfilerPlatformInfo_Staged",
+          "FFlagResumeGCAfterTimeout_Staged",
+          "FFlagSchoolsLockedSchoolHandling_Staged",
+          "FFlagSchoolsUnidaysEmailNotFoundCopy_Staged",
+          "FFlagScriptCloneWatcherTolerateMissingDmLock_Staged",
+          "FFlagStudioTrackLanguagesAsyncMemory_Staged",
+          "FFlagTranscoderVersionedId2_Staged",
+          "FFlagUIBloxDeprecateComponentGlobalSemanticTokenUse_Staged",
+          "FFlagUpdateDeprecatedRequireUIThread_Staged"
+        ],
+        "changed": [
+          {
+            "after": "5e7657f7b1356a2a401879495a2666075d98a3a3",
+            "before": "0a91c75e9a14608dffd696026d2c18d5c9f6c2d5",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-08T18:07:49.367Z",
+            "before": "2026-09-07T16:41:59.987Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "5e7657f7b1356a2a401879495a2666075d98a3a3",
+            "before": "0a91c75e9a14608dffd696026d2c18d5c9f6c2d5",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-08T18:07:49.367Z",
+            "before": "2026-09-07T16:41:59.987Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 22125
+      }
+    },
+    "UniversalApp": {
+      "current": "231ceef7ee57efa027299ec49f191164e07bf335389d10ecbd2758d9b7d6d412",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "85c0cc67ea3a83143acf10d94c3d915ed1bdc47049845c48d4365e7dafa140c9",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "1554ddab062d2606e976c22622a7bdbc65f31718e13b1cc224f01ea394b0a7e1",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/CoreUtilities.js",
+          "js.rbxcdn.com/page-1/CoreUtilities.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "d41f6fd57d34024e113385ec0d953d8dcabe584ad2c8a7e5cf7ee5f86784521d",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
