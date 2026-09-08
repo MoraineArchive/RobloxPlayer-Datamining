@@ -1,0 +1,144 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "fb65aaef2aba20b784373e139d87d2f2384c12219a08c0d8ae000256e92b63ac",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "a105dfabe7fd95d6b2d0ae4a838709299485047fbd286ae55f9e393be0bd28c5",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 26
+        }
+      }
+    },
+    "InExperience": {
+      "current": "4aa0b4fb7682828aa947427bd2c0caebf6266efe158d1fce185d49baa1610988",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "e955b81f36bcc91ad54198f3f3ba014d8b6718bca87a001daedaa7e197d892b4",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "3d08045a5b9630139212db19bf231098caa43d640da354adf9971bdb44888f96",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "c16928a56e02693c3c45cf7fd6c853dba3b1aa5b787a65e1f4ff04d3d5c54076",
+      "semantic": {
+        "added": [],
+        "changed": [
+          {
+            "after": "0fe83167d491502d166524dfc124bd28b79a96b6",
+            "before": "bdb56830d1fa027d74bd975ab114dec9654ad897",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-08T21:58:39.335Z",
+            "before": "2026-09-08T21:54:08.796Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "0fe83167d491502d166524dfc124bd28b79a96b6",
+            "before": "bdb56830d1fa027d74bd975ab114dec9654ad897",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-08T21:58:39.335Z",
+            "before": "2026-09-08T21:54:08.796Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 22229
+      }
+    },
+    "UniversalApp": {
+      "current": "b36c115d91d153620fcc9a5e3a9e799d383591b49c73b10af55281740a9c0c21",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "e94c422fe603acd3f9a203fc3858698d6d303f1407f2f0c54ca1d3f065ec25c7",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "51bef51d69e7ea82e777084b3323aebf2040e609e9e016e6a8498568b36eac12",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "a13e2f19dd3ef9e9d5084548ce13eb29791b4147b3fc3ca45da9a444ac3f2211",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
