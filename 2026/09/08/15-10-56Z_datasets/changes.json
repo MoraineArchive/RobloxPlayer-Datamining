@@ -1,0 +1,104 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "9ab52e762d3f7c564b364f14d8fa00c879c7f060efb17ec89220012eb92e870f",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "a9b665d82ab5df4af07cc5ab8f019df6cdd4e6439dc3657271687b2dd520b357",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 26
+        }
+      }
+    },
+    "InExperience": {
+      "current": "a70b7b8e9b2647e8565c614919036a1f95eb1c62eb2c3b908e9d17921d986fac",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "a666aefaf18496adb47afb585888307d312612d6bb08dfc6d85c35b3128a76ff",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "UniversalApp": {
+      "current": "85c0cc67ea3a83143acf10d94c3d915ed1bdc47049845c48d4365e7dafa140c9",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "4ed5805d7f2d6496a40727243d63871280501a40b15cb3b01dcb9f8572b7d172",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "d41f6fd57d34024e113385ec0d953d8dcabe584ad2c8a7e5cf7ee5f86784521d",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "94f06d5194fcbfe0ae03002aad1d8227c97e3185ce63465f32de28228711aa97",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
