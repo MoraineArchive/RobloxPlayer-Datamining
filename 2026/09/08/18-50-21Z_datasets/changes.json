@@ -1,0 +1,162 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "e44c028d1f556320dd06ebb528604c4caf5b9568893238165d4e09f3628ddc90",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "6a0bf62e2badc66c03064237f0271eb58036e0d88b5b923640658dbb8894611e",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 26
+        }
+      }
+    },
+    "InExperience": {
+      "current": "27f40f1a7842a2f646f4b67b1300401501eeec10dd0b25f59d69c853158ae7fc",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "09e20b037be9cd9b89ee69a6f3ec183231ae1c0b1397473cd267d1007b7cc9d8",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "731907be4b02ed80b0f2542f1a1a05deda2f19000ffa685809a6541dd98489af",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "24ad3a0743b70d139edbb28eb0aa6ff37ab93d231e841f8e72eb79b79ba69b04",
+      "semantic": {
+        "added": [
+          "DFFlagEmoteSkinningDisableInEngine_Staged",
+          "DFFlagSimFixPrimalImprovedSleepCheck_Staged",
+          "DFFlagUseMeshScaleInVoxelizer3_Staged",
+          "DFIntEmoteSkinningDisableInEngineTranslationThresholdMillistuds",
+          "FFlagAddFriendsIgnoreAllMenuDesignFixes_Staged",
+          "FFlagAsyncUpdatePlaybackSettingsIOS",
+          "FFlagChromeNineDotActivityIndicator_Staged",
+          "FFlagDispatchCrashCounterTelemetryOffMainThreadIOS_Staged",
+          "FFlagFixNavBarColorOnTokenUpdateV3",
+          "FFlagFmodDspConstructCallback",
+          "FFlagFriendsEmptyStateIllustrationTheming_Staged",
+          "FFlagLuauCheckTypeForDeprecated2_Staged",
+          "FFlagLuauDoNotIceForBindingGeneric_Staged",
+          "FFlagLuauRelateIndexersTypo_Staged",
+          "FFlagObjExportSkipDeformerScratchBuffer_Staged",
+          "FFlagStudioTrackLanguagesAsyncMemory",
+          "FIntMenuOfferTooltipShowDelayMs_Staged"
+        ],
+        "changed": [
+          {
+            "after": "True",
+            "before": "False",
+            "name": "DFFlagJointEnableSkinningProperty"
+          },
+          {
+            "after": "302561734cdbe08192608a741a992eb1d639f154",
+            "before": "080a234818e56c39a19e484d68edeca216b6f63c",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-08T18:47:54.491Z",
+            "before": "2026-09-08T18:28:28.463Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "302561734cdbe08192608a741a992eb1d639f154",
+            "before": "080a234818e56c39a19e484d68edeca216b6f63c",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-08T18:47:54.491Z",
+            "before": "2026-09-08T18:28:28.463Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagJointEnableSkinningProperty_Staged",
+          "FFlagAsyncUpdatePlaybackSettingsIOS_Staged",
+          "FFlagFixNavBarColorOnTokenUpdateV3_Staged",
+          "FFlagFmodDspConstructCallback_Staged",
+          "FFlagStudioTrackLanguagesAsyncMemory_Staged"
+        ],
+        "unchanged": 22173
+      }
+    },
+    "UniversalApp": {
+      "current": "03fc0d352bb147a7164b1473c0c91a36fcac63b7ab8575ce174a2d6bcfc510a2",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "9c729b69b4703c055ae4a5e7398dcb0e95d1101ddb463d3e41fec114ec04abbf",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "f7f42be753698551f77309c791cf00b52e44d03eb6adfb973515d71fc8f93691",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/Navigation.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 223
+      },
+      "previous": "35e2ecc47d7b32a70f651935b028d423718d64c106d10746d6db7d12fe625e68",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
