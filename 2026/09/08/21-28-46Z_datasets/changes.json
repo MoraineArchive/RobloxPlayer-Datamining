@@ -1,0 +1,259 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "1afede2d3044e6972190b5ecc157a48e98336aaf61648a970901243939755a4d",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "e3f7fa89c713bfd13d340294113d7f1b126ff939facd9a51f3b261b553ca3935",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 26
+        }
+      }
+    },
+    "InExperience": {
+      "current": "df3d5e8775d636c69b3fa31d0aa03043cf7bb30c76fefb6736e0687cacbebb8e",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "31317dedf74460d5a2f01f69a52b87e87ad7660836ade8bb684fda10ccdd081f",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "a86c23c43c2e9029c313f72b2b5c0cb4760fcfdcb2bb77d0c6baa8af2b5eacc0",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "413fde0b4925c5c15063f4ea7645e4ea1e1b1abb6c404a7687fb0ef626f00dbf",
+      "semantic": {
+        "added": [
+          "DFFlagACSDeserializeWithUnpublished_Staged",
+          "DFFlagCLI220403_Staged",
+          "DFFlagEmoteSkinningDisableInEngine",
+          "DFFlagISRTimestampHeartbeat",
+          "DFFlagSTRTopologyTelemetryEnabled",
+          "DFFlagScrollerScrollStateSignalEnabled_Staged",
+          "DFFlagSimFixPrimalImprovedSleepCheck",
+          "DFFlagSimFixRemoveFrameStepJointCrash_Staged",
+          "DFFlagUseMeshScaleInVoxelizer3",
+          "FFlagAXCatalogOffersRefetchOnVisible",
+          "FFlagAXItemDetailsPartialAssetInfoFix_Staged",
+          "FFlagAXOpenAppItemDetailsMountAnimation_Staged",
+          "FFlagAXSubscriptionRefetchEvictStores_Staged",
+          "FFlagAbuseReportListNodeFullBleed",
+          "FFlagAbuseReportSubmissionTargetV4",
+          "FFlagAddFriendsIgnoreAllMenuDesignFixes",
+          "FFlagAddFriendsUserListEnabled_v2_Staged",
+          "FFlagAdsLifecycleManagerOwnsOnDemandAdsProvider",
+          "FFlagAppChatToastChatTerminologyFixEnabled",
+          "FFlagAppThemeClassicForAll",
+          "FFlagChromeNineDotActivityIndicator",
+          "FFlagContentProviderFlaggedPreloadArray_Staged",
+          "FFlagDMCTMigrateDragDetector",
+          "FFlagDMCTMigrateLuaSourceContainerMedium",
+          "FFlagDMCTMigrateTextChatMessage",
+          "FFlagDMCTMigrateVideoPlayer_Staged",
+          "FFlagDispatchCrashCounterTelemetryOffMainThreadIOS",
+          "FFlagDispatchDeeplinkReceivedTelemetryOffMainThreadIOS",
+          "FFlagEnableAdConsentAttribution",
+          "FFlagEnableAttributionContextExtraFieldsV2",
+          "FFlagEnableBandwidthSendTrackingForJoinBlob_Staged",
+          "FFlagEnableCustomTextInMenuTrailingBadge",
+          "FFlagEnableDelayedAppsFlyerStart",
+          "FFlagEnableDelayedAppsFlyerStartConsentCache",
+          "FFlagEnableDisplayWakeLock2",
+          "FFlagEnableFetchCartPricingDuringInExperience_Staged",
+          "FFlagEnableInExperienceOffersPurchaseFlow2",
+          "FFlagEnableOffersOnInExperienceSurface_Staged",
+          "FFlagEnableSchoolsSuggestedEmail_v2",
+          "FFlagExpChatTextChannelWindowFontOverride",
+          "FFlagExperimentShowRewardedAdOnLowMemoryAnyway_IXP",
+          "FFlagFixTouchEmulatorDuplicateBegin_Staged",
+          "FFlagForwardAmpSubscriptionAnalyticsContext_Staged",
+          "FFlagFoundationCoachmarkPressedOutside",
+          "FFlagFriendsEmptyStateIllustrationTheming",
+          "FFlagFriendsPageUserListEnabled_v2_Staged",
+          "FFlagGameJoinCardAnalyticsCardId_Staged",
+          "FFlagGamepadNavigationAllowInclusionOfCurrentlySelectedObject_Staged",
+          "FFlagIAMDuplicate_Staged",
+          "FFlagInputDebugLogMacModifiers",
+          "FFlagLDP1090GuardNilInputs_Staged",
+          "FFlagLcDeterministicInput_Staged",
+          "FFlagLoadCustomFontsOffMainThreadIOS_Staged",
+          "FFlagLuauCheckTypeForDeprecated2",
+          "FFlagLuauDoNotIceForBindingGeneric",
+          "FFlagLuauRelateIndexersTypo",
+          "FFlagMenuOfferTooltip",
+          "FFlagMigrateStatusIndicatorBuyRobuxButton",
+          "FFlagObjExportSkipDeformerScratchBuffer",
+          "FFlagOfferNineDotActivityIndicator",
+          "FFlagOfferNotifyOnGlobalIcon_Staged",
+          "FFlagPassOfferIdInPurchasePayload",
+          "FFlagProfilePlatformItemDetailsMountAnimation_Staged",
+          "FFlagPropertySetHardening_Staged",
+          "FFlagRCCMicroProfilerPlatformInfo",
+          "FFlagReplaceNavbarIconsWithFoundation2_Staged",
+          "FFlagSchoolsLockedSchoolHandling",
+          "FFlagSchoolsOtpMaxAttemptsFailureModal_Staged",
+          "FFlagSchoolsUnidaysEmailNotFoundCopy",
+          "FFlagShowOfferBadge",
+          "FFlagSimRuntimeContentCleanupIdToTracker2_Staged",
+          "FFlagUserListFooterViewMore",
+          "FFlagVirtualizedFeedFooterWrapperProp_Staged",
+          "FIntMenuOfferTooltipShowDelayMs",
+          "FStringLowMemoryShowRewardedAdLayerName"
+        ],
+        "changed": [
+          {
+            "after": "2000",
+            "before": "1000",
+            "name": "DFIntEmoteSkinningDisableInEngineTranslationThresholdMillistuds"
+          },
+          {
+            "after": "03b31424efd7be5e1d8a12c19c2068354a5d0eb6",
+            "before": "0aa717d1609f37f689497856bd8a9eea366f51f1",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-08T21:26:10.951Z",
+            "before": "2026-09-08T18:56:15.831Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "03b31424efd7be5e1d8a12c19c2068354a5d0eb6",
+            "before": "0aa717d1609f37f689497856bd8a9eea366f51f1",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-08T21:26:10.951Z",
+            "before": "2026-09-08T18:56:15.831Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagEmoteSkinningDisableInEngine_Staged",
+          "DFFlagISRTimestampHeartbeat_Staged",
+          "DFFlagLargeReplicatorUseMaxClientBandwidth_PlaceFilter",
+          "DFFlagSTRTopologyTelemetryEnabled_Staged",
+          "DFFlagSimFixPrimalImprovedSleepCheck_Staged",
+          "DFFlagUseMeshScaleInVoxelizer3_Staged",
+          "FFlagAXCatalogOffersRefetchOnVisible_Staged",
+          "FFlagAbuseReportListNodeFullBleed_Staged",
+          "FFlagAddFriendsIgnoreAllMenuDesignFixes_Staged",
+          "FFlagAdsLifecycleManagerOwnsOnDemandAdsProvider_Staged",
+          "FFlagAppChatToastChatTerminologyFixEnabled_Staged",
+          "FFlagAppThemeClassicForAll_Staged",
+          "FFlagChromeNineDotActivityIndicator_Staged",
+          "FFlagDMCTMigrateDragDetector_Staged",
+          "FFlagDMCTMigrateLuaSourceContainerMedium_Staged",
+          "FFlagDMCTMigrateTextChatMessage_Staged",
+          "FFlagDispatchCrashCounterTelemetryOffMainThreadIOS_Staged",
+          "FFlagDispatchDeeplinkReceivedTelemetryOffMainThreadIOS_Staged",
+          "FFlagEnableAdConsentAttribution_Staged",
+          "FFlagEnableCustomTextInMenuTrailingBadge_Staged",
+          "FFlagEnableDelayedAppsFlyerStartConsentCache_Staged",
+          "FFlagEnableDelayedAppsFlyerStart_Staged",
+          "FFlagEnableDisplayWakeLock2_Staged",
+          "FFlagEnableInExperienceOffersPurchaseFlow2_Staged",
+          "FFlagEnableSchoolsSuggestedEmail_v2_Staged",
+          "FFlagExpChatTextChannelWindowFontOverride_Staged",
+          "FFlagFoundationCoachmarkPressedOutside_Staged",
+          "FFlagFriendsEmptyStateIllustrationTheming_Staged",
+          "FFlagInputDebugLogMacModifiers_Staged",
+          "FFlagLargeReplicatorUseDynamicBandwidthTarget_PlaceFilter",
+          "FFlagLuauCheckTypeForDeprecated2_Staged",
+          "FFlagLuauDoNotIceForBindingGeneric_Staged",
+          "FFlagLuauRelateIndexersTypo_Staged",
+          "FFlagMenuOfferTooltip_Staged",
+          "FFlagObjExportSkipDeformerScratchBuffer_Staged",
+          "FFlagPassOfferIdInPurchasePayload_Staged",
+          "FFlagRCCMicroProfilerPlatformInfo_Staged",
+          "FFlagSchoolsLockedSchoolHandling_Staged",
+          "FFlagSchoolsUnidaysEmailNotFoundCopy_Staged",
+          "FFlagShowOfferBadge_Staged",
+          "FFlagUserListFooterViewMore_Staged",
+          "FIntMenuOfferTooltipShowDelayMs_Staged",
+          "FStringLowMemoryShowRewardedAdLayerName_Staged"
+        ],
+        "unchanged": 22148
+      }
+    },
+    "UniversalApp": {
+      "current": "515398591779a4602274368aba60adb4dc6426dd432d5ed2e8a72bca0d59d2fd",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "006435368f0ce63beca1f8fb5f3b6cdf46cf8032c57912ddf5890e0334330085",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "a13e2f19dd3ef9e9d5084548ce13eb29791b4147b3fc3ca45da9a444ac3f2211",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/Navigation.js",
+          "js.rbxcdn.com/page-1/Navigation.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "da3f6a40ea614f673ff9d05c9a98e709d26f1367050e0be5b31144cce64f1e1e",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
