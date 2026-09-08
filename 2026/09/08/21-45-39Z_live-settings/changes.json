@@ -1,0 +1,83 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "66ff8e32c4503f4b028c540e1b8b3b794ee3e8cbd3aca77f8ebb72b361ba7462",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "a86c23c43c2e9029c313f72b2b5c0cb4760fcfdcb2bb77d0c6baa8af2b5eacc0",
+      "semantic": {
+        "added": [
+          "DFFlagACSDeserializeWithUnpublished",
+          "DFFlagCLI220403",
+          "FFlagAXItemDetailsPartialAssetInfoFix",
+          "FFlagAXOpenAppItemDetailsMountAnimation",
+          "FFlagAddFriendsUserListEnabled_v2",
+          "FFlagEnableBandwidthSendTrackingForJoinBlob",
+          "FFlagEnforceRobloxShopForAllSurfaces_Staged",
+          "FFlagForwardAmpSubscriptionAnalyticsContext",
+          "FFlagFriendsPageUserListEnabled_v2",
+          "FFlagIAMUseIconFix_Staged",
+          "FFlagIAMViewportPositionType_Staged",
+          "FFlagLoadCustomFontsOffMainThreadIOS",
+          "FFlagOfferNotifyOnGlobalIcon",
+          "FFlagPropertySetHardening",
+          "FFlagSceneManagerRemoveActive_Staged",
+          "FFlagSlimTintContextFilter_Staged",
+          "FFlagVirtualizedFeedFooterWrapperProp"
+        ],
+        "changed": [
+          {
+            "after": "c78f4491b02edf3ff6ac9b3daf0c20434d9d9513",
+            "before": "03b31424efd7be5e1d8a12c19c2068354a5d0eb6",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-08T21:44:33.725Z",
+            "before": "2026-09-08T21:26:10.951Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "c78f4491b02edf3ff6ac9b3daf0c20434d9d9513",
+            "before": "03b31424efd7be5e1d8a12c19c2068354a5d0eb6",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-08T21:44:33.725Z",
+            "before": "2026-09-08T21:26:10.951Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagACSDeserializeWithUnpublished_Staged",
+          "DFFlagCLI220403_Staged",
+          "FFlagAXItemDetailsPartialAssetInfoFix_Staged",
+          "FFlagAXOpenAppItemDetailsMountAnimation_Staged",
+          "FFlagAddFriendsUserListEnabled_v2_Staged",
+          "FFlagEnableBandwidthSendTrackingForJoinBlob_Staged",
+          "FFlagForwardAmpSubscriptionAnalyticsContext_Staged",
+          "FFlagFriendsPageUserListEnabled_v2_Staged",
+          "FFlagLoadCustomFontsOffMainThreadIOS_Staged",
+          "FFlagOfferNotifyOnGlobalIcon_Staged",
+          "FFlagPropertySetHardening_Staged",
+          "FFlagVirtualizedFeedFooterWrapperProp_Staged"
+        ],
+        "unchanged": 22212
+      }
+    }
+  },
+  "schemaVersion": 1
+}
