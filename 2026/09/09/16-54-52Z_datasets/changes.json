@@ -1,0 +1,132 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "fe9b94759ed48905abc392600c85aa9264437a4d6fb518321dffa991b7a691d2",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "b4a9e9d111137e9dfa5012e1cb18f8c890198e93a53a0b73819dd35b694d9ba2",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 26
+        }
+      }
+    },
+    "InExperience": {
+      "current": "6fc4d1a69e1e37b82b2ed8165a32de83eb3401f16b1aac38a7c09e2af4f94664",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "00b02b539e68f486f0a335d8b8c776ede01f9541a8ace4ddf27e7882cc50942b",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "5d3c087f4c512c68c200e7bb720f86136ca3f1af40290c1da757edaf16fba77e",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "c0ba3043841cc1c895f3ccceb51e1db07089d5b679450dcac69fe3c4ebc49aee",
+      "semantic": {
+        "added": [
+          "DFFlagPreventStreamInViaTools_Staged",
+          "DFFlagServerCollectSetVector_Staged",
+          "DFFlagSimAeroUnifiedTriangleThreshold_Staged",
+          "DFFlagVideoVpxEncodeLowLatency_Staged",
+          "FFlagAXBackgroundGenerationAnalytics_Staged",
+          "FFlagAXFixBackgroundGenerationResultMenuNavigation_Staged",
+          "FFlagAXSkipTapDetection_Staged",
+          "FFlagCanReplicateBaseWrapWrapLayerContentPropertiesServer_Staged",
+          "FFlagCanReplicateTexturePackContentPropertiesServer_Staged",
+          "FFlagFoundationPopoverContentAnchorFix_Staged",
+          "FFlagModalImpressionEventAddSessionInfo_Staged",
+          "FFlagUIAntiAliasClipRects_Staged",
+          "FStringAXPlusExclusiveBackgroundIds_Staged"
+        ],
+        "changed": [
+          {
+            "after": "3b3a020d18b760c5245ef7b439a65f7c3d5f45e8",
+            "before": "6079d7906c211ab6a8742647d77b93c35e3aa5ef",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-09T16:53:15.357Z",
+            "before": "2026-09-09T06:02:19.235Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "3b3a020d18b760c5245ef7b439a65f7c3d5f45e8",
+            "before": "6079d7906c211ab6a8742647d77b93c35e3aa5ef",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-09T16:53:15.357Z",
+            "before": "2026-09-09T06:02:19.235Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 22239
+      }
+    },
+    "UniversalApp": {
+      "current": "217ee30e6fe5f3fcd86d7961d62567243f7e47999e7e700040ae4939f20e5ce6",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "c8e3a222092163c78d0c0227f1635c40f61b49e0b7e19bab1886933c9765a2fe",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
