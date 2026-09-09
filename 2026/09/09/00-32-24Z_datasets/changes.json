@@ -1,0 +1,153 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "76fc52ef9f13ff265f3f3aeed96419bd4c61c9d90ca0b29f0e0e03ccc5a59353",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "06277cc14c65c405437e061e4344bbd6343a1efd64adf61dc9333bf6cd42d28c",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 26
+        }
+      }
+    },
+    "InExperience": {
+      "current": "b822343cdc13c3a88b22670459c983492a12de943dd5ee7ceb2ff85fb6d1dd08",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "018667eaaedec6eccd07056900b4a52bef976198abdba903f7631fc0399089be",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "965f95eda9906bdf1eb6dfb75ed536fd2c2b0e4036be22e8dfb86c0e74ff4ae7",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "4ab1233ca39d6c2345b43f85f163c234b9ac09f473f260d7aeac1c254e2ad319",
+      "semantic": {
+        "added": [
+          "FFlagConnectionChannelsCollapseWhenEmpty",
+          "FFlagEnableGetFriendshipStatus",
+          "FFlagEnableReusableVPCPrologue"
+        ],
+        "changed": [
+          {
+            "after": "bb8b44badee719951001e5dbd6f24f6684e62d16",
+            "before": "c54039a5924cc02e3b37b5061f56462539c42b6c",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-09T00:32:06.212Z",
+            "before": "2026-09-08T23:59:04.722Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "bb8b44badee719951001e5dbd6f24f6684e62d16",
+            "before": "c54039a5924cc02e3b37b5061f56462539c42b6c",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-09T00:32:06.212Z",
+            "before": "2026-09-08T23:59:04.722Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagBuildDesktopReadiness_Staged",
+          "FFlagConnectionChannelsCollapseWhenEmpty_Staged",
+          "FFlagEnableGetFriendshipStatus_Staged",
+          "FFlagEnableReusableVPCPrologue_Staged"
+        ],
+        "unchanged": 22237
+      }
+    },
+    "UniversalApp": {
+      "current": "fdcaa5442983a380af8b388b61ad38beadb0b6a79a4dfca395e61f9a21d02fb5",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "411aa5377b48f296c862c295359ffd65705cd844e4238de083c46075c75ffdcd",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "e81773040aba29b7ab01ea88d190f51347349219453d022e1691b10dceca2330",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "9a4b0c3a53b168a42b22fdec9b4cb62923911110f4f6ffb6c01de87229825624",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
