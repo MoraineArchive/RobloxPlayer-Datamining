@@ -1,0 +1,154 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "06277cc14c65c405437e061e4344bbd6343a1efd64adf61dc9333bf6cd42d28c",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "ce15d6075b2dc7cb2a4d3385114cd6bb445145b0e9754e0b6e42e9fa0d1fedd5",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 26
+        }
+      }
+    },
+    "InExperience": {
+      "current": "018667eaaedec6eccd07056900b4a52bef976198abdba903f7631fc0399089be",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "340aa55cf8bc92e10b05071c353ed7c5526cecf2c4d579e62ed836adc46ae4d2",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "4ab1233ca39d6c2345b43f85f163c234b9ac09f473f260d7aeac1c254e2ad319",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "eb1c9244e3951705afbf650c651c21e1d2a1a194dfaae24815e735391028cbf9",
+      "semantic": {
+        "added": [
+          "DFFlagRbxStorageReportMaxReadWriteStats",
+          "FFlagEnforceRobloxShopForAllSurfaces",
+          "FFlagIAMUseIconFix",
+          "FFlagLuaAppChartsAppPage"
+        ],
+        "changed": [
+          {
+            "after": "c54039a5924cc02e3b37b5061f56462539c42b6c",
+            "before": "91c3850cb6d9f610835cc904845b926a7fbec431",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-08T23:59:04.722Z",
+            "before": "2026-09-08T23:41:27.492Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "c54039a5924cc02e3b37b5061f56462539c42b6c",
+            "before": "91c3850cb6d9f610835cc904845b926a7fbec431",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-08T23:59:04.722Z",
+            "before": "2026-09-08T23:41:27.492Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagRbxStorageReportMaxReadWriteStats_Staged",
+          "FFlagEnforceRobloxShopForAllSurfaces_Staged",
+          "FFlagIAMUseIconFix_Staged",
+          "FFlagLuaAppChartsAppPage_Staged"
+        ],
+        "unchanged": 22237
+      }
+    },
+    "UniversalApp": {
+      "current": "411aa5377b48f296c862c295359ffd65705cd844e4238de083c46075c75ffdcd",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "51cee0a68405b10a5c7aeedd28a9c3f78e4af852293ecdc7f77bdf8c23468692",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "9a4b0c3a53b168a42b22fdec9b4cb62923911110f4f6ffb6c01de87229825624",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "e81773040aba29b7ab01ea88d190f51347349219453d022e1691b10dceca2330",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
