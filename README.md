@@ -1,10 +1,12 @@
-[![Moraine Roblox Datamining](https://github.com/MoraineArchive/Moraine-asset/blob/main/roblox/banner_roblox.png?raw=true)](https://github.com/MoraineArchive/Moraine-asset/blob/main/roblox/banner_roblox.png)
+[![Moraine Roblox Player datamining and client tracker](.github/assets/banner_roblox.png)](LATEST.md)
 
-# Roblox Player Datamining
+# Roblox Player Datamining and Client Tracker
 
-Automated Roblox Player build tracker and datamining archive maintained by Moraine. It records Windows Player versions, OTA packages, FastVariables, LIVE settings, native metadata, web assets, and chronological diffs from publicly accessible Roblox distribution endpoints.
+An automated Roblox client tracker and datamining archive for Windows Player builds, maintained by Moraine. Follow Roblox version and GUID changes, FastFlags and FastVariables, LIVE settings, InExperience and UniversalApp OTA packages, native metadata, web assets, and chronological diffs observed from public Roblox distribution endpoints.
 
 This repository contains independently observed Windows Player data. The extraction and publication infrastructure is maintained separately from this data archive.
+
+**Latest data:** [open the current datamining report](LATEST.md) or browse the [latest canonical state](current/).
 
 ## Archive layout
 
