@@ -1,0 +1,59 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "c0ba3043841cc1c895f3ccceb51e1db07089d5b679450dcac69fe3c4ebc49aee",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "192932ee73b8bf465d7f922259502f43aea822e89e7c0f9f1e6104ed8fceb45f",
+      "semantic": {
+        "added": [],
+        "changed": [
+          {
+            "after": "6079d7906c211ab6a8742647d77b93c35e3aa5ef",
+            "before": "c6bf26216bdad8ba6a245aef16ed91b9d1a811f8",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-09T06:02:19.235Z",
+            "before": "2026-09-09T03:53:17.787Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagAdsLifecycleManagerOwnsOnDemandAdsProvider"
+          },
+          {
+            "after": "6079d7906c211ab6a8742647d77b93c35e3aa5ef",
+            "before": "c6bf26216bdad8ba6a245aef16ed91b9d1a811f8",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-09T06:02:19.235Z",
+            "before": "2026-09-09T03:53:17.787Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAdsLifecycleManagerOwnsOnDemandAdsProvider_Staged"
+        ],
+        "unchanged": 22238
+      }
+    }
+  },
+  "schemaVersion": 1
+}
