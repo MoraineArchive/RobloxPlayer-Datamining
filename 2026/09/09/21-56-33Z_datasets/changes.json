@@ -1,0 +1,149 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "2b1e2885ffcd98f4ddc11f8efca0cbf2ed8cdd374126b060f41bae8d582c3ad6",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "437c815a5b71497f6e628100d067e3aaa7093a8c86aecda14b6e56a8dafdbafd",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 26
+        }
+      }
+    },
+    "InExperience": {
+      "current": "0e5e4d5db57937586141aa91a0df24e77e000647c933f988370efc3c94b2a961",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "04de8b4de65c8fb0bbe103c0c920b062ad9a72d632ebb9e0ff7caa8cfe60028d",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "301798829790a1fb56778ca9f2059fc6dd9cb168d6036852df7332e1c24bd2bf",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "1878ed676f98994018e6552a1f8c2066109b7f8bf04a3ade7c6466eeab97c840",
+      "semantic": {
+        "added": [
+          "DFFlagImporterAceRestPoseFromRig_Staged",
+          "FFlagAccountSwitcherFocusNavigation_Staged",
+          "FFlagEnableLoginV2EventImprovements_Staged",
+          "FFlagLoginV2ModalFocusNavigation_Staged"
+        ],
+        "changed": [
+          {
+            "after": "eff306081cc292807ce395409d27a3e85acffde6",
+            "before": "b87243498b75683bdf1bcf18d9ab5ad51aa9de9c",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-09T21:55:44.204Z",
+            "before": "2026-09-09T21:40:09.288Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "eff306081cc292807ce395409d27a3e85acffde6",
+            "before": "b87243498b75683bdf1bcf18d9ab5ad51aa9de9c",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-09T21:55:44.204Z",
+            "before": "2026-09-09T21:40:09.288Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 22288
+      }
+    },
+    "UniversalApp": {
+      "current": "12477e435146d32c9810e9c9d59c7c69198e9e716f90a922e7baa3b74e46b51c",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "58acac6ceeade133fa4e8c10d3b8c9398e745fa3686354d1ad9471d2a7717eca",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "855b9c94592c3bf2775a608dee50d1bd6bab88f27f73c6ce87f5671a8931e3fe",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "283ae547abc07f1cba4d420a6c55ef62498115272ef259c246a90d810142b03a",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
