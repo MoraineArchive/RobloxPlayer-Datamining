@@ -1,0 +1,153 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "5d53d38bc106b526d55f4ec7c70be6ba74f5564933007ac5f8d46cf9528cf95e",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "e7ee25426b803fda19a0b8a19779c22c9621018e76f22778d52a0a8ba568bcee",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 26
+        }
+      }
+    },
+    "InExperience": {
+      "current": "3f1f8875f7c1402de32c8537f08e7de10db3e6fe4f53ffdfe3feecb2cf7d0d8d",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "f31343bd2674e0775cdc42277d0002889d496110a985cf70bf96ea963bfcbf39",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "48ef31e5d374f861cbe4841412ede823f4c93020c906ec415cd8164949923b72",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "f85b9ed9df59c20fddd3cf317ccd668a883b4c53f12dbd6cc4f010816fd25fc2",
+      "semantic": {
+        "added": [
+          "DFFlagSatPolyPolyContactEnabled_Staged",
+          "FFlagAXSduiProcessCatalogDeepLink_Staged",
+          "FFlagAXUseUnifiedLoggingEnums_Staged",
+          "FFlagCanReplicateBaseWrapWrapLayerContentPropertiesServer",
+          "FFlagCanReplicateTexturePackContentPropertiesServer"
+        ],
+        "changed": [
+          {
+            "after": "5c4ee5206df24c98527523bba5168c7774a106d4",
+            "before": "94fde4e7bf1d708ce44e923af50696b8a3b411b2",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-09T18:39:05.516Z",
+            "before": "2026-09-09T18:26:05.863Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "5c4ee5206df24c98527523bba5168c7774a106d4",
+            "before": "94fde4e7bf1d708ce44e923af50696b8a3b411b2",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-09T18:39:05.516Z",
+            "before": "2026-09-09T18:26:05.863Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagCanReplicateBaseWrapWrapLayerContentPropertiesServer_Staged",
+          "FFlagCanReplicateTexturePackContentPropertiesServer_Staged"
+        ],
+        "unchanged": 22270
+      }
+    },
+    "UniversalApp": {
+      "current": "35cbcd37ded75e4732e4d3597a45f99db2a0a5bd275e93036d47876249749430",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "dc6ca32c8626bfe3cbbb4891cfcf5cd86d331d327e1761d6b0471db158ab7df3",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "283ae547abc07f1cba4d420a6c55ef62498115272ef259c246a90d810142b03a",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "855b9c94592c3bf2775a608dee50d1bd6bab88f27f73c6ce87f5671a8931e3fe",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
