@@ -1,0 +1,138 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "93c09c98b5ccc64dbcfe9460343779f9290dcee4a59b95f8b36f3c174a6dbef7",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "76fc52ef9f13ff265f3f3aeed96419bd4c61c9d90ca0b29f0e0e03ccc5a59353",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 26
+        }
+      }
+    },
+    "InExperience": {
+      "current": "ffc598dd38682b00dc89d76bb228735fccc86d605e1a7cf7875ecaadbd010109",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "b822343cdc13c3a88b22670459c983492a12de943dd5ee7ceb2ff85fb6d1dd08",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "09f996f96ad8b18c96d8edc4823ea944aecc579695331eeaecfdf88e4bb7fc4f",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "965f95eda9906bdf1eb6dfb75ed536fd2c2b0e4036be22e8dfb86c0e74ff4ae7",
+      "semantic": {
+        "added": [
+          "DFStringRbxAvatarAbilitiesStudioBeta2ContentUri",
+          "FFlagAXProfileTabHideAvatarScene",
+          "FFlagEditProfileImageCameraControlBar",
+          "FFlagEditProfileImageV2Telemetry",
+          "FFlagEnableUserOffers2",
+          "FFlagPlayStationRemoveShowProfile"
+        ],
+        "changed": [
+          {
+            "after": "5af9fd75f0c410251757a6ed37ebd7b9eb0a9f51",
+            "before": "bb8b44badee719951001e5dbd6f24f6684e62d16",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-09T01:27:01.174Z",
+            "before": "2026-09-09T00:32:06.212Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagEnableFetchCartPricingDuringInExperience"
+          },
+          {
+            "after": "5af9fd75f0c410251757a6ed37ebd7b9eb0a9f51",
+            "before": "bb8b44badee719951001e5dbd6f24f6684e62d16",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-09T01:27:01.174Z",
+            "before": "2026-09-09T00:32:06.212Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFStringRbxAvatarAbilitiesStudioBeta2ContentUri_Staged",
+          "FFlagAXProfileTabHideAvatarScene_Staged",
+          "FFlagEditProfileImageCameraControlBar_Staged",
+          "FFlagEditProfileImageV2Telemetry_Staged",
+          "FFlagEnableFetchCartPricingDuringInExperience_Staged",
+          "FFlagEnableUserOffers2_Staged",
+          "FFlagPlayStationRemoveShowProfile_Staged"
+        ],
+        "unchanged": 22232
+      }
+    },
+    "UniversalApp": {
+      "current": "4e99208e35f729435e3f9bb4fccccf21099f4b8636b72b8ed730e2357da23128",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "fdcaa5442983a380af8b388b61ad38beadb0b6a79a4dfca395e61f9a21d02fb5",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
