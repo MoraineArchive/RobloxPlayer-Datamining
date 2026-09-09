@@ -1,0 +1,210 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "cd9ede3e172952243452ba43446ed7cde89ec65fcc9937a86f4dae63339f03c8",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "67a2b9bc95f21cac60ae2abcac7b612469565bfdc5445c3c71bda246787bdfec",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 26
+        }
+      }
+    },
+    "InExperience": {
+      "current": "fd6cd875c3eb07768b19535761238a961de3eca2b5c3920551fc6184878dc9c6",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "619eb2ba4d8f9ec79a6e45c86064eebbecf0961a47630d554eb9c150d9b02076",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "e35cb5a08c2317ce84c6f28bf5b6ffbf168d15b5836a2cd0517a0f29ec8d580d",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "5d73b4032753cc9db1e1f3c25915b0004243691d8098d807d9e823a62b789169",
+      "semantic": {
+        "added": [
+          "DFFlagFMDEnforceChunkGrammar_Staged",
+          "DFFlagStampHttpScriptIdentity_Staged",
+          "FFlagAXReturnModeratedPlusExclusiveBackgrounds2",
+          "FFlagAXSduiProcessCatalogDeepLink",
+          "FFlagAXUseUnifiedLoggingEnums",
+          "FFlagAppChatConsolidateTrustedFriendsModal_Staged",
+          "FFlagAssistantAskInputTool2",
+          "FFlagAssistantAsyncSlashCommands",
+          "FFlagAssistantExternalInterface_Staged",
+          "FFlagAssistantHintImageAsUri2",
+          "FFlagCanCollideChangedSkipsUnregisteredAssembly_Staged",
+          "FFlagEnableRequestLocationTypeForSduiPurchase",
+          "FFlagFixLoginV2PrefillForcedUsernameOverride",
+          "FFlagFmodMeteringUsesSeqLock_Staged",
+          "FFlagFmodReverbFastPath_Staged",
+          "FFlagFmodSupportsUnlimitedVirtualChannels_Staged",
+          "FFlagFoundationBaseMenuSubmenuMaxHeight_Staged",
+          "FFlagFoundationStatusIndicatorVariantExperiment2_Staged",
+          "FFlagLuaAppGamePassesDataHydrationMigrationEnabled_Staged",
+          "FFlagLuaAppOneByTwoTileGatePlayerOnVideoLoad",
+          "FFlagVRAbuseReportLocales",
+          "FIntLuaAppOneByTwoTileVideoLoadedTelemetryThrottleHundredthsPercent"
+        ],
+        "changed": [
+          {
+            "after": "10000;136954310107221;105796526973604;95047916580305;124847392687570",
+            "before": "10000;136954310107221;105796526973604;95047916580305",
+            "name": "DFIntVideoMetricsClientHundredthsPercent_PlaceFilter"
+          },
+          {
+            "after": "10000;136954310107221;105796526973604;95047916580305;124847392687570",
+            "before": "10000;136954310107221;105796526973604;95047916580305",
+            "name": "DFIntVideoServiceMetricsEventstreamReportHundredthsPercent_PlaceFilter"
+          },
+          {
+            "after": "ec0903977c73c19a78b6f2cc1d48de91cf0c2eba",
+            "before": "5f33a22495074602a2dbeefe28698b8de4c44f2c",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-09T21:29:08.944Z",
+            "before": "2026-09-09T19:52:45.073Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "True;2440500124;383310974;7178032757;1516533665;3936365689;274816972;210851291;5578556129;3508322461;1686885941",
+            "before": "True;2440500124",
+            "name": "FFlagCLI214028_UniverseFilter"
+          },
+          {
+            "after": "True;10123059921;383310974;7178032757;1516533665;3936365689;274816972;210851291;5578556129;3508322461;1686885941",
+            "before": "True;10123059921",
+            "name": "FFlagCLI214030EnforceData_UniverseFilter"
+          },
+          {
+            "after": "True;290384992;383310974;7178032757;1516533665;3936365689;274816972;210851291;5578556129;3508322461;1686885941",
+            "before": "True;290384992",
+            "name": "FFlagCLI214030EnforceSettings_UniverseFilter"
+          },
+          {
+            "after": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip,AXFavoritePillFtuxTooltip,AXBackgroundGenerationCreateTooltip",
+            "before": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip,AXFavoritePillFtuxTooltip",
+            "name": "FStringAXTooltipAllowedTooltips"
+          },
+          {
+            "after": "ec0903977c73c19a78b6f2cc1d48de91cf0c2eba",
+            "before": "5f33a22495074602a2dbeefe28698b8de4c44f2c",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-09T21:29:08.944Z",
+            "before": "2026-09-09T19:52:45.073Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAXReturnModeratedPlusExclusiveBackgrounds2_Staged",
+          "FFlagAXSduiProcessCatalogDeepLink_Staged",
+          "FFlagAXUseUnifiedLoggingEnums_Staged",
+          "FFlagAssistantAskInputTool2_Staged",
+          "FFlagAssistantAsyncSlashCommands_Staged",
+          "FFlagAssistantHintImageAsUri2_Staged",
+          "FFlagEnableRequestLocationTypeForSduiPurchase_Staged",
+          "FFlagFixLoginV2PrefillForcedUsernameOverride_Staged",
+          "FFlagLuaAppOneByTwoTileGatePlayerOnVideoLoad_Staged",
+          "FFlagVRAbuseReportLocales_Staged",
+          "FIntLuaAppOneByTwoTileVideoLoadedTelemetryThrottleHundredthsPercent_Staged",
+          "FStringAXTooltipAllowedTooltips_Staged"
+        ],
+        "unchanged": 22258
+      }
+    },
+    "UniversalApp": {
+      "current": "4ceb4f911a34f5cf5324ccc1e23f9f7668b9c717ff077fa22aabac8ad0f912d4",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "4a2e2b2e5906a4f4f170dc3187b2d77e6a449d74f54dc21002ef2634430563f1",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "855b9c94592c3bf2775a608dee50d1bd6bab88f27f73c6ce87f5671a8931e3fe",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "283ae547abc07f1cba4d420a6c55ef62498115272ef259c246a90d810142b03a",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
