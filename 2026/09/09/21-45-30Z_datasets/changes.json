@@ -1,0 +1,150 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "437c815a5b71497f6e628100d067e3aaa7093a8c86aecda14b6e56a8dafdbafd",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "cd9ede3e172952243452ba43446ed7cde89ec65fcc9937a86f4dae63339f03c8",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 26
+        }
+      }
+    },
+    "InExperience": {
+      "current": "04de8b4de65c8fb0bbe103c0c920b062ad9a72d632ebb9e0ff7caa8cfe60028d",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "fd6cd875c3eb07768b19535761238a961de3eca2b5c3920551fc6184878dc9c6",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "1878ed676f98994018e6552a1f8c2066109b7f8bf04a3ade7c6466eeab97c840",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "e35cb5a08c2317ce84c6f28bf5b6ffbf168d15b5836a2cd0517a0f29ec8d580d",
+      "semantic": {
+        "added": [
+          "DFFlagCLI198718Comp_IXP",
+          "DFFlagFMDEnforceChunkGrammar",
+          "FFlagFixSamsungWebFragmentPaymentSessionId_Staged"
+        ],
+        "changed": [
+          {
+            "after": "b87243498b75683bdf1bcf18d9ab5ad51aa9de9c",
+            "before": "ec0903977c73c19a78b6f2cc1d48de91cf0c2eba",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-09T21:40:09.288Z",
+            "before": "2026-09-09T21:29:08.944Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "b87243498b75683bdf1bcf18d9ab5ad51aa9de9c",
+            "before": "ec0903977c73c19a78b6f2cc1d48de91cf0c2eba",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-09T21:40:09.288Z",
+            "before": "2026-09-09T21:29:08.944Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagFMDEnforceChunkGrammar_Staged"
+        ],
+        "unchanged": 22285
+      }
+    },
+    "UniversalApp": {
+      "current": "58acac6ceeade133fa4e8c10d3b8c9398e745fa3686354d1ad9471d2a7717eca",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "4ceb4f911a34f5cf5324ccc1e23f9f7668b9c717ff077fa22aabac8ad0f912d4",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "283ae547abc07f1cba4d420a6c55ef62498115272ef259c246a90d810142b03a",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "855b9c94592c3bf2775a608dee50d1bd6bab88f27f73c6ce87f5671a8931e3fe",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
