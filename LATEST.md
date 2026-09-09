@@ -2,26 +2,28 @@
 
 # Latest Roblox Player Datamining
 
-**Observed:** 09/09/2026, 23:56:33 CEST (21:56:33 UTC)
+**Observed:** 10/09/2026, 01:33:55 CEST (23:33:55 UTC)
 
-**Event:** [`2026/09/09/21-56-33Z_datasets/`](2026/09/09/21-56-33Z_datasets/)
+**Event:** [`2026/09/09/23-33-55Z_build_version-c5aecda2245e4fae/`](2026/09/09/23-33-55Z_build_version-c5aecda2245e4fae/)
 
-**Build:** [`0.737.0.7371584`](current/Build/version.json)
+**Build:** [`0.738.0.7381397`](current/Build/version.json)
 
-**GUID:** [`version-e7d81637d42c4b23`](current/Provenance/Build.json)
+**GUID:** [`version-c5aecda2245e4fae`](current/Provenance/Build.json)
 
 ## Summary
 
 ```text
-InExperience files +0 ~2 -0
-UniversalApp files +0 ~2 -0
-FastVariables files +0 ~0 -0
+Build files        +0 ~3 -0
+LuaPackages files  +0 ~9 -0
+Native files       +0 ~7 -0
+FastVariables files +0 ~1 -0
 LiveSettings files +0 ~1 -0
-Web files          +3 ~2 -6
-InExperience sources +0 ~0 -0
-UniversalApp sources +0 ~0 -0
-FastVariables      +0 ~0 -0
-LiveSettings       +4 ~4 -0
+Web files          +6 ~2 -3
+Packages           +0 ~10 -0
+Files              +7 ~61 -1
+LuaPackages sources +0 ~0 -0
+FastVariables      +0 ~26 -0
+LiveSettings       +31 ~6 -8
 ```
 
 File counts describe canonical files. Nested semantic rows describe values or API/source records inside those files.
@@ -30,4 +32,4 @@ File counts describe canonical files. Nested semantic rows describe values or AP
 
 No strong cross-surface correlations in this event.
 
-See the [summary](2026/09/09/21-56-33Z_datasets/summary.md), [diff](2026/09/09/21-56-33Z_datasets/diff.md), [findings](2026/09/09/21-56-33Z_datasets/findings.md), and [changes.json](2026/09/09/21-56-33Z_datasets/changes.json).
+See the [summary](2026/09/09/23-33-55Z_build_version-c5aecda2245e4fae/summary.md), [diff](2026/09/09/23-33-55Z_build_version-c5aecda2245e4fae/diff.md), [findings](2026/09/09/23-33-55Z_build_version-c5aecda2245e4fae/findings.md), and [changes.json](2026/09/09/23-33-55Z_build_version-c5aecda2245e4fae/changes.json).

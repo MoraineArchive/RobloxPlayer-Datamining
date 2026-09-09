@@ -1,0 +1,479 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "Build": {
+      "current": "43a9e22445300db236e197090448d1e67421cede9ecbcb8f0a7eb0bd70f7767d",
+      "files": {
+        "added": [],
+        "changed": [
+          "FileManifest.json",
+          "Packages.json",
+          "metadata.json",
+          "version.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "e0dd6fc29402e40f7808fed11d39b94021b19bb83b282b6026e0dd8b7b94fd3b",
+      "semantic": {
+        "files": {
+          "added": [
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_23.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_24.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_25.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_22.png",
+            "PlatformContent/pc/shared_compression_dictionaries/67d516a78ef797d4f99059229489371c538ef02a4c8425da431fd578454203cf.dict",
+            "content/avatar/abilities/AbilityManagerActor_justCoreAbilities.rbxm",
+            "content/avatar/characterR6NoFace.rbxm"
+          ],
+          "changed": [
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_1x_1.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_1x_2.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_1x_3.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_1x_4.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_1x_5.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_1x_6.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_1x_7.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_10.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_11.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_12.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_13.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_14.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_15.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_16.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_17.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_18.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_19.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_2.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_20.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_21.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_22.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_3.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_4.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_5.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_6.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_7.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_8.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_9.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_10.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_11.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_12.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_13.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_14.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_15.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_16.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_17.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_19.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_20.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_21.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_3.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_4.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_5.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_6.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_7.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_8.png",
+            "ExtraContent/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_9.png",
+            "ExtraContent/models/CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch.rbxm",
+            "ExtraContent/models/InExperience/InExperience.rbxm",
+            "ExtraContent/models/Licenses/Licenses.rbxm",
+            "ExtraContent/models/UniversalApp/UniversalApp.rbxm",
+            "RobloxCrashHandler.exe",
+            "RobloxPlayerBeta.dll",
+            "RobloxPlayerBeta.exe",
+            "content/configs/InExperiencePatchConfig/InExperiencePatchConfig.json",
+            "content/configs/PerformanceConfigs/rofiler.js",
+            "content/configs/UniversalAppPatchConfig/UniversalAppPatchConfig.json",
+            "shaders/shaders_d3d10.pack",
+            "shaders/shaders_d3d10_1.pack",
+            "shaders/shaders_d3d11.pack",
+            "shaders/shaders_glsl3.pack",
+            "shaders/shaders_vulkan_desktop.pack"
+          ],
+          "removed": [
+            "PlatformContent/pc/shared_compression_dictionaries/c4ec222b98fe36df19cb1377fff97fbd0e1568b91d5529c5ebcd141ce689796d.dict"
+          ],
+          "unchanged": 2777
+        },
+        "packages": {
+          "added": [],
+          "changed": [
+            {
+              "after": {
+                "checksum": "740092d5760b92572e74d826c73378bf",
+                "compressedSize": 135843437,
+                "name": "RobloxApp.zip",
+                "uncompressedSize": 173953579
+              },
+              "before": {
+                "checksum": "ed10fd7bd5cf3d860a507af1708fd701",
+                "compressedSize": 135189909,
+                "name": "RobloxApp.zip",
+                "uncompressedSize": 173265963
+              },
+              "name": "RobloxApp.zip"
+            },
+            {
+              "after": {
+                "checksum": "8b59097de0f1a00833610261abc9d25c",
+                "compressedSize": 13550544,
+                "name": "RobloxPlayerInstaller.exe",
+                "uncompressedSize": 13550544
+              },
+              "before": {
+                "checksum": "be4ee7c43bebc9dbe029421e585419eb",
+                "compressedSize": 13589456,
+                "name": "RobloxPlayerInstaller.exe",
+                "uncompressedSize": 13589456
+              },
+              "name": "RobloxPlayerInstaller.exe"
+            },
+            {
+              "after": {
+                "checksum": "7b3a392f4a2a6c8f2cf082574db5c376",
+                "compressedSize": 83405,
+                "name": "WebView2.zip",
+                "uncompressedSize": 166000
+              },
+              "before": {
+                "checksum": "767c9d8c0129f34afa7bb5082545e86f",
+                "compressedSize": 83405,
+                "name": "WebView2.zip",
+                "uncompressedSize": 166000
+              },
+              "name": "WebView2.zip"
+            },
+            {
+              "after": {
+                "checksum": "6c8d71bf72bdd2d0090e5629f85bdc16",
+                "compressedSize": 293014,
+                "name": "content-avatar.zip",
+                "uncompressedSize": 1027416
+              },
+              "before": {
+                "checksum": "38f817537f4cfdc3d22192eeb6b3a881",
+                "compressedSize": 287793,
+                "name": "content-avatar.zip",
+                "uncompressedSize": 1014723
+              },
+              "name": "content-avatar.zip"
+            },
+            {
+              "after": {
+                "checksum": "4f52b20c0972cb8ef3556476a97e11f3",
+                "compressedSize": 306513,
+                "name": "content-configs.zip",
+                "uncompressedSize": 1805511
+              },
+              "before": {
+                "checksum": "9270dea103b1460614aaa04996fe0c89",
+                "compressedSize": 306439,
+                "name": "content-configs.zip",
+                "uncompressedSize": 1805049
+              },
+              "name": "content-configs.zip"
+            },
+            {
+              "after": {
+                "checksum": "30d47ac247e8a7382be22bac80088207",
+                "compressedSize": 411110,
+                "name": "content-platform-dictionaries.zip",
+                "uncompressedSize": 1377228
+              },
+              "before": {
+                "checksum": "e51d76723be65df2bce636749da203b3",
+                "compressedSize": 405780,
+                "name": "content-platform-dictionaries.zip",
+                "uncompressedSize": 1355210
+              },
+              "name": "content-platform-dictionaries.zip"
+            },
+            {
+              "after": {
+                "checksum": "32711a80608bebd85f0436691848c9dd",
+                "compressedSize": 2821770,
+                "name": "extracontent-luapackages.zip",
+                "uncompressedSize": 3130106
+              },
+              "before": {
+                "checksum": "0b0a6580ee385c29120b886ec6d125fc",
+                "compressedSize": 2961846,
+                "name": "extracontent-luapackages.zip",
+                "uncompressedSize": 3271364
+              },
+              "name": "extracontent-luapackages.zip"
+            },
+            {
+              "after": {
+                "checksum": "8c48c413d1f6be3f0a0715e90af73086",
+                "compressedSize": 25255869,
+                "name": "extracontent-models.zip",
+                "uncompressedSize": 25364316
+              },
+              "before": {
+                "checksum": "c8a93d0e54a3ae068ad32b5189048839",
+                "compressedSize": 25107719,
+                "name": "extracontent-models.zip",
+                "uncompressedSize": 25215458
+              },
+              "name": "extracontent-models.zip"
+            },
+            {
+              "after": {
+                "checksum": "50bd6a0a1967c5d2ca4c03808ab2ea4e",
+                "compressedSize": 11614180,
+                "name": "shaders.zip",
+                "uncompressedSize": 68373304
+              },
+              "before": {
+                "checksum": "a8946647e278b45d2fc5e792440fd99e",
+                "compressedSize": 11485214,
+                "name": "shaders.zip",
+                "uncompressedSize": 68072917
+              },
+              "name": "shaders.zip"
+            },
+            {
+              "after": {
+                "checksum": "eb878532a1be9beae0e84757dbe5ea73",
+                "compressedSize": 130569,
+                "name": "ssl.zip",
+                "uncompressedSize": 228725
+              },
+              "before": {
+                "checksum": "2feb171f8ace7829e354cd39573194db",
+                "compressedSize": 130569,
+                "name": "ssl.zip",
+                "uncompressedSize": 228725
+              },
+              "name": "ssl.zip"
+            }
+          ],
+          "removed": [],
+          "unchanged": 12
+        }
+      }
+    },
+    "FastVariables": {
+      "current": "214cd8425ea41bfc982cbc20b98a414599474bced5f8fa884070cec23c29c7ae",
+      "files": {
+        "added": [],
+        "changed": [
+          "combined.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 2
+      },
+      "previous": "2b1e2885ffcd98f4ddc11f8efca0cbf2ed8cdd374126b060f41bae8d582c3ad6",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [
+            "C++:DFIntGameNetLocalSpaceMaxSendIndex",
+            "C++:FFlagCollectionServiceTagAddedRemovedOnInstanceSignals",
+            "C++:FFlagDebugEnableLocalAppUpdateChecks",
+            "C++:FFlagDebugEnableTestServiceDeterministicCapture",
+            "C++:FFlagDebugEnableTestServiceVideoCapture",
+            "C++:FFlagDifferentiateStreamedOut",
+            "C++:FFlagInstanceExtensionsServiceCountChildren",
+            "C++:FFlagLCQualityValidation",
+            "C++:FFlagLuauExpressionReferencesMethod",
+            "C++:FFlagLuauExpressionServiceEnabled",
+            "C++:FFlagMigrateCameraCFrameDatamodel",
+            "C++:FFlagMigrateCameraFocusDatamodel",
+            "C++:FFlagMigrateCameraFovDatamodel",
+            "C++:FFlagNextGenReplicatorEnabledRead",
+            "C++:FFlagNextGenReplicatorEnabledWrite",
+            "C++:FFlagSaveAndReloadDebuggablePluginVerb",
+            "C++:FFlagUGCValidateHSRMeshIds",
+            "C++:FFlagUGCValidateInstanceTreesEquivalent",
+            "C++:FFlagUGCValidatePropertiesSensible",
+            "C++:FFlagUGCValidateSerializeExcludeCollisionPhysics",
+            "C++:FFlagVoiceUseWebRTCSession",
+            "C++:FIntContentProviderPreloadHangHashRepeatCount",
+            "C++:FLogRobloxTelemetry",
+            "C++:FStringDebugRenderingTestVideoCapturePath",
+            "C++:FStringSlimTranscoderResourcePath",
+            "C++:FStringTextureTranscodeRollout"
+          ],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "72fdf9d2f3404b530aee169d820b3236bd44ced8bedcb895d7901b0d91760577",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "301798829790a1fb56778ca9f2059fc6dd9cb168d6036852df7332e1c24bd2bf",
+      "semantic": {
+        "added": [
+          "DFFlagAnimRigSerializeGenericFromRig_Staged",
+          "DFFlagCollaboratorSafetyEvictionCloudEditOnly_Staged",
+          "DFFlagCrashUploadToSentryWindowsEnabled_Staged",
+          "DFFlagEnableDynamicCollaboratorSafetyEvictionCheck_Staged",
+          "DFFlagFixAnimationTrackInfiniteSpeedStuck_Staged",
+          "DFFlagFixReorderEntitiesNonAdfCrash",
+          "DFFlagImporterAceRestPoseFromRig",
+          "DFFlagSimCsgCollinear3DCheck",
+          "DFFlagStampHttpScriptIdentity",
+          "DFIntCrashUploadToSentryWindowsPercentage_Staged",
+          "FFlagAXBackgroundGenerationInventoryUpsellBanner_Staged",
+          "FFlagAXBackgroundGenerationOptimisticGrant_Staged",
+          "FFlagAXBackgroundUploadQuotaError_Staged",
+          "FFlagAXPlusExclusiveBackgroundTryOn_Staged",
+          "FFlagAnimSkeletonViewSettings_Staged",
+          "FFlagAssistantExternalInterface",
+          "FFlagCacheCredentialsProtocolIsAvailable_Staged",
+          "FFlagCollab11341SupportDirectoryLinks_Staged",
+          "FFlagDeprecateNavigateToUserInfoJoinable_Staged",
+          "FFlagFmodMeteringUsesSeqLock",
+          "FFlagFmodReverbFastPath",
+          "FFlagFmodSupportsUnlimitedVirtualChannels",
+          "FFlagFoundationBaseMenuSubmenuMaxHeight",
+          "FFlagLuaAppFeatureTileAdPlayerDarkLetterbox_Staged",
+          "FFlagLuaAppGamePassesDataHydrationMigrationEnabled",
+          "FFlagLuauBlockingTypeAliasExpansion_Staged",
+          "FFlagLuauNewPointerEncode_Staged",
+          "FFlagPermissionAlertContentUpgrade_Staged",
+          "FFlagRenderForceUnifiedZNearPlaneZ_Staged",
+          "FFlagStudioDockNewScriptToLastScriptPanel_Staged",
+          "FFlagSurfaceAppearanceInvalidateFix_Staged"
+        ],
+        "changed": [
+          {
+            "after": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-09-09T23:22:59",
+            "before": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-09-09T20:55:59",
+            "name": "DFFlagStampHttpScriptIdentity_Staged"
+          },
+          {
+            "after": "3e3436797a5fc26c53982fe350900ed29d8a0829",
+            "before": "eff306081cc292807ce395409d27a3e85acffde6",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-09T23:32:20.830Z",
+            "before": "2026-09-09T21:55:44.204Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagFoundationStatusIndicatorVariantExperiment2"
+          },
+          {
+            "after": "3e3436797a5fc26c53982fe350900ed29d8a0829",
+            "before": "eff306081cc292807ce395409d27a3e85acffde6",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-09T23:32:20.830Z",
+            "before": "2026-09-09T21:55:44.204Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagImporterAceRestPoseFromRig_Staged",
+          "FFlagAssistantExternalInterface_Staged",
+          "FFlagFmodMeteringUsesSeqLock_Staged",
+          "FFlagFmodReverbFastPath_Staged",
+          "FFlagFmodSupportsUnlimitedVirtualChannels_Staged",
+          "FFlagFoundationBaseMenuSubmenuMaxHeight_Staged",
+          "FFlagFoundationStatusIndicatorVariantExperiment2_Staged",
+          "FFlagLuaAppGamePassesDataHydrationMigrationEnabled_Staged"
+        ],
+        "unchanged": 22282
+      }
+    },
+    "LuaPackages": {
+      "current": "38e64fdd35bc814fb5829edc09deba51134ccca4534d1dd66c3dd9b22ffb033d",
+      "files": {
+        "added": [],
+        "changed": [
+          "content-configs/InExperiencePatchConfig/InExperiencePatchConfig.json",
+          "content-configs/PerformanceConfigs/rofiler.js",
+          "content-configs/UniversalAppPatchConfig/UniversalAppPatchConfig.json",
+          "extracontent-models/CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch/instances.json",
+          "extracontent-models/InExperience/InExperience/PatchRoot/CoreScripts/Assets.txt",
+          "extracontent-models/InExperience/InExperience/instances.json",
+          "extracontent-models/UniversalApp/UniversalApp/PatchRoot/CoreScripts/Assets.txt",
+          "extracontent-models/UniversalApp/UniversalApp/instances.json",
+          "index.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 95
+      },
+      "previous": "f3366c755116be14257768141b7bd36d5a02fa2ca289b8f25d0057324a897f11",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Native": {
+      "current": "e99bb4d3b013f76c06096cc34585ed34f62464675b87daa5187b5b4a610f416a",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json",
+          "pe.json",
+          "strings/ascii.txt",
+          "strings/identifiers.txt",
+          "strings/symbols.txt",
+          "strings/utf16.txt",
+          "strings/utf8.txt",
+          "symbols.txt"
+        ],
+        "removed": [],
+        "unchanged": 6
+      },
+      "previous": "48c0f1fdea0d77d1cde227d8c82b6b65ea556c735e258a388e130756800823cc",
+      "semantic": null
+    },
+    "Web": {
+      "current": "283ae547abc07f1cba4d420a6c55ef62498115272ef259c246a90d810142b03a",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "855b9c94592c3bf2775a608dee50d1bd6bab88f27f73c6ce87f5671a8931e3fe",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
