@@ -1,0 +1,154 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "67a2b9bc95f21cac60ae2abcac7b612469565bfdc5445c3c71bda246787bdfec",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "a2fdaa9158d9166182a143e2fdf8649a9034f80c9f187577e2a090714dd7e8f4",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 26
+        }
+      }
+    },
+    "InExperience": {
+      "current": "619eb2ba4d8f9ec79a6e45c86064eebbecf0961a47630d554eb9c150d9b02076",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "eeaafc70485170c85ae4c4fe8bb20d9d4807d2631cfa3d7a64c029f7018327cf",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "5d73b4032753cc9db1e1f3c25915b0004243691d8098d807d9e823a62b789169",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "6c139e6b7935b97597ed9eb7faa7b971bfc4463aa8106db860980932a8f632e1",
+      "semantic": {
+        "added": [
+          "DFFlagFMDFixSubsetJointOob",
+          "DFFlagSatPolyPolyContactEnabled",
+          "DFFlagSimCsgPropertyBasedSimplification",
+          "DFFlagSimCsgSortFragmentOutput",
+          "DFFlagTileSizeSubpixelScaling",
+          "FFlagAESRefreshThumbnailsOnApplyProfileConfiguration",
+          "FFlagAddSDUIEditProfileFramesAction",
+          "FFlagAssetAccessRequest",
+          "FFlagBuildExperienceAnalytics",
+          "FFlagEditableMeshHasSkinningWitness",
+          "FFlagFoundationPopoverContentAnchorFix",
+          "FFlagFriendsRequestsMergeListsWithoutDuplicates",
+          "FFlagModalImpressionEventAddSessionInfo",
+          "FFlagMomentsRefreshOwnMomentsAfterPublish",
+          "FFlagSduiActionSequence",
+          "FFlagUGCValidateMigrateCurveAnim",
+          "FFlagUGCValidationAnimationPackSupport"
+        ],
+        "changed": [
+          {
+            "after": "5f33a22495074602a2dbeefe28698b8de4c44f2c",
+            "before": "e353c78750dc670722d0b6241fae3dcd84b93183",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-09T19:52:45.073Z",
+            "before": "2026-09-09T18:48:42.169Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "5f33a22495074602a2dbeefe28698b8de4c44f2c",
+            "before": "e353c78750dc670722d0b6241fae3dcd84b93183",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-09T19:52:45.073Z",
+            "before": "2026-09-09T18:48:42.169Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagFMDFixSubsetJointOob_Staged",
+          "DFFlagSatPolyPolyContactEnabled_Staged",
+          "DFFlagSimCsgPropertyBasedSimplification_Staged",
+          "DFFlagSimCsgSortFragmentOutput_Staged",
+          "DFFlagTileSizeSubpixelScaling_Staged",
+          "FFlagAESRefreshThumbnailsOnApplyProfileConfiguration_Staged",
+          "FFlagAddSDUIEditProfileFramesAction_Staged",
+          "FFlagAssetAccessRequest_Staged",
+          "FFlagBuildExperienceAnalytics_Staged",
+          "FFlagEditableMeshHasSkinningWitness_Staged",
+          "FFlagFoundationPopoverContentAnchorFix_Staged",
+          "FFlagFriendsRequestsMergeListsWithoutDuplicates_Staged",
+          "FFlagModalImpressionEventAddSessionInfo_Staged",
+          "FFlagMomentsRefreshOwnMomentsAfterPublish_Staged",
+          "FFlagSduiActionSequence_Staged",
+          "FFlagUGCValidateMigrateCurveAnim_Staged",
+          "FFlagUGCValidationAnimationPackSupport_Staged"
+        ],
+        "unchanged": 22259
+      }
+    },
+    "UniversalApp": {
+      "current": "4a2e2b2e5906a4f4f170dc3187b2d77e6a449d74f54dc21002ef2634430563f1",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "fad3d937db73a17271d9034582b785e964e08b6a8e67e6ee1788ee8ad7ec3f2f",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
