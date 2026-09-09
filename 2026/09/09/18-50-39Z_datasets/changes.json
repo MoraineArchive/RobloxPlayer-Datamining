@@ -1,0 +1,131 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-e7d81637d42c4b23",
+    "manifestFiles": 2839,
+    "packages": 22,
+    "version": "0.737.0.7371584"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "a2fdaa9158d9166182a143e2fdf8649a9034f80c9f187577e2a090714dd7e8f4",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "5d53d38bc106b526d55f4ec7c70be6ba74f5564933007ac5f8d46cf9528cf95e",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 26
+        }
+      }
+    },
+    "InExperience": {
+      "current": "eeaafc70485170c85ae4c4fe8bb20d9d4807d2631cfa3d7a64c029f7018327cf",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "3f1f8875f7c1402de32c8537f08e7de10db3e6fe4f53ffdfe3feecb2cf7d0d8d",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "6c139e6b7935b97597ed9eb7faa7b971bfc4463aa8106db860980932a8f632e1",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "48ef31e5d374f861cbe4841412ede823f4c93020c906ec415cd8164949923b72",
+      "semantic": {
+        "added": [
+          "DFFlagTileSizeSubpixelScaling_Staged",
+          "FFlagAXBackgroundGenerationAnalytics",
+          "FFlagAXFixBackgroundGenerationResultMenuNavigation",
+          "FFlagAXReturnModeratedPlusExclusiveBackgrounds2_Staged",
+          "FFlagAXSkipTapDetection",
+          "FStringAXPlusExclusiveBackgroundIds"
+        ],
+        "changed": [
+          {
+            "after": "e353c78750dc670722d0b6241fae3dcd84b93183",
+            "before": "5c4ee5206df24c98527523bba5168c7774a106d4",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-09T18:48:42.169Z",
+            "before": "2026-09-09T18:39:05.516Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "e353c78750dc670722d0b6241fae3dcd84b93183",
+            "before": "5c4ee5206df24c98527523bba5168c7774a106d4",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-09T18:48:42.169Z",
+            "before": "2026-09-09T18:39:05.516Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagCLI198718Comp_IXP",
+          "FFlagAXBackgroundGenerationAnalytics_Staged",
+          "FFlagAXFixBackgroundGenerationResultMenuNavigation_Staged",
+          "FFlagAXSkipTapDetection_Staged",
+          "FStringAXPlusExclusiveBackgroundIds_Staged"
+        ],
+        "unchanged": 22270
+      }
+    },
+    "UniversalApp": {
+      "current": "fad3d937db73a17271d9034582b785e964e08b6a8e67e6ee1788ee8ad7ec3f2f",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "35cbcd37ded75e4732e4d3597a45f99db2a0a5bd275e93036d47876249749430",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
