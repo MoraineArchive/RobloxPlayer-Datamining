@@ -1,8 +1,8 @@
-[![Moraine Roblox Datamining](https://github.com/ImElio/Moraine-asset/blob/main/roblox/banner_roblox.png?raw=true)](https://github.com/ImElio/Moraine-asset/blob/main/roblox/banner_roblox.png)
+[![Moraine Roblox Datamining](https://github.com/MoraineArchive/Moraine-asset/blob/main/roblox/banner_roblox.png?raw=true)](https://github.com/MoraineArchive/Moraine-asset/blob/main/roblox/banner_roblox.png)
 
 # Roblox Player Datamining
 
-Automated Roblox datamining archive maintained by Moraine.
+Automated Roblox Player build tracker and datamining archive maintained by Moraine. It records Windows Player versions, OTA packages, FastVariables, LIVE settings, native metadata, web assets, and chronological diffs from publicly accessible Roblox distribution endpoints.
 
 This repository contains independently observed Windows Player data. The extraction and publication infrastructure is maintained separately from this data archive.
 
@@ -26,6 +26,14 @@ Readable source is preserved only where an official artifact exposes it. Compile
 The summary convention is `+` added, `~` changed, and `-` removed. The presence of an identifier, flag, endpoint, source module, configuration value, or other artifact does not confirm that a feature is enabled, publicly available, or planned for release.
 
 Read [the methodology](docs/METHODOLOGY.md) for provenance and event details, and [SECURITY.md](SECURITY.md) before reporting sensitive material.
+
+## Disclaimer and rights
+
+This is an independent research and archival project. It is not affiliated with, endorsed by, sponsored by, or associated with Roblox Corporation.
+
+Roblox, the Roblox logo, and all related names, trademarks, software, assets, and content are the property of Roblox Corporation or their respective rights holders. This repository documents technical observations for research, interoperability, preservation, and educational purposes. Moraine does not claim ownership of Roblox intellectual property.
+
+No license is granted for third-party material contained or referenced in this archive. See [NOTICE.md](NOTICE.md) for the complete rights notice and removal-request information.
 
 ## Commit comments
 
