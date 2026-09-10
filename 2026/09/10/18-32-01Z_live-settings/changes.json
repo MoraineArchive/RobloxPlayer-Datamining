@@ -1,0 +1,73 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "0c5a5e6d998fee39dc068c603304340ba250c6ccd1836ca7e0eee2852acd4d63",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "da13c65eb9345e77846bee2b44e7db21006d0d22b0dd2dd0ef70f2c073417f45",
+      "semantic": {
+        "added": [
+          "DFFlagRbxTransportRxOverflowBuffer",
+          "DFFlagRbxTransportShiftPhysicsTimestamp",
+          "FFlagAXTestDontUseSkeletonOnloadInCatalog_IXP",
+          "FFlagAXTestSkeletonInCatalogExposureLogging_IXP",
+          "FFlagAXTestSkeletonInCatalog_IXP",
+          "FFlagVoiceReceiveJoinedVoiceV2_Staged"
+        ],
+        "changed": [
+          {
+            "after": "8ef1bfcf33ce44e468e3198b08ab7ea1f01827d0",
+            "before": "6da1ed97af356c1899d88620df67b902c103fbf0",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-10T18:31:23.570Z",
+            "before": "2026-09-10T17:58:53.659Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.ItemCardLoadingThumbnail;51343603;dev_controlled",
+            "before": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MemoizeItemCardForPerf2;1000258349;dev_controlled",
+            "name": "FFlagAXItemCardComponentsMemo_IXP"
+          },
+          {
+            "after": "10",
+            "before": "1",
+            "name": "FIntPredictedSpawnPrewarmStatsThrottleHP"
+          },
+          {
+            "after": "8ef1bfcf33ce44e468e3198b08ab7ea1f01827d0",
+            "before": "6da1ed97af356c1899d88620df67b902c103fbf0",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-10T18:31:23.570Z",
+            "before": "2026-09-10T17:58:53.659Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagRbxTransportRxOverflowBuffer_Staged",
+          "DFFlagRbxTransportShiftPhysicsTimestamp_Staged",
+          "FIntPredictedSpawnPrewarmStatsThrottleHP_Staged"
+        ],
+        "unchanged": 22349
+      }
+    }
+  },
+  "schemaVersion": 1
+}
