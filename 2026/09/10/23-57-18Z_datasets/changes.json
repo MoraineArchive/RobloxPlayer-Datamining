@@ -1,0 +1,85 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "eab1acb30bd6b0aa1d1051158e005a95120c5d4352b79e0628f8492da63bd1c0",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "d3ee6551fba2499c27b12918b62ff485d1a7fa225ee9ddb0208ad1c426c61ee0",
+      "semantic": {
+        "added": [
+          "DFFlagRbxStorageReportDbCacheAvailable_Staged",
+          "FFlagAXFixClearScreensEmptyStack_Staged",
+          "FFlagFixCrashOnCancelFailedImportSession",
+          "FFlagFixSduiEdpTtiColdStart",
+          "FFlagFixUseNewGetContentApiUrlAndModKey",
+          "FFlagStudioUpdateDataModelListenerBridge2"
+        ],
+        "changed": [
+          {
+            "after": "0ef34bc98afe46661d016a4face9f131264c924a",
+            "before": "23629ebbf033db30098ef3348c5f0ffc058dc57a",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-10T23:54:08.307Z",
+            "before": "2026-09-10T23:22:21.945Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagEnableCommunitiesHttpDeepLink"
+          },
+          {
+            "after": "0ef34bc98afe46661d016a4face9f131264c924a",
+            "before": "23629ebbf033db30098ef3348c5f0ffc058dc57a",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-10T23:54:08.307Z",
+            "before": "2026-09-10T23:22:21.945Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagFixCrashOnCancelFailedImportSession_Staged",
+          "FFlagFixSduiEdpTtiColdStart_Staged",
+          "FFlagFixUseNewGetContentApiUrlAndModKey_Staged",
+          "FFlagStudioUpdateDataModelListenerBridge2_Staged"
+        ],
+        "unchanged": 22213
+      }
+    },
+    "Web": {
+      "current": "8c1dcc39a0148a439685b8ee1fa407b1e7d9a86622cb0a682624572772734edd",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/Sentry.js",
+          "js.rbxcdn.com/page-1/Sentry.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "1785ffd18f07e8a30d70a47c50142d82c934a5da2faae55b038ff0d4f3a83e62",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
