@@ -1,0 +1,87 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "4da5dc5724895e4a65aea5f4c3e10ffdeac5a251640ce8dc9df5114ab89f0cce",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "6572f7b01d91a4cc2ac342b9339a4d03000e97f165c9a4d1e3dc8185044dba99",
+      "semantic": {
+        "added": [
+          "DFFlagLinuxSysRAMConvertToMB",
+          "FFlagAXBackgroundGenerationV2",
+          "FFlagFixCrashOnCancelFailedImportSession_Staged",
+          "FFlagSduiFixSearchTelemetry"
+        ],
+        "changed": [
+          {
+            "after": "c2cd5837ae0a384ae272be204ae2df16ff50c8ee",
+            "before": "e5b78c7d792016a4507d1698d909d371e48cb4e0",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-10T21:30:08.248Z",
+            "before": "2026-09-10T21:10:30.744Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "c2cd5837ae0a384ae272be204ae2df16ff50c8ee",
+            "before": "e5b78c7d792016a4507d1698d909d371e48cb4e0",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-10T21:30:08.248Z",
+            "before": "2026-09-10T21:10:30.744Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagLinuxSysRAMConvertToMB_Staged",
+          "FFlagAXBackgroundGenerationV2_Staged",
+          "FFlagSduiFixSearchTelemetry_Staged"
+        ],
+        "unchanged": 22374
+      }
+    },
+    "Web": {
+      "current": "bc02d14b1a1a01be71f1507b9f6619659c1c70530e126d9a0a0aeed083630d16",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "1785ffd18f07e8a30d70a47c50142d82c934a5da2faae55b038ff0d4f3a83e62",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
