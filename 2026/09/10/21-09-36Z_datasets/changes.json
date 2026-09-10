@@ -1,0 +1,176 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "f37a884214efae5e4c92d9d9dbb0464ec9982381543bb00f0a888575db5cf4d2",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "0c5a5e6d998fee39dc068c603304340ba250c6ccd1836ca7e0eee2852acd4d63",
+      "semantic": {
+        "added": [
+          "DFFlagAnimGraphTransitionBeforeFinish",
+          "DFFlagLinuxSysRAMConvertToMB_Staged",
+          "DFFlagRbxTransportReadLowercaseGameFqdn",
+          "DFFlagRbxTransportWtSessionDatagramCallbackCleanup",
+          "DFFlagRealtimeDurableGapEventCallback",
+          "DFFlagRequestOrchestratorRetryAttemptHeaderEnabled",
+          "DFFlagUseClientContextForSubscriptionDetails",
+          "FFlagAXBackgroundGenerationV2_Staged",
+          "FFlagAXBackgroundsEndTryOnOnSelect",
+          "FFlagAXBackgroundsYouMayAlsoLike",
+          "FFlagAXBringingItBack_Staged",
+          "FFlagAXEditProfileImageFillCardHeight",
+          "FFlagAXFixPPEV2ConsoleSidebarNav",
+          "FFlagAXFixR6CharacterPlacement",
+          "FFlagAXFixWidgetListSeeAllListReuse",
+          "FFlagAXHideBottomNavForEditProfileImage",
+          "FFlagAXSaveManagerOutsideAX",
+          "FFlagAXSendImpressionsForCatalogOffersBanner_Staged",
+          "FFlagAXSlotsScrollAwayOnlyWithSlots",
+          "FFlagAvatarAbilitiesBetaFeature2",
+          "FFlagCLI207043E3_IXP",
+          "FFlagCLI209762A_IXP",
+          "FFlagDevFrameworkOptionalComponentsFolder_Staged",
+          "FFlagEditProfileImageR15UpgradePrompt",
+          "FFlagEditProfileImageRigTypeOverride",
+          "FFlagEditProfileImageV2Enabled7_Staged",
+          "FFlagEnableCommunitiesHttpDeepLink",
+          "FFlagExpChatWindowStatusEventFixes_Staged",
+          "FFlagFixDiffAndCommitRaceCondition",
+          "FFlagFixR20UnlockPromptDesign",
+          "FFlagFriendsChatHasFriendsGateRC1",
+          "FFlagHideLoginV2PasskeyUntilAvailable",
+          "FFlagIgnoreQuickSignInValidationWhileClosing",
+          "FFlagLuaAppReactTreeUnmountCounter_Staged",
+          "FFlagLuaAppSentryQueueMetrics_Staged",
+          "FFlagLuaAppsEnableDynamicLogoWidth",
+          "FFlagLuauCodegenNoLinearFastpcall",
+          "FFlagLuauFastpcallInterrupt",
+          "FFlagLuauInstantiationCheckArgumentsDedup",
+          "FFlagLuauLanguageServiceDocumentUriModuleNamesForStudio2",
+          "FFlagMomentsCreationEntryOutcome",
+          "FFlagMomentsFeedMediaLoadAttemptedEvent",
+          "FFlagMomentsJoinImpression",
+          "FFlagProfileFramesNewLabelEnabled",
+          "FFlagRelaxOnPlayTimeSinceLastCrash",
+          "FFlagRenderForceUnifiedZNearPlaneZ",
+          "FFlagRobloxPlusEnableNewFeatureList",
+          "FFlagScriptVersionHistoryUseUpdateSourceAsyncToMakeDraft",
+          "FFlagSduiFixSearchTelemetry_Staged",
+          "FFlagSlimTranscoderStatusTint",
+          "FFlagTTSUseGenerateAudioAsset",
+          "FFlagVoiceReceiveJoinedVoiceV2",
+          "FStringAXTestSkeletonInCatalogLayerName"
+        ],
+        "changed": [
+          {
+            "after": "284ac04bd172250b2c27d7da4aeda516d5fd0af1",
+            "before": "8ef1bfcf33ce44e468e3198b08ab7ea1f01827d0",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-10T21:07:40.923Z",
+            "before": "2026-09-10T18:31:23.570Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagAdsLifecycleManagerOwnsOnDemandAdsProvider"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagEnableCollaboratorSafetyEvictionCheck4"
+          },
+          {
+            "after": "284ac04bd172250b2c27d7da4aeda516d5fd0af1",
+            "before": "8ef1bfcf33ce44e468e3198b08ab7ea1f01827d0",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-10T21:07:40.923Z",
+            "before": "2026-09-10T18:31:23.570Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagAnimGraphTransitionBeforeFinish_Staged",
+          "DFFlagRbxTransportWtSessionDatagramCallbackCleanup_Staged",
+          "DFFlagRealtimeDurableGapEventCallback_Staged",
+          "DFFlagUseClientContextForSubscriptionDetails_Staged",
+          "FFlagAXBackgroundsEndTryOnOnSelect_Staged",
+          "FFlagAXBackgroundsYouMayAlsoLike_Staged",
+          "FFlagAXEditProfileImageFillCardHeight_Staged",
+          "FFlagAXFixPPEV2ConsoleSidebarNav_Staged",
+          "FFlagAXFixR6CharacterPlacement_Staged",
+          "FFlagAXFixWidgetListSeeAllListReuse_Staged",
+          "FFlagAXHideBottomNavForEditProfileImage_Staged",
+          "FFlagAXSlotsScrollAwayOnlyWithSlots_Staged",
+          "FFlagAdsLifecycleManagerOwnsOnDemandAdsProvider_Staged",
+          "FFlagAvatarAbilitiesBetaFeature2_Staged",
+          "FFlagEnableCollaboratorSafetyEvictionCheck4_Staged",
+          "FFlagEnableCommunitiesHttpDeepLink_Staged",
+          "FFlagFixR20UnlockPromptDesign_Staged",
+          "FFlagFriendsChatHasFriendsGateRC1_Staged",
+          "FFlagHideLoginV2PasskeyUntilAvailable_Staged",
+          "FFlagIgnoreQuickSignInValidationWhileClosing_Staged",
+          "FFlagLuaAppsEnableDynamicLogoWidth_Staged",
+          "FFlagLuauCodegenNoLinearFastpcall_Staged",
+          "FFlagLuauFastpcallInterrupt_Staged",
+          "FFlagMomentsCreationEntryOutcome_Staged",
+          "FFlagMomentsFeedMediaLoadAttemptedEvent_Staged",
+          "FFlagMomentsJoinImpression_Staged",
+          "FFlagRelaxOnPlayTimeSinceLastCrash_Staged",
+          "FFlagSlimReplicationFilterOutSkeletonsExceedingMaxReplicablePoseSize_Staged",
+          "FFlagSlimReplicationUseGlobalServerThrottle_Staged",
+          "FFlagSlimReplicationUseStaleFrameStrategy2_Staged",
+          "FFlagSlimTranscoderStatusTint_Staged",
+          "FFlagTTSUseGenerateAudioAsset_Staged",
+          "FFlagVoiceReceiveJoinedVoiceV2_Staged"
+        ],
+        "unchanged": 22322
+      }
+    },
+    "Web": {
+      "current": "bc02d14b1a1a01be71f1507b9f6619659c1c70530e126d9a0a0aeed083630d16",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "1785ffd18f07e8a30d70a47c50142d82c934a5da2faae55b038ff0d4f3a83e62",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}

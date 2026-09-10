@@ -1,0 +1,20 @@
+{
+  "archivePath": "2026/09/10/21-09-36Z_datasets",
+  "commit": {
+    "body": "LiveSettings files +0 ~1 -0\nWeb files          +6 ~2 -3\nLiveSettings       +53 ~6 -33",
+    "subject": "10 September 2026 - Datamining update"
+  },
+  "guid": "version-c5aecda2245e4fae",
+  "id": "6f2f1a17ea4e4dbd324c5a6c6c7752c4a2262a009cbfb307f1417b7ddad7d960",
+  "observedAt": "2026-09-10T21:09:36.106Z",
+  "product": "Player",
+  "schemaVersion": 1,
+  "surfaces": [
+    "LiveSettings",
+    "Web"
+  ],
+  "target": "WindowsPlayer",
+  "type": "datasets.changed",
+  "upstreamChange": true,
+  "version": "0.738.0.7381397"
+}
