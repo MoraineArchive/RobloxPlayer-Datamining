@@ -1,0 +1,63 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "da13c65eb9345e77846bee2b44e7db21006d0d22b0dd2dd0ef70f2c073417f45",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "ac5d456bfdc3079809fe43f6ed94e8ccb3285e51aaed5259a046f396e232170c",
+      "semantic": {
+        "added": [
+          "FFlagLuauCodegenNoLinearFastpcall_Staged",
+          "FFlagLuauFastpcallInterrupt_Staged",
+          "FFlagSlimReplicationFilterOutSkeletonsExceedingMaxReplicablePoseSize_Staged",
+          "FFlagSlimReplicationUseGlobalServerThrottle_Staged",
+          "FFlagSlimReplicationUseStaleFrameStrategy2_Staged"
+        ],
+        "changed": [
+          {
+            "after": "6da1ed97af356c1899d88620df67b902c103fbf0",
+            "before": "c78558d7ac228e4bb7b5b56f8119cf814038e6bd",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-10T17:58:53.659Z",
+            "before": "2026-09-10T17:53:43.763Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "6da1ed97af356c1899d88620df67b902c103fbf0",
+            "before": "c78558d7ac228e4bb7b5b56f8119cf814038e6bd",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-10T17:58:53.659Z",
+            "before": "2026-09-10T17:53:43.763Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagRequestOrchestratorCountersEnabled_Staged",
+          "DFFlagRequestOrchestratorRetryAttemptHeaderEnabled_Staged",
+          "FFlagFixBulkPurchaseStarterGuiRename_Staged",
+          "FFlagHttpUseSharedRetryHeader_Staged"
+        ],
+        "unchanged": 22349
+      }
+    }
+  },
+  "schemaVersion": 1
+}
