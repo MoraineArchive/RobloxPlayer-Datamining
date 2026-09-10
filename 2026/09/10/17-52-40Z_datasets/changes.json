@@ -1,0 +1,127 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "bec8c5bfb6f54cdf5a3e19eeffe5fe5cb9eb0007c480da91445f56ece6f004ef",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "47c4523fd231812b0c9e9b5cc1dbf3ed2af7f8b00494cfde7184b61988214faa",
+      "semantic": {
+        "added": [
+          "DFFlagAnimGraphTransitionBeforeFinish_Staged",
+          "DFFlagFixCyclicReplicationRootDependencyStackOverflow",
+          "DFFlagRbxStorageReportUniqueIDForAllPoints",
+          "DFFlagRbxTransportRxOverflowBuffer_Staged",
+          "DFFlagRbxTransportShiftPhysicsTimestamp_Staged",
+          "DFFlagRbxTransportWtSessionDatagramCallbackCleanup_Staged",
+          "DFFlagRealtimeDurableGapEventCallback_Staged",
+          "DFFlagRequestOrchestratorCountersEnabled_Staged",
+          "DFFlagRequestOrchestratorRetryAttemptHeaderEnabled_Staged",
+          "DFFlagUseClientContextForSubscriptionDetails_Staged",
+          "FFlagAXBackgroundsEndTryOnOnSelect_Staged",
+          "FFlagAXBackgroundsYouMayAlsoLike_Staged",
+          "FFlagAXEditProfileImageFillCardHeight_Staged",
+          "FFlagAXFixPPEV2ConsoleSidebarNav_Staged",
+          "FFlagAXFixR6CharacterPlacement_Staged",
+          "FFlagAXFixWidgetListSeeAllListReuse_Staged",
+          "FFlagAXHideBottomNavForEditProfileImage_Staged",
+          "FFlagAXSlotsScrollAwayOnlyWithSlots_Staged",
+          "FFlagAdsLifecycleManagerOwnsOnDemandAdsProvider_Staged",
+          "FFlagAvatarAbilitiesBetaFeature2_Staged",
+          "FFlagEnableCollaboratorSafetyEvictionCheck4_Staged",
+          "FFlagEnableCommunitiesHttpDeepLink_Staged",
+          "FFlagFixBulkPurchaseStarterGuiRename_Staged",
+          "FFlagFixR20UnlockPromptDesign_Staged",
+          "FFlagFriendsChatHasFriendsGateRC1_Staged",
+          "FFlagHideLoginV2PasskeyUntilAvailable_Staged",
+          "FFlagHttpUseSharedRetryHeader_Staged",
+          "FFlagIgnoreQuickSignInValidationWhileClosing_Staged",
+          "FFlagLuaAppsEnableDynamicLogoWidth_Staged",
+          "FFlagRelaxOnPlayTimeSinceLastCrash_Staged",
+          "FFlagSlimTranscoderStatusTint_Staged",
+          "FFlagTTSUseGenerateAudioAsset_Staged",
+          "FIntPredictedSpawnPrewarmStatsThrottleHP_Staged"
+        ],
+        "changed": [
+          {
+            "after": "ea99aa35becea3dbe5038a4f4432bfc593aad90c",
+            "before": "83afb0464e40d9d6ab5077f6db5d6cafce631bb8",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-10T17:51:56.001Z",
+            "before": "2026-09-10T03:02:07.809Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "1;Roblox.ProjectArgo;ProjectArgo.MeTabProfileIcon;1265454578;flagbank",
+            "before": "1;Roblox.ProjectArgo;ProjectArgo.MeTabProfileIcon;2146890090;flagbank",
+            "name": "FFlagAXUseProfileIconEntryPoint_IXP"
+          },
+          {
+            "after": "1;PlayerApp.SearchResultsPage.PowerSearch;OmniSearchGameItemsShadowTraffic2;100418201;dev_controlled",
+            "before": "1;PlayerApp.SearchResultsPage.PowerSearch;GameItemsOnEmphasizeTile;1173296535;flagbank",
+            "name": "FFlagLuaAppEnableSearchStreamingEndpoint_IXP"
+          },
+          {
+            "after": "True;9707042192;9671070925;8491889239;9164570436;9859999587;5824195619;9876947216;10004846655;9605987780;10036955953;10123702430;10241252491;10382950395;10390927281;10390930030;10390933265;10538358999;10538473450;7738776082;8005766508;10643104390;10631479676;10762769249;10765877033",
+            "before": "True;9707042192;9671070925;8491889239;9164570436;9859999587;5824195619;9876947216;10004846655;9605987780;10036955953;10123702430;10241252491;10382950395;10390927281;10390930030;10390933265;10538358999;10538473450;7738776082;8005766508;10643104390;10631479676;10762769249",
+            "name": "FFlagLuaAppIsClickoutEnabledUniverse_UniverseFilter"
+          },
+          {
+            "after": "1;PlayerApp.SearchResultsPage.PowerSearch;OmniSearchGameItemsShadowTraffic2;100418201;dev_controlled",
+            "before": "1;PlayerApp.SearchResultsPage.PowerSearch;GameItemsOnEmphasizeTile;1173296535;flagbank",
+            "name": "FFlagLuaAppSduiStreamingChunkedResponses_IXP"
+          },
+          {
+            "after": "ea99aa35becea3dbe5038a4f4432bfc593aad90c",
+            "before": "83afb0464e40d9d6ab5077f6db5d6cafce631bb8",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-10T17:51:56.001Z",
+            "before": "2026-09-10T03:02:07.809Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFIntISRMinPlayerVelocityPriorityComponentHundredth_UniverseFilter",
+          "DFIntISRPlayerPriorityMultiplierHundredth_UniverseFilter"
+        ],
+        "unchanged": 22313
+      }
+    },
+    "Web": {
+      "current": "1785ffd18f07e8a30d70a47c50142d82c934a5da2faae55b038ff0d4f3a83e62",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-0/Experimentation.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/Experimentation.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "cfa62c201ddb691b06a4c4080b3731bc48f770fc2f7bc37e2c057c1f34882a12",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
