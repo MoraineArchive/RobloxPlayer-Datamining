@@ -1,0 +1,84 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "47c4523fd231812b0c9e9b5cc1dbf3ed2af7f8b00494cfde7184b61988214faa",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "ab7de992174eb16a83e84519b937ab14cd79919d7fc4f3975c639fd8fe4a01d5",
+      "semantic": {
+        "added": [
+          "DFFlagISRPriorityUseConfigurableDistanceAndSize",
+          "DFFlagISRPriorityUseLinearNOURadius",
+          "DFIntAdjustMixedPriorityFairlyMultiplicativeConstantThousandths",
+          "DFIntISRMinVelocityPriorityComponentHundredth",
+          "DFIntISRPriorityMinDistanceHundredths",
+          "FFlagAXBackgroundGenerationCreateTileTooltip",
+          "FFlagAXBackgroundGenerationInventoryUpsellBanner",
+          "FFlagAXBackgroundGenerationOptimisticGrant",
+          "FFlagAXBackgroundUploadQuotaError",
+          "FFlagAXPlusExclusiveBackgroundTryOn",
+          "FFlagLuauBlockingTypeAliasExpansion",
+          "FFlagLuauNewPointerEncode"
+        ],
+        "changed": [
+          {
+            "after": "83afb0464e40d9d6ab5077f6db5d6cafce631bb8",
+            "before": "b35b8582fb6d8b1abaf6d2966a49f20266a4945b",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-10T03:02:07.809Z",
+            "before": "2026-09-10T00:37:18.448Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagEnableDisplayWakeLock2"
+          },
+          {
+            "after": "83afb0464e40d9d6ab5077f6db5d6cafce631bb8",
+            "before": "b35b8582fb6d8b1abaf6d2966a49f20266a4945b",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-10T03:02:07.809Z",
+            "before": "2026-09-10T00:37:18.448Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagISRPriorityUseConfigurableDistanceAndSize_Staged",
+          "DFFlagISRPriorityUseLinearNOURadius_Staged",
+          "DFIntAdjustMixedPriorityFairlyMultiplicativeConstantThousandths_Staged",
+          "DFIntISRMinVelocityPriorityComponentHundredth_Staged",
+          "DFIntISRPriorityMinDistanceHundredths_Staged",
+          "FFlagAXBackgroundGenerationCreateTileTooltip_Staged",
+          "FFlagAXBackgroundGenerationInventoryUpsellBanner_Staged",
+          "FFlagAXBackgroundGenerationOptimisticGrant_Staged",
+          "FFlagAXBackgroundUploadQuotaError_Staged",
+          "FFlagAXPlusExclusiveBackgroundTryOn_Staged",
+          "FFlagEnableDisplayWakeLock2_Staged",
+          "FFlagLuauBlockingTypeAliasExpansion_Staged",
+          "FFlagLuauNewPointerEncode_Staged"
+        ],
+        "unchanged": 22306
+      }
+    }
+  },
+  "schemaVersion": 1
+}
