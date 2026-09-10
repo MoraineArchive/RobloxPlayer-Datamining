@@ -1,0 +1,80 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "5c90b8eb4610216e826722dd517ddd087f76ca7d77a18722c398c93d8b50472c",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "62c74beb66cfd26d6de4084b31b3109717746c10ac09024159e25db71a2d604e",
+      "semantic": {
+        "added": [
+          "FFlagCacheCredentialsProtocolIsAvailable",
+          "FFlagCollab11341SupportDirectoryLinks",
+          "FFlagDeprecateNavigateToUserInfoJoinable",
+          "FFlagPermissionAlertContentUpgrade",
+          "FFlagSurfaceAppearanceInvalidateFix"
+        ],
+        "changed": [
+          {
+            "after": "5b19b9d1eb88da4e17d826250ffbfd168baa3682",
+            "before": "710ef09ce8684601b1b2cf757f1ebd581d7b9c3f",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-10T00:13:41.293Z",
+            "before": "2026-09-09T23:59:18.507Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "5b19b9d1eb88da4e17d826250ffbfd168baa3682",
+            "before": "710ef09ce8684601b1b2cf757f1ebd581d7b9c3f",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-10T00:13:41.293Z",
+            "before": "2026-09-09T23:59:18.507Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagCacheCredentialsProtocolIsAvailable_Staged",
+          "FFlagCollab11341SupportDirectoryLinks_Staged",
+          "FFlagDeprecateNavigateToUserInfoJoinable_Staged",
+          "FFlagPermissionAlertContentUpgrade_Staged",
+          "FFlagSurfaceAppearanceInvalidateFix_Staged"
+        ],
+        "unchanged": 22316
+      }
+    },
+    "Web": {
+      "current": "cfa62c201ddb691b06a4c4080b3731bc48f770fc2f7bc37e2c057c1f34882a12",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "855b9c94592c3bf2775a608dee50d1bd6bab88f27f73c6ce87f5671a8931e3fe",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
