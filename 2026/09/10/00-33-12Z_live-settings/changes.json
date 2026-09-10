@@ -1,0 +1,67 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "c092f8d35bdc84dcc4d65056f6efed07a8c2d41d750c06e1858d976779c6764e",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "5c90b8eb4610216e826722dd517ddd087f76ca7d77a18722c398c93d8b50472c",
+      "semantic": {
+        "added": [
+          "FFlagAnimSkeletonViewSettings",
+          "FFlagLuaAppFeatureTileAdPlayerDarkLetterbox",
+          "FFlagStudioDockNewScriptToLastScriptPanel"
+        ],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagStampHttpScriptIdentity"
+          },
+          {
+            "after": "a4ce040aa0aab7984811e2d404ced5c15e118aff",
+            "before": "5b19b9d1eb88da4e17d826250ffbfd168baa3682",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-10T00:27:09.717Z",
+            "before": "2026-09-10T00:13:41.293Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "a4ce040aa0aab7984811e2d404ced5c15e118aff",
+            "before": "5b19b9d1eb88da4e17d826250ffbfd168baa3682",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-10T00:27:09.717Z",
+            "before": "2026-09-10T00:13:41.293Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagStampHttpScriptIdentity_Staged",
+          "FFlagAnimSkeletonViewSettings_Staged",
+          "FFlagLuaAppFeatureTileAdPlayerDarkLetterbox_Staged",
+          "FFlagRenderForceUnifiedZNearPlaneZ_Staged",
+          "FFlagStudioDockNewScriptToLastScriptPanel_Staged"
+        ],
+        "unchanged": 22315
+      }
+    }
+  },
+  "schemaVersion": 1
+}
