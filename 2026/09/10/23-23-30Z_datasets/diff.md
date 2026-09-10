@@ -1,0 +1,239 @@
+[![Moraine Roblox Datamining](https://github.com/MoraineArchive/Moraine-asset/blob/main/roblox/banner_roblox.png?raw=true)](https://github.com/MoraineArchive/Moraine-asset/blob/main/roblox/banner_roblox.png)
+
+# Roblox Player Datamining Diff
+
+**Observed:** 11/09/2026, 01:23:30 CEST (23:23:30 UTC)
+
+## LiveSettings
+
+**File changes:** +0 ~1 -0
+
+- **Changed:** [`current.json`](../../../../current/LiveSettings/current.json)
+
+### Values
+
+- **Added:** `FFlagAddFriendsClassmateFriendRequestSource_Staged`
+- **Added:** `FFlagControlBarUseProfileFrameThumbnail_Staged`
+- **Added:** `FFlagDevFrameworkOptionalComponentsFolder`
+- **Added:** `FFlagEditProfileImageV2Enabled7`
+- **Added:** `FFlagEnableCurrencyTransferWizardVPCPrologue_Staged`
+- **Added:** `FFlagEnableTrustedFriendsWizardVPCPrologue_Staged`
+- **Added:** `FFlagExpChatWindowStatusEventFixes`
+- **Added:** `FFlagExplorerToggleSelectAll_Staged`
+- **Added:** `FFlagFixSduiEdpTtiColdStart_Staged`
+- **Added:** `FFlagFixUseNewGetContentApiUrlAndModKey_Staged`
+- **Added:** `FFlagFlyoutAlternateEntryPointUseProfileFrameThumbnail_Staged`
+- **Added:** `FFlagMoveRemaingAssetRequestsToAssetProvider_Staged`
+- **Added:** `FFlagReplicatePlayerUserIdMode_Staged`
+- **Added:** `FFlagStudioAutoUpdateWithNoEmergencyDialog_Staged`
+- **Added:** `FFlagStudioUpdateDataModelListenerBridge2_Staged`
+- **Added:** `FFlagTerrainEditorClearStudioClipboardOnCopy_Staged`
+- **Added:** `FFlagUseAnimateScrollViewToSelectionHelper_Staged`
+- **Added:** `FIntEnableDataModelChangeTrackingBaseHundredthPercent_Staged`
+- **Changed:** `DFStringFlagRepoGitHashDynamicString`
+  - Before: `15a9dab63557d7048e06cff50d4b9b06f094a06e`
+  - After: `23629ebbf033db30098ef3348c5f0ffc058dc57a`
+- **Changed:** `DFStringFlipTimeStampDynamicString`
+  - Before: `2026-09-10T21:37:55.276Z`
+  - After: `2026-09-10T23:22:21.945Z`
+- **Changed:** `FStringFlagRepoGitHashFastString`
+  - Before: `15a9dab63557d7048e06cff50d4b9b06f094a06e`
+  - After: `23629ebbf033db30098ef3348c5f0ffc058dc57a`
+- **Changed:** `FStringFlipTimeStampFastString`
+  - Before: `2026-09-10T21:37:55.276Z`
+  - After: `2026-09-10T23:22:21.945Z`
+- **Removed:** `DFFlagAddKtxContentHash2`
+- **Removed:** `DFFlagAnimationCurveAllowIkTargets`
+- **Removed:** `DFFlagBroadphaseCrash`
+- **Removed:** `DFFlagCCSD9183`
+- **Removed:** `DFFlagCCSD9184`
+- **Removed:** `DFFlagCCSD9185`
+- **Removed:** `DFFlagClientDetailsReplicatorStats`
+- **Removed:** `DFFlagConvexDecompCompressionAnalytics681`
+- **Removed:** `DFFlagDataModelEngineContextSet`
+- **Removed:** `DFFlagDontRoundPluginWindowSize`
+- **Removed:** `DFFlagEmitSafetyTelemetryInCallbackEnable`
+- **Removed:** `DFFlagFasterFolderSetName`
+- **Removed:** `DFFlagFasterScriptSetName`
+- **Removed:** `DFFlagFasterSequencePushes`
+- **Removed:** `DFFlagFeatureInterventionNamespaceEnabled`
+- **Removed:** `DFFlagFixAdInstancesNewAllowedTypesOnly`
+- **Removed:** `DFFlagFixAdsClangTidyCallAndMessage`
+- **Removed:** `DFFlagFixAdsClangTidyModernizeUseNull`
+- **Removed:** `DFFlagFixAdsRobloxNoExceptions`
+- **Removed:** `DFFlagFixShowRewardedVideoAdHang`
+- **Removed:** `DFFlagFixTextDirectionNotUpdating`
+- **Removed:** `DFFlagFixTextDirectionNotUpdating_PlaceFilter`
+- **Removed:** `DFFlagFixWhiteSpaceCauseDuplicateText`
+- **Removed:** `DFFlagHttpThrottleEarlierHandling`
+- **Removed:** `DFFlagInternalExportAllowCSGDecomp2`
+- **Removed:** `DFFlagLegacyRedundantPlayerCheckAnalytics`
+- **Removed:** `DFFlagMemoryStoreInsightMetricsEnabled`
+- **Removed:** `DFFlagMemoryStoreUpdateAsyncThrowIfInvalidSortKey`
+- **Removed:** `DFFlagMigrateAvatarTelemetryToDurationLogger`
+- **Removed:** `DFFlagNewInstanceItemPlayerAnalytics`
+- **Removed:** `DFFlagNewReplicatorConnectionStartTime`
+- **Removed:** `DFFlagOnDemandAdsProviderConstructAdContentLoader`
+- **Removed:** `DFFlagOptimizeClusterCacheAlloc`
+- **Removed:** `DFFlagPathfindingMultipleNavMeshPreAnalyitcs`
+- **Removed:** `DFFlagRakNetPriorityPings`
+- **Removed:** `DFFlagRayBridgeClosestPointPrecise`
+- **Removed:** `DFFlagReportContextActionServiceShiftLockEvents`
+- **Removed:** `DFFlagReportIs64BitAppSupportedForAndroid`
+- **Removed:** `DFFlagSimComputeSteppingAssemblyRadius`
+- **Removed:** `DFFlagSimFixAssemblyRadiusCalc`
+- **Removed:** `DFFlagSimRefactorIndexMultiSetRepack`
+- **Removed:** `DFFlagSwoccMemCat`
+- **Removed:** `DFFlagTeleportFailOnPermissionResetBugFix`
+- **Removed:** `DFFlagTrackEditableLoadContentTypes`
+- **Removed:** `DFFlagUseNewPhysicsSmoothingFactor`
+- **Removed:** `DFFlagVoiceChatClientControlPlaneEnableOperationTimeoutGranular`
+- **Removed:** `DFFlagWindowsCleanUpOldVersions2`
+- **Removed:** `DFFlagWrappedThreadCreate`
+- **Removed:** `DFIntMemoryStoreInsightMetricsUniverseRolloutPercentage`
+- **Removed:** `DFIntNIIPlayerCloudEditAnalyticsHundredths`
+- **Removed:** `DFIntNIIPlayerOldAnalyticsHundredths`
+- **Removed:** `DFIntReportContextActionServiceShiftLockEventsHundrethsPercent`
+- **Removed:** `EnableExternalContentSharingSetClipboardTextAndroid`
+- **Removed:** `FFlagACEEulerAnglesOrder`
+- **Removed:** `FFlagACEFixDynamicTrackSelection`
+- **Removed:** `FFlagACEPartBoneSharedName`
+- **Removed:** `FFlagAESValidateHumanoidDescription`
+- **Removed:** `FFlagAICOChatBotFindVariationFix`
+- **Removed:** `FFlagAXAASnapSliderToMiddle2`
+- **Removed:** `FFlagAXAvatarsTabIXP`
+- **Removed:** `FFlagAXEnableOrganicContentTemplates2`
+- **Removed:** `FFlagAXFilterValuesLogging`
+- **Removed:** `FFlagAXFixLoadingIssueOnTryOnBarHeader`
+- **Removed:** `FFlagAXFixLookPurchaseLogging`
+- **Removed:** `FFlagAXFixValidatePropsForTryOnFromHome`
+- **Removed:** `FFlagAXLookDetailsCloseButtonHover`
+- **Removed:** `FFlagAXLookDetailsKeepTopBarHeight`
+- **Removed:** `FFlagAXLookDetailsPeekViewDidUpdateFix`
+- **Removed:** `FFlagAXTryOnFromHome4`
+- **Removed:** `FFlagAXTryOnFromHomeHidePeekViewShadow`
+- **Removed:** `FFlagAXTryOnFromHomeHideTabBar`
+- **Removed:** `FFlagAXTryOnFromHomeLoggingParams`
+- **Removed:** `FFlagAXTryOnShowLookDetailsDragger`
+- **Removed:** `FFlagAddFriendsTCEducationSetup_v11`
+- **Removed:** `FFlagAimClientTruncateNodeNames`
+- **Removed:** `FFlagAinSettingsHandleAnchored`
+- **Removed:** `FFlagAppChatFixDialogClipping`
+- **Removed:** `FFlagAppChatFixModalRecordEvent`
+- **Removed:** `FFlagAppChatModalImpressionImprovements2`
+- **Removed:** `FFlagAppChatReplaceWithCloseButton`
+- **Removed:** `FFlagAppChatTrustedCommsTransition_v2`
+- **Removed:** `FFlagAppendBodyPartToTitle`
+- **Removed:** `FFlagAssetImportFixStatusesNotUpdating`
+- **Removed:** `FFlagAssetImportRemoveAnimationSuffix`
+- **Removed:** `FFlagBlockOffHandTrigger`
+- **Removed:** `FFlagBootcampCLI160821`
+- **Removed:** `FFlagCinImprovedErrorMessages`
+- **Removed:** `FFlagCinReplaceUploadTextureRequest`
+- **Removed:** `FFlagCliAssignStudioUriToRunnerPlugin`
+- **Removed:** `FFlagColorComparisonFloatToDouble`
+- **Removed:** `FFlagDevFrameworkOptionalComponentsFolder_Staged`
+- **Removed:** `FFlagEarlyOutRichTextParsing`
+- **Removed:** `FFlagEditProfileImageV2Enabled7_Staged`
+- **Removed:** `FFlagEnableHarmonyForGmaAd`
+- **Removed:** `FFlagEnableLayoutModifiers3`
+- **Removed:** `FFlagEnableLayoutModifiers3_PlaceFilter`
+- **Removed:** `FFlagEnableNonUAPAccessoryAdjustment`
+- **Removed:** `FFlagEnablePreferredTextSizeFixGameGrid3`
+- **Removed:** `FFlagExpChatWindowStatusEventFixes_Staged`
+- **Removed:** `FFlagExplorerExposePlusButtonSetting`
+- **Removed:** `FFlagExternalContentSharingEnableSetClipboardText`
+- **Removed:** `FFlagFixIncorrectAppliedLayeredHairOrder`
+- **Removed:** `FFlagFixPublishAvatarVRViewports`
+- **Removed:** `FFlagFixSDLNotificationRace`
+- **Removed:** `FFlagFriendsLandingTileHeightFix`
+- **Removed:** `FFlagGLES3_0EnableCBs2`
+- **Removed:** `FFlagGraphicsClampCBGLES`
+- **Removed:** `FFlagGraphicsGLES3AllPowerVR9`
+- **Removed:** `FFlagGraphicsGLES3_2AllPowerVR9`
+- **Removed:** `FFlagGraphicsGLESPersistentUboAlignedBufferPadding`
+- **Removed:** `FFlagIASStudioDebugState`
+- **Removed:** `FFlagImportQueueGADesignFixes2`
+- **Removed:** `FFlagImportQueueReplaceWithAsync`
+- **Removed:** `FFlagIncreaseMaxEditableImageSize2`
+- **Removed:** `FFlagLuauArityMismatchOnUndersaturatedUnknownArguments`
+- **Removed:** `FFlagLuauBetterCannotCallFunctionPrimitive`
+- **Removed:** `FFlagLuauBetterScopeSelection`
+- **Removed:** `FFlagLuauBlockDiffFragmentSelection`
+- **Removed:** `FFlagLuauErrorSuppressionTypeFunctionArgs`
+- **Removed:** `FFlagLuauFixEmptyTypePackStringification`
+- **Removed:** `FFlagLuauFragmentAutocompleteIfRecommendations`
+- **Removed:** `FFlagLuauGeneralizationCannotMutateAcrossModules`
+- **Removed:** `FFlagLuauNewNonStrictFixGenericTypePacks`
+- **Removed:** `FFlagLuauNormalizationIntersectTablesPreservesExternTypes`
+- **Removed:** `FFlagLuauNotAllBinaryTypeFunsHaveDefaults`
+- **Removed:** `FFlagLuauParseAttributeFixUninit`
+- **Removed:** `FFlagLuauParseStringIndexer`
+- **Removed:** `FFlagLuauPopulateRefinedTypesInFragmentFromOldSolver`
+- **Removed:** `FFlagLuauRemoveTypeCallsForReadWriteProps`
+- **Removed:** `FFlagLuauSimplificationTableExternType`
+- **Removed:** `FFlagLuauStringFormatImprovements`
+- **Removed:** `FFlagLuauTypeFunOptional`
+- **Removed:** `FFlagLuauTypeFunctionSerializeFollowMetatable`
+- **Removed:** `FFlagMainRibbonDropdownButton`
+- **Removed:** `FFlagNewUpsellModalExperimentForDesktop`
+- **Removed:** `FFlagNoFriendsViewWidthFixEnabled`
+- **Removed:** `FFlagObjectExporterSupportEditableImage`
+- **Removed:** `FFlagOpenTelemetryAvoidStaticRunTimeContextCall`
+- **Removed:** `FFlagOpenTelemetryHasStatusCodeAndKind`
+- **Removed:** `FFlagOpenTelemetryUseOtlpExportingEnabled`
+- **Removed:** `FFlagParallelLuauRuntimeConcurrency`
+- **Removed:** `FFlagPartyParticipantDisabledFixEnabled`
+- **Removed:** `FFlagPerformanceControlEnableExposureBasedIXPTesting`
+- **Removed:** `FFlagPlayerGridTileHeightFix`
+- **Removed:** `FFlagPreferredTextSizeFixCommunityProfileExpTile`
+- **Removed:** `FFlagPreferredTextSizeReportMenuButtonTextFix`
+- **Removed:** `FFlagPreloadMinimalFonts`
+- **Removed:** `FFlagPropertiesPanelResetModifiedProperty4`
+- **Removed:** `FFlagRSVPPromptUseConsistentBadgeComponent`
+- **Removed:** `FFlagRefactorDeviceLostCheckingD3D11`
+- **Removed:** `FFlagRefactorSetTextInternal`
+- **Removed:** `FFlagReplaceChromeNotificationBadge2`
+- **Removed:** `FFlagReportFrameNumberAppCrashpadReporter`
+- **Removed:** `FFlagReportFrameNumberBacktrace`
+- **Removed:** `FFlagReportFrameNumberStudioCrashHandler`
+- **Removed:** `FFlagReportLightingIntent`
+- **Removed:** `FFlagReportLightingIntentANR`
+- **Removed:** `FFlagReportLightingIntentCrashHandler`
+- **Removed:** `FFlagReportLightingIntentCrashpad`
+- **Removed:** `FFlagReportLightingIntentJNI`
+- **Removed:** `FFlagRevertDPJBehaviour`
+- **Removed:** `FFlagRibbonSpinboxStyleUpdate`
+- **Removed:** `FFlagSimEnableCSG4Studio4`
+- **Removed:** `FFlagSlotHandlerThreadCheckRemoval`
+- **Removed:** `FFlagSongDetailsUseFoundationSlider`
+- **Removed:** `FFlagStudioAllowScrollDuringDrag2`
+- **Removed:** `FFlagTagEditorUseColorPicker`
+- **Removed:** `FFlagToolboxDeleteAnimationOnUpload`
+- **Removed:** `FFlagToolboxFixCopyIDLabel`
+- **Removed:** `FFlagUIBloxUseNewHeaderBar4`
+- **Removed:** `FFlagUnreduxChatTransparencyV2_IXP`
+- **Removed:** `FFlagUpdateUITabLuaRibbon`
+- **Removed:** `FFlagUseNewUnibarIcon`
+- **Removed:** `FFlagVideoCaptureSwReuseDownloadBuffers`
+- **Removed:** `FIntRbxStorageMinOpenCount`
+- **Removed:** `FStringLooksWidgetThumbnailSize`
+- **Removed:** `GmaSdkAppPromoClickUI2`
+- **Removed:** `OpenGLES2DeprecationPhase2`
+
+## Web
+
+**File changes:** +6 ~2 -3
+
+- **Added:** [`js.rbxcdn.com/page-0/Captcha.js`](../../../../current/Web/js.rbxcdn.com/page-0/Captcha.js)
+- **Added:** [`js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js`](../../../../current/Web/js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js)
+- **Added:** [`js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js`](../../../../current/Web/js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js)
+- **Added:** [`js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js`](../../../../current/Web/js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js)
+- **Added:** [`js.rbxcdn.com/page-0/PresenceRegistration.js`](../../../../current/Web/js.rbxcdn.com/page-0/PresenceRegistration.js)
+- **Added:** [`js.rbxcdn.com/page-0/ReactLanding.js`](../../../../current/Web/js.rbxcdn.com/page-0/ReactLanding.js)
+- **Changed:** [`assets.json`](../../../../current/Web/assets.json)
+- **Changed:** [`js.rbxcdn.com/page-0/pageEnd.js`](../../../../current/Web/js.rbxcdn.com/page-0/pageEnd.js)
+- **Removed:** `js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js`
+- **Removed:** `js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js`
+- **Removed:** `js.rbxcdn.com/page-0/SduiLandingPage.js`
+
