@@ -1,0 +1,110 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "62c74beb66cfd26d6de4084b31b3109717746c10ac09024159e25db71a2d604e",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "72fdf9d2f3404b530aee169d820b3236bd44ced8bedcb895d7901b0d91760577",
+      "semantic": {
+        "added": [
+          "DFFlagAnimRigSerializeGenericFromRig",
+          "DFFlagCollaboratorSafetyEvictionCloudEditOnly",
+          "DFFlagCrashUploadToSentryWindowsEnabled",
+          "DFFlagEnableDynamicCollaboratorSafetyEvictionCheck",
+          "DFFlagFixAnimationTrackInfiniteSpeedStuck",
+          "DFFlagISRPriorityUseConfigurableDistanceAndSize_Staged",
+          "DFFlagISRPriorityUseLinearNOURadius_Staged",
+          "DFIntAdjustMixedPriorityFairlyMultiplicativeConstantThousandths_Staged",
+          "DFIntCrashUploadToSentryWindowsPercentage",
+          "DFIntISRMinVelocityPriorityComponentHundredth_Staged",
+          "DFIntISRPriorityMinDistanceHundredths_Staged",
+          "FFlagAXBackgroundGenerationCreateTileTooltip_Staged",
+          "FFlagAccountSwitcherFocusNavigation",
+          "FFlagAppChatConsolidateTrustedFriendsModal",
+          "FFlagCanCollideChangedSkipsUnregisteredAssembly",
+          "FFlagEnableLoginV2EventImprovements",
+          "FFlagFixSamsungWebFragmentPaymentSessionId",
+          "FFlagLoginV2ModalFocusNavigation"
+        ],
+        "changed": [
+          {
+            "after": "710ef09ce8684601b1b2cf757f1ebd581d7b9c3f",
+            "before": "3e3436797a5fc26c53982fe350900ed29d8a0829",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-09T23:59:18.507Z",
+            "before": "2026-09-09T23:32:20.830Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "710ef09ce8684601b1b2cf757f1ebd581d7b9c3f",
+            "before": "3e3436797a5fc26c53982fe350900ed29d8a0829",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-09T23:59:18.507Z",
+            "before": "2026-09-09T23:32:20.830Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagAnimRigSerializeGenericFromRig_Staged",
+          "DFFlagCollaboratorSafetyEvictionCloudEditOnly_Staged",
+          "DFFlagCrashUploadToSentryWindowsEnabled_Staged",
+          "DFFlagEnableDynamicCollaboratorSafetyEvictionCheck_Staged",
+          "DFFlagFixAnimationTrackInfiniteSpeedStuck_Staged",
+          "DFIntCrashUploadToSentryWindowsPercentage_Staged",
+          "FFlagAccountSwitcherFocusNavigation_Staged",
+          "FFlagAppChatConsolidateTrustedFriendsModal_Staged",
+          "FFlagCanCollideChangedSkipsUnregisteredAssembly_Staged",
+          "FFlagEnableLoginV2EventImprovements_Staged",
+          "FFlagFixSamsungWebFragmentPaymentSessionId_Staged",
+          "FFlagLoginV2ModalFocusNavigation_Staged"
+        ],
+        "unchanged": 22303
+      }
+    },
+    "Web": {
+      "current": "855b9c94592c3bf2775a608dee50d1bd6bab88f27f73c6ce87f5671a8931e3fe",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "283ae547abc07f1cba4d420a6c55ef62498115272ef259c246a90d810142b03a",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
