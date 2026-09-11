@@ -1,0 +1,80 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "f767d6329f0f6c198c0a1077ee6d5bce7b1f1156a295ee2af44d51d067d83fc1",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "03ff713a0c7902666830f9e6fdd4996f0bb519284e579f608883f0e9600f48c1",
+      "semantic": {
+        "added": [
+          "FFlagShopCloseOfferDialogOnCoreMenu_Staged"
+        ],
+        "changed": [
+          {
+            "after": "fef04dcc09d5a3edf6e21cd1404ab4a1cc52a498",
+            "before": "48a4b5414fef2b8af0488cf0a6e37eb6ee2dc970",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-11T16:37:03.414Z",
+            "before": "2026-09-11T05:02:16.832Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "fef04dcc09d5a3edf6e21cd1404ab4a1cc52a498",
+            "before": "48a4b5414fef2b8af0488cf0a6e37eb6ee2dc970",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-11T16:37:03.414Z",
+            "before": "2026-09-11T05:02:16.832Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 22220
+      }
+    },
+    "Web": {
+      "current": "83e9a1d13c3c4df9465041682da1d56fd68dfed410dab0c8ab7506aeaae92ec5",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "2d20db53f1d5b2d320801f01087373c88d392123d347632117b1903a07d8e9a6",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
