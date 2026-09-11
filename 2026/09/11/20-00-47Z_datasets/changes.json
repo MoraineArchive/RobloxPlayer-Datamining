@@ -1,0 +1,84 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "99519cbefaa5fa102f4bbf0faab01299820a0704c78c90edf19fe3a0e3846301",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "d9c6d818d72277c5bd2b3004e07d6951e19cd4eb038a249664d62a94664940e9",
+      "semantic": {
+        "added": [
+          "FFlagAppChatNewSquadJoinButtonLookIconless",
+          "FFlagAppChatSquadButtonColorUpdate"
+        ],
+        "changed": [
+          {
+            "after": "ab74006301f69610cad94b4ab77a2a02134b9af2",
+            "before": "83e0b9cf7e6cebc46597240b51c25cfdf2dcd2a2",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-11T19:57:17.140Z",
+            "before": "2026-09-11T18:43:04.173Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagPromoteRobuxInTopPicks"
+          },
+          {
+            "after": "ab74006301f69610cad94b4ab77a2a02134b9af2",
+            "before": "83e0b9cf7e6cebc46597240b51c25cfdf2dcd2a2",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-11T19:57:17.140Z",
+            "before": "2026-09-11T18:43:04.173Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAppChatNewSquadJoinButtonLookIconless_Staged",
+          "FFlagAppChatSquadButtonColorUpdate_Staged",
+          "FFlagPromoteRobuxInTopPicks_Staged"
+        ],
+        "unchanged": 22229
+      }
+    },
+    "Web": {
+      "current": "a23debe6dfa69511275586c4a60b91500b653dd474e031d16a945b70b2da1334",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/CoreUtilities.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-0/Navigation.js",
+          "js.rbxcdn.com/page-1/CoreUtilities.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/Navigation.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 218
+      },
+      "previous": "aa681c9c263f474fd403177b9925a20d575b188360cc54f701f74b77197d3c00",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
