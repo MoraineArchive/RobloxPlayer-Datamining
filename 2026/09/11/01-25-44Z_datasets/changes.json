@@ -1,0 +1,93 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "8ef3bfafc835ff8fb557afb37d29821f42bcc6c7fd076f5865d58de61c57ef65",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "4621b33a40b8c031cd75c579088e4dfa9eb5fa39f098d234cae979bfbdbe10f1",
+      "semantic": {
+        "added": [
+          "DFFlagRbxStorageReportDbCacheAvailable",
+          "FFlagAddFriendsClassmateFriendRequestSource",
+          "FFlagEditProfileImageV2Enabled7_Staged",
+          "FFlagEnableCurrencyTransferWizardVPCPrologue",
+          "FFlagEnableTrustedFriendsWizardVPCPrologue",
+          "FFlagExplorerToggleSelectAll",
+          "FFlagReplicatePlayerUserIdMode",
+          "FFlagTerrainEditorClearStudioClipboardOnCopy",
+          "FFlagUseAnimateScrollViewToSelectionHelper"
+        ],
+        "changed": [
+          {
+            "after": "bbb4c7204a7e4eff932621e7951062aece3abc1d",
+            "before": "3d719df03c56197eb1e223472cc0c8ae3d11f99d",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-11T01:22:06.849Z",
+            "before": "2026-09-11T00:08:40.809Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "0",
+            "before": "10000",
+            "name": "FIntEnableDataModelChangeTrackingBaseHundredthPercent"
+          },
+          {
+            "after": "bbb4c7204a7e4eff932621e7951062aece3abc1d",
+            "before": "3d719df03c56197eb1e223472cc0c8ae3d11f99d",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-11T01:22:06.849Z",
+            "before": "2026-09-11T00:08:40.809Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagRbxStorageReportDbCacheAvailable_Staged",
+          "FFlagAddFriendsClassmateFriendRequestSource_Staged",
+          "FFlagEnableCurrencyTransferWizardVPCPrologue_Staged",
+          "FFlagEnableTrustedFriendsWizardVPCPrologue_Staged",
+          "FFlagExplorerToggleSelectAll_Staged",
+          "FFlagReplicatePlayerUserIdMode_Staged",
+          "FFlagTerrainEditorClearStudioClipboardOnCopy_Staged",
+          "FFlagUseAnimateScrollViewToSelectionHelper_Staged",
+          "FIntEnableDataModelChangeTrackingBaseHundredthPercent_Staged"
+        ],
+        "unchanged": 22210
+      }
+    },
+    "Web": {
+      "current": "83e9a1d13c3c4df9465041682da1d56fd68dfed410dab0c8ab7506aeaae92ec5",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "8c1dcc39a0148a439685b8ee1fa407b1e7d9a86622cb0a682624572772734edd",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
