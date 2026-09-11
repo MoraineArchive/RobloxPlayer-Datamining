@@ -1,0 +1,1188 @@
+{
+  "findings": [
+    {
+      "classification": "single-source",
+      "concepts": [
+        "assistant",
+        "external",
+        "interface"
+      ],
+      "evidence": [
+        {
+          "concepts": [
+            "assistant",
+            "external",
+            "interface"
+          ],
+          "eventPath": "2026/09/09/21-37-16Z_datasets",
+          "evidencePath": "2026/09/09/21-37-16Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "02f797c1cf4ea467985074c0c07b1065ea13b0a6cec174ed7dcf08aec75eaf7e",
+          "key": "FFlagAssistantExternalInterface_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-09T21:37:16.873Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "assistant",
+            "external",
+            "interface"
+          ]
+        },
+        {
+          "concepts": [
+            "assistant",
+            "external",
+            "interface"
+          ],
+          "eventPath": "2026/09/09/23-33-55Z_build_version-c5aecda2245e4fae",
+          "evidencePath": "2026/09/09/23-33-55Z_build_version-c5aecda2245e4fae/changes.json",
+          "family": "LiveSettings",
+          "id": "2e3e09639f527bb7b3f556b4c7bc0ab65869a0f6648c20841abb4a1498af2765",
+          "key": "FFlagAssistantExternalInterface_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-09T23:33:55.514Z",
+          "operation": "removed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "assistant",
+            "external",
+            "interface"
+          ]
+        },
+        {
+          "concepts": [
+            "assistant",
+            "external",
+            "interface"
+          ],
+          "eventPath": "2026/09/09/23-33-55Z_build_version-c5aecda2245e4fae",
+          "evidencePath": "2026/09/09/23-33-55Z_build_version-c5aecda2245e4fae/changes.json",
+          "family": "LiveSettings",
+          "id": "c695b71d93974f51550e389efd18eeadab081de1df4763ca9de3cea883cdec42",
+          "key": "FFlagAssistantExternalInterface",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-09T23:33:55.514Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "assistant",
+            "external",
+            "interface"
+          ]
+        }
+      ],
+      "firstObservedAt": "2026-09-09T21:37:16.873Z",
+      "id": "assistant-external",
+      "lastObservedAt": "2026-09-09T23:33:55.514Z",
+      "lifecycle": [
+        {
+          "observedAt": "2026-09-09T23:33:55.514Z",
+          "signalIds": [
+            "02f797c1cf4ea467985074c0c07b1065ea13b0a6cec174ed7dcf08aec75eaf7e",
+            "c695b71d93974f51550e389efd18eeadab081de1df4763ca9de3cea883cdec42"
+          ],
+          "type": "staged-to-non-staged"
+        }
+      ],
+      "status": "observed",
+      "title": "Assistant External"
+    },
+    {
+      "classification": "correlated",
+      "concepts": [
+        "abilities",
+        "avatar"
+      ],
+      "evidence": [
+        {
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/09/08/23-42-52Z_datasets",
+          "evidencePath": "2026/09/08/23-42-52Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "397c74b86f983c261d778bc19adddc921ed5184593b07f0d269a9901a35603b4",
+          "key": "DFStringRbxAvatarAbilitiesStudioBeta2ContentUri_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-08T23:42:52.368Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "avatar",
+            "beta2",
+            "content",
+            "rbx",
+            "uri"
+          ]
+        },
+        {
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/09/09/01-37-12Z_datasets",
+          "evidencePath": "2026/09/09/01-37-12Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "57c528a56384d2e3832a85b5d598359169639dced90577e74072b5148de2142c",
+          "key": "DFStringRbxAvatarAbilitiesStudioBeta2ContentUri_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-09T01:37:12.973Z",
+          "operation": "removed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "avatar",
+            "beta2",
+            "content",
+            "rbx",
+            "uri"
+          ]
+        },
+        {
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/09/09/01-37-12Z_datasets",
+          "evidencePath": "2026/09/09/01-37-12Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "bcaac76c977f454532290c4a8aab9633283b7962155177b45e1e375e576b0e9c",
+          "key": "DFStringRbxAvatarAbilitiesStudioBeta2ContentUri",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-09T01:37:12.973Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "avatar",
+            "beta2",
+            "content",
+            "rbx",
+            "uri"
+          ]
+        },
+        {
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/09/09/23-33-55Z_build_version-c5aecda2245e4fae",
+          "evidencePath": "2026/09/09/23-33-55Z_build_version-c5aecda2245e4fae/changes.json",
+          "family": "Distribution",
+          "id": "48af078d275ef0b943d3b416153080b7ae663f9e5a621c3f68b395e8f34e321b",
+          "key": "content/avatar/abilities/AbilityManagerActor_justCoreAbilities.rbxm",
+          "kind": "files",
+          "observedAt": "2026-09-09T23:33:55.514Z",
+          "operation": "added",
+          "surface": "Build",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "ability",
+            "actor",
+            "avatar",
+            "content",
+            "just"
+          ]
+        },
+        {
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/09/10/17-52-40Z_datasets",
+          "evidencePath": "2026/09/10/17-52-40Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "a3a20cc11ca4970f664f107dcf645f6831fcbb2c8659fc0c0bd3b8cc46de190e",
+          "key": "FFlagAvatarAbilitiesBetaFeature2_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-10T17:52:40.105Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "avatar",
+            "feature2"
+          ]
+        },
+        {
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/09/10/21-09-36Z_datasets",
+          "evidencePath": "2026/09/10/21-09-36Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "095d99f0415a083e6f7ff9162426c3ce1370bd43200731725484f7bb7bb874be",
+          "key": "FFlagAvatarAbilitiesBetaFeature2_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-10T21:09:36.106Z",
+          "operation": "removed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "avatar",
+            "feature2"
+          ]
+        },
+        {
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/09/10/21-09-36Z_datasets",
+          "evidencePath": "2026/09/10/21-09-36Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "84374a7389de6ac5647d5edd964bba3ac81849156c6f7c85cdf0c2ba53d4227f",
+          "key": "FFlagAvatarAbilitiesBetaFeature2",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-10T21:09:36.106Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "avatar",
+            "feature2"
+          ]
+        }
+      ],
+      "firstObservedAt": "2026-09-08T23:42:52.368Z",
+      "id": "avatar-abilities",
+      "lastObservedAt": "2026-09-10T21:09:36.106Z",
+      "lifecycle": [
+        {
+          "observedAt": "2026-09-09T01:37:12.973Z",
+          "signalIds": [
+            "397c74b86f983c261d778bc19adddc921ed5184593b07f0d269a9901a35603b4",
+            "bcaac76c977f454532290c4a8aab9633283b7962155177b45e1e375e576b0e9c"
+          ],
+          "type": "staged-to-non-staged"
+        },
+        {
+          "observedAt": "2026-09-10T21:09:36.106Z",
+          "signalIds": [
+            "84374a7389de6ac5647d5edd964bba3ac81849156c6f7c85cdf0c2ba53d4227f",
+            "a3a20cc11ca4970f664f107dcf645f6831fcbb2c8659fc0c0bd3b8cc46de190e"
+          ],
+          "type": "staged-to-non-staged"
+        }
+      ],
+      "status": "observed",
+      "title": "Avatar abilities"
+    },
+    {
+      "classification": "single-source",
+      "concepts": [
+        "frames",
+        "profile"
+      ],
+      "evidence": [
+        {
+          "concepts": [
+            "profile",
+            "frames"
+          ],
+          "eventPath": "2026/09/09/18-28-14Z_datasets",
+          "evidencePath": "2026/09/09/18-28-14Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "457b26761d50f7884770df2b9c036b29b47f8b73235f6c3a2e3c453f7e7918fc",
+          "key": "FFlagAddSDUIEditProfileFramesAction_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-09T18:28:14.150Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "action",
+            "add",
+            "edit",
+            "frames",
+            "profile",
+            "sdui"
+          ]
+        },
+        {
+          "after": "1;Social.Friends;Social.Friends.FriendsSort.ProfileFrames-V2-BackTest;2122281973;flagbank",
+          "before": "1;Social.Friends;Social.Friends.FriendsSort.ProfileFrames-V2;2122281973;flagbank",
+          "concepts": [
+            "profile",
+            "frames"
+          ],
+          "eventPath": "2026/09/09/18-28-14Z_datasets",
+          "evidencePath": "2026/09/09/18-28-14Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "59f762ce3baf046da28c6b75a27020726d541fda777a075a27d9c2288ac70658",
+          "key": "FFlagFriendsCarouselProfileFrameEnabled_IXP",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-09T18:28:14.150Z",
+          "operation": "changed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "carousel",
+            "frame",
+            "friends",
+            "ixp",
+            "profile"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "frames"
+          ],
+          "eventPath": "2026/09/09/20-03-08Z_datasets",
+          "evidencePath": "2026/09/09/20-03-08Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "223f10d85e04bcd12289095f38c90cb81283bb27ddfcfe934e62c5442df4532b",
+          "key": "FFlagAddSDUIEditProfileFramesAction",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-09T20:03:08.940Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "action",
+            "add",
+            "edit",
+            "frames",
+            "profile",
+            "sdui"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "frames"
+          ],
+          "eventPath": "2026/09/09/20-03-08Z_datasets",
+          "evidencePath": "2026/09/09/20-03-08Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "3138e19117a42fb64f6ccecdd4bd2076f189a262be6545d0cb41a96c8cab706e",
+          "key": "FFlagAddSDUIEditProfileFramesAction_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-09T20:03:08.940Z",
+          "operation": "removed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "action",
+            "add",
+            "edit",
+            "frames",
+            "profile",
+            "sdui"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "frames"
+          ],
+          "eventPath": "2026/09/10/21-09-36Z_datasets",
+          "evidencePath": "2026/09/10/21-09-36Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "7cf5e456c6b79aa4a77f5d28752715271b911b7d49f8cb0fccfceb46c8ff0569",
+          "key": "FFlagProfileFramesNewLabelEnabled",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-10T21:09:36.106Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "frames",
+            "label",
+            "profile"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "frames"
+          ],
+          "eventPath": "2026/09/10/23-23-30Z_datasets",
+          "evidencePath": "2026/09/10/23-23-30Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "1054ee8f2c550095745122a8f789dfe1684179a2f59cfc123b28c50d3d18a483",
+          "key": "FFlagControlBarUseProfileFrameThumbnail_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-10T23:23:30.616Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "bar",
+            "control",
+            "frame",
+            "profile",
+            "thumbnail"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "frames"
+          ],
+          "eventPath": "2026/09/10/23-23-30Z_datasets",
+          "evidencePath": "2026/09/10/23-23-30Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "9da505ed62192f0fcdd4f4882fbd3cbdd46e20f3ee0c49e47eb3e368802a3480",
+          "key": "FFlagFlyoutAlternateEntryPointUseProfileFrameThumbnail_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-10T23:23:30.616Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "alternate",
+            "entry",
+            "flyout",
+            "frame",
+            "point",
+            "profile",
+            "thumbnail"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "frames"
+          ],
+          "eventPath": "2026/09/11/00-14-17Z_live-settings",
+          "evidencePath": "2026/09/11/00-14-17Z_live-settings/changes.json",
+          "family": "LiveSettings",
+          "id": "1c14625cf5e9021c65c415b235a8fa0b0d68ddea64f4b1cb3374ea19eb8d2d22",
+          "key": "FFlagControlBarUseProfileFrameThumbnail_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-11T00:14:17.885Z",
+          "operation": "removed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "bar",
+            "control",
+            "frame",
+            "profile",
+            "thumbnail"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "frames"
+          ],
+          "eventPath": "2026/09/11/00-14-17Z_live-settings",
+          "evidencePath": "2026/09/11/00-14-17Z_live-settings/changes.json",
+          "family": "LiveSettings",
+          "id": "48511b58a669b4d373a0f28a77b16da90a5866f839d332361ad95e694da8f9ee",
+          "key": "FFlagFlyoutAlternateEntryPointUseProfileFrameThumbnail_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-11T00:14:17.885Z",
+          "operation": "removed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "alternate",
+            "entry",
+            "flyout",
+            "frame",
+            "point",
+            "profile",
+            "thumbnail"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "frames"
+          ],
+          "eventPath": "2026/09/11/00-14-17Z_live-settings",
+          "evidencePath": "2026/09/11/00-14-17Z_live-settings/changes.json",
+          "family": "LiveSettings",
+          "id": "964a373cd5a3f8e744146a1b5e666db6fdb2bd32271e4efa425fa276f22a7ecc",
+          "key": "FFlagControlBarUseProfileFrameThumbnail",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-11T00:14:17.885Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "bar",
+            "control",
+            "frame",
+            "profile",
+            "thumbnail"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "frames"
+          ],
+          "eventPath": "2026/09/11/00-14-17Z_live-settings",
+          "evidencePath": "2026/09/11/00-14-17Z_live-settings/changes.json",
+          "family": "LiveSettings",
+          "id": "f8a8ecc54dfd24f62811b9ae6c41b19bb512d06506359209f7ce322e0a07fbc5",
+          "key": "FFlagFlyoutAlternateEntryPointUseProfileFrameThumbnail",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-11T00:14:17.885Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "alternate",
+            "entry",
+            "flyout",
+            "frame",
+            "point",
+            "profile",
+            "thumbnail"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "frames"
+          ],
+          "eventPath": "2026/09/11/04-14-59Z_datasets",
+          "evidencePath": "2026/09/11/04-14-59Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "85e434c766ef0510b26ebee7812aee0c19f1f9b0563a100b41d9012897c94891",
+          "key": "FFlagEditProfileFramesEnabled2_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-11T04:14:59.301Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "edit",
+            "enabled2",
+            "frames",
+            "profile"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "frames"
+          ],
+          "eventPath": "2026/09/11/06-37-10Z_datasets",
+          "evidencePath": "2026/09/11/06-37-10Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "c921a6414b1faecf47322329cbded19811dc09e627bc367ab8f4d9dcd57f7181",
+          "key": "FFlagEditProfileFramesEnabled2",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-11T06:37:10.043Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "edit",
+            "enabled2",
+            "frames",
+            "profile"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "frames"
+          ],
+          "eventPath": "2026/09/11/06-37-10Z_datasets",
+          "evidencePath": "2026/09/11/06-37-10Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "ec85cc7f7dd8aa68af8f11c271a6dadee302646564d0746d8a3786f70480c97d",
+          "key": "FFlagEditProfileFramesEnabled2_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-11T06:37:10.043Z",
+          "operation": "removed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "edit",
+            "enabled2",
+            "frames",
+            "profile"
+          ]
+        }
+      ],
+      "firstObservedAt": "2026-09-09T18:28:14.150Z",
+      "id": "profile-frames",
+      "lastObservedAt": "2026-09-11T06:37:10.043Z",
+      "lifecycle": [
+        {
+          "observedAt": "2026-09-09T20:03:08.940Z",
+          "signalIds": [
+            "223f10d85e04bcd12289095f38c90cb81283bb27ddfcfe934e62c5442df4532b",
+            "457b26761d50f7884770df2b9c036b29b47f8b73235f6c3a2e3c453f7e7918fc"
+          ],
+          "type": "staged-to-non-staged"
+        },
+        {
+          "observedAt": "2026-09-11T00:14:17.885Z",
+          "signalIds": [
+            "1054ee8f2c550095745122a8f789dfe1684179a2f59cfc123b28c50d3d18a483",
+            "964a373cd5a3f8e744146a1b5e666db6fdb2bd32271e4efa425fa276f22a7ecc"
+          ],
+          "type": "staged-to-non-staged"
+        },
+        {
+          "observedAt": "2026-09-11T00:14:17.885Z",
+          "signalIds": [
+            "9da505ed62192f0fcdd4f4882fbd3cbdd46e20f3ee0c49e47eb3e368802a3480",
+            "f8a8ecc54dfd24f62811b9ae6c41b19bb512d06506359209f7ce322e0a07fbc5"
+          ],
+          "type": "staged-to-non-staged"
+        },
+        {
+          "observedAt": "2026-09-11T06:37:10.043Z",
+          "signalIds": [
+            "85e434c766ef0510b26ebee7812aee0c19f1f9b0563a100b41d9012897c94891",
+            "c921a6414b1faecf47322329cbded19811dc09e627bc367ab8f4d9dcd57f7181"
+          ],
+          "type": "staged-to-non-staged"
+        }
+      ],
+      "status": "observed",
+      "title": "Profile Frames"
+    },
+    {
+      "classification": "single-source",
+      "concepts": [
+        "image",
+        "profile"
+      ],
+      "evidence": [
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/08/23-42-52Z_datasets",
+          "evidencePath": "2026/09/08/23-42-52Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "1e068c36d590ed8bdfabe85cb4ea42bbd17dbe4fddea9a0aac8937cc188eb84d",
+          "key": "FFlagEditProfileImageV2Telemetry_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-08T23:42:52.368Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "edit",
+            "image",
+            "profile",
+            "telemetry"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/08/23-42-52Z_datasets",
+          "evidencePath": "2026/09/08/23-42-52Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "a88aafcae0d244542aa964b8794a3249b86da2a9630abfe4e563294cbe5b0ba5",
+          "key": "FFlagEditProfileImageCameraControlBar_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-08T23:42:52.368Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "bar",
+            "camera",
+            "control",
+            "edit",
+            "image",
+            "profile"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/09/01-37-12Z_datasets",
+          "evidencePath": "2026/09/09/01-37-12Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "3a9d47c0061047d9110a2c6a1bfe6db22f2f3dd3255748ac7b45c6ec376f1373",
+          "key": "FFlagEditProfileImageV2Telemetry",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-09T01:37:12.973Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "edit",
+            "image",
+            "profile",
+            "telemetry"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/09/01-37-12Z_datasets",
+          "evidencePath": "2026/09/09/01-37-12Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "b7193968b5e66fb8554d36e56d8633f4befec158215229f9c122409b01671e10",
+          "key": "FFlagEditProfileImageV2Telemetry_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-09T01:37:12.973Z",
+          "operation": "removed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "edit",
+            "image",
+            "profile",
+            "telemetry"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/09/01-37-12Z_datasets",
+          "evidencePath": "2026/09/09/01-37-12Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "e3a0abc87f75ad815e77ba5e88ff9f391ca3fa7688a84c1dd77d3de7916430fb",
+          "key": "FFlagEditProfileImageCameraControlBar",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-09T01:37:12.973Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "bar",
+            "camera",
+            "control",
+            "edit",
+            "image",
+            "profile"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/09/01-37-12Z_datasets",
+          "evidencePath": "2026/09/09/01-37-12Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "f191705994b25cfc5de47daf63418961c38b20dfe599b82118f09ca79f501387",
+          "key": "FFlagEditProfileImageCameraControlBar_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-09T01:37:12.973Z",
+          "operation": "removed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "bar",
+            "camera",
+            "control",
+            "edit",
+            "image",
+            "profile"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/10/17-52-40Z_datasets",
+          "evidencePath": "2026/09/10/17-52-40Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "19baf20e981b487fa9b4122e7defd67336be6f4fd07cc9fc91f2fa89463264bb",
+          "key": "FFlagAXHideBottomNavForEditProfileImage_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-10T17:52:40.105Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "bottom",
+            "edit",
+            "for",
+            "hide",
+            "image",
+            "nav",
+            "profile"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/10/17-52-40Z_datasets",
+          "evidencePath": "2026/09/10/17-52-40Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "93c6ba1cd0677be4ed5007ee624fe8bfd0880f68997e5700d6ade71acd021609",
+          "key": "FFlagAXEditProfileImageFillCardHeight_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-10T17:52:40.105Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "card",
+            "edit",
+            "fill",
+            "height",
+            "image",
+            "profile"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/10/21-09-36Z_datasets",
+          "evidencePath": "2026/09/10/21-09-36Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "148bc7b7e8ae62461fbee5abb8aeced8b1597f1c82c1eaf161471b7099a0af9f",
+          "key": "FFlagAXHideBottomNavForEditProfileImage",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-10T21:09:36.106Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "bottom",
+            "edit",
+            "for",
+            "hide",
+            "image",
+            "nav",
+            "profile"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/10/21-09-36Z_datasets",
+          "evidencePath": "2026/09/10/21-09-36Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "654093e80e7f238022517421ce0dd7840cc8f170b43c47e88eace8a80624054b",
+          "key": "FFlagEditProfileImageR15UpgradePrompt",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-10T21:09:36.106Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "edit",
+            "image",
+            "profile",
+            "prompt",
+            "r15",
+            "upgrade"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/10/21-09-36Z_datasets",
+          "evidencePath": "2026/09/10/21-09-36Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "a29274bfbe34f513d3c404726ac3ad38152f072f130254e610a2132c272d687b",
+          "key": "FFlagAXHideBottomNavForEditProfileImage_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-10T21:09:36.106Z",
+          "operation": "removed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "bottom",
+            "edit",
+            "for",
+            "hide",
+            "image",
+            "nav",
+            "profile"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/10/21-09-36Z_datasets",
+          "evidencePath": "2026/09/10/21-09-36Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "ce690c3a5ce9800d81f25b09e4f99623e576e7e74459137d787803abb5e08c68",
+          "key": "FFlagEditProfileImageRigTypeOverride",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-10T21:09:36.106Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "edit",
+            "image",
+            "override",
+            "profile",
+            "rig",
+            "type"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/10/21-09-36Z_datasets",
+          "evidencePath": "2026/09/10/21-09-36Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "d206bcf810f263582413d91d33a8f570a08b0e1a8d70e046091995689ef5daf1",
+          "key": "FFlagEditProfileImageV2Enabled7_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-10T21:09:36.106Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "edit",
+            "enabled7",
+            "image",
+            "profile"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/10/21-09-36Z_datasets",
+          "evidencePath": "2026/09/10/21-09-36Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "dbb9166c45aef8c917f3f9e628b35ff6ad3c739b9e974e29a50471290ab7d04b",
+          "key": "FFlagAXEditProfileImageFillCardHeight",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-10T21:09:36.106Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "card",
+            "edit",
+            "fill",
+            "height",
+            "image",
+            "profile"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/10/21-09-36Z_datasets",
+          "evidencePath": "2026/09/10/21-09-36Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "dc221ef98d18cd816695e49522eb1bb21d40370ab88b6c396376dbcb92dbbb25",
+          "key": "FFlagAXEditProfileImageFillCardHeight_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-10T21:09:36.106Z",
+          "operation": "removed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "card",
+            "edit",
+            "fill",
+            "height",
+            "image",
+            "profile"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/10/23-23-30Z_datasets",
+          "evidencePath": "2026/09/10/23-23-30Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "b9f65298c84d34b7ad4c047a8648ad8390c472a28d0595187fef78f648703026",
+          "key": "FFlagEditProfileImageV2Enabled7_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-10T23:23:30.616Z",
+          "operation": "removed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "edit",
+            "enabled7",
+            "image",
+            "profile"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/10/23-23-30Z_datasets",
+          "evidencePath": "2026/09/10/23-23-30Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "e9d397a157e016a7646f034f27a13a3daabecdaea5e20aad7ec4e069cfec886a",
+          "key": "FFlagEditProfileImageV2Enabled7",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-10T23:23:30.616Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "edit",
+            "enabled7",
+            "image",
+            "profile"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/11/01-25-44Z_datasets",
+          "evidencePath": "2026/09/11/01-25-44Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "d5b5018b68cb6affea1c3dcfad6de039b59b37c0c8c3824a39bb7ca0ba03ca3a",
+          "key": "FFlagEditProfileImageV2Enabled7_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-11T01:25:44.263Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "edit",
+            "enabled7",
+            "image",
+            "profile"
+          ]
+        },
+        {
+          "after": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-11T02:28:51",
+          "before": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-11T00:45:01",
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/11/04-14-59Z_datasets",
+          "evidencePath": "2026/09/11/04-14-59Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "fe614b00328beefc8a71b37cbac1c061d9c801a1399a0de73665e6946bc2964d",
+          "key": "FFlagEditProfileImageV2Enabled7_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-11T04:14:59.301Z",
+          "operation": "changed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "edit",
+            "enabled7",
+            "image",
+            "profile"
+          ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "image"
+          ],
+          "eventPath": "2026/09/11/06-37-10Z_datasets",
+          "evidencePath": "2026/09/11/06-37-10Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "b4cddb41a0e7a68145d9bc5596ef834db484ac44a10489b09b69d9aa2f6ade70",
+          "key": "FFlagEditProfileImageV2Enabled7_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-11T06:37:10.043Z",
+          "operation": "removed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "edit",
+            "enabled7",
+            "image",
+            "profile"
+          ]
+        }
+      ],
+      "firstObservedAt": "2026-09-08T23:42:52.368Z",
+      "id": "profile-image",
+      "lastObservedAt": "2026-09-11T06:37:10.043Z",
+      "lifecycle": [
+        {
+          "observedAt": "2026-09-09T01:37:12.973Z",
+          "signalIds": [
+            "1e068c36d590ed8bdfabe85cb4ea42bbd17dbe4fddea9a0aac8937cc188eb84d",
+            "3a9d47c0061047d9110a2c6a1bfe6db22f2f3dd3255748ac7b45c6ec376f1373"
+          ],
+          "type": "staged-to-non-staged"
+        },
+        {
+          "observedAt": "2026-09-09T01:37:12.973Z",
+          "signalIds": [
+            "a88aafcae0d244542aa964b8794a3249b86da2a9630abfe4e563294cbe5b0ba5",
+            "e3a0abc87f75ad815e77ba5e88ff9f391ca3fa7688a84c1dd77d3de7916430fb"
+          ],
+          "type": "staged-to-non-staged"
+        },
+        {
+          "observedAt": "2026-09-10T21:09:36.106Z",
+          "signalIds": [
+            "148bc7b7e8ae62461fbee5abb8aeced8b1597f1c82c1eaf161471b7099a0af9f",
+            "19baf20e981b487fa9b4122e7defd67336be6f4fd07cc9fc91f2fa89463264bb"
+          ],
+          "type": "staged-to-non-staged"
+        },
+        {
+          "observedAt": "2026-09-10T21:09:36.106Z",
+          "signalIds": [
+            "93c6ba1cd0677be4ed5007ee624fe8bfd0880f68997e5700d6ade71acd021609",
+            "dbb9166c45aef8c917f3f9e628b35ff6ad3c739b9e974e29a50471290ab7d04b"
+          ],
+          "type": "staged-to-non-staged"
+        },
+        {
+          "observedAt": "2026-09-10T23:23:30.616Z",
+          "signalIds": [
+            "d206bcf810f263582413d91d33a8f570a08b0e1a8d70e046091995689ef5daf1",
+            "e9d397a157e016a7646f034f27a13a3daabecdaea5e20aad7ec4e069cfec886a"
+          ],
+          "type": "staged-to-non-staged"
+        }
+      ],
+      "status": "observed",
+      "title": "Profile Image"
+    }
+  ],
+  "schemaVersion": 1,
+  "target": "WindowsPlayer",
+  "windowDays": 90
+}
