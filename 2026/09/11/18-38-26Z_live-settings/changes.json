@@ -1,0 +1,59 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "9a3b97054838f42f389c5d03e7ce520be8ad8e3d5695acd2832367159e651c2e",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "78feaaf7931dae44904ebc12912fa26d261da890b2a3db767cc1ede46237ec35",
+      "semantic": {
+        "added": [
+          "DFFlagFileCacheRCCBytesRemovedFix",
+          "FFlagAlwaysSetJoinVoiceButtonContext_Staged",
+          "FFlagShopCloseOfferDialogOnCoreMenu"
+        ],
+        "changed": [
+          {
+            "after": "e131e3023725573ecd5081bb4400ead7cf7fddda",
+            "before": "9bf78aaa02f122f99224902355436986cec60a1c",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-11T18:37:11.586Z",
+            "before": "2026-09-11T18:15:50.417Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "e131e3023725573ecd5081bb4400ead7cf7fddda",
+            "before": "9bf78aaa02f122f99224902355436986cec60a1c",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-11T18:37:11.586Z",
+            "before": "2026-09-11T18:15:50.417Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagFileCacheRCCBytesRemovedFix_Staged",
+          "FFlagShopCloseOfferDialogOnCoreMenu_Staged"
+        ],
+        "unchanged": 22228
+      }
+    }
+  },
+  "schemaVersion": 1
+}
