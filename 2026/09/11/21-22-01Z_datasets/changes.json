@@ -1,0 +1,84 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "94462367d5d8d32ac52beb2797bfd69f0137e96bdbfb6404449a7e5f6c61e000",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "99519cbefaa5fa102f4bbf0faab01299820a0704c78c90edf19fe3a0e3846301",
+      "semantic": {
+        "added": [
+          "FFlagAlwaysSetJoinVoiceButtonContext",
+          "FFlagEnableDeeplinkValueRoutingAndroid",
+          "FFlagEnableDeeplinkValueRoutingIOS",
+          "FFlagOffersOnlyAffordableLock",
+          "FFlagOffersRespectExpiration",
+          "FFlagSafetyServiceScreenshotAMCDeprecated",
+          "FFlagTerrainEditorPanelHeightResize"
+        ],
+        "changed": [
+          {
+            "after": "71e8276634e2090eb555ad377dec413c0e2286e4",
+            "before": "ab74006301f69610cad94b4ab77a2a02134b9af2",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-11T20:47:21.094Z",
+            "before": "2026-09-11T19:57:17.140Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "71e8276634e2090eb555ad377dec413c0e2286e4",
+            "before": "ab74006301f69610cad94b4ab77a2a02134b9af2",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-11T20:47:21.094Z",
+            "before": "2026-09-11T19:57:17.140Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAlwaysSetJoinVoiceButtonContext_Staged",
+          "FFlagEnableDeeplinkValueRoutingAndroid_Staged",
+          "FFlagEnableDeeplinkValueRoutingIOS_Staged",
+          "FFlagOffersOnlyAffordableLock_Staged",
+          "FFlagOffersRespectExpiration_Staged",
+          "FFlagSafetyServiceScreenshotAMCDeprecated_Staged",
+          "FFlagTerrainEditorPanelHeightResize_Staged"
+        ],
+        "unchanged": 22225
+      }
+    },
+    "Web": {
+      "current": "cdb10547674c6bcdc09ef5a64f443e9862b5e862047020757366c5c1e1cbffea",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "a23debe6dfa69511275586c4a60b91500b653dd474e031d16a945b70b2da1334",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
