@@ -1,0 +1,60 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "4621b33a40b8c031cd75c579088e4dfa9eb5fa39f098d234cae979bfbdbe10f1",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "eab1acb30bd6b0aa1d1051158e005a95120c5d4352b79e0628f8492da63bd1c0",
+      "semantic": {
+        "added": [
+          "FFlagControlBarUseProfileFrameThumbnail",
+          "FFlagFlyoutAlternateEntryPointUseProfileFrameThumbnail",
+          "FFlagStudioAutoUpdateWithNoEmergencyDialog"
+        ],
+        "changed": [
+          {
+            "after": "3d719df03c56197eb1e223472cc0c8ae3d11f99d",
+            "before": "0ef34bc98afe46661d016a4face9f131264c924a",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-11T00:08:40.809Z",
+            "before": "2026-09-10T23:54:08.307Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "3d719df03c56197eb1e223472cc0c8ae3d11f99d",
+            "before": "0ef34bc98afe46661d016a4face9f131264c924a",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-11T00:08:40.809Z",
+            "before": "2026-09-10T23:54:08.307Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagControlBarUseProfileFrameThumbnail_Staged",
+          "FFlagFlyoutAlternateEntryPointUseProfileFrameThumbnail_Staged",
+          "FFlagStudioAutoUpdateWithNoEmergencyDialog_Staged"
+        ],
+        "unchanged": 22217
+      }
+    }
+  },
+  "schemaVersion": 1
+}
