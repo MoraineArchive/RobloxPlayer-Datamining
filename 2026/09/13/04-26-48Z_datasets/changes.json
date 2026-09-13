@@ -1,0 +1,85 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "2f89720640b7ff85fba7b51442773ef9987b641adf4077771c332c7637ab1887",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "0b19304f2aeb1b558226b6ec556fd63b85b52cf5d2f1f107f3a320a6f8135062",
+      "semantic": {
+        "added": [
+          "FFlagCanReplicateBaseWrapWrapLayerContentPropertiesServer_Staged"
+        ],
+        "changed": [
+          {
+            "after": "da72dfcc96b61f56f8b49f39386030a2ca805db8",
+            "before": "24de2a0ad6725a87a7519d2fffa5830d137330f5",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-13T03:02:03.541Z",
+            "before": "2026-09-13T00:18:33.657Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagVideoSpsAdaptiveDecodeLatency"
+          },
+          {
+            "after": "da72dfcc96b61f56f8b49f39386030a2ca805db8",
+            "before": "24de2a0ad6725a87a7519d2fffa5830d137330f5",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-13T03:02:03.541Z",
+            "before": "2026-09-13T00:18:33.657Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 22231
+      }
+    },
+    "Web": {
+      "current": "cdb10547674c6bcdc09ef5a64f443e9862b5e862047020757366c5c1e1cbffea",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "d33db9e042321188aa13b77cdade785f76c30304159662de25b2a146c296b4d6",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
