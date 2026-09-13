@@ -1,0 +1,59 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "99b0ff5cc1a52bb24eda25adeddfc07cb3dc6d644b63a04ecd09e97a67c64806",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "2f89720640b7ff85fba7b51442773ef9987b641adf4077771c332c7637ab1887",
+      "semantic": {
+        "added": [],
+        "changed": [
+          {
+            "after": "2b8b8ead04f3b22d81e6058421077220e79aaf2c",
+            "before": "da72dfcc96b61f56f8b49f39386030a2ca805db8",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-13T05:01:46.128Z",
+            "before": "2026-09-13T03:02:03.541Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagCanReplicateBaseWrapWrapLayerContentPropertiesServer"
+          },
+          {
+            "after": "2b8b8ead04f3b22d81e6058421077220e79aaf2c",
+            "before": "da72dfcc96b61f56f8b49f39386030a2ca805db8",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-13T05:01:46.128Z",
+            "before": "2026-09-13T03:02:03.541Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagCanReplicateBaseWrapWrapLayerContentPropertiesServer_Staged"
+        ],
+        "unchanged": 22231
+      }
+    }
+  },
+  "schemaVersion": 1
+}
