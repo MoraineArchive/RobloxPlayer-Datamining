@@ -1,0 +1,67 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "e31857262294d1bc532ead3a9b9cb63a9bf99265d632a162614e45624021f6ca",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "c885130ade774f6182f0e3bf3c2aca1c469aab9b900284bc234e119bf7afc140",
+      "semantic": {
+        "added": [
+          "DFFlagLuauFixEnumPropertyAssignmentErrorType",
+          "FFlagEditableMeshBatchCreate_Staged",
+          "FFlagEditableMeshBatchFaceAttributes_Staged",
+          "FFlagEditableMeshBatchSetGetValues_Staged",
+          "FFlagEditableMeshBatchVertexFaceAttributes_Staged",
+          "FFlagNotificationsDeeplinkNavigateToHome_Staged",
+          "FFlagPlayerListKeepModalHiddenOnRemount",
+          "FFlagPlayerListTwoTabsOnLegacyPerformance",
+          "FFlagSTUDIOPLAT43198VersionedPluginOTA3"
+        ],
+        "changed": [
+          {
+            "after": "0575f7f174b5f5076a3662441335e185f3026bb3",
+            "before": "478a223c4941634eed063531d817d72c533e7b35",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-14T22:42:46.634Z",
+            "before": "2026-09-14T22:22:44.181Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "0575f7f174b5f5076a3662441335e185f3026bb3",
+            "before": "478a223c4941634eed063531d817d72c533e7b35",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-14T22:42:46.634Z",
+            "before": "2026-09-14T22:22:44.181Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagLuauFixEnumPropertyAssignmentErrorType_Staged",
+          "FFlagPlayerListKeepModalHiddenOnRemount_Staged",
+          "FFlagPlayerListTwoTabsOnLegacyPerformance_Staged",
+          "FFlagSTUDIOPLAT43198VersionedPluginOTA3_Staged"
+        ],
+        "unchanged": 22352
+      }
+    }
+  },
+  "schemaVersion": 1
+}
