@@ -616,11 +616,34 @@
             "frames",
             "profile"
           ]
+        },
+        {
+          "concepts": [
+            "profile",
+            "frames"
+          ],
+          "eventPath": "2026/09/14/18-30-42Z_datasets",
+          "evidencePath": "2026/09/14/18-30-42Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "25af428e53bf35dd7679cf1d73ccf62ce89f94f0123971f2744dab7fab39a9b3",
+          "key": "FFlagEnableProfileFrameAssetDeepLink",
+          "kind": "LiveSettings",
+          "observedAt": "2026-09-14T18:30:42.257Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "asset",
+            "deep",
+            "frame",
+            "link",
+            "profile"
+          ]
         }
       ],
       "firstObservedAt": "2026-09-09T18:28:14.150Z",
       "id": "profile-frames",
-      "lastObservedAt": "2026-09-11T06:37:10.043Z",
+      "lastObservedAt": "2026-09-14T18:30:42.257Z",
       "lifecycle": [
         {
           "observedAt": "2026-09-09T20:03:08.940Z",

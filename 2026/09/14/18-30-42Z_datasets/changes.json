@@ -1,0 +1,149 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "8f9884d06da6b0e9db1066012cd1e7375031c19313fc9372bc393a41186bf0af",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "8405083a8f3536a293396f736bb35814ee2c905a8903e1f8e760424fb8940927",
+      "semantic": {
+        "added": [
+          "DFFlagAnimationSAFixDidLoopEvent_Staged",
+          "DFFlagDMCTMigrateObjectValue",
+          "DFFlagDestroyStreamingGroupsOnTeardown_Staged",
+          "DFFlagEditableMeshFixStaleSkinWeight",
+          "DFFlagFindLadderPiercingRotMatOptimization_Staged",
+          "DFFlagFixInputReplicatorStaleActions_Staged",
+          "DFFlagMeshLODClampVertexColors",
+          "DFFlagPMDV8AccuracyByte",
+          "DFFlagPluginGuiFixCloseCallbackUseAfterFree",
+          "DFFlagRakNetCapSplitPacketAllocationV2",
+          "DFFlagRequestOrchestratorCountersEnabled",
+          "DFFlagServerAuthorityPredictionFixAnchored",
+          "DFFlagSimRejectDisabledToolWeld",
+          "DFFlagUnlockCollisionScaling_Staged",
+          "DFFlagUseSizedHttpBody",
+          "DFFlagUserInitiatedLaunchCounterEnabled2",
+          "DFFlagVoiceRtcStatsSplitDisableUnusedGrafanaStats",
+          "DFLogBootcampCLI222132Log_Staged",
+          "FFlagAXAlignUnifiedFilterSearchKeyword_Staged",
+          "FFlagAXBackgroundGenerationDeepLink",
+          "FFlagAXFixHomeAvatarsUnifiedPurchase_Staged",
+          "FFlagAXHideBottomNavForOverlayPrompts_Staged",
+          "FFlagAXUnifiedFilterWidgetLoadedAndUIImpression_Staged",
+          "FFlagBootcampCLI222132_Staged",
+          "FFlagBuildFixLiveStaleness_Staged",
+          "FFlagBuildPublishTerminologyChange_Staged",
+          "FFlagChangeHistoryRecordAssemblyCFrames_Staged",
+          "FFlagCommandAnalyzerDirectSource_Staged",
+          "FFlagDevConsoleFixMultilineContext_Staged",
+          "FFlagDevConsoleKeyCollisionFix_Staged",
+          "FFlagEnableAttributionContextOrganicWriteV1_Staged",
+          "FFlagEnableProfileFrameAssetDeepLink",
+          "FFlagEnableStartAttributionTelemetry_Staged",
+          "FFlagExpChatFixLocalUserVerifiedBadge2_Staged",
+          "FFlagExpChatFixOutgoingUniverseChatBubble_Staged",
+          "FFlagFacsPoseNameBoundsCheck_Staged",
+          "FFlagFoundationInputGroup_Staged",
+          "FFlagGltfExportProgress_Staged",
+          "FFlagHomepagePromptsHandlerPassClientAttributes",
+          "FFlagHttpUseSharedRetryHeader_Staged",
+          "FFlagPlayStationSkipVertexIdInputAttribute_Staged",
+          "FFlagPresenceEventReceiverRefetchOnAppForeground_Staged",
+          "FFlagPrimPairToJointCountRBXHashMap_Staged",
+          "FFlagProfileUnifiedPurchaseLogging_Staged",
+          "FFlagRefactorUpdateRemoteCursorPositionSignalClient",
+          "FFlagScriptEditorSupportTopMargin1_Staged",
+          "FFlagSearchLandingPageDeviceParams_Staged",
+          "FFlagSecurityCheckForGetService_Staged",
+          "FFlagSerializerDeferredRefOwnerLifetime_Staged",
+          "FFlagSlimReplicationFilterOutSkeletonsExceedingMaxReplicablePoseSize_Staged",
+          "FFlagSlimReplicationUseGlobalServerThrottle_Staged",
+          "FFlagSlimReplicationUseStaleFrameStrategy2_Staged",
+          "FFlagStudioAssistantPermissionsScriptCapabilities_Staged",
+          "FFlagUsePackageLinkDialogManager_Staged",
+          "FFlagVideoWebrtcForwardKeyframeFlag_Staged",
+          "FStringBuildAgentRollbackNotePrompt_Staged",
+          "FStringBuildAgentRollbackVersionPrompt_Staged"
+        ],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagSatPolyPolyContactEnabled"
+          },
+          {
+            "after": "fb3375617cb3ca7463408e171d143647484fa6a4",
+            "before": "87b7bef3b55b32e3168fd0a5e83f602990a8b138",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-14T18:27:33.787Z",
+            "before": "2026-09-13T19:32:07.992Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "fb3375617cb3ca7463408e171d143647484fa6a4",
+            "before": "87b7bef3b55b32e3168fd0a5e83f602990a8b138",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-14T18:27:33.787Z",
+            "before": "2026-09-13T19:32:07.992Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 22229
+      }
+    },
+    "Web": {
+      "current": "8701a8fe50b30341b555dd381aeb528b87f67583392b707c38b264e2d776dce0",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/AccessManagementUpsellV2.js",
+          "js.rbxcdn.com/page-0/Challenge.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "js.rbxcdn.com/page-1/AccessManagementUpsellV2.js",
+          "js.rbxcdn.com/page-1/Challenge.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "unchanged": 212
+      },
+      "previous": "d33db9e042321188aa13b77cdade785f76c30304159662de25b2a146c296b4d6",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
