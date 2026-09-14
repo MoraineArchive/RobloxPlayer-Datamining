@@ -1,0 +1,137 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "49e32795b66293e0a6b5de66e9424fedf8947cbb5dd15d27424b497681000ac0",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "8f9884d06da6b0e9db1066012cd1e7375031c19313fc9372bc393a41186bf0af",
+      "semantic": {
+        "added": [
+          "DFFlagAnimationSAFixDidLoopEvent",
+          "DFFlagDestroyStreamingGroupsOnTeardown",
+          "DFFlagFindLadderPiercingRotMatOptimization",
+          "DFFlagFixInputReplicatorStaleActions",
+          "DFFlagSuppressLCInvalidationForDeadAvatars_Staged",
+          "DFFlagUnlockCollisionScaling",
+          "DFLogBootcampCLI222132Log",
+          "FFlagAXHideBottomNavForOverlayPrompts",
+          "FFlagAXIecLookModerationStatus_Staged",
+          "FFlagAXMakeupIECGrantFix_Staged",
+          "FFlagBuildFixLiveStaleness",
+          "FFlagBuildPublishTerminologyChange",
+          "FFlagChangeHistoryRecordAssemblyCFrames",
+          "FFlagCreateDecalAsyncEnabled_Staged",
+          "FFlagDevConsoleFixMultilineContext",
+          "FFlagDevConsoleKeyCollisionFix",
+          "FFlagEnableAttributionContextOrganicWriteV1",
+          "FFlagEnableStartAttributionTelemetry",
+          "FFlagFacsPoseNameBoundsCheck",
+          "FFlagFixLoginV2DialogToastOverlayHeight_Staged",
+          "FFlagLuaAppEnableRoRumRouteTracker",
+          "FFlagMaterialGridItemLabelFoundationStyle_Staged",
+          "FFlagPlayStationSkipVertexIdInputAttribute",
+          "FFlagPresenceEventReceiverRefetchOnAppForeground",
+          "FFlagRefreshLoginV2AuthScreenUserDetails_Staged",
+          "FFlagSearchLandingPageDeviceParams",
+          "FFlagSecurityCheckForGetService",
+          "FFlagSkipAccountSwitchRelaunchForPioneerLogin_Staged",
+          "FFlagSlimReplicationFilterOutSkeletonsExceedingMaxReplicablePoseSize",
+          "FFlagSlimReplicationUseGlobalServerThrottle",
+          "FFlagSlimReplicationUseStaleFrameStrategy2",
+          "FFlagStudioAssistantPermissionsScriptCapabilities",
+          "FFlagUsePackageLinkDialogManager",
+          "FFlagVideoWebrtcForwardKeyframeFlag",
+          "FStringTextureTranscodeRollout_Staged"
+        ],
+        "changed": [
+          {
+            "after": "420a05dfa4e5f5d8e29942045369493d37600ad6",
+            "before": "fb3375617cb3ca7463408e171d143647484fa6a4",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-14T19:23:52.636Z",
+            "before": "2026-09-14T18:27:33.787Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "420a05dfa4e5f5d8e29942045369493d37600ad6",
+            "before": "fb3375617cb3ca7463408e171d143647484fa6a4",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-14T19:23:52.636Z",
+            "before": "2026-09-14T18:27:33.787Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagAnimationSAFixDidLoopEvent_Staged",
+          "DFFlagDestroyStreamingGroupsOnTeardown_Staged",
+          "DFFlagFindLadderPiercingRotMatOptimization_Staged",
+          "DFFlagFixInputReplicatorStaleActions_Staged",
+          "DFFlagUnlockCollisionScaling_Staged",
+          "DFLogBootcampCLI222132Log_Staged",
+          "FFlagAXHideBottomNavForOverlayPrompts_Staged",
+          "FFlagAXSupportShoesInItemViewport_IXP",
+          "FFlagBuildFixLiveStaleness_Staged",
+          "FFlagBuildPublishTerminologyChange_Staged",
+          "FFlagChangeHistoryRecordAssemblyCFrames_Staged",
+          "FFlagDevConsoleFixMultilineContext_Staged",
+          "FFlagDevConsoleKeyCollisionFix_Staged",
+          "FFlagEnableAttributionContextOrganicWriteV1_Staged",
+          "FFlagEnableStartAttributionTelemetry_Staged",
+          "FFlagFacsPoseNameBoundsCheck_Staged",
+          "FFlagPlayStationSkipVertexIdInputAttribute_Staged",
+          "FFlagPresenceEventReceiverRefetchOnAppForeground_Staged",
+          "FFlagSearchLandingPageDeviceParams_Staged",
+          "FFlagSecurityCheckForGetService_Staged",
+          "FFlagSlimReplicationFilterOutSkeletonsExceedingMaxReplicablePoseSize_Staged",
+          "FFlagSlimReplicationUseGlobalServerThrottle_Staged",
+          "FFlagSlimReplicationUseStaleFrameStrategy2_Staged",
+          "FFlagStudioAssistantPermissionsScriptCapabilities_Staged",
+          "FFlagUsePackageLinkDialogManager_Staged",
+          "FFlagVideoWebrtcForwardKeyframeFlag_Staged"
+        ],
+        "unchanged": 22261
+      }
+    },
+    "Web": {
+      "current": "f9a8caef3e79f6af0ed612218fe277b1e1ad1636288af96789d708ea6a1c2e36",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/AccessManagementUpsellV2.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.ExperienceDetails.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.NotApproved.js",
+          "js.rbxcdn.com/page-1/AccessManagementUpsellV2.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.ExperienceDetails.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.NotApproved.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 216
+      },
+      "previous": "8701a8fe50b30341b555dd381aeb528b87f67583392b707c38b264e2d776dce0",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
