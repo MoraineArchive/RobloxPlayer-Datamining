@@ -1,0 +1,70 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "24e05d8f117953664d5ffd970b3e197ee7fe087e5ef7fb58c7db825537f34f02",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "e34892115369b1a5218e2ca0e83d9cb449bc9a9d9d99af9df4007a8405d2ae7f",
+      "semantic": {
+        "added": [
+          "DFFlagEnableOpenShop_Staged",
+          "DFFlagHttpClientFirstPartyCdnExempt_Staged",
+          "DFFlagWsClientClearPollsEveryLoop_Staged",
+          "FFlagEnableDrawerAnimatingHook_Staged",
+          "FFlagFixBundleOwnershipAfterPurchaseInStudio",
+          "FFlagPlatformLeaderboardEnabled_Staged",
+          "FFlagSchoolsEntryDecisionRedirectOnce_Staged",
+          "FFlagStudioUpdateEmergencyDialogWording_Staged",
+          "FFlagTaskSchedulerDetachArbiters2",
+          "FFlagTexturePackRefactor",
+          "FFlagVertexNormalsSolverGracefulOom",
+          "FStringPerformanceControlComputePrimaryTunableConfigJson_Staged"
+        ],
+        "changed": [
+          {
+            "after": "34e26948db1d1e7437bee390f187e867aceb704d",
+            "before": "33c7ba3d2c8c765db993402d51d659600c79f63c",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-14T23:10:35.614Z",
+            "before": "2026-09-14T22:46:29.114Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "34e26948db1d1e7437bee390f187e867aceb704d",
+            "before": "33c7ba3d2c8c765db993402d51d659600c79f63c",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-14T23:10:35.614Z",
+            "before": "2026-09-14T22:46:29.114Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagFixBundleOwnershipAfterPurchaseInStudio_Staged",
+          "FFlagTaskSchedulerDetachArbiters2_Staged",
+          "FFlagTexturePackRefactor_Staged",
+          "FFlagVertexNormalsSolverGracefulOom_Staged"
+        ],
+        "unchanged": 22359
+      }
+    }
+  },
+  "schemaVersion": 1
+}
