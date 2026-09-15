@@ -1,0 +1,136 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "48954f7120d9e7a71597c031e52742d07c402c188cfce1bf9f6f16996b4178f0",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "24e05d8f117953664d5ffd970b3e197ee7fe087e5ef7fb58c7db825537f34f02",
+      "semantic": {
+        "added": [
+          "DFFlagEnableOpenShop",
+          "DFFlagHttpClientFirstPartyCdnExempt",
+          "DFFlagWsClientClearPollsEveryLoop",
+          "FFlagAXCatalogSduiDisableOnSearchRoute",
+          "FFlagAXOutfitPageRevamp3",
+          "FFlagAXRefetchInventoryOnUpdate",
+          "FFlagAssetImporterShowPreviewLoading",
+          "FFlagAssetImporterVersionedAnimationUx",
+          "FFlagConvertAccessoryApplySurfaceAppearanceColor",
+          "FFlagEditableMeshBatchCreate",
+          "FFlagEditableMeshBatchFaceAttributes",
+          "FFlagEditableMeshBatchSetGetValues",
+          "FFlagEditableMeshBatchVertexFaceAttributes",
+          "FFlagEnableAdConsentUserSettingsPublish",
+          "FFlagEnableDrawerAnimatingHook",
+          "FFlagGetWaveformAsyncChannelCap_Staged",
+          "FFlagImportAnimationVersions",
+          "FFlagImportAnimationVersionsIntent",
+          "FFlagLuauGetDeclarationDoesntInfiniteLoop",
+          "FFlagLuauNormalizeGuardAgainstNonTestableNegations",
+          "FFlagMomentsCreationMusicSearchCountTelemetry",
+          "FFlagNotificationsDeeplinkNavigateToHome",
+          "FFlagPlatformLeaderboardEnabled",
+          "FFlagPlatformLeaderboardPersistStoreOnRemount",
+          "FFlagPlayerListTwoTabsOnLegacy",
+          "FFlagSchoolsEntryDecisionRedirectOnce",
+          "FFlagSchoolsFunnelAnalytics",
+          "FFlagSkipKnownAssetCacheRead",
+          "FFlagStudioUpdateEmergencyDialogWording"
+        ],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagSDFTextSurfaceGui"
+          },
+          {
+            "after": "0bd34c5f10c71dc398da17d9653f45c7e636b62d",
+            "before": "34e26948db1d1e7437bee390f187e867aceb704d",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-15T00:57:29.479Z",
+            "before": "2026-09-14T23:10:35.614Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "0bd34c5f10c71dc398da17d9653f45c7e636b62d",
+            "before": "34e26948db1d1e7437bee390f187e867aceb704d",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-15T00:57:29.479Z",
+            "before": "2026-09-14T23:10:35.614Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagEnableOpenShop_Staged",
+          "DFFlagHttpClientFirstPartyCdnExempt_Staged",
+          "DFFlagSDFTextSurfaceGui_Staged",
+          "DFFlagWsClientClearPollsEveryLoop_Staged",
+          "FFlagAXCatalogSduiDisableOnSearchRoute_Staged",
+          "FFlagAXOutfitPageRevamp3_Staged",
+          "FFlagAXRefetchInventoryOnUpdate_Staged",
+          "FFlagAssetImporterShowPreviewLoading_Staged",
+          "FFlagAssetImporterVersionedAnimationUx_Staged",
+          "FFlagConvertAccessoryApplySurfaceAppearanceColor_Staged",
+          "FFlagEditableMeshBatchCreate_Staged",
+          "FFlagEditableMeshBatchFaceAttributes_Staged",
+          "FFlagEditableMeshBatchSetGetValues_Staged",
+          "FFlagEditableMeshBatchVertexFaceAttributes_Staged",
+          "FFlagEnableAdConsentUserSettingsPublish_Staged",
+          "FFlagEnableDrawerAnimatingHook_Staged",
+          "FFlagImportAnimationVersionsIntent_Staged",
+          "FFlagImportAnimationVersions_Staged",
+          "FFlagLuauGetDeclarationDoesntInfiniteLoop_Staged",
+          "FFlagLuauNormalizeGuardAgainstNonTestableNegations_Staged",
+          "FFlagMomentsCreationMusicSearchCountTelemetry_Staged",
+          "FFlagMomentsCreationMusicSearchStateFix_Staged",
+          "FFlagNotificationsDeeplinkNavigateToHome_Staged",
+          "FFlagPlatformLeaderboardEnabled_Staged",
+          "FFlagPlatformLeaderboardLocalizedUnitEnabled_Staged",
+          "FFlagPlatformLeaderboardPersistStoreOnRemount_Staged",
+          "FFlagPlayerListTwoTabsOnLegacy_Staged",
+          "FFlagSchoolsEntryDecisionRedirectOnce_Staged",
+          "FFlagSchoolsFunnelAnalytics_Staged",
+          "FFlagSkipKnownAssetCacheRead_Staged",
+          "FFlagStudioUpdateEmergencyDialogWording_Staged",
+          "FStringPerformanceControlComputePrimaryTunableConfigJson_Staged"
+        ],
+        "unchanged": 22338
+      }
+    },
+    "Web": {
+      "current": "34540e3c89ed47d752c40ce88c9f20b7cbc09d748b7a868ec6871feceee15846",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/Navigation.js",
+          "js.rbxcdn.com/page-1/Navigation.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "3de435e72a0fc20754e8affdd609a4ff89f27504da9a1883e4c1fbb787668585",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}

@@ -1,6 +1,6 @@
 {
   "hashes": {
-    "assets.json": "0592522a0ceff29c99e8e4e9f32b89883b8e4f801d691a958a702cdf2ccf70c9",
+    "assets.json": "ecca83ace0d1d82c1f2643638a0e9972996614a470dc7cc4deb01a7829727d0f",
     "js.rbxcdn.com/page-0/AccessManagementUpsell.js": "7a2795cd4a6595d6cdf824a5ec6518b89b887fdd09bab1186d84e315628e35e7",
     "js.rbxcdn.com/page-0/AccessManagementUpsellV2.js": "9714c726080fcb39795e68175b1bd7fdedce8091fba54fb59b756853c1ac91cd",
     "js.rbxcdn.com/page-0/AccountSwitcher.js": "9c6c77ae499bacb2cc2df4f9432fb7a767041594db6345045d110ebab0514f2f",
@@ -82,7 +82,7 @@
     "js.rbxcdn.com/page-0/ItemPurchase.js": "9b2f0d0a4bbc615998ef8bc3447d3a9b110311831a97cf21550bffc27a9b168f",
     "js.rbxcdn.com/page-0/ItemPurchaseUpsell.js": "3b5dd9e43954a1a45ff40c6fcb2b229f0b4472fc04d31ab412479457d5c2d2e1",
     "js.rbxcdn.com/page-0/Linkify.js": "b30c20b3a8be968ab25a05f2969065a6573751cd7e49a54a6494a9f068eca8d1",
-    "js.rbxcdn.com/page-0/Navigation.js": "04b812b180197725d02f62fb1536a5631b59bd379eb286884aa2f234307334a6",
+    "js.rbxcdn.com/page-0/Navigation.js": "6725f7b87fb45c1a4fb1c8fd415b149baae87c1df6672e85f7fcea7aa0a57dbc",
     "js.rbxcdn.com/page-0/Polyfill.js": "d7843f5cba453cdd228329c5f384631abc240c121c965f9f65695510e74112a7",
     "js.rbxcdn.com/page-0/PresenceStatus.js": "4505ebc3d7336f51c0b4d41b19f2ad23361413d917b0882681eda7e391590634",
     "js.rbxcdn.com/page-0/PriceTag.js": "813c61d5adff98117ba83a8dd15997d7ffc8a0767745667018ddde5a1a8314e3",
@@ -193,7 +193,7 @@
     "js.rbxcdn.com/page-1/ItemPurchase.js": "9b2f0d0a4bbc615998ef8bc3447d3a9b110311831a97cf21550bffc27a9b168f",
     "js.rbxcdn.com/page-1/ItemPurchaseUpsell.js": "3b5dd9e43954a1a45ff40c6fcb2b229f0b4472fc04d31ab412479457d5c2d2e1",
     "js.rbxcdn.com/page-1/Linkify.js": "b30c20b3a8be968ab25a05f2969065a6573751cd7e49a54a6494a9f068eca8d1",
-    "js.rbxcdn.com/page-1/Navigation.js": "04b812b180197725d02f62fb1536a5631b59bd379eb286884aa2f234307334a6",
+    "js.rbxcdn.com/page-1/Navigation.js": "6725f7b87fb45c1a4fb1c8fd415b149baae87c1df6672e85f7fcea7aa0a57dbc",
     "js.rbxcdn.com/page-1/PeopleList.js": "abb4c4bf9f757063bd85c3685afd3cec75818afc44e9477855332d8efa84fb4f",
     "js.rbxcdn.com/page-1/Polyfill.js": "d7843f5cba453cdd228329c5f384631abc240c121c965f9f65695510e74112a7",
     "js.rbxcdn.com/page-1/PresenceStatus.js": "4505ebc3d7336f51c0b4d41b19f2ad23361413d917b0882681eda7e391590634",
@@ -221,15 +221,15 @@
     "js.rbxcdn.com/page-1/leanbase.js": "968a20eab1449bae7485d20d20a614f2a33b0515f27f143792b10cf4d700711e",
     "js.rbxcdn.com/page-1/page.js": "432095ee2a25a586d05e62c1917b10003e21c76a094c065faf79ba5259461c1c",
     "js.rbxcdn.com/page-1/pageEnd.js": "de24bba08f5774c1350a3cc8afef4bda3c28d5e6a8eca82e20bcfd8d46b99d9a",
-    "metadata.json": "abf5a2e987a732d1c12623da85051b628d33fb3731bba951ccfb6c85df962aaa",
+    "metadata.json": "e7a93fde72a256e7794a8af8b2d0a2bc0bc8eaaa3ab9c2ce15c04dc334b19de1",
     "roblox.com/page-0/script-007.js": "a406bd97fed4ceb8954133f97a6d5c225b2f673606c5d439de4a910c83b4ecad",
     "roblox.com/page-1/script-007.js": "a406bd97fed4ceb8954133f97a6d5c225b2f673606c5d439de4a910c83b4ecad",
     "www.roblox.com/page-0/script-000.js": "3adaf2c03eb09d2100dbc230c10d5bc616a830ca23dfe035b37d7ef89aefef75",
     "www.roblox.com/page-1/script-000.js": "3adaf2c03eb09d2100dbc230c10d5bc616a830ca23dfe035b37d7ef89aefef75"
   },
-  "id": "3de435e72a0fc20754e8affdd609a4ff89f27504da9a1883e4c1fbb787668585",
+  "id": "34540e3c89ed47d752c40ce88c9f20b7cbc09d748b7a868ec6871feceee15846",
   "observationMode": "live",
-  "observedAt": "2026-09-14T22:46:46.769Z",
+  "observedAt": "2026-09-15T00:58:23.362Z",
   "provenance": [
     {
       "bytes": 1919,
@@ -640,10 +640,16 @@
       "sourceUrl": "https://js.rbxcdn.com/4e3e9c2f50f98960207aef1cc243c85914cda72e2c1f78ea66f35f61096e2c8a-AccessManagementUpsell.js"
     },
     {
-      "bytes": 469106,
-      "sha256": "b41d9e82c456dce3acfc99a68319e3756c553f3606b7e5f052bf4660941f89d2",
+      "bytes": 1444362,
+      "sha256": "06b6caed729494142fb5af9a1239389711ea12ef6bbc9233d396cbba724d89d1",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/50479f37dd26b7d109a6359c14b34df1a62d2d9058c5046a1a2202c4283ffc53-RealTime.js"
+      "sourceUrl": "https://js.rbxcdn.com/4f13f5286baa0ef7511f4b91570d9dc8cf8f1be08616560d182b955de069a1f0-Navigation.js"
+    },
+    {
+      "bytes": 1444362,
+      "sha256": "06b6caed729494142fb5af9a1239389711ea12ef6bbc9233d396cbba724d89d1",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/4f13f5286baa0ef7511f4b91570d9dc8cf8f1be08616560d182b955de069a1f0-Navigation.js"
     },
     {
       "bytes": 469106,
@@ -652,16 +658,10 @@
       "sourceUrl": "https://js.rbxcdn.com/50479f37dd26b7d109a6359c14b34df1a62d2d9058c5046a1a2202c4283ffc53-RealTime.js"
     },
     {
-      "bytes": 1356572,
-      "sha256": "884aafa1f41612dcc527e18c589ba2289adee03bb6af42888b3ed9f9555770ae",
+      "bytes": 469106,
+      "sha256": "b41d9e82c456dce3acfc99a68319e3756c553f3606b7e5f052bf4660941f89d2",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/52ee3b37445f1e2a255d8850eb88f6bcbee8ce656a4ec9a123595a10d8f3971a-Navigation.js"
-    },
-    {
-      "bytes": 1356572,
-      "sha256": "884aafa1f41612dcc527e18c589ba2289adee03bb6af42888b3ed9f9555770ae",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/52ee3b37445f1e2a255d8850eb88f6bcbee8ce656a4ec9a123595a10d8f3971a-Navigation.js"
+      "sourceUrl": "https://js.rbxcdn.com/50479f37dd26b7d109a6359c14b34df1a62d2d9058c5046a1a2202c4283ffc53-RealTime.js"
     },
     {
       "bytes": 544,
@@ -1576,7 +1576,7 @@
       "sourceUrl": "https://www.roblox.com/js/utilities/bundleVerifier.js?v=91dceb4978eda412b09842312dd6cbaa"
     }
   ],
-  "sequence": 87,
+  "sequence": 88,
   "status": "available",
   "summary": {
     "assets": 224,
