@@ -1,0 +1,64 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "46acf10a0c8fd0550d3a00c39b346194fb1e869a5f29d8b8889333bc20b82296",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "9468d63304c0fb79f2a665ea0935833cd0a21ece3dc144538abcbde9a1978c0b",
+      "semantic": {
+        "added": [
+          "DFFlagAttributeCollaboratorSource_Staged",
+          "DFFlagRbxTransportQuicClearHandlersOnClose_Staged",
+          "DFFlagReimaginePIPSForVoroCD",
+          "FFlagAESV4CreateOutfitTypeEnabled_Staged",
+          "FFlagEnableEmptyContainerWidgetDeepLink_Staged",
+          "FFlagFriendsChatDiscloseUpdateSecondVersion_Staged",
+          "FFlagSduiCatalogVirtualizedFeed4_Staged",
+          "FFlagSimWorldStepLimit"
+        ],
+        "changed": [
+          {
+            "after": "9180ce4f015094167c2ddd5440ecce4d1046eaa2",
+            "before": "8fca95f315bc2744537cfa0ba231bab65ae97cd1",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-15T18:26:35.963Z",
+            "before": "2026-09-15T18:16:00.530Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "9180ce4f015094167c2ddd5440ecce4d1046eaa2",
+            "before": "8fca95f315bc2744537cfa0ba231bab65ae97cd1",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-15T18:26:35.963Z",
+            "before": "2026-09-15T18:16:00.530Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagReimaginePIPSForVoroCD_Staged",
+          "FFlagSimWorldStepLimit_Staged"
+        ],
+        "unchanged": 22401
+      }
+    }
+  },
+  "schemaVersion": 1
+}
