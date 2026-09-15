@@ -1,0 +1,88 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "0ae888963d07bc0a40ced2e5ed014d8386145b386f27c2013b487d520d76e545",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "4462d018fc31f1d4a881c09b0dd0e4a03920418fe3f0118e6e4f7dacbe4161a5",
+      "semantic": {
+        "added": [
+          "DFFlagFlagRolloutTestDynamicBool49_Staged",
+          "DFFlagSimResumeScriptsAfterPostSimulation",
+          "FFlagAXDiscoveryItemPurchaseAttribution_Staged",
+          "FFlagAXIaBSinglePurchaseUnifiedEvents_Staged",
+          "FFlagFixBillboardRichTextGroupScale_Staged",
+          "FFlagFixDrawerNavigateBackWhileClosing_Staged",
+          "FFlagHideChallengeWebViewsUntilDisplayed_Staged",
+          "FFlagJsonRpcSafeTeardown_Staged",
+          "FFlagLuaAppHomePageSharedEffects_Staged",
+          "FFlagMaterialGridTerrainEditorItemUx_Staged",
+          "FFlagMigrateGameInfoToStore_Staged",
+          "FFlagMomentsNonInfiniteScrollEndStateFixes_Staged",
+          "FFlagMomentsNonInfiniteScroll_Staged",
+          "FFlagSearchBarGuardUnmountedAutocomplete_Staged",
+          "FFlagWebViewSupportsHiddenOpen_Staged",
+          "FStringPerformanceControlComputePrimaryTunableConfigJson_Staged"
+        ],
+        "changed": [
+          {
+            "after": "ea611ff76b2809e3b7415e2f31206091675325b6",
+            "before": "5e95e98c55a99efd4d716ce46f8b98dba7bec9b4",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-15T18:00:20.312Z",
+            "before": "2026-09-15T17:19:54.472Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "ea611ff76b2809e3b7415e2f31206091675325b6",
+            "before": "5e95e98c55a99efd4d716ce46f8b98dba7bec9b4",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-15T18:00:20.312Z",
+            "before": "2026-09-15T17:19:54.472Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagSimResumeScriptsAfterPostSimulation_Staged",
+          "FFlagEnableEmptyContainerWidgetDeepLink_Staged"
+        ],
+        "unchanged": 22388
+      }
+    },
+    "Web": {
+      "current": "d0313d1b2e46fa749041c20bbbd5db50b2cf9dfcbacf2a2fe4c64d18c9492aed",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "34540e3c89ed47d752c40ce88c9f20b7cbc09d748b7a868ec6871feceee15846",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
