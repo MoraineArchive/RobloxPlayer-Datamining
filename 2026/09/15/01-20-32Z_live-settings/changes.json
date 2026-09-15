@@ -1,0 +1,56 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-c5aecda2245e4fae",
+    "manifestFiles": 2845,
+    "packages": 22,
+    "version": "0.738.0.7381397"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "3d14ecb7a3566e7a97a039ee34389e371a0e68075ba4a59efe70c91ea4732463",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "48954f7120d9e7a71597c031e52742d07c402c188cfce1bf9f6f16996b4178f0",
+      "semantic": {
+        "added": [
+          "FFlagGetWaveformAsyncChannelCap"
+        ],
+        "changed": [
+          {
+            "after": "65757c4be8b10a77d654e2a453eea354adf57666",
+            "before": "0bd34c5f10c71dc398da17d9653f45c7e636b62d",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-15T01:17:16.948Z",
+            "before": "2026-09-15T00:57:29.479Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "65757c4be8b10a77d654e2a453eea354adf57666",
+            "before": "0bd34c5f10c71dc398da17d9653f45c7e636b62d",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-15T01:17:16.948Z",
+            "before": "2026-09-15T00:57:29.479Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagGetWaveformAsyncChannelCap_Staged"
+        ],
+        "unchanged": 22367
+      }
+    }
+  },
+  "schemaVersion": 1
+}
