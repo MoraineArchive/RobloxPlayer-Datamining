@@ -572,7 +572,7 @@
       "ExtraContent",
       "voice"
     ],
-    "checksum": "8f6e8541c2aed05ffe7073573f171a9c",
+    "checksum": "3e3ba78842edbd159e818eaf2f2b4a50",
     "path": "ExtraContent/models/CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch.rbxm"
   },
   {
@@ -580,7 +580,7 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "9cc1abc79e95a0eb956cdf112c615ba5",
+    "checksum": "5d2c3a2ac95f6161ed4ca14235349450",
     "path": "ExtraContent/models/InExperience/InExperience.rbxm"
   },
   {
@@ -588,7 +588,15 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "d5655eea1e10eaa5838cdf2f1d91f5b2",
+    "checksum": "d3570a88a230b37bdd0b7729a767215e",
+    "path": "ExtraContent/models/InExperience/InExperience_checksum"
+  },
+  {
+    "categories": [
+      "content",
+      "ExtraContent"
+    ],
+    "checksum": "a83b1dcc720bd797beea6576ccaa59ca",
     "path": "ExtraContent/models/Licenses/Licenses.rbxm"
   },
   {
@@ -612,8 +620,16 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "30ba5fc242513c702c0aec90f12f3beb",
+    "checksum": "b54a4db4bcd5f75321b20b446a447d37",
     "path": "ExtraContent/models/UniversalApp/UniversalApp.rbxm"
+  },
+  {
+    "categories": [
+      "content",
+      "ExtraContent"
+    ],
+    "checksum": "7d33323d7e4aba9833258bf2a3038f2e",
+    "path": "ExtraContent/models/UniversalApp/UniversalApp_checksum"
   },
   {
     "categories": [
@@ -7360,21 +7376,21 @@
     "categories": [
       "other"
     ],
-    "checksum": "c09ae26b568f745876b2f100cae2ff71",
+    "checksum": "378e52d3ec4636962f4d9ebf5de24751",
     "path": "RobloxCrashHandler.exe"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "aa4d548826d9aa8ec371c0a3abb689b9",
+    "checksum": "6802e9a20e576e8edbf8970501bfbb4b",
     "path": "RobloxPlayerBeta.dll"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "30199c235742cf5d3e4b6119410d10f6",
+    "checksum": "c909e791d4836a8d8cfb5b19ce885e4f",
     "path": "RobloxPlayerBeta.exe"
   },
   {
@@ -7445,8 +7461,16 @@
       "content",
       "avatar"
     ],
-    "checksum": "2f0a44ee2d2ad5e09551b0e8413ae781",
+    "checksum": "cdca633f49b72f24a02acaaa8fff572b",
     "path": "content/avatar/animations/humanoidR15AnimateChildren.rbxm"
+  },
+  {
+    "categories": [
+      "content",
+      "avatar"
+    ],
+    "checksum": "2f0a44ee2d2ad5e09551b0e8413ae781",
+    "path": "content/avatar/animations/humanoidR15AnimateChildren_DEPRECATED_20260902.rbxm"
   },
   {
     "categories": [
@@ -7878,7 +7902,7 @@
       "avatar"
     ],
     "checksum": "9a02868e36dd01a2616d4aefd9f2f058",
-    "path": "content/avatar/scripts/humanoidAnimateR15CharacterController.rbxm"
+    "path": "content/avatar/scripts/humanoidAnimateR15_DEPRECATED_20260813.rbxm"
   },
   {
     "categories": [
@@ -8153,7 +8177,7 @@
     "categories": [
       "content"
     ],
-    "checksum": "02e5c05da18087d59a8bd62c4793e2a5",
+    "checksum": "99651bf67bff47390ae536974936ebaf",
     "path": "content/configs/InExperiencePatchConfig/InExperiencePatchConfig.json"
   },
   {
@@ -8202,7 +8226,7 @@
     "categories": [
       "content"
     ],
-    "checksum": "0d909c3f5d472e93833cc568f785e4ba",
+    "checksum": "2a08d7601a5959899c63be4295d58f2d",
     "path": "content/configs/UniversalAppPatchConfig/UniversalAppPatchConfig.json"
   },
   {

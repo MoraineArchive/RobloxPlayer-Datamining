@@ -1,182 +1,175 @@
 [
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "DFIntGameNetLocalSpaceMaxSendIndex",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagCollectionServiceTagAddedRemovedOnInstanceSignals",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagDebugEnableLocalAppUpdateChecks",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagDebugEnableTestServiceDeterministicCapture",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagDebugEnableTestServiceVideoCapture",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagDifferentiateStreamedOut",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagInstanceExtensionsServiceCountChildren",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagLCQualityValidation",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagLuauExpressionReferencesMethod",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagLuauExpressionServiceEnabled",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagMigrateCameraCFrameDatamodel",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagMigrateCameraFocusDatamodel",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagMigrateCameraFovDatamodel",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagNextGenReplicatorEnabledRead",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagNextGenReplicatorEnabledWrite",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagSaveAndReloadDebuggablePluginVerb",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagUGCValidateHSRMeshIds",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagUGCValidateInstanceTreesEquivalent",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagUGCValidatePropertiesSensible",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagUGCValidateSerializeExcludeCollisionPhysics",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FFlagVoiceUseWebRTCSession",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FIntContentProviderPreloadHangHashRepeatCount",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
-    "name": "FLogRobloxTelemetry",
-    "origin": "C++",
-    "target": "WindowsPlayer"
-  },
-  {
-    "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FStringDebugRenderingTestVideoCapturePath",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FStringSlimTranscoderResourcePath",
     "origin": "C++",
     "target": "WindowsPlayer"
   },
   {
     "firstObserved": "2026-09-06T16:41:54.951Z",
-    "lastObserved": "2026-09-09T23:33:50.132Z",
+    "lastObserved": "2026-09-15T17:20:20.682Z",
     "name": "FStringTextureTranscodeRollout",
     "origin": "C++",
     "target": "WindowsPlayer"

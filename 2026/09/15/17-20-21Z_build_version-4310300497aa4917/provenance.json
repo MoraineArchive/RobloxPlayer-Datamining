@@ -1,14 +1,27 @@
 {
-  "hashes": {
-    "combined.json": "ecae1c0e7cd2f984d2a4159b7d350e3562730629a89fbd22441a856868384702",
-    "cpp.txt": "b91a8243c553c64de83a96af454176cc5fc7274a3a28452b1c031b49ecf57695",
-    "lua.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
-    "metadata.json": "49f88a1e4bc26058dec668568786454e4c965e9255c447e0841466d6ca48afdf"
-  },
-  "id": "d3105f7837f86069d8ccbc148e3c912cb7c709323bf34b4361adf3b7945f5b42",
-  "observationMode": "live",
-  "observedAt": "2026-09-15T17:20:21.192Z",
-  "provenance": [
+  "Build": [
+    {
+      "bytes": 103,
+      "sha256": "466c00b3d6ca81b65c176d8245c74a4269aa3beed07c8d6a5a30fd5ba05756bf",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettings.roblox.com/v2/client-version/WindowsPlayer"
+    },
+    {
+      "buildGuid": "version-4310300497aa4917",
+      "bytes": 1636,
+      "sha256": "cf79238fb46797d8a8d7e4cf59ca2143f8198a79aebbdd2476aabc465346fbc5",
+      "sourceType": "official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-4310300497aa4917-rbxPkgManifest.txt"
+    },
+    {
+      "buildGuid": "version-4310300497aa4917",
+      "bytes": 253362,
+      "sha256": "338ec821afccae9b31657968ffc9bac844eebcdc10989c77f32de581fea73b2b",
+      "sourceType": "official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-4310300497aa4917-rbxManifest.txt"
+    }
+  ],
+  "FastVariables": [
     {
       "buildGuid": "version-4310300497aa4917",
       "bytes": 136726729,
@@ -86,14 +99,65 @@
       "sourceUrl": "https://setup.rbxcdn.com/version-4310300497aa4917-extracontent-translations.zip"
     }
   ],
-  "sequence": 29,
-  "status": "available",
-  "summary": {
-    "cpp": 25,
-    "engineRevision": 1,
-    "lua": 0,
-    "method": "C++: explicitly prefixed native strings. Lua: explicit names and DefineFast/GetFast literals. These are observations, not a complete executable registration table. LIVE values are separate."
-  },
-  "surface": "FastVariables",
-  "target": "WindowsPlayer"
+  "LiveSettings": [
+    {
+      "bytes": 1286986,
+      "reference": "https://raw.githubusercontent.com/MaximumADHD/Roblox-FFlag-Tracker/main/README.md",
+      "sha256": "b570431c5897493a4d99ac223e171b13775c0a15d479362220bbecc850727c08",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettings.roblox.com/v2/settings/application/PCDesktopClient"
+    }
+  ],
+  "LuaPackages": [
+    {
+      "buildGuid": "version-4310300497aa4917",
+      "bytes": 306513,
+      "derivedFrom": "content-configs.zip",
+      "sha256": "0b7fcae97fb65944715d3cf5e4437516a87c7640165c32da41f915229cd65094",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-4310300497aa4917-content-configs.zip"
+    },
+    {
+      "buildGuid": "version-4310300497aa4917",
+      "bytes": 620166,
+      "derivedFrom": "content-models.zip",
+      "sha256": "bd9d84b18399042e0478ccdc989081d48a82279a498b36efaa197a317e01df76",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-4310300497aa4917-content-models.zip"
+    },
+    {
+      "buildGuid": "version-4310300497aa4917",
+      "bytes": 2821770,
+      "derivedFrom": "extracontent-luapackages.zip",
+      "sha256": "e709408122690d00b6c3e0bc1d6d136f477697d619b9e3e5f3a95c5686427fca",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-4310300497aa4917-extracontent-luapackages.zip"
+    },
+    {
+      "buildGuid": "version-4310300497aa4917",
+      "bytes": 25553611,
+      "derivedFrom": "extracontent-models.zip",
+      "sha256": "81440d07dbdd658f5abd1b67aa6b153c2d73d6a5c8ee53e0b7e42af82f962ea0",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-4310300497aa4917-extracontent-models.zip"
+    },
+    {
+      "buildGuid": "version-4310300497aa4917",
+      "bytes": 610717,
+      "derivedFrom": "extracontent-translations.zip",
+      "sha256": "16cd03787910fec0340c58cd4efd4ba47d1f00d61395c76693cd5db695db58a4",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-4310300497aa4917-extracontent-translations.zip"
+    }
+  ],
+  "Native": [
+    {
+      "buildGuid": "version-4310300497aa4917",
+      "bytes": 136726729,
+      "derivedFrom": "RobloxPlayerBeta.exe",
+      "sha256": "73d3bf1393a0235e0a3fd451d9a1773cd05c35460e3b85385d64f6b673165914",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-4310300497aa4917-RobloxApp.zip"
+    }
+  ]
 }
