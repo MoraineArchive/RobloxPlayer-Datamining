@@ -2,9 +2,9 @@
   "observationMode": "live",
   "provenance": [
     {
-      "bytes": 1291432,
+      "bytes": 1291944,
       "reference": "https://raw.githubusercontent.com/MaximumADHD/Roblox-FFlag-Tracker/main/README.md",
-      "sha256": "5144fae1d6066608d468d33e5317263646152a7959d6c95ef5dc2a06ebac3682",
+      "sha256": "6756d5a2694489c787f451c783eb7a0570da18a80c8c4d7ceca37c8ac3e992f8",
       "sourceType": "official",
       "sourceUrl": "https://clientsettings.roblox.com/v2/settings/application/PCDesktopClient"
     }
@@ -14,7 +14,7 @@
     "application": "PCDesktopClient",
     "engineRevision": 1,
     "note": "Current public remotely served values, observed independently of executable version.",
-    "settings": 22467
+    "settings": 22489
   },
   "target": "WindowsPlayer"
 }

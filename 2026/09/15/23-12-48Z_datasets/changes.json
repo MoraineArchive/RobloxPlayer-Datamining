@@ -1,0 +1,148 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "e0a2f9a53bdda79cad214f365bf37b783f2743767807e1ac5bf7ffd9d338a7d9",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "2262df286b0ce894235d09aa7b61c2b18a41bd7f7a90ca2b88e70b4d58b09a28",
+      "semantic": {
+        "added": [
+          "DFFlagACSGuardEmptyBatchTokenDetails",
+          "DFFlagCLI206370",
+          "DFFlagCLI220331Enabled",
+          "DFFlagCrashMetricStorageWritePlaySession",
+          "DFFlagEnableMakeupTransferAPIs",
+          "DFFlagRCCTSThreadsOverriddenWithCoreRoundUp2_Staged",
+          "DFFlagRbxTransportQuicExtendMaxRemoteStreamsBidiCallback",
+          "DFFlagRbxTransportRtcIoTrackPendingConnectionCloses",
+          "DFFlagSelfLogicCleanupRbs",
+          "DFFlagSkipTypeCheckIfTooLong",
+          "DFFlagTypeCheckForAngleBetween",
+          "FFlagACEFixPromptTextClipping",
+          "FFlagACSSerializeWithUnpublished",
+          "FFlagAXCatalogSduiUseOpaqueRouteForSearch_Staged",
+          "FFlagAmpV2WizardAnalytics",
+          "FFlagAmpWizardV2VpcHandoff",
+          "FFlagEnableAmpV2Wizard",
+          "FFlagExtractPackageDefinition_InstanceRefAttributes_Staged",
+          "FFlagFixDecalTintingFromSurfaceAppearance",
+          "FFlagFoundationListStableContextValue",
+          "FFlagFriendsChatEnableConversationConsent2_Staged",
+          "FFlagGeoGenUseDefaultArena",
+          "FFlagLuaAppDefaultGameAdTileText_Staged",
+          "FFlagLuaAppFixStartPlaybackProgress_Staged",
+          "FFlagLuaAppSduiGameTileFeedback4_Staged",
+          "FFlagLuaAppSduiHomeFriendCarousel_Staged",
+          "FFlagLuaAppSduiSponsoredTwoByOneTile2_Staged",
+          "FFlagLuaAppSduiVideoThumbnail3_Staged",
+          "FFlagLuaAppSharedHomePageInteractive",
+          "FFlagLuauCompileContinueEagerClose_Staged",
+          "FFlagLuauCompileExpandLimit_Staged",
+          "FFlagLuauCompileExpandShortLimit_Staged",
+          "FFlagLuauCompoundAssignSeedsAstTypes",
+          "FFlagMaterialGridUseItemIds",
+          "FFlagRequirePlayerModule2",
+          "FFlagSduiClientDrivenTemplates",
+          "FFlagSduiCollectionGridRevealRows_Staged",
+          "FFlagSduiGameTileDisableDefaultPlayButtonOnHover_Staged",
+          "FFlagSduiParseProtoGradientFields_Staged",
+          "FFlagSduiVerticalFeedProgressiveFillOnScroll2_Staged",
+          "FFlagSecondaryActivatedFiresDuringTouchHold",
+          "FFlagSendAvatarBodyEvent",
+          "FFlagSimEditableMeshNonManifoldTwinRework3_Staged",
+          "FFlagSimEditableMeshRemoveFaceAndFindCornerHelpers",
+          "FFlagTaskSchedulerDetachArbiters2_Staged",
+          "FFlagUserVRSkipOcclusionInFirstPerson_Staged",
+          "FFlagWaitPlayerModuleStatus",
+          "FIntLongPressThresholdMs",
+          "SFFlagAuroraDeterministicGuidNonNegativeIndex"
+        ],
+        "changed": [
+          {
+            "after": "40fa3f02e8c9fcf20414f8fa7cb37c0fdd0f8b64",
+            "before": "bbd71c8f2939137d4a8803bae0abec5feb875202",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-15T23:12:00.460Z",
+            "before": "2026-09-15T21:40:34.197Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "40fa3f02e8c9fcf20414f8fa7cb37c0fdd0f8b64",
+            "before": "bbd71c8f2939137d4a8803bae0abec5feb875202",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-15T23:12:00.460Z",
+            "before": "2026-09-15T21:40:34.197Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagACSGuardEmptyBatchTokenDetails_Staged",
+          "DFFlagCLI206370_Staged",
+          "DFFlagCLI220331Enabled_Staged",
+          "DFFlagCrashMetricStorageWritePlaySession_Staged",
+          "DFFlagRbxTransportQuicExtendMaxRemoteStreamsBidiCallback_Staged",
+          "DFFlagSelfLogicCleanupRbs_Staged",
+          "DFFlagSkipTypeCheckIfTooLong_Staged",
+          "DFFlagTypeCheckForAngleBetween_Staged",
+          "FFlagACEFixPromptTextClipping_Staged",
+          "FFlagACSSerializeWithUnpublished_Staged",
+          "FFlagAmpV2WizardAnalytics_Staged",
+          "FFlagAmpWizardV2VpcHandoff_Staged",
+          "FFlagEnableAmpV2Wizard_Staged",
+          "FFlagFixDecalTintingFromSurfaceAppearance_Staged",
+          "FFlagFoundationListStableContextValue_Staged",
+          "FFlagGeoGenUseDefaultArena_Staged",
+          "FFlagLuaAppSharedHomePageInteractive_Staged",
+          "FFlagLuauCompoundAssignSeedsAstTypes_Staged",
+          "FFlagMaterialGridUseItemIds_Staged",
+          "FFlagRequirePlayerModule2_Staged",
+          "FFlagSduiClientDrivenTemplates_Staged",
+          "FFlagSecondaryActivatedFiresDuringTouchHold_Staged",
+          "FFlagSendAvatarBodyEvent_Staged",
+          "FFlagSimEditableMeshRemoveFaceAndFindCornerHelpers_Staged",
+          "FFlagWaitPlayerModuleStatus_Staged",
+          "FIntLongPressThresholdMs_Staged",
+          "SFFlagAuroraDeterministicGuidNonNegativeIndex_Staged"
+        ],
+        "unchanged": 22436
+      }
+    },
+    "Web": {
+      "current": "1037b478b3c5bf2b83d30c0df716e5dd426637a5e3b39f59647d89f3dba86c8d",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.VerificationUpsell.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.VerificationUpsell.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 223
+      },
+      "previous": "474e9752c17fef9b881bca2951b6ff97fbf048bbc2e5412d2b598defea3b9b7a",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
