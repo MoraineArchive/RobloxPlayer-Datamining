@@ -1,0 +1,193 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "40fddbc06e3132542b102eeae1040b4411d06620aa43b6c747030fd50364d744",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "46acf10a0c8fd0550d3a00c39b346194fb1e869a5f29d8b8889333bc20b82296",
+      "semantic": {
+        "added": [
+          "DFFlagAJUFixBuildRigFromAttachmentsDoubleScaling_Staged",
+          "DFFlagAttributeCollaboratorSource",
+          "DFFlagCSGPublishCounterEnabled_Staged",
+          "DFFlagExperienceStateCaptureSafetyBruteForceAllSlow",
+          "DFFlagFriendsApiCallerIdentityParam_Staged",
+          "DFFlagHttpServiceRequestInternalOpenCloudCookieAuth",
+          "DFFlagImporterAceRestPoseFromRig_Staged",
+          "DFFlagLinkingServiceMacOpenNotificationSettings",
+          "DFFlagMeshLODBoundsCheckMaxSkinRadius_Staged",
+          "DFFlagRbxTransportQuicClearHandlersOnClose",
+          "DFFlagRbxTransportQuicRetryScidRoutingFix_Staged",
+          "DFFlagRccMonitorSendServerRestartInfo_Staged",
+          "DFFlagUseTeleportMethodEnum",
+          "DFIntAppShutdownFlowTelemetryThrottle",
+          "FFlagACSSerializeWithUnpublished_Staged",
+          "FFlagAXDiscoveryItemPurchaseAttribution",
+          "FFlagAXFixSearchBarPortraitBackground_Staged",
+          "FFlagAXIaBSinglePurchaseUnifiedEvents",
+          "FFlagAXSduiFeedBackToTopAndNavClearance_Staged",
+          "FFlagAXWidgetHeaderTreatEmptyTextAsNil_Staged",
+          "FFlagAmpV2WizardAnalytics_Staged",
+          "FFlagBuildExperiencePersistChatDraft_Staged",
+          "FFlagBuildExperienceShowThinkingAfterAskUserSubmit_Staged",
+          "FFlagDecalEmissiveEnabled",
+          "FFlagDisableWindowsAccessibilityHotkeys_Staged",
+          "FFlagEnableEmptyContainerWidgetDeepLink",
+          "FFlagEnableLoginV2Modalization19",
+          "FFlagEnableLuaCommunityList",
+          "FFlagEnablePlayButtonWizardVPCPrologue",
+          "FFlagExpChatFlipDictationPriorityV2_Staged",
+          "FFlagFixBillboardRichTextGroupScale",
+          "FFlagFixDrawerNavigateBackWhileClosing",
+          "FFlagFixSkinningLifetimeAndBugs15",
+          "FFlagFixStyleLinkRemoveOnDestroy_Staged",
+          "FFlagFixTFLinksVRGating_Staged",
+          "FFlagFlyoutResolveItemContextOnActivation",
+          "FFlagFmodFixPrematureLoopbacks",
+          "FFlagFoundationListStableContextValue_Staged",
+          "FFlagInstanceAttributesCloneKeepsExternalRefs",
+          "FFlagJsonRpcSafeTeardown",
+          "FFlagLuaAppExtractNotInterestedHelper",
+          "FFlagLuaAppHomePageSharedEffects",
+          "FFlagLuaAppScaleDetailWidth",
+          "FFlagLuaAppSharedHomePageInteractive_Staged",
+          "FFlagLuauEmitCallFeedback",
+          "FFlagMaterialGridTerrainEditorItemUx",
+          "FFlagMigrateGameInfoToStore",
+          "FFlagMomentsNonInfiniteScroll",
+          "FFlagMomentsNonInfiniteScrollEndStateFixes",
+          "FFlagPinShortcutWin32IxpLayerEnabled",
+          "FFlagProfilePlatformEnableUserFollow_IXP",
+          "FFlagProfilePlatformFixBioTruncation_Staged",
+          "FFlagRbxStorageInitV25",
+          "FFlagRemoveStyleEngineInstanceStyle_Staged",
+          "FFlagRequirePlayerModule2_Staged",
+          "FFlagSduiApiStoreOnSuccessAndRefresh",
+          "FFlagSduiCatalogVirtualizedFeed4",
+          "FFlagSearchBarGuardUnmountedAutocomplete",
+          "FFlagSecondaryActivatedFiresDuringTouchHold_Staged",
+          "FFlagStratusOfferPlatform_Staged",
+          "FFlagStudioFixPackageActions",
+          "FFlagTrustedContactsSheetFocusNavigation_Staged",
+          "FFlagVoiceChatPermissionPromptUseMicrophoneRoute_Staged",
+          "FFlagWaitPlayerModuleStatus_Staged",
+          "FIntLongPressThresholdMs_Staged",
+          "FStringPerformanceControlComputePrimaryTunableConfigJson"
+        ],
+        "changed": [
+          {
+            "after": "True",
+            "before": "false",
+            "name": "DFFlagFlagRolloutTestDynamicBool49"
+          },
+          {
+            "after": "f6b7753671a107fcad5e5370b136412a28eaa08b",
+            "before": "9180ce4f015094167c2ddd5440ecce4d1046eaa2",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-15T20:28:55.594Z",
+            "before": "2026-09-15T18:26:35.963Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-15T19:04:10",
+            "before": "True;SteadyState;10;30;Revert;2026-09-15T18:24:46",
+            "name": "FFlagAESV4CreateOutfitTypeEnabled_Staged"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagHideChallengeWebViewsUntilDisplayed"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagWebViewSupportsHiddenOpen"
+          },
+          {
+            "after": "f6b7753671a107fcad5e5370b136412a28eaa08b",
+            "before": "9180ce4f015094167c2ddd5440ecce4d1046eaa2",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-15T20:28:55.594Z",
+            "before": "2026-09-15T18:26:35.963Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagAttributeCollaboratorSource_Staged",
+          "DFFlagFlagRolloutTestDynamicBool49_Staged",
+          "DFFlagRbxTransportQuicClearHandlersOnClose_Staged",
+          "FFlagAXDiscoveryItemPurchaseAttribution_Staged",
+          "FFlagAXIaBSinglePurchaseUnifiedEvents_Staged",
+          "FFlagDecalEmissiveEnabled_Staged",
+          "FFlagEnableEmptyContainerWidgetDeepLink_Staged",
+          "FFlagEnableLoginV2Modalization19_Staged",
+          "FFlagEnableLuaCommunityList_Staged",
+          "FFlagEnablePlayButtonWizardVPCPrologue_Staged",
+          "FFlagFixBillboardRichTextGroupScale_Staged",
+          "FFlagFixDrawerNavigateBackWhileClosing_Staged",
+          "FFlagFixSkinningLifetimeAndBugs15_Staged",
+          "FFlagFlyoutResolveItemContextOnActivation_Staged",
+          "FFlagFmodFixPrematureLoopbacks_Staged",
+          "FFlagHideChallengeWebViewsUntilDisplayed_Staged",
+          "FFlagInstanceAttributesCloneKeepsExternalRefs_Staged",
+          "FFlagJsonRpcSafeTeardown_Staged",
+          "FFlagLuaAppExtractNotInterestedHelper_Staged",
+          "FFlagLuaAppHomePageSharedEffects_Staged",
+          "FFlagLuaAppScaleDetailWidth_Staged",
+          "FFlagLuauEmitCallFeedback_Staged",
+          "FFlagMaterialGridTerrainEditorItemUx_Staged",
+          "FFlagMigrateGameInfoToStore_Staged",
+          "FFlagMomentsNonInfiniteScrollEndStateFixes_Staged",
+          "FFlagMomentsNonInfiniteScroll_Staged",
+          "FFlagPinShortcutWin32IxpLayerEnabled_Staged",
+          "FFlagRbxStorageInitV25_Staged",
+          "FFlagSduiApiStoreOnSuccessAndRefresh_Staged",
+          "FFlagSduiCatalogVirtualizedFeed4_Staged",
+          "FFlagSearchBarGuardUnmountedAutocomplete_Staged",
+          "FFlagStudioFixPackageActions_Staged",
+          "FFlagUseRbxTransportClient3_Staged",
+          "FFlagWebViewSupportsHiddenOpen_Staged",
+          "FStringPerformanceControlComputePrimaryTunableConfigJson_Staged"
+        ],
+        "unchanged": 22370
+      }
+    },
+    "Web": {
+      "current": "f67d762894e7845c64ee7f5a5260aaac71ac524e6d466c5340aacdc5544f9e2f",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js",
+          "js.rbxcdn.com/page-0/SearchLandingPage.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js",
+          "js.rbxcdn.com/page-1/SearchLandingPage.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "d0313d1b2e46fa749041c20bbbd5db50b2cf9dfcbacf2a2fe4c64d18c9492aed",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
