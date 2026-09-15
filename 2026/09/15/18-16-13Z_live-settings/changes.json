@@ -1,0 +1,69 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "9468d63304c0fb79f2a665ea0935833cd0a21ece3dc144538abcbde9a1978c0b",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "0ae888963d07bc0a40ced2e5ed014d8386145b386f27c2013b487d520d76e545",
+      "semantic": {
+        "added": [
+          "DFFlagFilterClientStreamingPerfStatsToStreaming",
+          "FFlagSduiApiStoreOnSuccessAndRefresh_Staged"
+        ],
+        "changed": [
+          {
+            "after": "7500",
+            "before": "5000",
+            "name": "DFIntDataStoreRequestEventThrottleHundredthsPercentage"
+          },
+          {
+            "after": "8fca95f315bc2744537cfa0ba231bab65ae97cd1",
+            "before": "ea611ff76b2809e3b7415e2f31206091675325b6",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-15T18:16:00.530Z",
+            "before": "2026-09-15T18:00:20.312Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagSimImprovedAnimationConstraintRollout2"
+          },
+          {
+            "after": "8fca95f315bc2744537cfa0ba231bab65ae97cd1",
+            "before": "ea611ff76b2809e3b7415e2f31206091675325b6",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-15T18:16:00.530Z",
+            "before": "2026-09-15T18:00:20.312Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagFilterClientStreamingPerfStatsToStreaming_Staged",
+          "DFIntDataStoreRequestEventThrottleHundredthsPercentage_Staged",
+          "FFlagSimImprovedAnimationConstraintRollout2_Staged"
+        ],
+        "unchanged": 22399
+      }
+    }
+  },
+  "schemaVersion": 1
+}
