@@ -1,0 +1,67 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "e3f3209c942406e06e890e933400747f870fc01cdc15988d9ee2b2881031b8de",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "7a170f3ee56f805fc640e4dfae07f4b7f04f09be4dc89aff69429398652591c5",
+      "semantic": {
+        "added": [
+          "DFFlagServerAuthorityDisableExtraRounding_Staged",
+          "DFFlagSimPreventSleepOnJointRemoval",
+          "FFlagBuildExperienceFreeTrialResetPeriod",
+          "FFlagEnablePopLatencyOverlayForAdmins",
+          "FFlagHomeSduiOfflineCache",
+          "FFlagLuauCostModel_Staged",
+          "FFlagSduiUseHttpClient_Staged"
+        ],
+        "changed": [
+          {
+            "after": "a1586b3dc93f49b009afe3db54406ab5b2e24f32",
+            "before": "38a7802a2c380bbf0919f698a981f94ceefcf50d",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-16T20:26:50.958Z",
+            "before": "2026-09-16T20:08:43.042Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "a1586b3dc93f49b009afe3db54406ab5b2e24f32",
+            "before": "38a7802a2c380bbf0919f698a981f94ceefcf50d",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-16T20:26:50.958Z",
+            "before": "2026-09-16T20:08:43.042Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagSimPreventSleepOnJointRemoval_Staged",
+          "FFlagBuildExperienceFreeTrialResetPeriod_Staged",
+          "FFlagEnablePopLatencyOverlayForAdmins_Staged",
+          "FFlagFriendRequestModalRevampV4_IXP",
+          "FFlagHomeSduiOfflineCache_Staged",
+          "FIntSlimCFrameTranslationQuantizeMode"
+        ],
+        "unchanged": 22546
+      }
+    }
+  },
+  "schemaVersion": 1
+}
