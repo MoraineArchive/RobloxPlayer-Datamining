@@ -10,10 +10,10 @@
   {
     "path": "js.rbxcdn.com/page-0/AccessManagementUpsellV2.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "4564cabd2066bbe81deec1b49d9dde10eee4e83017352263ef67b9d19acad8ab",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/accessManagementUpsellV2-907cfd20fd066e58.js.map",
+    "sha256": "cd05555985f5efaacdee756e0cdda126061e76aa72658d6a9e81d58a1b82bef0",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/accessManagementUpsellV2-32eb488ccf84bfa1.js.map",
     "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/fb085259797c7aae2fe074c5482cdfa3fbd09af200ac4738ed0054fb0d2ce1d1-AccessManagementUpsellV2.js"
+    "url": "https://js.rbxcdn.com/5688e7c3561b350b083019f23b43991acd6cff086f20d752a09d13da5ec7d1be-AccessManagementUpsellV2.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/AccountSwitcher.js",
@@ -74,10 +74,10 @@
   {
     "path": "js.rbxcdn.com/page-0/CoreUtilities.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "00f82b2555b049d2981b4d8b3ab2a548de0f3207cbd483353a81f9e27499f940",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/coreUtilities-938aa1210051d016.js.map",
+    "sha256": "932dd5e238733719e6e093344ff99a3d9af755c967a0374f941295a16111d51c",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/coreUtilities-e8822683060c5228.js.map",
     "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/9855321730da5222c2a26a6029162f2a7fef0010e7c977c39724277c749bbdfc-CoreUtilities.js"
+    "url": "https://js.rbxcdn.com/393474a7e543dff4753a997541c4786e44788cadc80192f6c904975bfcab7e4a-CoreUtilities.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/CrossTabCommunication.js",
@@ -650,10 +650,10 @@
   {
     "path": "js.rbxcdn.com/page-0/Navigation.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "1fcb7832e96d5b72092020048f240a4f02c3a0408f070e735fc24ce102472219",
+    "sha256": "874d166775bdbd6050d4aceabaaf926e579c4137b1264a87f632c49958323e2a",
     "sourceMap": "https://sourcemaps.rbxcdn.com/navigation-2f42ec98f8f6c6e9.js.map",
     "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/b0a5e97552c57fb927d9c18ae471a69330b203d495abe7a24bdf64888f6b25a5-Navigation.js"
+    "url": "https://js.rbxcdn.com/9c6722a3c6b4fbb94ee592ea594ef51eb3aec46096fa4c7aaecbc3a0d5e2263e-Navigation.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/Polyfill.js",
@@ -874,10 +874,10 @@
   {
     "path": "js.rbxcdn.com/page-1/AccessManagementUpsellV2.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "4564cabd2066bbe81deec1b49d9dde10eee4e83017352263ef67b9d19acad8ab",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/accessManagementUpsellV2-907cfd20fd066e58.js.map",
+    "sha256": "cd05555985f5efaacdee756e0cdda126061e76aa72658d6a9e81d58a1b82bef0",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/accessManagementUpsellV2-32eb488ccf84bfa1.js.map",
     "sourcePage": "https://www.roblox.com/discover",
-    "url": "https://js.rbxcdn.com/fb085259797c7aae2fe074c5482cdfa3fbd09af200ac4738ed0054fb0d2ce1d1-AccessManagementUpsellV2.js"
+    "url": "https://js.rbxcdn.com/5688e7c3561b350b083019f23b43991acd6cff086f20d752a09d13da5ec7d1be-AccessManagementUpsellV2.js"
   },
   {
     "path": "js.rbxcdn.com/page-1/AccountSwitcher.js",
@@ -938,10 +938,10 @@
   {
     "path": "js.rbxcdn.com/page-1/CoreUtilities.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "00f82b2555b049d2981b4d8b3ab2a548de0f3207cbd483353a81f9e27499f940",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/coreUtilities-938aa1210051d016.js.map",
+    "sha256": "932dd5e238733719e6e093344ff99a3d9af755c967a0374f941295a16111d51c",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/coreUtilities-e8822683060c5228.js.map",
     "sourcePage": "https://www.roblox.com/discover",
-    "url": "https://js.rbxcdn.com/9855321730da5222c2a26a6029162f2a7fef0010e7c977c39724277c749bbdfc-CoreUtilities.js"
+    "url": "https://js.rbxcdn.com/393474a7e543dff4753a997541c4786e44788cadc80192f6c904975bfcab7e4a-CoreUtilities.js"
   },
   {
     "path": "js.rbxcdn.com/page-1/CrossTabCommunication.js",
@@ -1034,10 +1034,10 @@
   {
     "path": "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Common.GameSorts.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "b8fcfaf0592a634390257f40e6eaa595a875ac467c2ce4437cbbcb8e9e290d2b",
+    "sha256": "3c5c1b1daa708ff3de52c13637936af957b090da82688f1fc6650e9f62c2eb9c",
     "sourceMap": null,
     "sourcePage": "https://www.roblox.com/discover",
-    "url": "https://js.rbxcdn.com/e1b12922d31e7d7db056fba56ed50d29f013d1ce6ef024e035f0b2ddea2f0bec.js"
+    "url": "https://js.rbxcdn.com/e72657ce7efa9ad9dcb90e06e697d14aab3c0841eff004b8398d27fb5e484bbd.js"
   },
   {
     "path": "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Common.Presence.js",
@@ -1538,10 +1538,10 @@
   {
     "path": "js.rbxcdn.com/page-1/Navigation.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "1fcb7832e96d5b72092020048f240a4f02c3a0408f070e735fc24ce102472219",
+    "sha256": "874d166775bdbd6050d4aceabaaf926e579c4137b1264a87f632c49958323e2a",
     "sourceMap": "https://sourcemaps.rbxcdn.com/navigation-2f42ec98f8f6c6e9.js.map",
     "sourcePage": "https://www.roblox.com/discover",
-    "url": "https://js.rbxcdn.com/b0a5e97552c57fb927d9c18ae471a69330b203d495abe7a24bdf64888f6b25a5-Navigation.js"
+    "url": "https://js.rbxcdn.com/9c6722a3c6b4fbb94ee592ea594ef51eb3aec46096fa4c7aaecbc3a0d5e2263e-Navigation.js"
   },
   {
     "path": "js.rbxcdn.com/page-1/PeopleList.js",

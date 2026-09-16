@@ -1,0 +1,180 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "7a170f3ee56f805fc640e4dfae07f4b7f04f09be4dc89aff69429398652591c5",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "45cfbbd6c23623c7b2a65123392d92925da06dca0b8abe6b86a3421daf92bb1e",
+      "semantic": {
+        "added": [
+          "DFFlagGlobalUserBlockingValidation2",
+          "DFFlagRobustRetargeterIgnoreHrpTransform2",
+          "DFFlagSimPreventSleepOnJointRemoval_Staged",
+          "DFFlagSimulationCallbackViaScope",
+          "DFFlagUnlockCollisionPrecision",
+          "FFlagAXAddSearchTrendingChips4_Staged",
+          "FFlagAXDeferLookImpressionsForHydration",
+          "FFlagAXHideSearchTrendingChipsInAutocomplete_Staged",
+          "FFlagAXSearchTrendingChipLogging_Staged",
+          "FFlagAXUpdateOffersBannerFeatureKey_Staged",
+          "FFlagAmrDisableShardedEvent2",
+          "FFlagBypassIXPSkipVPCSignup",
+          "FFlagChangeHistoryRecordAssemblyCFrames_Staged",
+          "FFlagEnableDLICSeedAndroidWebView",
+          "FFlagEnableLazyWorkManagerInit",
+          "FFlagEnablePlatformRestrictedEventReceiver3",
+          "FFlagEnableSkipVPCSignupFlow2",
+          "FFlagFixDoubleBackNav_Staged",
+          "FFlagFixPlatformRestrictedHomeClobber",
+          "FFlagFixRenderViewTimerPeriodImbalance",
+          "FFlagFixTexturePackValidity",
+          "FFlagLcDeformerPropertySetTelemetry_Staged",
+          "FFlagLuaAppSduiMovePromptsActions",
+          "FFlagLuauBytecodeCostModel2",
+          "FFlagLuauClonePublicInterfaceRetainTypeFunctionSolvedStatus",
+          "FFlagLuauImproveDeprecatedLint",
+          "FFlagMomentsCreationAllowAPMMusic_Staged",
+          "FFlagProfileInsightsSkipFetchNoCacheEntry_Staged",
+          "FFlagStudioUseBridgeInPlaySoloTabController",
+          "FFlagTextureTranscodeNewRollout",
+          "FFlagVirtualCursorForTVRemoteKeycodes",
+          "FFlagXboxSetFriendCommunicationStatus_Staged",
+          "FIntAXMaxTrendingSearchQueries_Staged",
+          "FIntSlimCFrameTranslationQuantizeMode"
+        ],
+        "changed": [
+          {
+            "after": "10",
+            "before": "10000",
+            "name": "DFIntSlimRolloutHundredthPercent"
+          },
+          {
+            "after": "38a7802a2c380bbf0919f698a981f94ceefcf50d",
+            "before": "0677436aa17d3056f348bf95ee58863b62081e8e",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-16T20:08:43.042Z",
+            "before": "2026-09-16T18:46:28.019Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "v2.4",
+            "before": "v2.3",
+            "name": "DFStringSlimRolloutMajorVersion"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagFoundationBaseMenuContentSizing"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagFoundationPopoverContentAnchorFix"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagPropertySetSortUnorderedInstanceIds"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagSlimFixNoConstraintBoneHashScaleInvariance"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagSlimUseExtentsBasedTransitionDistance"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagSlimUseHSRAssetDataExtractor"
+          },
+          {
+            "after": "38a7802a2c380bbf0919f698a981f94ceefcf50d",
+            "before": "0677436aa17d3056f348bf95ee58863b62081e8e",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-16T20:08:43.042Z",
+            "before": "2026-09-16T18:46:28.019Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagGlobalUserBlockingValidation2_Staged",
+          "DFFlagRobustRetargeterIgnoreHrpTransform2_Staged",
+          "DFFlagUnlockCollisionPrecision_Staged",
+          "DFIntSlimRolloutHundredthPercent_Staged",
+          "DFStringSlimRolloutMajorVersion_Staged",
+          "FFlagAXDeferLookImpressionsForHydration_Staged",
+          "FFlagAmrDisableShardedEvent2_Staged",
+          "FFlagAppContainerReadyToRender_Staged",
+          "FFlagBypassIXPSkipVPCSignup_Staged",
+          "FFlagEnableDLICSeedAndroidWebView_Staged",
+          "FFlagEnableLazyWorkManagerInit_Staged",
+          "FFlagEnablePlatformRestrictedEventReceiver3_Staged",
+          "FFlagEnableSkipVPCSignupFlow2_Staged",
+          "FFlagFixPlatformRestrictedHomeClobber_Staged",
+          "FFlagFixRenderViewTimerPeriodImbalance_Staged",
+          "FFlagFixTexturePackValidity_Staged",
+          "FFlagFoundationBaseMenuContentSizing_Staged",
+          "FFlagFoundationPopoverContentAnchorFix_Staged",
+          "FFlagLuaAppSduiMovePromptsActions_Staged",
+          "FFlagLuauBytecodeCostModel2_Staged",
+          "FFlagLuauClonePublicInterfaceRetainTypeFunctionSolvedStatus_Staged",
+          "FFlagLuauImproveDeprecatedLint_Staged",
+          "FFlagMomentsCreationMusicSearchStateFix_Staged",
+          "FFlagPropertySetSortUnorderedInstanceIds_Staged",
+          "FFlagSlimFixNoConstraintBoneHashScaleInvariance_Staged",
+          "FFlagSlimUseExtentsBasedTransitionDistance_Staged",
+          "FFlagSlimUseHSRAssetDataExtractor_Staged",
+          "FFlagStudioUseBridgeInPlaySoloTabController_Staged",
+          "FFlagTextureTranscodeNewRollout_Staged",
+          "FFlagVirtualCursorForTVRemoteKeycodes_Staged",
+          "FIntSlimCFrameTranslationQuantizeMode_Staged"
+        ],
+        "unchanged": 22510
+      }
+    },
+    "Web": {
+      "current": "e4cbb425a3413de1cfbc15c4130e9d689372dda190ac47c04c986fcb32791b82",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/AccessManagementUpsellV2.js",
+          "js.rbxcdn.com/page-0/CoreUtilities.js",
+          "js.rbxcdn.com/page-0/Navigation.js",
+          "js.rbxcdn.com/page-1/AccessManagementUpsellV2.js",
+          "js.rbxcdn.com/page-1/CoreUtilities.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Common.GameSorts.js",
+          "js.rbxcdn.com/page-1/Navigation.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 217
+      },
+      "previous": "8236acb22b10caa11311b474501009596ee65997d4de1f521042b1b1c1349cad",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
