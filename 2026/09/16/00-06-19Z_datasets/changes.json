@@ -1,0 +1,105 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "c5605d4dfdbdbe67144ce4d3283e06d9fd588d7c018c090327183952e70688b8",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "e0a2f9a53bdda79cad214f365bf37b783f2743767807e1ac5bf7ffd9d338a7d9",
+      "semantic": {
+        "added": [
+          "DFFlagRCCTSThreadsOverriddenWithCoreRoundUp2",
+          "FFlagAXFixScrollingCarouselShowRightButton_Staged",
+          "FFlagLuauCompileContinueEagerClose",
+          "FFlagLuauCompileExpandLimit",
+          "FFlagLuauCompileExpandShortLimit",
+          "FFlagPurchasePromptPreviewMakeupHead2",
+          "FFlagSduiRequestCounters",
+          "FFlagSduiTemplateApiPostRequest",
+          "FFlagSingleUploadMakeupSupport5"
+        ],
+        "changed": [
+          {
+            "after": "ac751920e5cbcd8345b1f8277a426cf42c65935b",
+            "before": "40fa3f02e8c9fcf20414f8fa7cb37c0fdd0f8b64",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-16T00:05:20.397Z",
+            "before": "2026-09-15T23:12:00.460Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagFixSkinningLifetimeAndBugs15"
+          },
+          {
+            "after": "ac751920e5cbcd8345b1f8277a426cf42c65935b",
+            "before": "40fa3f02e8c9fcf20414f8fa7cb37c0fdd0f8b64",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-16T00:05:20.397Z",
+            "before": "2026-09-15T23:12:00.460Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagRCCTSThreadsOverriddenWithCoreRoundUp2_Staged",
+          "FFlagFixSkinningLifetimeAndBugs15_Staged",
+          "FFlagLuauCompileContinueEagerClose_Staged",
+          "FFlagLuauCompileExpandLimit_Staged",
+          "FFlagLuauCompileExpandShortLimit_Staged",
+          "FFlagPurchasePromptPreviewMakeupHead2_Staged",
+          "FFlagSduiRequestCounters_Staged",
+          "FFlagSduiTemplateApiPostRequest_Staged",
+          "FFlagSingleUploadMakeupSupport5_Staged"
+        ],
+        "unchanged": 22475
+      }
+    },
+    "Web": {
+      "current": "1668bf59cf7aa3aedc66b0bfc08b0fa6244041b4433a8e746536d8dd4c6437f5",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.VerificationUpsell.js",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.VerificationUpsell.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "unchanged": 218
+      },
+      "previous": "1037b478b3c5bf2b83d30c0df716e5dd426637a5e3b39f59647d89f3dba86c8d",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
