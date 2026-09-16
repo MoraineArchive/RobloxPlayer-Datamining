@@ -1,0 +1,100 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "364a181c78473037e691bbdd47aa97c8e0bb733759a697e24e379c6f7f516852",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "d5a76eb56b3998a4359d356deedc10f748105b43a37e5ba8eccee7be834cb88a",
+      "semantic": {
+        "added": [
+          "DFFlagFixWeldDisableReentryCrash_Staged",
+          "DFFlagMeshLODSkinWeightsUseJointMapper_Staged",
+          "DFFlagSimPartOperationReplicateTriangleCount_Staged",
+          "DFFlagXboxImproveSystemUtil_Staged",
+          "DFIntLcDeformerPropertySetEventHundredthsPercentageSentPoint_Staged",
+          "DFIntLcDeformerPropertySetSampleOneInN_Staged",
+          "FFlagAXDeferLookImpressionsForHydration_Staged",
+          "FFlagAXFixQRCodeAvatarTryOnFlash_Staged",
+          "FFlagFoundationBaseMenuContentSizing_Staged",
+          "FFlagFoundationPopoverContentAnchorFix_Staged",
+          "FFlagLuaAppSduiHomeUserInfo_Staged",
+          "FFlagLuaAppSduiSlotOverlayZIndex_Staged",
+          "FFlagLuaAppSduiSponsoredOneByTwoTile_Staged",
+          "FFlagLuauCodegenPropagateFallbackTags2_Staged",
+          "FFlagLuauCompileCleanBlockDeadClose_Staged",
+          "FFlagLuauCompileLoopUnrollZero_Staged",
+          "FFlagLuauCompileUndoEmitAdjust_Staged",
+          "FFlagLuauEasyStateInit_Staged",
+          "FFlagNoContextFieldDependency_Staged",
+          "FFlagSimFixVehicleSeatHingeCacheStaleness_PlaceFilter",
+          "FFlagSlimUseHSRAssetDataExtractor_Staged"
+        ],
+        "changed": [
+          {
+            "after": "e83b59a6c56d93c070c87d09d6a58c488cbe6e06",
+            "before": "80f275cc5b5beb71f7fde919e5a2697d2c555ffa",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-16T17:02:05.121Z",
+            "before": "2026-09-16T08:02:08.789Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "e83b59a6c56d93c070c87d09d6a58c488cbe6e06",
+            "before": "80f275cc5b5beb71f7fde919e5a2697d2c555ffa",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-16T17:02:05.121Z",
+            "before": "2026-09-16T08:02:08.789Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 22484
+      }
+    },
+    "Web": {
+      "current": "1dcceeac5b75925acea7c49f17ae0783124edf8d04d860b520deba3463ea2119",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "40a76afd3b1bef1d5081cb9998cf30e5bcbd4d062b3f6de46f0542773de06cc1",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
