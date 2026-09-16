@@ -1,0 +1,69 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "2e03b15516eacd6cd23852626b51665f3d450ed5832192ae81ead0f043e8b092",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "364a181c78473037e691bbdd47aa97c8e0bb733759a697e24e379c6f7f516852",
+      "semantic": {
+        "added": [
+          "DFFlagFixWeldDisableReentryCrash",
+          "DFFlagTeleportStageLatencyV2_Staged",
+          "FFlagAllowThreadSuspendOverride2_Staged",
+          "FFlagBypassIXPSkipVPCSignup_Staged",
+          "FFlagEnableHomePageSduiPrefetch_IXP",
+          "FFlagEnablePlatformRestrictedEventReceiver3_Staged",
+          "FFlagEnableSkipVPCSignupFlow2_Staged",
+          "FFlagFixTexturePackValidity_Staged",
+          "FFlagLuaAppEnableSduiHomePage2_IXP",
+          "FFlagLuaAppSduiHomePageSupport2_IXP",
+          "FFlagLuauBytecodeCostModel2_Staged",
+          "FFlagPropertySetSortUnorderedInstanceIds_Staged",
+          "FFlagStudioUseBridgeInPlaySoloTabController_Staged",
+          "FFlagTextureTranscodeNewRollout_Staged"
+        ],
+        "changed": [
+          {
+            "after": "f34ac1fb2c58f3e6dc9ced79bef44c302b6d16ef",
+            "before": "e83b59a6c56d93c070c87d09d6a58c488cbe6e06",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-16T17:17:08.501Z",
+            "before": "2026-09-16T17:02:05.121Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "f34ac1fb2c58f3e6dc9ced79bef44c302b6d16ef",
+            "before": "e83b59a6c56d93c070c87d09d6a58c488cbe6e06",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-16T17:17:08.501Z",
+            "before": "2026-09-16T17:02:05.121Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagFixWeldDisableReentryCrash_Staged"
+        ],
+        "unchanged": 22504
+      }
+    }
+  },
+  "schemaVersion": 1
+}
