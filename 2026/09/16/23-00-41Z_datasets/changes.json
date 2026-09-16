@@ -1,0 +1,136 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "ce22a44623d81d37888f320c1ee51777233a9c2750d2dc4f6b8828fed174d403",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "23fbe8f505fc6ebe799aab16ede6a7c638b45eb78f11c274d5ffaeae74dfa8a0",
+      "semantic": {
+        "added": [
+          "DFFlagEnableRecentsWidgetClickedCounter",
+          "DFFlagGlobalUserBlockingInHasBlockedPlayer2",
+          "DFFlagNoDecompInGeoGen",
+          "DFFlagSplineFixRemoveControlPointStaleSegment",
+          "DFFlagVoiceChatIdempotentBlockUpdates",
+          "DFFlagVoiceChatSkipLegacyDirectBlockUpdate",
+          "DFFlagVoiceChatUpdateSubscriptionsOnBlockListChanged",
+          "DFFlagVoroCDDisableAddSitesOnDegenEdges",
+          "DFIntSlimRolloutHundredthPercent_Staged",
+          "DFIntVoroCDMeshDetailsThrottle",
+          "DFIntVoroMaxHighResVertices",
+          "DFIntVoroMaxHighResVerticesRelativeFactorTenths",
+          "FFlagACEImportCancelButton_Staged",
+          "FFlagAXFixEmptyCatalogSearchChrome_Staged",
+          "FFlagAmrOptimizeRenderListUpdates_Staged",
+          "FFlagEnableDLICReportReceivedUnifyAndroid",
+          "FFlagEnableGameJoinEarlyAccess_Staged",
+          "FFlagFixDoubleBackNav",
+          "FFlagFocusDrivenReductionFromHealthState_Staged",
+          "FFlagForceOddFrustumAngularSubdivisions_Staged",
+          "FFlagHttpClientRetryExtensions_Staged",
+          "FFlagLuauBidirectionalInferenceSetMetatable",
+          "FFlagLuauCostModel",
+          "FFlagMomentsCreationAllowAPMMusic_Staged",
+          "FFlagProfileInsightsSkipFetchNoCacheEntry",
+          "FFlagRenderMeshStreamingLodGapTelemetry_Staged",
+          "FFlagRetargetingCacheIncludeTranslation_Staged",
+          "FFlagSduiScalePlayButtonAndImageSizes_Staged",
+          "FFlagSduiUseHttpClient",
+          "FFlagSentryReportBreadcrumbs"
+        ],
+        "changed": [
+          {
+            "after": "True",
+            "before": "False",
+            "name": "DFFlagSlimRollout"
+          },
+          {
+            "after": "7eb9da830e711a2bce303b899633750420c878ab",
+            "before": "2a8a86ab153735aef36d82f13c33a2ffc0a05c70",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-16T23:00:15.584Z",
+            "before": "2026-09-16T22:01:05.927Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagChangeHistoryRecordAssemblyCFrames"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagFriendRequestModalRevampV4"
+          },
+          {
+            "after": "7eb9da830e711a2bce303b899633750420c878ab",
+            "before": "2a8a86ab153735aef36d82f13c33a2ffc0a05c70",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-16T23:00:15.584Z",
+            "before": "2026-09-16T22:01:05.927Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagEnableRecentsWidgetClickedCounter_Staged",
+          "DFFlagGlobalUserBlockingInHasBlockedPlayer2_Staged",
+          "DFFlagNoDecompInGeoGen_Staged",
+          "DFFlagSlimRollout_Staged",
+          "DFFlagSplineFixRemoveControlPointStaleSegment_Staged",
+          "DFFlagVoiceChatIdempotentBlockUpdates_Staged",
+          "DFFlagVoiceChatSkipLegacyDirectBlockUpdate_Staged",
+          "DFFlagVoiceChatUpdateSubscriptionsOnBlockListChanged_Staged",
+          "DFFlagVoroCDDisableAddSitesOnDegenEdges_Staged",
+          "DFIntVoroCDMeshDetailsThrottle_Staged",
+          "DFIntVoroMaxHighResVerticesRelativeFactorTenths_Staged",
+          "DFIntVoroMaxHighResVertices_Staged",
+          "FFlagChangeHistoryRecordAssemblyCFrames_Staged",
+          "FFlagEnableDLICReportReceivedUnifyAndroid_Staged",
+          "FFlagFixDoubleBackNav_Staged",
+          "FFlagFriendRequestModalRevampV4_Staged",
+          "FFlagLuauBidirectionalInferenceSetMetatable_Staged",
+          "FFlagLuauCostModel_Staged",
+          "FFlagProfileInsightsSkipFetchNoCacheEntry_Staged",
+          "FFlagSduiUseHttpClient_Staged",
+          "FFlagSentryReportBreadcrumbs_Staged"
+        ],
+        "unchanged": 22555
+      }
+    },
+    "Web": {
+      "current": "34a718c18ac8b352fae063b665d813473933c6f7fca0000cac21f0595f5bb882",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "11042e2220977d2c05dc4e54a4562a373b78b27b02c939ac21c4845743b6ef31",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
