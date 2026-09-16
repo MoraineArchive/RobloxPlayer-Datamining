@@ -1,0 +1,73 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "34d2891fe2ed402c8a4458dca08bfbbf0a8241ca122d90051c34543be3f34e0d",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "2e03b15516eacd6cd23852626b51665f3d450ed5832192ae81ead0f043e8b092",
+      "semantic": {
+        "added": [
+          "DFFlagTestServiceBoundedReconnect_Staged",
+          "DFIntLcDeformerPropertySetEventHundredthsPercentageSentPoint",
+          "DFIntLcDeformerPropertySetSampleOneInN",
+          "FFlagAmrDisableShardedEvent2_Staged",
+          "FFlagEnableLazyWorkManagerInit_Staged",
+          "FFlagFixPlatformRestrictedHomeClobber_Staged",
+          "FFlagFixRenderViewTimerPeriodImbalance_Staged",
+          "FFlagLuaAppSduiMovePromptsActions_Staged",
+          "FFlagLuauClonePublicInterfaceRetainTypeFunctionSolvedStatus_Staged",
+          "FFlagLuauImproveDeprecatedLint_Staged",
+          "FFlagSlimEmissiveMapSupport_Staged",
+          "FFlagSlimFixNoConstraintBoneHashScaleInvariance_Staged",
+          "FFlagSlimUseExtentsBasedTransitionDistance_Staged",
+          "FIntSlimCFrameTranslationQuantizeAbsolute_Staged",
+          "FIntSlimCFrameTranslationQuantizeMode_Staged"
+        ],
+        "changed": [
+          {
+            "after": "406c3498a676f6d993dbd73668c22e112352d171",
+            "before": "f34ac1fb2c58f3e6dc9ced79bef44c302b6d16ef",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-16T17:43:15.102Z",
+            "before": "2026-09-16T17:17:08.501Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "406c3498a676f6d993dbd73668c22e112352d171",
+            "before": "f34ac1fb2c58f3e6dc9ced79bef44c302b6d16ef",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-16T17:43:15.102Z",
+            "before": "2026-09-16T17:17:08.501Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFIntLcDeformerPropertySetEventHundredthsPercentageSentPoint_Staged",
+          "DFIntLcDeformerPropertySetSampleOneInN_Staged",
+          "FFlagAllowThreadSuspendOverride2_Staged",
+          "FFlagNoContextFieldDependency_Staged"
+        ],
+        "unchanged": 22514
+      }
+    }
+  },
+  "schemaVersion": 1
+}
