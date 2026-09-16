@@ -1,0 +1,56 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "608c42c70150c3d876b0c7f571eab9452fdfcfb618b49d1f8b40b8b0fb01eebe",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "37b3addfc41c098ea6a439894f0c4150c7f49037c15386e6ae30567bc45442a2",
+      "semantic": {
+        "added": [
+          "FFlagAXFixScrollingCarouselShowRightButton"
+        ],
+        "changed": [
+          {
+            "after": "c9a7030f0e1bc18fbc22996e17ea2a62502db4f7",
+            "before": "6b82fdd5bec7966758054be560512aac73a084fe",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-16T01:47:14.822Z",
+            "before": "2026-09-16T01:37:39.904Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "c9a7030f0e1bc18fbc22996e17ea2a62502db4f7",
+            "before": "6b82fdd5bec7966758054be560512aac73a084fe",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-16T01:47:14.822Z",
+            "before": "2026-09-16T01:37:39.904Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAXFixScrollingCarouselShowRightButton_Staged"
+        ],
+        "unchanged": 22483
+      }
+    }
+  },
+  "schemaVersion": 1
+}
