@@ -1,0 +1,94 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "1c1466bbf6d798f78e32a5e1c873b0708eb4c5fcb8f88daf98c31b74f1f6c6ca",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "ee6e833ff6d3c0915896543982c302885078fd023983d5de6075d5b8fee21e56",
+      "semantic": {
+        "added": [
+          "FFlagLuaAppSduiGameTileFeedback4",
+          "FFlagLuaAppSduiSponsoredTwoByOneTile2",
+          "FFlagLuaAppSduiVideoThumbnail3",
+          "FFlagSduiCollectionGridRevealRows",
+          "FFlagSduiGameTileDisableDefaultPlayButtonOnHover",
+          "FFlagSduiParseProtoGradientFields",
+          "FFlagUserVRSkipOcclusionInFirstPerson"
+        ],
+        "changed": [
+          {
+            "after": "765cd162a233ccd7c9b2a4c8af16b026f88bbb2c",
+            "before": "635fbf93c6e75a28efec73139dffec87a8101918",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-16T00:37:30.158Z",
+            "before": "2026-09-16T00:22:22.625Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "765cd162a233ccd7c9b2a4c8af16b026f88bbb2c",
+            "before": "635fbf93c6e75a28efec73139dffec87a8101918",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-16T00:37:30.158Z",
+            "before": "2026-09-16T00:22:22.625Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagLuaAppSduiGameTileFeedback4_Staged",
+          "FFlagLuaAppSduiSponsoredTwoByOneTile2_Staged",
+          "FFlagLuaAppSduiVideoThumbnail3_Staged",
+          "FFlagSduiCollectionGridRevealRows_Staged",
+          "FFlagSduiGameTileDisableDefaultPlayButtonOnHover_Staged",
+          "FFlagSduiParseProtoGradientFields_Staged",
+          "FFlagUserVRSkipOcclusionInFirstPerson_Staged"
+        ],
+        "unchanged": 22478
+      }
+    },
+    "Web": {
+      "current": "1668bf59cf7aa3aedc66b0bfc08b0fa6244041b4433a8e746536d8dd4c6437f5",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "40ae038aec97992585635768932252a4109588034f9db159fa12815cb421b61b",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
