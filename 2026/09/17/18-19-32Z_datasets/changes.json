@@ -1,0 +1,132 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "efd7d1b1dd7e573c94588df87ac0c578449459124267774affe5f8dff208dbb9",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "a19a70b647139c20d90833dc591fdf4ffae42bc1686a6d6b933348614399e56c",
+      "semantic": {
+        "added": [
+          "DFFlagCLI220815",
+          "DFFlagLuauFixEnumPropertyAssignmentErrorType_Staged",
+          "DFFlagRbxStorageUseNativeMethodsInTelemetryCache_Staged",
+          "DFFlagSimWakeBodiesOnFluidForcePropertyChange_Staged",
+          "DFFlagUnlockVoroCD6",
+          "DFStringCrashUploadForceFullPercentagePlaceId_Staged",
+          "FFlagAXMigrateAllTabToSdui9_IXP",
+          "FFlagEnableDeepLinkWaitForNavigationUnlock2_Staged",
+          "FFlagInstanceAttributes6_Staged",
+          "FFlagLuauRequireAttributeReferences_Staged",
+          "FFlagPinnedShortcutDeepLinkTelemetry_Staged",
+          "FFlagSchoolSelectionInteractionLogging_Staged"
+        ],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagSimulationCallbackViaScope"
+          },
+          {
+            "after": "10000",
+            "before": "1000",
+            "name": "DFIntLcDeformerPropertySetEventHundredthsPercentageSentEventIngest"
+          },
+          {
+            "after": "1000",
+            "before": "10000",
+            "name": "DFIntLcDeformerPropertySetSampleOneInN"
+          },
+          {
+            "after": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1500111894;2026-09-17T18:06:28",
+            "before": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;882350824;2026-09-17T16:30:21",
+            "name": "DFIntLcDeformerPropertySetSampleOneInN_Staged"
+          },
+          {
+            "after": "940ebca11c923854c108f15a716978b91cb10ff0",
+            "before": "1827c83122c7dc7eeba257cf96603558c728a773",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-17T18:18:49.411Z",
+            "before": "2026-09-17T17:17:25.959Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui-1789657572072;1811499930;dev_controlled",
+            "before": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui;1115320030;dev_controlled",
+            "name": "FFlagAXCatalogSduiExposureLogging_IXP"
+          },
+          {
+            "after": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui-1789657572072;1811499930;dev_controlled",
+            "before": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui;901950325;dev_controlled",
+            "name": "FFlagAXFixCatalogTileThumbnailFlash3_IXP"
+          },
+          {
+            "after": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui-1789657572072;1811499930;dev_controlled",
+            "before": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui;1115320030;dev_controlled",
+            "name": "FFlagAXSduiFeedBackToTopAndNavClearance_IXP"
+          },
+          {
+            "after": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui-1789657572072;1811499930;dev_controlled",
+            "before": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui;1115320030;dev_controlled",
+            "name": "FFlagAXSlotEditorCategoryMenu_IXP"
+          },
+          {
+            "after": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui-1789657572072;1811499930;dev_controlled",
+            "before": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui;1115320030;dev_controlled",
+            "name": "FFlagAXUseVirtualizedFeedInWidgetList2_IXP"
+          },
+          {
+            "after": "940ebca11c923854c108f15a716978b91cb10ff0",
+            "before": "1827c83122c7dc7eeba257cf96603558c728a773",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-17T18:18:49.411Z",
+            "before": "2026-09-17T17:17:25.959Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagCLI220815_Staged",
+          "DFFlagRbxTransportUseOptimizedPacketSenderForRna_Staged",
+          "DFFlagSimulationCallbackViaScope_Staged",
+          "DFFlagUnlockVoroCD6_Staged",
+          "DFIntLcDeformerPropertySetEventHundredthsPercentageSentEventIngest_Staged"
+        ],
+        "unchanged": 22586
+      }
+    },
+    "Web": {
+      "current": "9e586740829c31537c5f65fe070b03eb5b575ab074f938d71c4ee026573cc706",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/Sentry.js",
+          "js.rbxcdn.com/page-1/Sentry.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "ad749a38b1ab2b6a0700c556cfe0ae09de836b0d2c86b1038ad9f1fac0491370",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
