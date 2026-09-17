@@ -1,0 +1,73 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "dba7d4499ed78ad2fcd73b4cf80106eca7f20048749258702bcac01f7837d96c",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "976ae2dfeaa1ef26f93349d4f35f398f49838ae306f0a55c5a6ad92742715d28",
+      "semantic": {
+        "added": [
+          "DFFlagRbxTransportUseOptimizedPacketSenderForRna_Staged",
+          "FFlagInExperienceShopFtuxTooltip_Staged",
+          "FFlagSimFixVehicleSeatHingeCacheStaleness_Staged",
+          "FFlagSlimUseExtentsBasedTransitionDistance_Staged"
+        ],
+        "changed": [
+          {
+            "after": "fc060cdb16a4bfd8ac7afab1b5a2b349f8273bd0",
+            "before": "9d5ac621fab1282dc8bdd00bae5359f92e56091d",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-17T17:14:13.271Z",
+            "before": "2026-09-17T16:45:41.202Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "fc060cdb16a4bfd8ac7afab1b5a2b349f8273bd0",
+            "before": "9d5ac621fab1282dc8bdd00bae5359f92e56091d",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-17T17:14:13.271Z",
+            "before": "2026-09-17T16:45:41.202Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 22596
+      }
+    },
+    "Web": {
+      "current": "ad749a38b1ab2b6a0700c556cfe0ae09de836b0d2c86b1038ad9f1fac0491370",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/Navigation.js",
+          "js.rbxcdn.com/page-1/Navigation.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "5479a7a85332cd6cb9c2693ebdcd1dfd89360a4bc47bcbb5f9a24bcd21215ca3",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
