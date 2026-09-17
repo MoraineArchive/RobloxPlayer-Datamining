@@ -1,0 +1,168 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "3ed278b3f1ab188da63dd6933d3b15cf39b1c134c1c204a0753052a4085ffb66",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "efd7d1b1dd7e573c94588df87ac0c578449459124267774affe5f8dff208dbb9",
+      "semantic": {
+        "added": [
+          "DFFlagRbxStorageUseNativeMethodsInTelemetryCache",
+          "DFFlagShowCollisionPrecisionAutocomplete",
+          "DFFlagShowVoroCDFidelityInAutocomplete",
+          "DFFlagShowVoroCDFidelityInDropdown",
+          "DFFlagSimWakeBodiesOnFluidForcePropertyChange",
+          "DFIntSlimRolloutHundredthPercent_Staged",
+          "DFStringCrashUploadForceFullPercentagePlaceId",
+          "FFlagAbuseReportAttributedRBXSystemMessages_Staged",
+          "FFlagAbuseReportInExpShowConfigLoadingSkeleton_Staged",
+          "FFlagAddFriendsPymkSessionService_v2_Staged",
+          "FFlagCollectionWatcherDirtyFlush",
+          "FFlagCollectionWatcherTagSignals",
+          "FFlagEnableDeepLinkWaitForNavigationUnlock2",
+          "FFlagEnableSafetyDashboard2",
+          "FFlagExpChatUseSharedChannelTabDisplayLabel2_Staged",
+          "FFlagExperiencePurchaseFallbackToGameIcon",
+          "FFlagFinalizeRequiresFullContainment_Staged",
+          "FFlagFixClientForPrecomputeSetMoveRegionDelta_Staged",
+          "FFlagFixFrustumSubdivisionGaps_Staged",
+          "FFlagFriendsStoreRteRequestStatusUpdates_v1_Staged",
+          "FFlagLuaAppMediaGalleryGamepadSupport_Staged",
+          "FFlagLuauCompileCleanBlockDeadClose_Staged",
+          "FFlagLuauCompileMoveElision_Staged",
+          "FFlagLuauRequireAttributeReferences",
+          "FFlagNavigateToSafetyDashboardForAppeals3",
+          "FFlagSchoolSelectionInteractionLogging",
+          "FFlagSimAeroLocalOffsetTransform_Staged",
+          "FFlagSimBulletContactUseCollisionConnector_Staged",
+          "FFlagSimFixVehicleSeatHingeCacheStaleness",
+          "FFlagSubTabNavigationTTITracking_Staged",
+          "FFlagSubTabUseHomeContainerOnConsole_Staged",
+          "FFlagUFRImprovements4",
+          "FFlagUseSignalsForAuthenticationStatus7_Staged",
+          "FStringInExperienceShopTooltipStorageKey_Staged"
+        ],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagLuauFixEnumPropertyAssignmentErrorType"
+          },
+          {
+            "after": "5000",
+            "before": "1000",
+            "name": "DFIntLcDeformerPropertySetSampleOneInN"
+          },
+          {
+            "after": "200",
+            "before": "50",
+            "name": "DFIntSlimRolloutHundredthPercent"
+          },
+          {
+            "after": "59480cd33847eaa39c7c2ff8b6772774d07575b8",
+            "before": "940ebca11c923854c108f15a716978b91cb10ff0",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-17T20:08:43.942Z",
+            "before": "2026-09-17T18:18:49.411Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagInExperienceShopFtuxTooltip"
+          },
+          {
+            "after": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-17T19:37:39",
+            "before": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-17T17:50:23",
+            "name": "FFlagInstanceAttributes6_Staged"
+          },
+          {
+            "after": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-17T19:07:10",
+            "before": "True;SteadyState;10;30;Revert;2026-09-17T17:52:35",
+            "name": "FFlagPinnedShortcutDeepLinkTelemetry_Staged"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagSlimUseExtentsBasedTransitionDistance"
+          },
+          {
+            "after": "59480cd33847eaa39c7c2ff8b6772774d07575b8",
+            "before": "940ebca11c923854c108f15a716978b91cb10ff0",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-17T20:08:43.942Z",
+            "before": "2026-09-17T18:18:49.411Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagLuauFixEnumPropertyAssignmentErrorType_Staged",
+          "DFFlagRbxStorageUseNativeMethodsInTelemetryCache_Staged",
+          "DFFlagSimWakeBodiesOnFluidForcePropertyChange_Staged",
+          "DFIntLcDeformerPropertySetSampleOneInN_Staged",
+          "DFStringCrashUploadForceFullPercentagePlaceId_Staged",
+          "FFlagCollectionWatcherDirtyFlush_Staged",
+          "FFlagCollectionWatcherTagSignals_Staged",
+          "FFlagEnableDeepLinkWaitForNavigationUnlock2_Staged",
+          "FFlagEnableSafetyDashboard2_Staged",
+          "FFlagExperiencePurchaseFallbackToGameIcon_Staged",
+          "FFlagInExperienceShopFtuxTooltip_Staged",
+          "FFlagLuauRequireAttributeReferences_Staged",
+          "FFlagNavigateToSafetyDashboardForAppeals3_Staged",
+          "FFlagSchoolSelectionInteractionLogging_Staged",
+          "FFlagSimFixVehicleSeatHingeCacheStaleness_Staged",
+          "FFlagSlimUseExtentsBasedTransitionDistance_Staged",
+          "FFlagUFRImprovements4_Staged"
+        ],
+        "unchanged": 22583
+      }
+    },
+    "Web": {
+      "current": "46e24ab2b7ad239f16b50c6623a6bc488aaf4b4a148f99a4325a4ea44af6db7a",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "unchanged": 218
+      },
+      "previous": "9e586740829c31537c5f65fe070b03eb5b575ab074f938d71c4ee026573cc706",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
