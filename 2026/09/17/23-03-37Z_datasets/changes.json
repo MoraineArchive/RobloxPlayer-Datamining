@@ -1,0 +1,133 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "05ae9fbc3eec53eb0ac798b2d1d0a9b73c7d6454b7f8d1a446c24cd58db0e100",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "0143b1e96ecae72ab1bbdf18346f71208416ffed88cd4cf41222eb7b0bff1c87",
+      "semantic": {
+        "added": [
+          "DFFlagEnableDLICAdoptionTelemetry",
+          "DFFlagEnableJoinTicketV22_Staged",
+          "DFFlagRbxStorageUseNativeOffsetAndBuffers_Staged",
+          "DFFlagRccApplyFilteredVariablesWithDataCenterId_Staged",
+          "DFIntLcDeformerPropertySetSampleOneInN_Staged",
+          "DFIntRbxTransportRtcIoMaxNetStreamPayloadBytes",
+          "DFIntSlimRolloutHundredthPercent_Staged",
+          "FFlagAbuseReportAttributedRBXSystemMessages",
+          "FFlagAbuseReportInExpShowConfigLoadingSkeleton",
+          "FFlagAddFriendsPageKeepAcceptedRequest_1_IXP",
+          "FFlagAddFriendsPageUpdateOnNewFriendshipRequest_v1_IXP",
+          "FFlagAddFriendsPageUseSections_v3_IXP",
+          "FFlagAddFriendsPresenceStoreMigration_v5_IXP",
+          "FFlagConnectionParentalApprovalLeaveOnly_Staged",
+          "FFlagExpChatUseSharedChannelTabDisplayLabel2",
+          "FFlagFinalizeRequiresFullContainment",
+          "FFlagFixClientForPrecomputeSetMoveRegionDelta",
+          "FFlagInstanceAttributes6",
+          "FFlagLuaAppMediaGalleryGamepadSupport",
+          "FFlagLuauFastpcall",
+          "FFlagLuauTableArrayAdjustCheck",
+          "FFlagShareSheetMessageSendTelemetry_Staged",
+          "FFlagSideSheetFocusNav2_Staged",
+          "FFlagSimAeroLocalOffsetTransform",
+          "FFlagSubTabUseHomeContainerOnConsole",
+          "FFlagTTIEmitPointsEvent",
+          "FFlagTelemetryEnableOnFlagsLoaded_Staged",
+          "FFlagUFRAppealsAndModNoteFix",
+          "FFlagUseSignalsForAuthenticationStatus7",
+          "FIntTTIPointsEventSampleRate"
+        ],
+        "changed": [
+          {
+            "after": "7d9e1a17989da2a260ff71d727068ec869f6b58d",
+            "before": "aab07db10694dfaf396fd989d67a4c98522052d7",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-17T23:02:06.860Z",
+            "before": "2026-09-17T21:26:59.418Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "7d9e1a17989da2a260ff71d727068ec869f6b58d",
+            "before": "aab07db10694dfaf396fd989d67a4c98522052d7",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-17T23:02:06.860Z",
+            "before": "2026-09-17T21:26:59.418Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "InExperienceShopTooltipStorageKeyBonusV1",
+            "before": "InExperienceShopTooltipStorageKeyV2",
+            "name": "FStringInExperienceShopTooltipStorageKey"
+          }
+        ],
+        "removed": [
+          "DFFlagEnableDLICAdoptionTelemetry_Staged",
+          "DFIntRbxTransportRtcIoMaxNetStreamPayloadBytes_Staged",
+          "FFlagAbuseReportAttributedRBXSystemMessages_Staged",
+          "FFlagAbuseReportInExpShowConfigLoadingSkeleton_Staged",
+          "FFlagExpChatUseSharedChannelTabDisplayLabel2_Staged",
+          "FFlagFinalizeRequiresFullContainment_Staged",
+          "FFlagFixClientForPrecomputeSetMoveRegionDelta_Staged",
+          "FFlagInstanceAttributes6_Staged",
+          "FFlagLuaAppMediaGalleryGamepadSupport_Staged",
+          "FFlagLuauFastpcall_Staged",
+          "FFlagLuauTableArrayAdjustCheck_Staged",
+          "FFlagSimAeroLocalOffsetTransform_Staged",
+          "FFlagSubTabUseHomeContainerOnConsole_Staged",
+          "FFlagTTIEmitPointsEvent_Staged",
+          "FFlagUFRAppealsAndModNoteFix_Staged",
+          "FFlagUseSignalsForAuthenticationStatus7_Staged",
+          "FIntTTIPointsEventSampleRate_Staged",
+          "FStringInExperienceShopTooltipStorageKey_Staged"
+        ],
+        "unchanged": 22617
+      }
+    },
+    "Web": {
+      "current": "7497461b6a4a60f9119190d68c5f8ae29826d76c945c92952236e2c02cfc74bf",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "2fcd7fd6d552194a1df6ddbe854635eb85f541ccf9601608c4b52a5a8ba7e2ed",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
