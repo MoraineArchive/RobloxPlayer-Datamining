@@ -1,0 +1,70 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "93cc5ad21f11660d87812668df91db398c1171bfd0c701ef5eb4c29bb3cbacf2",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "61f1c164fd63fac27f9de16d8139024520949307ab769a5b32a5546f83b8b04c",
+      "semantic": {
+        "added": [
+          "DFFlagRbxStorageUseNativeOffsetAndBuffers",
+          "DFIntJoinLimitOsx_Staged",
+          "DFIntJoinLimitWin32x64_Staged",
+          "FFlagAimUploadUnpublished",
+          "FFlagSlimDisableAnimationInterpolationWhenModelStreamedIn3",
+          "FFlagSlimPreventTeleportDuringBlendTimeSmoothing"
+        ],
+        "changed": [
+          {
+            "after": "3b4a5da8f46d00c83b4e36e33fd22fd02b72f2bd",
+            "before": "b8bab4e85cf97dff17f330c0ff54e28640fb8905",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-17T23:28:37.086Z",
+            "before": "2026-09-17T23:07:52.678Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagSlimUseExtentsBasedTransitionDistance"
+          },
+          {
+            "after": "3b4a5da8f46d00c83b4e36e33fd22fd02b72f2bd",
+            "before": "b8bab4e85cf97dff17f330c0ff54e28640fb8905",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-17T23:28:37.086Z",
+            "before": "2026-09-17T23:07:52.678Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagRbxStorageUseNativeOffsetAndBuffers_Staged",
+          "FFlagAimUploadUnpublished_Staged",
+          "FFlagSlimDisableAnimationInterpolationWhenModelStreamedIn3_Staged",
+          "FFlagSlimPreventTeleportDuringBlendTimeSmoothing_Staged",
+          "FFlagSlimUseExtentsBasedTransitionDistance_Staged"
+        ],
+        "unchanged": 22644
+      }
+    }
+  },
+  "schemaVersion": 1
+}
