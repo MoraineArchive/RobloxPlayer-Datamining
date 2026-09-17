@@ -650,10 +650,10 @@
   {
     "path": "js.rbxcdn.com/page-0/Navigation.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "22c723e01998f8458d0faf20aab261361581d87fce8eda3e21f6c7f669c9c307",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/navigation-7692775461358d9d.js.map",
+    "sha256": "ff6ad2b6d4217db3fd47e74dbb0ba93acec827e569fe89e97456fea222d34f75",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/navigation-bd51de1e4fdb500b.js.map",
     "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/0343819aa2f63cd62dce9daf1c0554952beb9f8219f4d7f04fc8ea403422f431-Navigation.js"
+    "url": "https://js.rbxcdn.com/70edc8a3717df3f0958b0ed227d88ccb8d0e8289085c61e5546bad56a073f3f6-Navigation.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/Polyfill.js",
@@ -1538,10 +1538,10 @@
   {
     "path": "js.rbxcdn.com/page-1/Navigation.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "22c723e01998f8458d0faf20aab261361581d87fce8eda3e21f6c7f669c9c307",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/navigation-7692775461358d9d.js.map",
+    "sha256": "ff6ad2b6d4217db3fd47e74dbb0ba93acec827e569fe89e97456fea222d34f75",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/navigation-bd51de1e4fdb500b.js.map",
     "sourcePage": "https://www.roblox.com/discover",
-    "url": "https://js.rbxcdn.com/0343819aa2f63cd62dce9daf1c0554952beb9f8219f4d7f04fc8ea403422f431-Navigation.js"
+    "url": "https://js.rbxcdn.com/70edc8a3717df3f0958b0ed227d88ccb8d0e8289085c61e5546bad56a073f3f6-Navigation.js"
   },
   {
     "path": "js.rbxcdn.com/page-1/PeopleList.js",
