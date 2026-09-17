@@ -1,0 +1,84 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "f4ea7a17625186c870c37d2bf8f41885e63a31c72729960b9deccedc64e31914",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "0d0577449e136f71d974a00a3019f513309346b39ac0d7ae43793c07ac05348a",
+      "semantic": {
+        "added": [
+          "FFlagAXFixEmptyCatalogSearchChrome",
+          "FFlagAmrOptimizeRenderListUpdates",
+          "FFlagEnableGameJoinEarlyAccess",
+          "FFlagForceOddFrustumAngularSubdivisions",
+          "FFlagMomentsCreationAllowAPMMusic",
+          "FFlagRenderMeshStreamingLodGapTelemetry",
+          "FFlagSduiScalePlayButtonAndImageSizes"
+        ],
+        "changed": [
+          {
+            "after": "09b6653d6528aa79967065d7dd2a0f4379681509",
+            "before": "e5566277b3eeac6ab5b9b9377c24bf3451d87306",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-17T00:47:03.506Z",
+            "before": "2026-09-17T00:14:25.002Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "09b6653d6528aa79967065d7dd2a0f4379681509",
+            "before": "e5566277b3eeac6ab5b9b9377c24bf3451d87306",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-17T00:47:03.506Z",
+            "before": "2026-09-17T00:14:25.002Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAXFixEmptyCatalogSearchChrome_Staged",
+          "FFlagAmrOptimizeRenderListUpdates_Staged",
+          "FFlagEnableGameJoinEarlyAccess_Staged",
+          "FFlagForceOddFrustumAngularSubdivisions_Staged",
+          "FFlagMomentsCreationAllowAPMMusic_Staged",
+          "FFlagRenderMeshStreamingLodGapTelemetry_Staged",
+          "FFlagSduiScalePlayButtonAndImageSizes_Staged"
+        ],
+        "unchanged": 22582
+      }
+    },
+    "Web": {
+      "current": "1ab8d2d4c5f04f2a6c106a7b1f482e8fa665de5a42915f02e5ab2c2a17d2f012",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Tracking.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Tracking.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "fcae981756a914729b70794d6fdbff9743157e4bcd99848084ce4519c2020ee0",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
