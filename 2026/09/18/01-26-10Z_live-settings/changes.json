@@ -1,0 +1,72 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "328b678a8b0ccb834a83aa6845cce55fcfd557eaa0f7eecefd2a5e969c7f5ca9",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "4bd90a7706b698e600dbde9ef5e1d943e6352ec28527c72a756d0e9d1a57b8fc",
+      "semantic": {
+        "added": [
+          "FFlagShareSheetMessageSendTelemetry",
+          "FFlagSideSheetFocusNav2",
+          "FFlagTelemetryEnableOnFlagsLoaded"
+        ],
+        "changed": [
+          {
+            "after": "737",
+            "before": "735",
+            "name": "DFIntJoinLimitOsx"
+          },
+          {
+            "after": "737",
+            "before": "735",
+            "name": "DFIntJoinLimitWin32x64"
+          },
+          {
+            "after": "38ca1b1537cbeed1c1bd57669f238de9322102f7",
+            "before": "8f0002b9f7ff104188fefe9060b66d875e0a641f",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-18T00:57:20.381Z",
+            "before": "2026-09-18T00:23:57.571Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "38ca1b1537cbeed1c1bd57669f238de9322102f7",
+            "before": "8f0002b9f7ff104188fefe9060b66d875e0a641f",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-18T00:57:20.381Z",
+            "before": "2026-09-18T00:23:57.571Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFIntJoinLimitOsx_Staged",
+          "DFIntJoinLimitWin32x64_Staged",
+          "FFlagShareSheetMessageSendTelemetry_Staged",
+          "FFlagSideSheetFocusNav2_Staged",
+          "FFlagTelemetryEnableOnFlagsLoaded_Staged"
+        ],
+        "unchanged": 22642
+      }
+    }
+  },
+  "schemaVersion": 1
+}
