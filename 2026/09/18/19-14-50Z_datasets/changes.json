@@ -1,0 +1,103 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "7f4ee034e35c7f37f4a18561d369f477561c1fa7ecc09c2a31166d90c4b9a7ba",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "8953521acec8581768e790676841c76ca543a6be5c0bd1bc7fb29c8998850110",
+      "semantic": {
+        "added": [
+          "DFFlagExplorerChildSignalConnectOnDMThread_Staged",
+          "DFFlagFriendsApiCallerIdentityParam_Staged",
+          "DFFlagTextChatChannelAddPlayersOnJoin",
+          "FFlagAXBlockUnavailableMakeupLookSelection",
+          "FFlagAnimGraphUINoMaskParameter",
+          "FFlagEnableBonusJwtInShop_Staged",
+          "FFlagEnableSideSheetRobuxWidget",
+          "FFlagEnableSideSheetWidgets",
+          "FFlagExpChatUseIsDefaultTextChannel_Staged",
+          "FFlagFoundationEducationalTooltipRefresh",
+          "FFlagInstanceAttributesRefReplicationTeamCreateOnly1",
+          "FFlagPublishAssetPromptItemDetailsTelemetry",
+          "FFlagSideSheetAndroidBack_Staged"
+        ],
+        "changed": [
+          {
+            "after": "10000",
+            "before": "1000",
+            "name": "DFIntJoinTicketV2RolloutHundredthsPercentage"
+          },
+          {
+            "after": "10000",
+            "before": "2500",
+            "name": "DFIntSlimRolloutHundredthPercent"
+          },
+          {
+            "after": "b80fd02d393d1d97071a7f17ab3145f19171d242",
+            "before": "dc064b293f80736ef541c97067396832e1e902ee",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-18T19:03:44.883Z",
+            "before": "2026-09-18T18:15:31.293Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "b80fd02d393d1d97071a7f17ab3145f19171d242",
+            "before": "dc064b293f80736ef541c97067396832e1e902ee",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-18T19:03:44.883Z",
+            "before": "2026-09-18T18:15:31.293Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagTextChatChannelAddPlayersOnJoin_Staged",
+          "DFIntJoinTicketV2RolloutHundredthsPercentage_Staged",
+          "DFIntSlimRolloutHundredthPercent_Staged",
+          "FFlagAXBlockUnavailableMakeupLookSelection_Staged",
+          "FFlagAnimGraphUINoMaskParameter_Staged",
+          "FFlagEnableSideSheetRobuxWidget_Staged",
+          "FFlagEnableSideSheetWidgets_Staged",
+          "FFlagFoundationEducationalTooltipRefresh_Staged",
+          "FFlagInstanceAttributesRefReplicationTeamCreateOnly1_Staged",
+          "FFlagPublishAssetPromptItemDetailsTelemetry_Staged",
+          "FStringGraphicsVulkanBlacklistDevicePattern_Staged"
+        ],
+        "unchanged": 22650
+      }
+    },
+    "Web": {
+      "current": "a7f9715be80de6bf7554d4b94a25b22ad395f90367c8b1139f370ea2e5238f68",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 223
+      },
+      "previous": "47ea71e07aa2255265a57681eb4b2600f7e66f9e300056c45f16aa6e79d58f0d",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
