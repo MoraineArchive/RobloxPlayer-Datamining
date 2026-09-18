@@ -10,32 +10,32 @@
       "sourceUrl": "https://setup.rbxcdn.com/version-4310300497aa4917-RobloxApp.zip"
     },
     {
-      "bytes": 42225,
+      "bytes": 42712,
       "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
-      "sha256": "bf22967f7f82dfd6f7a3848592d91d603f047c703749ae45b23807e531f6f4ad",
+      "sha256": "6da724fbe032c99e0fb89e2beb02d5fe5c055908d9c12e9044e6ddfee42b7ceb",
       "sourceType": "official",
-      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.737.0.7371584&tag=Release&name=app-patch-in-experience"
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.739.0.7390687&tag=Release&name=app-patch-in-experience"
     },
     {
-      "bytes": 12863172,
+      "bytes": 13078193,
       "derivedFrom": "InExperience.rbxm",
-      "sha256": "aa3de46cf8ef5daf14a11aac902277e036bc542f9ab1bec382fccf9dc5637bf6",
+      "sha256": "1e10bb2200d81ec949d097f2c94138af15a22cf55ce84c9a77934f20d62c3e1e",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=13503"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=13981"
     },
     {
-      "bytes": 42226,
+      "bytes": 42713,
       "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
-      "sha256": "10f7ddd7efb69cafefd5ff06193bacdffdc8f8641567081916bab3412f7e5d8d",
+      "sha256": "77e528ae1444603f349df6beb4ade94fbc3fccbf0ad7e6b3008759443451c5d9",
       "sourceType": "official",
-      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.737.0.7371584&tag=Release&name=app-patch-universal-app"
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.739.0.7390687&tag=Release&name=app-patch-universal-app"
     },
     {
-      "bytes": 12186907,
+      "bytes": 12260966,
       "derivedFrom": "UniversalApp.rbxm",
-      "sha256": "b3aeb4c0cab2266c31a84e2c909cb31a3aaaea6f1158a8cb50997706aeddfd99",
+      "sha256": "f705c7e36d05d859811e990ea635b2dfb1075734ad7b0dce76d1ecd90b1158e2",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=13582"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=14061"
     },
     {
       "buildGuid": "version-4310300497aa4917",

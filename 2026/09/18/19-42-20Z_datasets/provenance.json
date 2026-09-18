@@ -1,6 +1,124 @@
 {
-  "observationMode": "live",
-  "provenance": [
+  "FastVariables": [
+    {
+      "buildGuid": "version-4310300497aa4917",
+      "bytes": 136726729,
+      "derivedFrom": "RobloxPlayerBeta.exe",
+      "sha256": "73d3bf1393a0235e0a3fd451d9a1773cd05c35460e3b85385d64f6b673165914",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-4310300497aa4917-RobloxApp.zip"
+    },
+    {
+      "bytes": 42712,
+      "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
+      "sha256": "6da724fbe032c99e0fb89e2beb02d5fe5c055908d9c12e9044e6ddfee42b7ceb",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.739.0.7390687&tag=Release&name=app-patch-in-experience"
+    },
+    {
+      "bytes": 13078193,
+      "derivedFrom": "InExperience.rbxm",
+      "sha256": "1e10bb2200d81ec949d097f2c94138af15a22cf55ce84c9a77934f20d62c3e1e",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=13981"
+    },
+    {
+      "bytes": 42713,
+      "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
+      "sha256": "77e528ae1444603f349df6beb4ade94fbc3fccbf0ad7e6b3008759443451c5d9",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.739.0.7390687&tag=Release&name=app-patch-universal-app"
+    },
+    {
+      "bytes": 12260966,
+      "derivedFrom": "UniversalApp.rbxm",
+      "sha256": "f705c7e36d05d859811e990ea635b2dfb1075734ad7b0dce76d1ecd90b1158e2",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=14061"
+    },
+    {
+      "buildGuid": "version-4310300497aa4917",
+      "bytes": 306513,
+      "derivedFrom": "content-configs.zip",
+      "sha256": "0b7fcae97fb65944715d3cf5e4437516a87c7640165c32da41f915229cd65094",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-4310300497aa4917-content-configs.zip"
+    },
+    {
+      "buildGuid": "version-4310300497aa4917",
+      "bytes": 620166,
+      "derivedFrom": "content-models.zip",
+      "sha256": "bd9d84b18399042e0478ccdc989081d48a82279a498b36efaa197a317e01df76",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-4310300497aa4917-content-models.zip"
+    },
+    {
+      "buildGuid": "version-4310300497aa4917",
+      "bytes": 2821770,
+      "derivedFrom": "extracontent-luapackages.zip",
+      "sha256": "e709408122690d00b6c3e0bc1d6d136f477697d619b9e3e5f3a95c5686427fca",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-4310300497aa4917-extracontent-luapackages.zip"
+    },
+    {
+      "buildGuid": "version-4310300497aa4917",
+      "bytes": 25553611,
+      "derivedFrom": "extracontent-models.zip",
+      "sha256": "81440d07dbdd658f5abd1b67aa6b153c2d73d6a5c8ee53e0b7e42af82f962ea0",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-4310300497aa4917-extracontent-models.zip"
+    },
+    {
+      "buildGuid": "version-4310300497aa4917",
+      "bytes": 610717,
+      "derivedFrom": "extracontent-translations.zip",
+      "sha256": "16cd03787910fec0340c58cd4efd4ba47d1f00d61395c76693cd5db695db58a4",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-4310300497aa4917-extracontent-translations.zip"
+    }
+  ],
+  "InExperience": [
+    {
+      "bytes": 42712,
+      "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
+      "sha256": "6da724fbe032c99e0fb89e2beb02d5fe5c055908d9c12e9044e6ddfee42b7ceb",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.739.0.7390687&tag=Release&name=app-patch-in-experience"
+    },
+    {
+      "bytes": 13078193,
+      "derivedFrom": "InExperience.rbxm",
+      "sha256": "1e10bb2200d81ec949d097f2c94138af15a22cf55ce84c9a77934f20d62c3e1e",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=13981"
+    }
+  ],
+  "LiveSettings": [
+    {
+      "bytes": 1304281,
+      "reference": "https://raw.githubusercontent.com/MaximumADHD/Roblox-FFlag-Tracker/main/README.md",
+      "sha256": "5b6cb15fca6ac326e87c9de6441c6ae83c8a150ec0f82759cd9f669ac7988eda",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettings.roblox.com/v2/settings/application/PCDesktopClient"
+    }
+  ],
+  "UniversalApp": [
+    {
+      "bytes": 42713,
+      "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
+      "sha256": "77e528ae1444603f349df6beb4ade94fbc3fccbf0ad7e6b3008759443451c5d9",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.739.0.7390687&tag=Release&name=app-patch-universal-app"
+    },
+    {
+      "bytes": 12260966,
+      "derivedFrom": "UniversalApp.rbxm",
+      "sha256": "f705c7e36d05d859811e990ea635b2dfb1075734ad7b0dce76d1ecd90b1158e2",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=14061"
+    }
+  ],
+  "Web": [
     {
       "bytes": 1919,
       "sha256": "84de2e282b246fba5df56719a89c706a053b0d437699a00320994912578b5b15",
@@ -1363,16 +1481,5 @@
       "sourceType": "official",
       "sourceUrl": "https://www.roblox.com/js/utilities/bundleVerifier.js?v=91dceb4978eda412b09842312dd6cbaa"
     }
-  ],
-  "status": "available",
-  "summary": {
-    "assets": 227,
-    "engineRevision": 1,
-    "errors": 0,
-    "pages": [
-      "https://www.roblox.com/",
-      "https://www.roblox.com/discover"
-    ]
-  },
-  "target": "WindowsPlayer"
+  ]
 }
