@@ -248,6 +248,12 @@
       "sourceUrl": "https://js.rbxcdn.com/33942d6b831f999b3e2a2054d79d0c82.js"
     },
     {
+      "bytes": 1467661,
+      "sha256": "a7747693a28bddb9655f87fa2498050019cbe5ecc1f73bb136125c6e7e5da030",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/33d6283533a436e12135ac5b947c42184211db1647496efb25766c82f666a064-SduiLandingPage.js"
+    },
+    {
       "bytes": 155267,
       "sha256": "968a20eab1449bae7485d20d20a614f2a33b0515f27f143792b10cf4d700711e",
       "sourceType": "official",
@@ -804,12 +810,6 @@
       "sha256": "c5b3958c8f4bed86ea5626d83337e7edbb0ac96743e2f8d23772924d2e1a20ad",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/8e79851738baf4a99514ce726568faa52a0155d6298e0ed7521a210bde79c688-CaptchaCore.js"
-    },
-    {
-      "bytes": 1530379,
-      "sha256": "8d8b06cd872794124b36f26a52aa3ce3e7b0a307d0ad797dd5210e94ab817da3",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/8fb9246e5a0a44b7ee49af75ccffb42167a2e2554338964b46872afb5529d917-SduiLandingPage.js"
     },
     {
       "bytes": 183297,

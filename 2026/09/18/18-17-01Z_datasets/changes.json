@@ -1,0 +1,99 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "8953521acec8581768e790676841c76ca543a6be5c0bd1bc7fb29c8998850110",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "7adc0c4d50e188ed7e32b1123d0c3971574be52507bc7587332e5af689d14afe",
+      "semantic": {
+        "added": [
+          "DFFlagTextChatChannelAddPlayersOnJoin_Staged",
+          "FFlagAXBlockUnavailableMakeupLookSelection_Staged",
+          "FFlagAXPlusSubscribeBannerRestyle_Staged",
+          "FFlagGuacMomentsFeatureList_Staged",
+          "FFlagPublishAssetPromptItemDetailsTelemetry_Staged",
+          "FFlagShutdownDurationTelemetryProtocol_Staged",
+          "FFlagSimVolumeWeightedSubmergeRatio_Staged",
+          "FFlagSkipPaymentSessionForPlainRobux_Staged",
+          "FStringGraphicsVulkanBlacklistDevicePattern_Staged"
+        ],
+        "changed": [
+          {
+            "after": "1000",
+            "before": "100",
+            "name": "DFIntJoinTicketV2RolloutHundredthsPercentage"
+          },
+          {
+            "after": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-09-18T17:33:16",
+            "before": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-09-18T16:21:31",
+            "name": "DFIntJoinTicketV2RolloutHundredthsPercentage_Staged"
+          },
+          {
+            "after": "2500",
+            "before": "1000",
+            "name": "DFIntSlimRolloutHundredthPercent"
+          },
+          {
+            "after": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-09-18T17:59:43",
+            "before": "2500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-09-18T16:41:37",
+            "name": "DFIntSlimRolloutHundredthPercent_Staged"
+          },
+          {
+            "after": "dc064b293f80736ef541c97067396832e1e902ee",
+            "before": "27cd0569c669d2e68ea87bd81c3f87a9e7f60881",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-18T18:15:31.293Z",
+            "before": "2026-09-18T16:41:38.361Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "dc064b293f80736ef541c97067396832e1e902ee",
+            "before": "27cd0569c669d2e68ea87bd81c3f87a9e7f60881",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-18T18:15:31.293Z",
+            "before": "2026-09-18T16:41:38.361Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagUseSpecialMeshNoFaceForDefaultR6_Staged"
+        ],
+        "unchanged": 22650
+      }
+    },
+    "Web": {
+      "current": "47ea71e07aa2255265a57681eb4b2600f7e66f9e300056c45f16aa6e79d58f0d",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 223
+      },
+      "previous": "7497461b6a4a60f9119190d68c5f8ae29826d76c945c92952236e2c02cfc74bf",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
