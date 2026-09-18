@@ -1,0 +1,220 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "e1619bdf786a5793925f7ab29909afa3d4d4ab35185de5ff26e0c4b9272d6e2a",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "570e1b554cca3ad570b25fa07ece3d77357714d0b8f46e2197742571a0d2213e",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 25
+        }
+      }
+    },
+    "InExperience": {
+      "current": "4092d7351de07e67d352fe3d4ab37f48bdb81b72e79680a13d8c107c570a37db",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "bfcac9ded0c75cc772f133832f1bafcc1cf8998218fffff4a21174874a891d5e",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "2507dd8e7365a1ff4f045675d183b7282d13e57283f63e16d5407c78c3894131",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "75dfb9a8023d0695c19378efaf7ca78c18cc8a00110d34d827f87f19f914957b",
+      "semantic": {
+        "added": [
+          "DFFlagFlagRolloutTestDynamicBool0_Staged",
+          "DFFlagFlagRolloutTestDynamicBool10_Staged",
+          "DFFlagFlagRolloutTestDynamicBool11_Staged",
+          "DFFlagFlagRolloutTestDynamicBool12_Staged",
+          "DFFlagFlagRolloutTestDynamicBool13_Staged",
+          "DFFlagFlagRolloutTestDynamicBool14_Staged",
+          "DFFlagFlagRolloutTestDynamicBool15_Staged",
+          "DFFlagFlagRolloutTestDynamicBool16_Staged",
+          "DFFlagFlagRolloutTestDynamicBool17_Staged",
+          "DFFlagFlagRolloutTestDynamicBool18_Staged",
+          "DFFlagFlagRolloutTestDynamicBool19_Staged",
+          "DFFlagFlagRolloutTestDynamicBool1_Staged",
+          "DFFlagFlagRolloutTestDynamicBool2_Staged",
+          "DFFlagFlagRolloutTestDynamicBool3_Staged",
+          "DFFlagFlagRolloutTestDynamicBool4_Staged",
+          "DFFlagFlagRolloutTestDynamicBool5_Staged",
+          "DFFlagFlagRolloutTestDynamicBool6_Staged",
+          "DFFlagFlagRolloutTestDynamicBool7_Staged",
+          "DFFlagFlagRolloutTestDynamicBool8_Staged",
+          "DFFlagFlagRolloutTestDynamicBool9_Staged",
+          "FFlagAXPlusSubscribeBannerRestyle",
+          "FFlagEnableBonusJwtInShop",
+          "FFlagEnableGameJoinEarlyAccess_Staged",
+          "FFlagExpChatUseIsDefaultTextChannel",
+          "FFlagFlagRolloutTestStaticBool0_Staged",
+          "FFlagFlagRolloutTestStaticBool10_Staged",
+          "FFlagFlagRolloutTestStaticBool11_Staged",
+          "FFlagFlagRolloutTestStaticBool12_Staged",
+          "FFlagFlagRolloutTestStaticBool13_Staged",
+          "FFlagFlagRolloutTestStaticBool14_Staged",
+          "FFlagFlagRolloutTestStaticBool15_Staged",
+          "FFlagFlagRolloutTestStaticBool16_Staged",
+          "FFlagFlagRolloutTestStaticBool17_Staged",
+          "FFlagFlagRolloutTestStaticBool18_Staged",
+          "FFlagFlagRolloutTestStaticBool19_Staged",
+          "FFlagFlagRolloutTestStaticBool1_Staged",
+          "FFlagFlagRolloutTestStaticBool2_Staged",
+          "FFlagFlagRolloutTestStaticBool3_Staged",
+          "FFlagFlagRolloutTestStaticBool4_Staged",
+          "FFlagFlagRolloutTestStaticBool5_Staged",
+          "FFlagFlagRolloutTestStaticBool6_Staged",
+          "FFlagFlagRolloutTestStaticBool7_Staged",
+          "FFlagFlagRolloutTestStaticBool8_Staged",
+          "FFlagFlagRolloutTestStaticBool9_Staged",
+          "FFlagShutdownDurationTelemetryProtocol",
+          "FFlagSideSheetAndroidBack",
+          "FFlagSkipPaymentSessionForPlainRobux",
+          "FStringGraphicsVulkanBlacklistDevicePattern_Staged"
+        ],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagFriendsApiCallerIdentityParam"
+          },
+          {
+            "after": "5b2363c0c1dc7018df5548ef29956ebbc2d015f6",
+            "before": "edcbe7ff55aa5f59879d75392e09476a87f409fd",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-18T21:31:02.550Z",
+            "before": "2026-09-18T19:52:38.201Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "5b2363c0c1dc7018df5548ef29956ebbc2d015f6",
+            "before": "edcbe7ff55aa5f59879d75392e09476a87f409fd",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-18T21:31:02.550Z",
+            "before": "2026-09-18T19:52:38.201Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagFlagRolloutTestDynamicBool0",
+          "DFFlagFlagRolloutTestDynamicBool1",
+          "DFFlagFlagRolloutTestDynamicBool10",
+          "DFFlagFlagRolloutTestDynamicBool11",
+          "DFFlagFlagRolloutTestDynamicBool12",
+          "DFFlagFlagRolloutTestDynamicBool13",
+          "DFFlagFlagRolloutTestDynamicBool14",
+          "DFFlagFlagRolloutTestDynamicBool15",
+          "DFFlagFlagRolloutTestDynamicBool16",
+          "DFFlagFlagRolloutTestDynamicBool17",
+          "DFFlagFlagRolloutTestDynamicBool18",
+          "DFFlagFlagRolloutTestDynamicBool19",
+          "DFFlagFlagRolloutTestDynamicBool2",
+          "DFFlagFlagRolloutTestDynamicBool3",
+          "DFFlagFlagRolloutTestDynamicBool4",
+          "DFFlagFlagRolloutTestDynamicBool5",
+          "DFFlagFlagRolloutTestDynamicBool6",
+          "DFFlagFlagRolloutTestDynamicBool7",
+          "DFFlagFlagRolloutTestDynamicBool8",
+          "DFFlagFlagRolloutTestDynamicBool9",
+          "DFFlagFriendsApiCallerIdentityParam_Staged",
+          "FFlagAXPlusSubscribeBannerRestyle_Staged",
+          "FFlagEnableBonusJwtInShop_Staged",
+          "FFlagExpChatUseIsDefaultTextChannel_Staged",
+          "FFlagFlagRolloutTestStaticBool0",
+          "FFlagFlagRolloutTestStaticBool1",
+          "FFlagFlagRolloutTestStaticBool10",
+          "FFlagFlagRolloutTestStaticBool11",
+          "FFlagFlagRolloutTestStaticBool12",
+          "FFlagFlagRolloutTestStaticBool13",
+          "FFlagFlagRolloutTestStaticBool14",
+          "FFlagFlagRolloutTestStaticBool15",
+          "FFlagFlagRolloutTestStaticBool16",
+          "FFlagFlagRolloutTestStaticBool17",
+          "FFlagFlagRolloutTestStaticBool18",
+          "FFlagFlagRolloutTestStaticBool19",
+          "FFlagFlagRolloutTestStaticBool2",
+          "FFlagFlagRolloutTestStaticBool3",
+          "FFlagFlagRolloutTestStaticBool4",
+          "FFlagFlagRolloutTestStaticBool5",
+          "FFlagFlagRolloutTestStaticBool6",
+          "FFlagFlagRolloutTestStaticBool7",
+          "FFlagFlagRolloutTestStaticBool8",
+          "FFlagFlagRolloutTestStaticBool9",
+          "FFlagShutdownDurationTelemetryProtocol_Staged",
+          "FFlagSideSheetAndroidBack_Staged",
+          "FFlagSkipPaymentSessionForPlainRobux_Staged"
+        ],
+        "unchanged": 22617
+      }
+    },
+    "UniversalApp": {
+      "current": "e0f51d93fccca751caf9d5e94e5873ae2ec2affcc7d1cc6ef9fcb09fcf48ffbb",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "f13a260f9c3fca7c472777259498edf4e5cb0585cefd8ba679ed7435c7abc63a",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}

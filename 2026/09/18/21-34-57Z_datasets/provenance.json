@@ -1,6 +1,5 @@
 {
-  "observationMode": "live",
-  "provenance": [
+  "FastVariables": [
     {
       "buildGuid": "version-4310300497aa4917",
       "bytes": 136726729,
@@ -78,12 +77,45 @@
       "sourceUrl": "https://setup.rbxcdn.com/version-4310300497aa4917-extracontent-translations.zip"
     }
   ],
-  "status": "available",
-  "summary": {
-    "cpp": 25,
-    "engineRevision": 1,
-    "lua": 0,
-    "method": "C++: explicitly prefixed native strings. Lua: explicit names and DefineFast/GetFast literals. These are observations, not a complete executable registration table. LIVE values are separate."
-  },
-  "target": "WindowsPlayer"
+  "InExperience": [
+    {
+      "bytes": 42712,
+      "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
+      "sha256": "6da724fbe032c99e0fb89e2beb02d5fe5c055908d9c12e9044e6ddfee42b7ceb",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.739.0.7390687&tag=Release&name=app-patch-in-experience"
+    },
+    {
+      "bytes": 13122471,
+      "derivedFrom": "InExperience.rbxm",
+      "sha256": "f2f06393645834ac24ab710778d33d5dc5374b4d77e16968ecdd9717f1aae8f3",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=13988"
+    }
+  ],
+  "LiveSettings": [
+    {
+      "bytes": 1306906,
+      "reference": "https://raw.githubusercontent.com/MaximumADHD/Roblox-FFlag-Tracker/main/README.md",
+      "sha256": "8aa8cde72f0755cacece9446279e978b39c6f89e18277aa4492051f3a97a87ab",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettings.roblox.com/v2/settings/application/PCDesktopClient"
+    }
+  ],
+  "UniversalApp": [
+    {
+      "bytes": 42713,
+      "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
+      "sha256": "77e528ae1444603f349df6beb4ade94fbc3fccbf0ad7e6b3008759443451c5d9",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.739.0.7390687&tag=Release&name=app-patch-universal-app"
+    },
+    {
+      "bytes": 12258871,
+      "derivedFrom": "UniversalApp.rbxm",
+      "sha256": "3161ec51eae6ac70df09bed48c6023fcca5be3f1f555deb082e9fa06d849e20d",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=14070"
+    }
+  ]
 }
