@@ -1,0 +1,188 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4310300497aa4917",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.739.0.7390687"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "d6ca5fa31b3486f96f5ed7a7dba59de2438caec6e7fd403ca03796b4c5a2c2e9",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "d8a7b9ad27038ecbbf226ea3b90ae4daf7917a5329ab6247971941d5dd83cc6f",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 25
+        }
+      }
+    },
+    "InExperience": {
+      "current": "e240fe6f860643e602a858835ab283583360df8b0e0a998e9dda2d7ed5843132",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "7a893dddfbd99f39a76c55fbbeeba2a834d5054ca94a1b0c3f0d0501966889b6",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "caf2eadc765b315656e102df52df1654c15dd692b265304c0ed1e69a3d703b59",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "2507dd8e7365a1ff4f045675d183b7282d13e57283f63e16d5407c78c3894131",
+      "semantic": {
+        "added": [
+          "DFFlagEnableDynamicCollaboratorSafetyEvictionCheck_Staged",
+          "DFFlagFlagRolloutTestDynamicBool20_Staged",
+          "DFFlagFlagRolloutTestDynamicBool21_Staged",
+          "DFFlagFlagRolloutTestDynamicBool22_Staged",
+          "DFFlagFlagRolloutTestDynamicBool23_Staged",
+          "DFFlagFlagRolloutTestDynamicBool24_Staged",
+          "DFFlagFlagRolloutTestDynamicBool25_Staged",
+          "DFFlagFlagRolloutTestDynamicBool26_Staged",
+          "DFFlagFlagRolloutTestDynamicBool27_Staged",
+          "DFFlagFlagRolloutTestDynamicBool28_Staged",
+          "DFFlagFlagRolloutTestDynamicBool29_Staged",
+          "FFlagEnableCollaboratorSafetyEvictionCheck4_Staged",
+          "FFlagFlagRolloutTestStaticBool20_Staged",
+          "FFlagFlagRolloutTestStaticBool21_Staged",
+          "FFlagFlagRolloutTestStaticBool22_Staged",
+          "FFlagFlagRolloutTestStaticBool23_Staged",
+          "FFlagFlagRolloutTestStaticBool24_Staged",
+          "FFlagFlagRolloutTestStaticBool25_Staged",
+          "FFlagFlagRolloutTestStaticBool26_Staged",
+          "FFlagFlagRolloutTestStaticBool27_Staged",
+          "FFlagFlagRolloutTestStaticBool28_Staged",
+          "FFlagFlagRolloutTestStaticBool29_Staged"
+        ],
+        "changed": [
+          {
+            "after": "7dc96b8fd9b73d80c0bb61bcf40d14890916b332",
+            "before": "5b2363c0c1dc7018df5548ef29956ebbc2d015f6",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-09-18T22:01:20.382Z",
+            "before": "2026-09-18T21:31:02.550Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "7dc96b8fd9b73d80c0bb61bcf40d14890916b332",
+            "before": "5b2363c0c1dc7018df5548ef29956ebbc2d015f6",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-09-18T22:01:20.382Z",
+            "before": "2026-09-18T21:31:02.550Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagFlagRolloutTestDynamicBool20",
+          "DFFlagFlagRolloutTestDynamicBool21",
+          "DFFlagFlagRolloutTestDynamicBool22",
+          "DFFlagFlagRolloutTestDynamicBool23",
+          "DFFlagFlagRolloutTestDynamicBool24",
+          "DFFlagFlagRolloutTestDynamicBool25",
+          "DFFlagFlagRolloutTestDynamicBool26",
+          "DFFlagFlagRolloutTestDynamicBool27",
+          "DFFlagFlagRolloutTestDynamicBool28",
+          "DFFlagFlagRolloutTestDynamicBool29",
+          "FFlagFlagRolloutTestStaticBool20",
+          "FFlagFlagRolloutTestStaticBool21",
+          "FFlagFlagRolloutTestStaticBool22",
+          "FFlagFlagRolloutTestStaticBool23",
+          "FFlagFlagRolloutTestStaticBool24",
+          "FFlagFlagRolloutTestStaticBool25",
+          "FFlagFlagRolloutTestStaticBool26",
+          "FFlagFlagRolloutTestStaticBool27",
+          "FFlagFlagRolloutTestStaticBool28",
+          "FFlagFlagRolloutTestStaticBool29"
+        ],
+        "unchanged": 22646
+      }
+    },
+    "UniversalApp": {
+      "current": "18a78055320208007769ba203254d6c3e2af49aa1a5a3b1071d1f3d60737250f",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "2592c39b61e0da90072da0b907b887dab8dd1709aa430a653017485794d7fd22",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "a7f9715be80de6bf7554d4b94a25b22ad395f90367c8b1139f370ea2e5238f68",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "2fcd7fd6d552194a1df6ddbe854635eb85f541ccf9601608c4b52a5a8ba7e2ed",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
