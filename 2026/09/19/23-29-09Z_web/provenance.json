@@ -1,6 +1,5 @@
 {
-  "observationMode": "live",
-  "provenance": [
+  "Web": [
     {
       "bytes": 1467661,
       "sha256": "950549424591bb6e9e813e74cac9354cb810d51b2785861ec6a91d0c20d0ef0a",
@@ -1345,16 +1344,5 @@
       "sourceType": "official",
       "sourceUrl": "https://www.roblox.com/js/utilities/bundleVerifier.js?v=91dceb4978eda412b09842312dd6cbaa"
     }
-  ],
-  "status": "available",
-  "summary": {
-    "assets": 224,
-    "engineRevision": 1,
-    "errors": 0,
-    "pages": [
-      "https://www.roblox.com/",
-      "https://www.roblox.com/discover"
-    ]
-  },
-  "target": "WindowsPlayer"
+  ]
 }

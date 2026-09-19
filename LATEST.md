@@ -2,9 +2,9 @@
 
 # Latest Roblox Player Datamining
 
-**Observed:** 20/09/2026, 01:12:37 CEST (23:12:37 UTC)
+**Observed:** 20/09/2026, 01:29:09 CEST (23:29:09 UTC)
 
-**Event:** [`2026/09/19/23-12-37Z_web/`](2026/09/19/23-12-37Z_web/)
+**Event:** [`2026/09/19/23-29-09Z_web/`](2026/09/19/23-29-09Z_web/)
 
 **Build:** [`0.739.0.7390687`](current/Build/version.json)
 
@@ -13,7 +13,7 @@
 ## Summary
 
 ```text
-Web files          +6 ~2 -3
+Web files          +3 ~2 -6
 ```
 
 File counts describe canonical files. Nested semantic rows describe values or API/source records inside those files.
@@ -22,4 +22,4 @@ File counts describe canonical files. Nested semantic rows describe values or AP
 
 No correlated findings for this event.
 
-See the [summary](2026/09/19/23-12-37Z_web/summary.md), [diff](2026/09/19/23-12-37Z_web/diff.md), [findings](2026/09/19/23-12-37Z_web/findings.md), and [changes.json](2026/09/19/23-12-37Z_web/changes.json).
+See the [summary](2026/09/19/23-29-09Z_web/summary.md), [diff](2026/09/19/23-29-09Z_web/diff.md), [findings](2026/09/19/23-29-09Z_web/findings.md), and [changes.json](2026/09/19/23-29-09Z_web/changes.json).
