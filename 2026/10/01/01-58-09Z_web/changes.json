@@ -1,0 +1,28 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "Web": {
+      "current": "d883e927d5a5fb79e6a5a92899fb7150c15e1fd30bb29ddc41d7891c321254bd",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/ConfigureWebApps.js"
+        ],
+        "changed": [
+          "assets.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 223
+      },
+      "previous": "8e43bebbc3e91d823cc81f5ff8d3942ac55ac1fee7a5fa97e4c34b963165b1ee",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}

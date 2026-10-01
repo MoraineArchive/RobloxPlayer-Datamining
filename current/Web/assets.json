@@ -56,6 +56,14 @@
     "url": "https://js.rbxcdn.com/a8283e17ada558a49b009d71549f520e2d70988f75f8b43dd0c0ac6c39006d09-Challenge.js"
   },
   {
+    "path": "js.rbxcdn.com/page-0/ConfigureWebApps.js",
+    "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
+    "sha256": "f626f9346627fe25c375186eec489d610358ff7dce1a059678cb20926b5edaf4",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/configureWebApps-38b0e6406a4075a5.js.map",
+    "sourcePage": "https://www.roblox.com/",
+    "url": "https://js.rbxcdn.com/f237746d0aea12de9860040043f8d9bee7dab0baf4a87bb6fc87de6d160c4000.js"
+  },
+  {
     "path": "js.rbxcdn.com/page-0/CookieBannerV3.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
     "sha256": "2d93743724ff049ef790bd3af0d5cf4d03880c52a65d6854739f69d5e4ea824e",
@@ -1773,7 +1781,7 @@
     "sha256": "a5c8a04f376146e4db42b372cd6f0b2fffbf06d01cd6599573681c76cc217a40",
     "sourceMap": null,
     "sourcePage": "https://www.roblox.com/",
-    "url": "https://www.roblox.com/js/utilities/bundleVerifier.js?v=d8be7ec8aee81a9acf17014aae64dd2e"
+    "url": "https://www.roblox.com/js/utilities/bundleVerifier.js?v=91dceb4978eda412b09842312dd6cbaa"
   },
   {
     "path": "www.roblox.com/page-1/script-000.js",
