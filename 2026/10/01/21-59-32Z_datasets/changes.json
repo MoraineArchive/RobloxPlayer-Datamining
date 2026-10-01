@@ -1,0 +1,160 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "24012f35bd95771ce4f4fe0ffdc335dc071581e1470ca2d9fa2ccdec52bb9fc4",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "61e9c1913535114a79797abf1ae38da0d230ea824817de41e275d1d77bb18500",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 25
+        }
+      }
+    },
+    "InExperience": {
+      "current": "b68f63b5b45bdd5902eadd6d93decc3dbc62c34768aaf7bbf27306f3c3a6986b",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "51591e7d01b791b12ec4ce8a110f529c61e2eee0fa687ef67d3243ba204f2cf7",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "6d3a0e0e9da5f258fb50bd658b39dfb9bafc8c30f3a75aee3d5dd3d920945475",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "571d60aba2aaf7490deba4bdc853d14668e93c1a173beb4a1c37f99c0c9f294d",
+      "semantic": {
+        "added": [
+          "DFFlagGamePassPurchaseOrchestratorEnabled_Staged",
+          "FFlagAXFixDiscountSummaryTextWrapPlus",
+          "FFlagAXFixTwoAxisSliderForVR",
+          "FFlagAXMigrateAllTabToSdui10_IXP",
+          "FFlagLuaAppAddHasOneByTwoField_Staged",
+          "FFlagLuaAppInitializeErrorReporterEarly_Staged",
+          "FFlagLuaAppSduiOpenExternalLinkAction_Staged",
+          "FFlagRbxTransportDummyClientForwardConfig_Staged",
+          "FFlagSduiPreferredTextSizeLineBudgets_Staged",
+          "FFlagSduiSearchClientTemplateCache_Staged",
+          "FFlagSearchSduiTemplatePrewarm_Staged"
+        ],
+        "changed": [
+          {
+            "after": "10000;26032;26033;26034;26035;26036;26037;26048;26049;26050;26051;26052;26053;26059;26060;26061;26062;26063;26064;25811;25814;438;439;388;416;25502;26143;524;417;26144;25851",
+            "before": "10000;26032;26033;26034;26035;26036;26037;26048;26049;26050;26051;26052;26053;26059;26060;26061;26062;26063;26064;25811;25814;438;439;388;416;25502;26143;524;417;26144",
+            "name": "DFIntRCCInstanceTrackingOnElasticSearchHundredthsPercentage_DataCenterFilter"
+          },
+          {
+            "after": "ce80ed09b9eb2efe510512e87aa467ada4b7b0f2",
+            "before": "d04ca94e92e3f21dc1d5c5c203c3054fe78faf28",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-01T21:58:24.225Z",
+            "before": "2026-10-01T21:43:02.792Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui-1789657572072-1790888828115;865750712;dev_controlled",
+            "before": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui-1789657572072;1811499930;dev_controlled",
+            "name": "FFlagAXCatalogSduiExposureLogging_IXP"
+          },
+          {
+            "after": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui-1789657572072-1790888828115;865750712;dev_controlled",
+            "before": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui-1789657572072;1811499930;dev_controlled",
+            "name": "FFlagAXFixCatalogTileThumbnailFlash3_IXP"
+          },
+          {
+            "after": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui-1789657572072-1790888828115;865750712;dev_controlled",
+            "before": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui-1789657572072;1811499930;dev_controlled",
+            "name": "FFlagAXSlotEditorCategoryMenu_IXP"
+          },
+          {
+            "after": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui-1789657572072-1790888828115;865750712;dev_controlled",
+            "before": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogSdui-1789657572072;1811499930;dev_controlled",
+            "name": "FFlagAXUseVirtualizedFeedInWidgetList2_IXP"
+          },
+          {
+            "after": "ce80ed09b9eb2efe510512e87aa467ada4b7b0f2",
+            "before": "d04ca94e92e3f21dc1d5c5c203c3054fe78faf28",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-01T21:58:24.225Z",
+            "before": "2026-10-01T21:43:02.792Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAXAddAttributionToCheckoutCartPurchases_Staged",
+          "FFlagAXFixDiscountSummaryTextWrapPlus_Staged",
+          "FFlagAXFixTwoAxisSliderForVR_Staged",
+          "FFlagAXOfferBannerImpressionOnlyOnStartup_Staged"
+        ],
+        "unchanged": 23284
+      }
+    },
+    "UniversalApp": {
+      "current": "2b38c793798598f68060ec3563ea42860ee6d22f78f692358a1f10d51274b6be",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "ebbd5f681e3b34b0a6b8c2832820c23394cca15f09d238e463a6a8f4687a4377",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
