@@ -1,13 +1,13 @@
 [
   {
-    "checksum": "265e144545ce0544f811d615c0c3f584",
-    "compressedSize": 294472,
+    "checksum": "2e92dd1487819341ac2688e24ec8fa11",
+    "compressedSize": 293631,
     "name": "content-avatar.zip",
-    "uncompressedSize": 1029644
+    "uncompressedSize": 1047884
   },
   {
-    "checksum": "6d9dc811316f3cb042dbb7f3bf97e91e",
-    "compressedSize": 306513,
+    "checksum": "a63670c685cab41a9385147773566425",
+    "compressedSize": 306510,
     "name": "content-configs.zip",
     "uncompressedSize": 1805511
   },
@@ -24,10 +24,10 @@
     "uncompressedSize": 1413471
   },
   {
-    "checksum": "30d47ac247e8a7382be22bac80088207",
-    "compressedSize": 411110,
+    "checksum": "4472dc285d50e7dfab8ce1a650fe6776",
+    "compressedSize": 418915,
     "name": "content-platform-dictionaries.zip",
-    "uncompressedSize": 1377228
+    "uncompressedSize": 1412166
   },
   {
     "checksum": "8f379ec2b22ff106b837d79f7fdbf0d8",
@@ -72,16 +72,16 @@
     "uncompressedSize": 3130106
   },
   {
-    "checksum": "7e4865ef2f15f43efc0043905413ae16",
-    "compressedSize": 25553611,
+    "checksum": "38f9b58e65ac24410434e1d0f534d51b",
+    "compressedSize": 26016733,
     "name": "extracontent-models.zip",
-    "uncompressedSize": 25659201
+    "uncompressedSize": 26123411
   },
   {
-    "checksum": "35e4efb6e5fcb0ac5382d4b43e9d0027",
-    "compressedSize": 776370,
+    "checksum": "154b9840854f37ad3fe8f78f21eeaa0f",
+    "compressedSize": 776659,
     "name": "extracontent-places.zip",
-    "uncompressedSize": 1112622
+    "uncompressedSize": 1113392
   },
   {
     "checksum": "bc138844dbab2ab85f9106242854ef61",
@@ -96,31 +96,31 @@
     "uncompressedSize": 1919259
   },
   {
-    "checksum": "6bc4614df3393cbdaf13b466c5964cca",
-    "compressedSize": 136726729,
+    "checksum": "ee01379730057fe6c967687ebef5c0e3",
+    "compressedSize": 135315213,
     "name": "RobloxApp.zip",
-    "uncompressedSize": 175510571
+    "uncompressedSize": 172418603
   },
   {
-    "checksum": "09796d7a9b72e905b895443416da4f1c",
-    "compressedSize": 13525968,
+    "checksum": "75d64f7255417033aa4709757cda4c4f",
+    "compressedSize": 13410768,
     "name": "RobloxPlayerInstaller.exe",
-    "uncompressedSize": 13525968
+    "uncompressedSize": 13410768
   },
   {
-    "checksum": "50bd6a0a1967c5d2ca4c03808ab2ea4e",
-    "compressedSize": 11614180,
+    "checksum": "b47c7b1dfe48f443c3f892e87dd2f8e9",
+    "compressedSize": 13093128,
     "name": "shaders.zip",
-    "uncompressedSize": 68373304
+    "uncompressedSize": 82653219
   },
   {
-    "checksum": "22ec043ffdc01d3a7e52e134ecd3ffa4",
+    "checksum": "5731c7d38de639b3e788d0c6fc42c8ba",
     "compressedSize": 130569,
     "name": "ssl.zip",
     "uncompressedSize": 228725
   },
   {
-    "checksum": "ea2feaeef9b958f938a642d897c0a071",
+    "checksum": "dcb24edbb952365619b132f86c30d82c",
     "compressedSize": 83405,
     "name": "WebView2.zip",
     "uncompressedSize": 166000

@@ -256,11 +256,59 @@
             "avatar",
             "feature2"
           ]
+        },
+        {
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/10/01/01-38-10Z_build_version-02c37bc51a384b8f",
+          "evidencePath": "2026/10/01/01-38-10Z_build_version-02c37bc51a384b8f/changes.json",
+          "family": "LiveSettings",
+          "id": "6691f0931b922c009aba743dca309c78068a07f2482eee0cda701c8bf228aa53",
+          "key": "DFFlagAvatarAbilitiesUseStudioBeta2Asset_UniverseFilter",
+          "kind": "LiveSettings",
+          "observedAt": "2026-10-01T01:38:10.321Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "asset",
+            "avatar",
+            "beta2",
+            "filter",
+            "universe"
+          ]
+        },
+        {
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/10/01/01-38-10Z_build_version-02c37bc51a384b8f",
+          "evidencePath": "2026/10/01/01-38-10Z_build_version-02c37bc51a384b8f/changes.json",
+          "family": "LiveSettings",
+          "id": "dc7f2ca818b1ec9b20cdde34554d4b09a006a4340f470d24d102dfaa7bf24491",
+          "key": "DFFlagAvatarAbilitiesUseStudioBeta2Asset_PlaceFilter",
+          "kind": "LiveSettings",
+          "observedAt": "2026-10-01T01:38:10.321Z",
+          "operation": "added",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "asset",
+            "avatar",
+            "beta2",
+            "filter",
+            "place"
+          ]
         }
       ],
       "firstObservedAt": "2026-09-08T23:42:52.368Z",
       "id": "avatar-abilities",
-      "lastObservedAt": "2026-09-10T21:09:36.106Z",
+      "lastObservedAt": "2026-10-01T01:38:10.321Z",
       "lifecycle": [
         {
           "observedAt": "2026-09-09T01:37:12.973Z",

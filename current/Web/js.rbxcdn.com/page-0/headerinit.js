@@ -1,4 +1,4 @@
-;// bundle: headerinit___0a78fbd06e2758f0848bc1796d94575e_m
+;// bundle: headerinit___29b1ca000d633d967bbdb77fbc79ae93_m
 ;// files: jquery/jquery-1.11.1.min.js, jquery/jquery-migrate-1.2.1.min.js, roblox.js, common/constants.js, jquery.cookie.js, RobloxCookies.js, utilities/minifyTestFile.js, RobloxEventStream.js, Events/UserInteractionsEvent.js, Events/PageHeartbeatEvent.js, services/userService.js, services/metaDataValues.js, utilities/localStorage.js, utilities/ExponentialBackoff.js, utilities/ExponentialBackoffSpecification.js
 
 ;// jquery/jquery-1.11.1.min.js
@@ -93,7 +93,7 @@ if(serviceWorkerMode&&targetType!==targetTypes.DEFAULT){throw"TargetType '"+targ
 if(!eventName||!context||baseUrl===""){return;}
 var defaultParams=getEventParameters(eventName,context,additionalProperties);var url=baseUrl;if(baseUrl&&baseUrl.indexOf("?")===-1){url+="?";}
 else{url+="&";}
-if(!serviceWorkerMode){$.extend(additionalProperties,defaultParams);url+=$.param(additionalProperties);var img=new Image();img.src=url;}else{extend(additionalProperties,defaultParams);url+=toQueryStringParams(additionalProperties);Roblox.Fetch.getWithNoCredentials(url);}
+if(!serviceWorkerMode){$.extend(additionalProperties,defaultParams);url+=$.param(additionalProperties);fetch(url,{mode:'cors',credentials:'include',keepalive:true}).catch(function(){});}else{extend(additionalProperties,defaultParams);url+=toQueryStringParams(additionalProperties);Roblox.Fetch.getWithNoCredentials(url);}
 my.LocalEventLog.push({eventName:eventName,context:context,additionalProperties:additionalProperties});}
 function sendEvent(eventName,context,additionalProperties){return sendEventWithTarget(eventName,context,additionalProperties,targetTypes.DEFAULT);}
 function isInitialized(){return initFinished;}

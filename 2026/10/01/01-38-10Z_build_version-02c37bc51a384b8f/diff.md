@@ -1,0 +1,915 @@
+[![Moraine Roblox Datamining](https://github.com/MoraineArchive/Moraine-asset/blob/main/roblox/banner_roblox.png?raw=true)](https://github.com/MoraineArchive/Moraine-asset/blob/main/roblox/banner_roblox.png)
+
+# Roblox Player Datamining Diff
+
+**Observed:** 01/10/2026, 03:38:10 CEST (01:38:10 UTC)
+
+## Build
+
+**File changes:** +0 ~3 -0
+
+- **Changed:** [`FileManifest.json`](../../../../current/Build/FileManifest.json)
+- **Changed:** [`Packages.json`](../../../../current/Build/Packages.json)
+- **Changed:** [`version.json`](../../../../current/Build/version.json)
+
+### packages
+
+- **Changed:** `RobloxApp.zip`
+  - Before: `{  "checksum": "6bc4614df3393cbdaf13b466c5964cca",  "compressedSize": 136726729,  "name": "RobloxApp.zip",  "uncompressedSize": 175510571}`
+  - After: `{  "checksum": "ee01379730057fe6c967687ebef5c0e3",  "compressedSize": 135315213,  "name": "RobloxApp.zip",  "uncompressedSize": 172418603}`
+- **Changed:** `RobloxPlayerInstaller.exe`
+  - Before: `{  "checksum": "09796d7a9b72e905b895443416da4f1c",  "compressedSize": 13525968,  "name": "RobloxPlayerInstaller.exe",  "uncompressedSize": 13525968}`
+  - After: `{  "checksum": "75d64f7255417033aa4709757cda4c4f",  "compressedSize": 13410768,  "name": "RobloxPlayerInstaller.exe",  "uncompressedSize": 13410768}`
+- **Changed:** `WebView2.zip`
+  - Before: `{  "checksum": "ea2feaeef9b958f938a642d897c0a071",  "compressedSize": 83405,  "name": "WebView2.zip",  "uncompressedSize": 166000}`
+  - After: `{  "checksum": "dcb24edbb952365619b132f86c30d82c",  "compressedSize": 83405,  "name": "WebView2.zip",  "uncompressedSize": 166000}`
+- **Changed:** `content-avatar.zip`
+  - Before: `{  "checksum": "265e144545ce0544f811d615c0c3f584",  "compressedSize": 294472,  "name": "content-avatar.zip",  "uncompressedSize": 1029644}`
+  - After: `{  "checksum": "2e92dd1487819341ac2688e24ec8fa11",  "compressedSize": 293631,  "name": "content-avatar.zip",  "uncompressedSize": 1047884}`
+- **Changed:** `content-configs.zip`
+  - Before: `{  "checksum": "6d9dc811316f3cb042dbb7f3bf97e91e",  "compressedSize": 306513,  "name": "content-configs.zip",  "uncompressedSize": 1805511}`
+  - After: `{  "checksum": "a63670c685cab41a9385147773566425",  "compressedSize": 306510,  "name": "content-configs.zip",  "uncompressedSize": 1805511}`
+- **Changed:** `content-platform-dictionaries.zip`
+  - Before: `{  "checksum": "30d47ac247e8a7382be22bac80088207",  "compressedSize": 411110,  "name": "content-platform-dictionaries.zip",  "uncompressedSize": 1377228}`
+  - After: `{  "checksum": "4472dc285d50e7dfab8ce1a650fe6776",  "compressedSize": 418915,  "name": "content-platform-dictionaries.zip",  "uncompressedSize": 1412166}`
+- **Changed:** `extracontent-models.zip`
+  - Before: `{  "checksum": "7e4865ef2f15f43efc0043905413ae16",  "compressedSize": 25553611,  "name": "extracontent-models.zip",  "uncompressedSize": 25659201}`
+  - After: `{  "checksum": "38f9b58e65ac24410434e1d0f534d51b",  "compressedSize": 26016733,  "name": "extracontent-models.zip",  "uncompressedSize": 26123411}`
+- **Changed:** `extracontent-places.zip`
+  - Before: `{  "checksum": "35e4efb6e5fcb0ac5382d4b43e9d0027",  "compressedSize": 776370,  "name": "extracontent-places.zip",  "uncompressedSize": 1112622}`
+  - After: `{  "checksum": "154b9840854f37ad3fe8f78f21eeaa0f",  "compressedSize": 776659,  "name": "extracontent-places.zip",  "uncompressedSize": 1113392}`
+- **Changed:** `shaders.zip`
+  - Before: `{  "checksum": "50bd6a0a1967c5d2ca4c03808ab2ea4e",  "compressedSize": 11614180,  "name": "shaders.zip",  "uncompressedSize": 68373304}`
+  - After: `{  "checksum": "b47c7b1dfe48f443c3f892e87dd2f8e9",  "compressedSize": 13093128,  "name": "shaders.zip",  "uncompressedSize": 82653219}`
+- **Changed:** `ssl.zip`
+  - Before: `{  "checksum": "22ec043ffdc01d3a7e52e134ecd3ffa4",  "compressedSize": 130569,  "name": "ssl.zip",  "uncompressedSize": 228725}`
+  - After: `{  "checksum": "5731c7d38de639b3e788d0c6fc42c8ba",  "compressedSize": 130569,  "name": "ssl.zip",  "uncompressedSize": 228725}`
+
+### files
+
+- **Added:** `PlatformContent/pc/shared_compression_dictionaries/0296295e4dd668d06e1af544154f0659730111d7ab0a450c76f3270507a26450.dict`
+- **Changed:** `ExtraContent/models/CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch.rbxm`
+- **Changed:** `ExtraContent/models/InExperience/InExperience.rbxm`
+- **Changed:** `ExtraContent/models/InExperience/InExperience_checksum`
+- **Changed:** `ExtraContent/models/Licenses/Licenses.rbxm`
+- **Changed:** `ExtraContent/models/UniversalApp/UniversalApp.rbxm`
+- **Changed:** `ExtraContent/models/UniversalApp/UniversalApp_checksum`
+- **Changed:** `ExtraContent/places/Mobile.rbxl`
+- **Changed:** `RobloxCrashHandler.exe`
+- **Changed:** `RobloxPlayerBeta.dll`
+- **Changed:** `RobloxPlayerBeta.exe`
+- **Changed:** `content/avatar/characterR6NoFace.rbxm`
+- **Changed:** `content/configs/InExperiencePatchConfig/InExperiencePatchConfig.json`
+- **Changed:** `content/configs/UniversalAppPatchConfig/UniversalAppPatchConfig.json`
+- **Changed:** `shaders/shaders_d3d10.pack`
+- **Changed:** `shaders/shaders_d3d10_1.pack`
+- **Changed:** `shaders/shaders_d3d11.pack`
+- **Changed:** `shaders/shaders_glsl3.pack`
+- **Changed:** `shaders/shaders_vulkan_desktop.pack`
+- **Removed:** `PlatformContent/pc/shared_compression_dictionaries/67d516a78ef797d4f99059229489371c538ef02a4c8425da431fd578454203cf.dict`
+
+## LuaPackages
+
+**File changes:** +0 ~6 -0
+
+- **Changed:** [`content-configs/InExperiencePatchConfig/InExperiencePatchConfig.json`](../../../../current/LuaPackages/content-configs/InExperiencePatchConfig/InExperiencePatchConfig.json)
+- **Changed:** [`content-configs/UniversalAppPatchConfig/UniversalAppPatchConfig.json`](../../../../current/LuaPackages/content-configs/UniversalAppPatchConfig/UniversalAppPatchConfig.json)
+- **Changed:** [`extracontent-models/CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch/instances.json`](../../../../current/LuaPackages/extracontent-models/CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch/instances.json)
+- **Changed:** [`extracontent-models/InExperience/InExperience/instances.json`](../../../../current/LuaPackages/extracontent-models/InExperience/InExperience/instances.json)
+- **Changed:** [`extracontent-models/UniversalApp/UniversalApp/instances.json`](../../../../current/LuaPackages/extracontent-models/UniversalApp/UniversalApp/instances.json)
+- **Changed:** [`index.json`](../../../../current/LuaPackages/index.json)
+
+### sources
+
+
+## Native
+
+**File changes:** +0 ~8 -0
+
+Extended native string sets are available in [`changes.json`](changes.json) and the Git diff.
+
+## FastVariables
+
+**File changes:** +0 ~2 -0
+
+- **Changed:** [`combined.json`](../../../../current/FastVariables/combined.json)
+- **Changed:** [`cpp.txt`](../../../../current/FastVariables/cpp.txt)
+
+### variables
+
+- **Added:** `C++:FFlagBankGuard`
+- **Changed:** `C++:DFIntGameNetLocalSpaceMaxSendIndex`
+- **Changed:** `C++:FFlagCollectionServiceTagAddedRemovedOnInstanceSignals`
+- **Changed:** `C++:FFlagDebugEnableLocalAppUpdateChecks`
+- **Changed:** `C++:FFlagDebugEnableTestServiceDeterministicCapture`
+- **Changed:** `C++:FFlagDebugEnableTestServiceVideoCapture`
+- **Changed:** `C++:FFlagDifferentiateStreamedOut`
+- **Changed:** `C++:FFlagLCQualityValidation`
+- **Changed:** `C++:FFlagLuauExpressionReferencesMethod`
+- **Changed:** `C++:FFlagLuauExpressionServiceEnabled`
+- **Changed:** `C++:FFlagMigrateCameraCFrameDatamodel`
+- **Changed:** `C++:FFlagMigrateCameraFocusDatamodel`
+- **Changed:** `C++:FFlagMigrateCameraFovDatamodel`
+- **Changed:** `C++:FFlagNextGenReplicatorEnabledRead`
+- **Changed:** `C++:FFlagNextGenReplicatorEnabledWrite`
+- **Changed:** `C++:FFlagSaveAndReloadDebuggablePluginVerb`
+- **Changed:** `C++:FFlagUGCValidateHSRMeshIds`
+- **Changed:** `C++:FFlagUGCValidateInstanceTreesEquivalent`
+- **Changed:** `C++:FFlagUGCValidatePropertiesSensible`
+- **Changed:** `C++:FFlagUGCValidateSerializeExcludeCollisionPhysics`
+- **Changed:** `C++:FFlagVoiceUseWebRTCSession`
+- **Changed:** `C++:FIntContentProviderPreloadHangHashRepeatCount`
+- **Changed:** `C++:FStringDebugRenderingTestVideoCapturePath`
+- **Changed:** `C++:FStringSlimTranscoderResourcePath`
+- **Changed:** `C++:FStringTextureTranscodeRollout`
+- **Removed:** `C++:FFlagInstanceExtensionsServiceCountChildren`
+
+## LiveSettings
+
+**File changes:** +0 ~1 -0
+
+- **Changed:** [`current.json`](../../../../current/LiveSettings/current.json)
+
+### Values
+
+- **Added:** `AssetImporterCreateQueueWidgetImmediately`
+- **Added:** `DFFlagAdsVisibilityRaycastUseWorldRoot`
+- **Added:** `DFFlagAssetContentMapUploadEnabled`
+- **Added:** `DFFlagAssetImportAddressCLI216025`
+- **Added:** `DFFlagAvatarAbilitiesUseStudioBeta2Asset_PlaceFilter`
+- **Added:** `DFFlagAvatarAbilitiesUseStudioBeta2Asset_UniverseFilter`
+- **Added:** `DFFlagBallPolyMeshContactEnabled`
+- **Added:** `DFFlagBillboardGuiVisibilityRaycastUseWorldRoot`
+- **Added:** `DFFlagCLI224907`
+- **Added:** `DFFlagCLI225144_Execute`
+- **Added:** `DFFlagClimbSensorUseLookAsNormal_PlaceFilter`
+- **Added:** `DFFlagClimbSensorUseLookAsNormal_UniverseFilter`
+- **Added:** `DFFlagCrashUploadToSentryHttpTimeoutEnabled`
+- **Added:** `DFFlagCrashUploadToSentryTelemetryEnabled`
+- **Added:** `DFFlagDMCTMigrateParticleEmitter`
+- **Added:** `DFFlagDMCTMigrateVelocityMotor`
+- **Added:** `DFFlagDMFixRefactorLoadContent`
+- **Added:** `DFFlagDataModelPatcherSkipNonTransientRetry`
+- **Added:** `DFFlagDebugOverrideSlimLoadBalancerBudget`
+- **Added:** `DFFlagDebugValidateFileMeshData`
+- **Added:** `DFFlagEditableMeshSlotMapUnbiasedSlotIndex`
+- **Added:** `DFFlagEnableAdRewardNotificationTelemetry`
+- **Added:** `DFFlagEnableImprovedUIClipping`
+- **Added:** `DFFlagEnablePageMilestoneSignal`
+- **Added:** `DFFlagEnableVmStatsProbe2`
+- **Added:** `DFFlagExpChatFilterAndTranslationEndpointUpdate`
+- **Added:** `DFFlagExpChatFilterAndTranslationEndpointUpdateMsFix2`
+- **Added:** `DFFlagFixStaleServerWeldClearOtherToolGrip`
+- **Added:** `DFFlagFixTriangleMeshPartPhysicsData`
+- **Added:** `DFFlagFluidForcesSwitchToThreePhaseRollout`
+- **Added:** `DFFlagFluidForcesThreePhaseRolloutProperty`
+- **Added:** `DFFlagFriendRequestMutedLocalStatus`
+- **Added:** `DFFlagGImageUseWuffsPngDecoder2`
+- **Added:** `DFFlagGImageUseWuffsPngDecoder2_IXP`
+- **Added:** `DFFlagGlobalUserBlockingRetireLegacyBlockedUsers`
+- **Added:** `DFFlagHttpClientResolveInvalidRangeResponse`
+- **Added:** `DFFlagISRSkipRedundantTimestampSend`
+- **Added:** `DFFlagInstanceRefWaiterDrainFastPath`
+- **Added:** `DFFlagLuauSplitTableLookups`
+- **Added:** `DFFlagMoreGranularScopesNII`
+- **Added:** `DFFlagNetworkBandwidthReport64Bit`
+- **Added:** `DFFlagNetworkBandwidthReportUpload`
+- **Added:** `DFFlagPath2DSkipRedundantParentRelayout`
+- **Added:** `DFFlagPerformPurchaseCodeStandardization`
+- **Added:** `DFFlagPerformPurchaseNewRequestOrchestratorFlow`
+- **Added:** `DFFlagPlayerControlStateAcceptOldSchema_PlaceFilter`
+- **Added:** `DFFlagPlayerControlStateAcceptOldSchema_UniverseFilter`
+- **Added:** `DFFlagPopulatePlayerDataPing`
+- **Added:** `DFFlagProximityPromptVisibilityRaycastUseWorldRoot`
+- **Added:** `DFFlagPwrToastConsumeOnGameLoaded`
+- **Added:** `DFFlagRM3T0CadenceExperimentOverrideEnabled`
+- **Added:** `DFFlagRbxStorageAvgTimeRecordingReporting`
+- **Added:** `DFFlagRbxTransportCertHashesInNetStackConfig2`
+- **Added:** `DFFlagRbxTransportConnectionClosedReportOnce`
+- **Added:** `DFFlagRbxTransportListenerWtEnabled`
+- **Added:** `DFFlagRbxTransportQuicCloseReasonFallback`
+- **Added:** `DFFlagRbxTransportQuicHandlePeerStopSending`
+- **Added:** `DFFlagRbxTransportRtcIoAddMemScope2`
+- **Added:** `DFFlagRbxTransportServerStreamLimits`
+- **Added:** `DFFlagRbxTransportTransientErrorsExpanded`
+- **Added:** `DFFlagRbxTransportTxOverflowBufferUnreliable`
+- **Added:** `DFFlagRbxTransportUniqueConnectionErrors`
+- **Added:** `DFFlagRbxTransportUnreliableReassemblyBudget`
+- **Added:** `DFFlagRccReportCapabilitiesInNetStackConfig2`
+- **Added:** `DFFlagRealtimeFixMeasurementIsConnected`
+- **Added:** `DFFlagRemovePartShapProperty`
+- **Added:** `DFFlagReportBasePartSizPropertySetterUsage`
+- **Added:** `DFFlagReturnNullForImproperGetServiceAccess`
+- **Added:** `DFFlagServerEnforcePropertyRecvNOO`
+- **Added:** `DFFlagSimAdaptiveConserveAngularMomentum`
+- **Added:** `DFFlagSimGroundControllerBalanceDerivedLocomotionLimit`
+- **Added:** `DFFlagSimSolverConstraintLevitationNoSquareRoots`
+- **Added:** `DFFlagSlimRenderingUpdCFrameOpt`
+- **Added:** `DFFlagSmoothClusterInvalidateShadowOnPcrChange2`
+- **Added:** `DFFlagStratusPipelineProbeSingleFlight`
+- **Added:** `DFFlagTelemetryAddStreamingEnabledToCountersAndStats`
+- **Added:** `DFFlagTerrainMaterialSlotTableSnapshot`
+- **Added:** `DFFlagTextChatChannelWindowHideFontFaceWhenUsingDefaultFont`
+- **Added:** `DFFlagTextChatReconcilePerPlayerRatelimit`
+- **Added:** `DFFlagTextChatReconcileQuieter2`
+- **Added:** `DFFlagTextToSpeechUsePlatformApi3`
+- **Added:** `DFFlagThrowOnNonInstanceObjectAttributes`
+- **Added:** `DFFlagThrowOnNonInstanceObjectParent`
+- **Added:** `DFFlagUseCompressedPVSerialization`
+- **Added:** `DFFlagUseDynamicPVMetadata`
+- **Added:** `DFFlagUseNewLuauTypeSolverDefaultEnabled`
+- **Added:** `DFFlagVideoWinHwEncoderReportMFTInit`
+- **Added:** `DFFlagVoiceChatFixCallEndTelemetry`
+- **Added:** `DFFlagVoxelGridLeanDMOldGridBackCompatHardened`
+- **Added:** `DFFlagWorldModelSkipEmptyStep`
+- **Added:** `DFIntAdIntegrationEventsThrottlePointsHundredthsPercent`
+- **Added:** `DFIntAdIntegrationImpressionEventThrottleEventIngestHundredthsPercent`
+- **Added:** `DFIntAdIntegrationViewableTimeEventThrottleEventIngestHundredthsPercent`
+- **Added:** `DFIntCLI225144PerFrame`
+- **Added:** `DFIntCLI225144PerItem`
+- **Added:** `DFIntCrashUploadToSentryHttpTimeoutMilliSec`
+- **Added:** `DFIntDMChangeTrackerMinFreeMemoryMB`
+- **Added:** `DFIntDMRMaxSendsPerSecond`
+- **Added:** `DFIntDMRecorderDataPingCheckPeriodSec`
+- **Added:** `DFIntDMRecorderMaxConsecutiveHighPingChecks`
+- **Added:** `DFIntDMRecorderMaxDataPingMs`
+- **Added:** `DFIntDeferredRbxmDownloadRetryAttempts`
+- **Added:** `DFIntFrustumPerfTelemetryThrottleHP`
+- **Added:** `DFIntMaxLoadableAudioChannelCount`
+- **Added:** `DFIntOperationStatusPollingPeriodInSeconds`
+- **Added:** `DFIntRM3T0CadenceExperimentTelemetryHundredthsPercent`
+- **Added:** `DFIntRegisterImpressionSourceErrorEventThrottleHundredthsPercent`
+- **Added:** `DFIntResendAliveForAllCapThrottle`
+- **Added:** `DFIntSlimLoadBalancerSafetyMarginBytes`
+- **Added:** `DFIntStateRecorderMaxInFlightRequests`
+- **Added:** `DFIntStudioPluginMemoryTelemetryPercent`
+- **Added:** `DFIntVoxelJobManagerDMJobTimeMicroSeconds`
+- **Added:** `DFIntVoxelJobManagerRenderThreadJobTimeMicroSeconds`
+- **Added:** `DFIntWindowsPinShortcutResultEventThrottleHundredthsPercent_IXP`
+- **Added:** `DFIntWrapContentProviderHotCacheSize`
+- **Added:** `FFlagACEDetectHRPDuplicate`
+- **Added:** `FFlagAXActionButtonRoundedRectCursor`
+- **Added:** `FFlagAXAddAttributionToCheckoutCartPurchases`
+- **Added:** `FFlagAXAvatarEditorStoresContext2`
+- **Added:** `FFlagAXCatalogHttpLinkSalesTypeFilter`
+- **Added:** `FFlagAXCustomizeTabDeepLink2`
+- **Added:** `FFlagAXEditorRecommendedItemsUnifiedImpressions`
+- **Added:** `FFlagAXEnableExpiredUserLookCheckout10`
+- **Added:** `FFlagAXEnableHomeTryOnComplexView`
+- **Added:** `FFlagAXFavoritePillDebounceWrites_IXP`
+- **Added:** `FFlagAXFavoritePillOnItemDetails4_IXP`
+- **Added:** `FFlagAXFavoritePillRequireItemId_IXP`
+- **Added:** `FFlagAXFavoritesPillExposureLogging2_IXP`
+- **Added:** `FFlagAXFixGsubInItemToExperienceModal`
+- **Added:** `FFlagAXFixItemDetailsDescriptionSpacing_IXP`
+- **Added:** `FFlagAXFixLeaveCatalogToAvatarPromptMissingSubtype`
+- **Added:** `FFlagAXGateAccessoryAdjustmentAutoFocusByInput`
+- **Added:** `FFlagAXIntervalPerformanceTrackerScrollFrameCounters`
+- **Added:** `FFlagAXLogFavoritePillToggle_IXP`
+- **Added:** `FFlagAXLookDetailsBottomBarFavoriteLogging_IXP`
+- **Added:** `FFlagAXOfferBannerImpressionOnlyOnStartup`
+- **Added:** `FFlagAXShowFavoritePillFtuxTooltip_IXP`
+- **Added:** `FFlagAXUnifiedEventPageContext`
+- **Added:** `FFlagAbuseReportAttributes`
+- **Added:** `FFlagAbuseReportSubmissionLegacyChatV5`
+- **Added:** `FFlagAddFriendsIgnoreAllMenuFocusNavigation`
+- **Added:** `FFlagAddFrustumPerfTelemetry`
+- **Added:** `FFlagAddFrustumStreamingAPI`
+- **Added:** `FFlagAddPinExperienceTargetDestinationGUACPolicy_IXP`
+- **Added:** `FFlagAddPlaytestModeAnalytics`
+- **Added:** `FFlagAllowFolderAnimationPackAnimation2`
+- **Added:** `FFlagAmrFixSearchNoResultsFlash`
+- **Added:** `FFlagAmrHeaderColumnDragDetector`
+- **Added:** `FFlagAnimGraphStateMachineEntryInstanceAttr`
+- **Added:** `FFlagAnimGraphUIBlend2DCollapsedSize`
+- **Added:** `FFlagAnimGraphUIBlendMapCrispLines`
+- **Added:** `FFlagAnimGraphUIButtonTooltips`
+- **Added:** `FFlagAnimGraphUIOrganize`
+- **Added:** `FFlagAnimGraphUIParameterPaneAlignment`
+- **Added:** `FFlagAnimGraphUIReopenLastGraph`
+- **Added:** `FFlagAnimGraphUIResizeParameterPane`
+- **Added:** `FFlagAnimGraphUISelectParameter`
+- **Added:** `FFlagAnimGraphUIShowInExplorer`
+- **Added:** `FFlagAnimGraphUISpotlightClipping`
+- **Added:** `FFlagAnimGraphUIWeightOverlap`
+- **Added:** `FFlagAnimGraphUI_DrawUnmappedConnectionCurves`
+- **Added:** `FFlagAnimGraphUI_FixBlendMapInitialRender`
+- **Added:** `FFlagAnimGraphUI_FixDuplicateStateNames`
+- **Added:** `FFlagAnimGraphUI_FixFrozenNode`
+- **Added:** `FFlagAnimGraphUI_FixInstanceAttrNetworkError`
+- **Added:** `FFlagAnimGraphUI_StateMachineNodeType`
+- **Added:** `FFlagAnimationSAIdleOnMovingPlatformFix_PlaceFilter`
+- **Added:** `FFlagAnimationSAIdleOnMovingPlatformFix_UniverseFilter`
+- **Added:** `FFlagAnimatorParallelManagerUseLiveTaskSchedulerConcurrency`
+- **Added:** `FFlagAppBloxConfirmationDialogFocusNav`
+- **Added:** `FFlagAppChatConversationStore_IXP`
+- **Added:** `FFlagAppChatEnforceTimeoutsOnUnfilteredChat`
+- **Added:** `FFlagAppChatExtendConversationListRowDividers_IXP`
+- **Added:** `FFlagAppChatHidePrivacySettingsWithoutWebView`
+- **Added:** `FFlagAppChatMigrateFriendshipStatuses`
+- **Added:** `FFlagAppChatReadConversationListFromSignalsStore_IXP`
+- **Added:** `FFlagAppChatReadMessageListFromSignalsStore_IXP`
+- **Added:** `FFlagAppChatResolveShareLinkV2`
+- **Added:** `FFlagAppChatSignalsMessageStore5`
+- **Added:** `FFlagAppChatSignalsMessageStore5_IXP`
+- **Added:** `FFlagAppChatSignalsReplyStore_IXP`
+- **Added:** `FFlagAppChatUniversalFeatureRestriction_IXP`
+- **Added:** `FFlagAppChatUseActivationOnFocus`
+- **Added:** `FFlagAppChatUseBindingConversationFacePile_IXP`
+- **Added:** `FFlagAppChatUseBindingViewRecyclerConversationRow_IXP`
+- **Added:** `FFlagAppChatUseFoundationConversationRow_IXP`
+- **Added:** `FFlagAppChatUseFoundationCustomConversationListRow_IXP`
+- **Added:** `FFlagAppChatUseViewRecyclerConversationList_IXP`
+- **Added:** `FFlagAppClassicThemeGreenButtonColors_IXP`
+- **Added:** `FFlagAppPageShellScrollToTopFocus`
+- **Added:** `FFlagAppThemeClassicResetAppIcon2`
+- **Added:** `FFlagAppThemeClassicSunsetDialog2`
+- **Added:** `FFlagAssetContentMapSerializationEnabled3`
+- **Added:** `FFlagAssetEjectionModuleEnabled`
+- **Added:** `FFlagAssetExportFixFacsSamplerEstimate`
+- **Added:** `FFlagAssistantConfirmButtonUpdate`
+- **Added:** `FFlagAssistantStandaloneDataModel`
+- **Added:** `FFlagAudioEqualizerZIndexFix`
+- **Added:** `FFlagAvatarAnimationRulesRestoreOnUnset`
+- **Added:** `FFlagAvatarAutosetupDecalToDynamicHeadOption`
+- **Added:** `FFlagAvatarPreviewerAvatarLooksEnabled1`
+- **Added:** `FFlagAvatarPreviewerFixShallowEqual`
+- **Added:** `FFlagAvatarPreviewerLookComposerRelease`
+- **Added:** `FFlagAvatarPreviewerMakeupSharedLimit`
+- **Added:** `FFlagAvatarSettingsClientInitializeScriptType_PlaceFilter`
+- **Added:** `FFlagAvatarSettingsClientInitializeScriptType_UniverseFilter`
+- **Added:** `FFlagAvatarSettingsCrouchSprintStrafe3_PlaceFilter`
+- **Added:** `FFlagAvatarSettingsCrouchSprintStrafe3_UniverseFilter`
+- **Added:** `FFlagAvatarSettingsTurning_PlaceFilter`
+- **Added:** `FFlagAvatarSettingsTurning_UniverseFilter`
+- **Added:** `FFlagAvoidShowingMobileUpsellDialogOnDesktopHackyLuaFix_IXP`
+- **Added:** `FFlagBallBallMidPointContact`
+- **Added:** `FFlagBootcampCLI225165`
+- **Added:** `FFlagBootcampCLI226375`
+- **Added:** `FFlagBuildAnalyticsCreatorHubWindowFix`
+- **Added:** `FFlagBuildExperienceForceRefreshVersionHistory`
+- **Added:** `FFlagBuildExperienceSessionization1`
+- **Added:** `FFlagBuildPublishNavigationSheet`
+- **Added:** `FFlagBuildShareDisabledOnPrivate`
+- **Added:** `FFlagCanReplicatePBRDecalPropertiesServer`
+- **Added:** `FFlagCaptureServiceOnScreenshotReadyDontThrowError`
+- **Added:** `FFlagCclClientInitializeFrom2026Jun03AbilityManagerRepo3_PlaceFilter`
+- **Added:** `FFlagCclClientInitializeFrom2026Jun03AbilityManagerRepo3_UniverseFilter`
+- **Added:** `FFlagChatInputBarGuardInvalidUtf8`
+- **Added:** `FFlagCinOmitAliasCreationForAssetManagerBeta2`
+- **Added:** `FFlagCleanupDataModelPostModularity`
+- **Added:** `FFlagCoreMicManagerRefactor`
+- **Added:** `FFlagCoreUiMigrateUIBloxToFoundation3`
+- **Added:** `FFlagCrashMetricRelaxAfterSuccessStreak_IXP`
+- **Added:** `FFlagCrashMetricStorageAddPostProcessing2_IXP`
+- **Added:** `FFlagCurrencyTransferVPCUseAmpWizardContainerForInApp`
+- **Added:** `FFlagCustomTitleBarM1Enabled9_IXP`
+- **Added:** `FFlagCustomTitleBarM1WebviewThreadSafety_IXP`
+- **Added:** `FFlagCustomTitleBarM1WindowsWebviewDialogFix_IXP`
+- **Added:** `FFlagCustomTitleBarM1WindowsWebviewResizeFix1_IXP`
+- **Added:** `FFlagCustomTitleBarTelemetryEnabled_IXP`
+- **Added:** `FFlagDMCTMigrateDataModelPlaceVersion`
+- **Added:** `FFlagDMCTMigratePartOperation`
+- **Added:** `FFlagDMCTMigrateSeat`
+- **Added:** `FFlagDMRecorderStopOnHighPing`
+- **Added:** `FFlagDecalSortZIndexAndMaterialAndIB`
+- **Added:** `FFlagDeprecatePeopleListContextualMenu`
+- **Added:** `FFlagDeterministicCaptureFullResolution`
+- **Added:** `FFlagDeviceLevelThemeRespectForceTheme`
+- **Added:** `FFlagDeviceSimulatorNetworkSettingsLocalization`
+- **Added:** `FFlagDisableCopyUsernameOnConsole`
+- **Added:** `FFlagDisableGoogleAnalyticsErrorReporting`
+- **Added:** `FFlagDoNotCacheCaptionButtonBounds_IXP`
+- **Added:** `FFlagEnableAllSharedPinShortcutFlagsNeededForWindowsIXP_IXP`
+- **Added:** `FFlagEnableCCLAbilityUsageTelemetry`
+- **Added:** `FFlagEnableCCLCustomAbilityPointsSampling`
+- **Added:** `FFlagEnableCCLLibraryLoadTelemetry`
+- **Added:** `FFlagEnableConnectionsDeepLinkSkipFilterCheck`
+- **Added:** `FFlagEnableDLICIngressSeedingExpansionIOS`
+- **Added:** `FFlagEnableDiscountOnInShopTile`
+- **Added:** `FFlagEnableFriendsLandingFilterChipsOnConsole`
+- **Added:** `FFlagEnableGameDetailsDeepLinkFullView`
+- **Added:** `FFlagEnableGameStreamingOrientationChangeAndroid`
+- **Added:** `FFlagEnableGraphicsVulkanPVRDriverVersionPattern`
+- **Added:** `FFlagEnableInExperienceOfferExpiryBadge`
+- **Added:** `FFlagEnableLargerLaunchAfterPurchasePlayIcon`
+- **Added:** `FFlagEnableMaterialSlotTable`
+- **Added:** `FFlagEnableMomentsCommentReporting`
+- **Added:** `FFlagEnableNativeAdsProtocol2`
+- **Added:** `FFlagEnablePLTPrefetchCallbacks`
+- **Added:** `FFlagEnablePlaytestModeUnibar2`
+- **Added:** `FFlagEnableRegisterImpressionSource3`
+- **Added:** `FFlagEnableRobuxTransferLimitSettings`
+- **Added:** `FFlagEnableRunServiceIsTeamTest`
+- **Added:** `FFlagEnableSearchGameItemOwnershipUpdate`
+- **Added:** `FFlagEnableSecuritySettingsDeeplink`
+- **Added:** `FFlagEnableSharedFlyoutRobuxPill`
+- **Added:** `FFlagEnableSocialTabsPage_IXP`
+- **Added:** `FFlagEnableSubscriptionsSettingsDeeplink`
+- **Added:** `FFlagEnableTM2DenyList2`
+- **Added:** `FFlagEnableVideoGameStreamingOrientationChangeIOS`
+- **Added:** `FFlagExpChatDictationGrafanaMetrics`
+- **Added:** `FFlagFCFixSkinnedBatchInstanceOverflow`
+- **Added:** `FFlagFbxSdkThreadSafe`
+- **Added:** `FFlagFixBulkPurchaseStarterGuiRename`
+- **Added:** `FFlagFixCLI226198`
+- **Added:** `FFlagFixChatFromProfileConsoles`
+- **Added:** `FFlagFixCommunityProfileWideCoverLayout`
+- **Added:** `FFlagFixR6FaceReplacedByMakeupDecal`
+- **Added:** `FFlagFixStreamingFocusAutoComputedPrimaryPart`
+- **Added:** `FFlagFixTexturePackKeySerialization2`
+- **Added:** `FFlagFixThumbnailLoadingErrorPropagation`
+- **Added:** `FFlagFixUserSearchAddFriendFocusAction`
+- **Added:** `FFlagFixVolumetricAudioStuck3DLevel`
+- **Added:** `FFlagFoundationDateTimePickerBetaUpdate`
+- **Added:** `FFlagFoundationDialogBetaUpdate`
+- **Added:** `FFlagFoundationOptionSelectorGroupBeta`
+- **Added:** `FFlagFoundationOptionSelectorGroupFixes`
+- **Added:** `FFlagFoundationPopoverClampMinBound`
+- **Added:** `FFlagFoundationProgressCircleRoundCaps`
+- **Added:** `FFlagFoundationSkeletonCommonShimmerToken`
+- **Added:** `FFlagFoundationSliderKnobSelection`
+- **Added:** `FFlagFoundationSliderOffloadDraggingMath2`
+- **Added:** `FFlagFoundationStableContextValues`
+- **Added:** `FFlagFoundationStyleRulePseudoName`
+- **Added:** `FFlagFriendsChatEnforceInputCharacterLimit2`
+- **Added:** `FFlagGameInviteSpaceSends`
+- **Added:** `FFlagGameJoinCardSourceAttribution`
+- **Added:** `FFlagGateContactAutoSyncByPolicy`
+- **Added:** `FFlagGfxBufferUnlockRefactor`
+- **Added:** `FFlagGraphicsGLClipControl`
+- **Added:** `FFlagGraphicsReportPipelineObjectCount`
+- **Added:** `FFlagGridNewEnableVJM`
+- **Added:** `FFlagHiddenFriendsSortHeaderAddSubTabDependency`
+- **Added:** `FFlagHideBonusInShopWhenNotClaimable`
+- **Added:** `FFlagHideCoreGuiFixes`
+- **Added:** `FFlagHideHSRContentInStudio`
+- **Added:** `FFlagHttpWrapperOAuthOptOut`
+- **Added:** `FFlagHumanoidDefaultReplaceUnsafeBlockingLoadInstance`
+- **Added:** `FFlagIAMImprovedModifierMenu`
+- **Added:** `FFlagIAMLiveDebugging2`
+- **Added:** `FFlagIAMTouchButtonImprovements`
+- **Added:** `FFlagIAMUIModifier`
+- **Added:** `FFlagIAMUndoRedo`
+- **Added:** `FFlagISRLockAttributeSchemaCleanup`
+- **Added:** `FFlagImGuiClipRectsFromRenderTarget`
+- **Added:** `FFlagImporterSkipReimportConfigMergeMeshes`
+- **Added:** `FFlagInsertServiceReplaceUnsafeBlockingLoadInstance`
+- **Added:** `FFlagKidsNotApprovedPageTreatment2_IXP`
+- **Added:** `FFlagLcDeformerPropertySetTelemetry2`
+- **Added:** `FFlagLookComposerUseCreatorHomeApiGroups`
+- **Added:** `FFlagLuaAppCompositionSearch`
+- **Added:** `FFlagLuaAppEnableLumberyakLogBound`
+- **Added:** `FFlagLuaAppEnableObservedErrorSignalCounter`
+- **Added:** `FFlagLuaAppEnableReportExperience`
+- **Added:** `FFlagLuaAppEnableSduiHomePage3_IXP`
+- **Added:** `FFlagLuaAppGameTileDirectActionTelemetry2`
+- **Added:** `FFlagLuaAppGameTileNotInterestedDirectAction`
+- **Added:** `FFlagLuaAppRoRumSentryBreadcrumbs`
+- **Added:** `FFlagLuaAppSduiGameTileMetadataFontStyle`
+- **Added:** `FFlagLuaAppSduiHomePageSupport3`
+- **Added:** `FFlagLuaAppSduiHomePageSupport3_IXP`
+- **Added:** `FFlagLuaAppSduiPassSortSubId`
+- **Added:** `FFlagLuaAppSduiSortDetailTenFootGapFix`
+- **Added:** `FFlagLuaAppSentryStampOccurrenceTime`
+- **Added:** `FFlagLuaAppSponsoredGamePreviewVideo`
+- **Added:** `FFlagLuaAppVideoAutoplayOneByTwoTileCandidatePercentageUpdate`
+- **Added:** `FFlagLuaAppVideoAutoplayOneByTwoTileDoubleAnchor`
+- **Added:** `FFlagLuaAppVideoAutoplayOneByTwoTileDoubleAnchor2`
+- **Added:** `FFlagLuaAppVideoServerScreenNotModal`
+- **Added:** `FFlagLuaAppWireAudioDeviceInputOnRequest`
+- **Added:** `FFlagLuaSupportMicroGamepadPreferredInput`
+- **Added:** `FFlagLuauBetterInferredGenericNames`
+- **Added:** `FFlagLuauCallErrorReportingRecoversArgumentLocationsForPacks`
+- **Added:** `FFlagLuauCallLuauTm`
+- **Added:** `FFlagLuauCannotAddIndexerToTablePrimitive`
+- **Added:** `FFlagLuauCompileEmitVectorDouble2`
+- **Added:** `FFlagLuauDoNotLeakGenericsInIndexer`
+- **Added:** `FFlagLuauFixCallMetamethodErrorReporting`
+- **Added:** `FFlagLuauForceLess`
+- **Added:** `FFlagLuauFragmentACLocalAutocompleteFix`
+- **Added:** `FFlagLuauFrozenMetaButterfly`
+- **Added:** `FFlagLuauImproveUniqueTableWidthSubtyping`
+- **Added:** `FFlagLuauPromoteProto`
+- **Added:** `FFlagLuauSetmetatableOverrides2`
+- **Added:** `FFlagLuauSingleTypeOptionalPackReturnsAttributeParens`
+- **Added:** `FFlagLuauStartupGcSuppression`
+- **Added:** `FFlagLuauTableArrayShrinkOrder`
+- **Added:** `FFlagLuauThreadGeneralizeThroughConstraintGeneration`
+- **Added:** `FFlagMacWindowProtocolCacheWindowMetrics_IXP`
+- **Added:** `FFlagMaterialVariantAlphaMode`
+- **Added:** `FFlagMicroprofilerCpuCoreFreqCooldownFix`
+- **Added:** `FFlagMigrateComponentManagerToRuntimeInjector8`
+- **Added:** `FFlagMigrateFriendshipStatusesPYMK_v1`
+- **Added:** `FFlagMigrateFriendshipStatusesRemainingActions`
+- **Added:** `FFlagMigrateFriendshipStatusesSocialCarousel`
+- **Added:** `FFlagMigrateFriendshipStatusesUserSearch`
+- **Added:** `FFlagMigrateRewardedToTelemetryBindings`
+- **Added:** `FFlagModuleScriptCompactSourceHash2`
+- **Added:** `FFlagMomentsCoachmarkPersistence`
+- **Added:** `FFlagMomentsCreationAccurateDirtyTracking`
+- **Added:** `FFlagMomentsCreationSkipRecordingCodeFilter`
+- **Added:** `FFlagMomentsCreationToolsIxpEnabled_IXP`
+- **Added:** `FFlagMomentsFixBatchedGetMomentsQueryParams`
+- **Added:** `FFlagMomentsFixExperienceHandleVerifiedSpacing`
+- **Added:** `FFlagMomentsImmersiveNavigationMenu`
+- **Added:** `FFlagMomentsPreloadVideoPlayerInstance_IXP`
+- **Added:** `FFlagMomentsTTSAudioOverlayLua5_IXP`
+- **Added:** `FFlagMomentsTTSCoachmark`
+- **Added:** `FFlagMomentsTTSFeedPlayback3`
+- **Added:** `FFlagMomentsUpdateExperienceActionLabelText_IXP`
+- **Added:** `FFlagMomentsUseSmallOverflowMenu`
+- **Added:** `FFlagMomentsUseUploadPostAsync`
+- **Added:** `FFlagMoreItemClickTelemetryWithoutFlyout`
+- **Added:** `FFlagNapKidsIXPExposure_IXP`
+- **Added:** `FFlagNoContextFieldDependency`
+- **Added:** `FFlagPerformanceControlComputePrimaryTunablesEnabled3`
+- **Added:** `FFlagPerformanceControlDisplayRefreshRateInAdaptiveSync`
+- **Added:** `FFlagPerformanceControlDisplayRefreshRateMigration`
+- **Added:** `FFlagPerformanceControlWrapDeformTunableScope`
+- **Added:** `FFlagPinGmaExperimentVariantAndDebugVariant2`
+- **Added:** `FFlagPinShortcutDeeplinkToExperienceDetailPage_IXP`
+- **Added:** `FFlagPinShortcutEnableGetDesiredThumbnailFormat1_IXP`
+- **Added:** `FFlagPinShortcutEnableOnCompleteCallback_IXP`
+- **Added:** `FFlagPinShortcutSnackbarTelemetryEnabled_IXP`
+- **Added:** `FFlagPlayStationgetMBSysAvailableRAMuseFreeMem`
+- **Added:** `FFlagPlayerControlStateApplyInputOnClientNonSAuth2_PlaceFilter`
+- **Added:** `FFlagPlayerControlStateApplyInputOnClientNonSAuth2_UniverseFilter`
+- **Added:** `FFlagPlayerControlStateEnabled_PlaceFilter`
+- **Added:** `FFlagPlayerControlStateEnabled_UniverseFilter`
+- **Added:** `FFlagPlaytestModeExcludeStudio`
+- **Added:** `FFlagPlaytestModeIncludeTeamTest`
+- **Added:** `FFlagPlaytestModeTooltipExcludeBuildMode`
+- **Added:** `FFlagPluginQWidgetKeepCenterOnResize`
+- **Added:** `FFlagPluginRenderSelectedObject`
+- **Added:** `FFlagProfileQrCodeDeprecateUserRedux`
+- **Added:** `FFlagPromoteRobuxInTopPicks_IXP`
+- **Added:** `FFlagPromptCreateMakeupLogValidation`
+- **Added:** `FFlagQueryComparisonOperators2`
+- **Added:** `FFlagRbxStorageAddNameToInitStats`
+- **Added:** `FFlagRbxTransportForwardConfig`
+- **Added:** `FFlagRbxTransportHandleUniqueErrors`
+- **Added:** `FFlagRbxTransportMultiTlsCtx`
+- **Added:** `FFlagRbxTransportRuntime`
+- **Added:** `FFlagRealtimeMediaLibWebrtcSendAudio`
+- **Added:** `FFlagRealtimeMediaRequestAudioInput`
+- **Added:** `FFlagRealtimeMediaSendAudio`
+- **Added:** `FFlagRefactorUpdateRemoteCursorPositionSignalServer`
+- **Added:** `FFlagRefetchRobuxWidgetAfterPurchase`
+- **Added:** `FFlagReimportRejectMergeMeshes`
+- **Added:** `FFlagRemoveLegacyChatCodeInNetwork`
+- **Added:** `FFlagRenderTestWaitForSortedTerrainUpdates`
+- **Added:** `FFlagRenderingTestWaitForClouds`
+- **Added:** `FFlagReportHatMeshPartAccessoryFetch`
+- **Added:** `FFlagRestoreLcVertexAveraging`
+- **Added:** `FFlagReturnEarlyFromEngineContextMismatchCheck`
+- **Added:** `FFlagSLC2FixAssetHashChangedRenderBinding`
+- **Added:** `FFlagSTUDIOPLAT_38597_UHMForStudio5`
+- **Added:** `FFlagSTUDIOPLAT_39993_ReplaceANRDetectorWithUHM2`
+- **Added:** `FFlagSchoolDeepLinkUseConnectionsHub`
+- **Added:** `FFlagSchoolMemberListChatEntryPoint`
+- **Added:** `FFlagSduiChipSizeAndVariant`
+- **Added:** `FFlagSduiContentRowStateLayer`
+- **Added:** `FFlagSduiDismissPromptPageScope`
+- **Added:** `FFlagSduiGameTileDirectAction`
+- **Added:** `FFlagSduiNavigate`
+- **Added:** `FFlagSduiNotificationBadgeHydration`
+- **Added:** `FFlagSduiSearchResultsForwardDeviceSignals`
+- **Added:** `FFlagSduiSkipEmptyCatalogCategoryHydration`
+- **Added:** `FFlagSduiSkipFeedAnalyticsPosition`
+- **Added:** `FFlagSduiSocialUpsellButtonClickTelemetry`
+- **Added:** `FFlagShareSheetScrollArrows`
+- **Added:** `FFlagSharedChatEntryPointAction`
+- **Added:** `FFlagShopListenNativePurchaseFinished`
+- **Added:** `FFlagSkipShopWidgetsCallInUnpublishedStudio`
+- **Added:** `FFlagSlimEmissiveMapSupport`
+- **Added:** `FFlagSlimLoadBalancerAggregateBindings2`
+- **Added:** `FFlagSlimLoadBalancerAutoMemoryBudget`
+- **Added:** `FFlagSlimLoadBalancerCommon3`
+- **Added:** `FFlagSlimLoadBalancerCommonCleanupOrphanedAssets`
+- **Added:** `FFlagSlimLoadBalancerStableRetention`
+- **Added:** `FFlagSlimPSetTelemetryRefactor`
+- **Added:** `FFlagSlimPreserveRigidAccessoryOrientation`
+- **Added:** `FFlagSlimRendererFixInstanceBatches`
+- **Added:** `FFlagSlimReturnPropertySetError`
+- **Added:** `FFlagSlimServiceSharedStringConstructInPlace`
+- **Added:** `FFlagSlimStatusTracking`
+- **Added:** `FFlagSlimThrottleHLPivotSmoothingUpdate`
+- **Added:** `FFlagSlimTintUsePartColor`
+- **Added:** `FFlagSocialCarouselRemoveStrokeForAddFriends`
+- **Added:** `FFlagSocialServiceExperienceEventsAdditionalFields`
+- **Added:** `FFlagStateRecorderEnableThrottling2`
+- **Added:** `FFlagStratusEmitRegionTelemetry`
+- **Added:** `FFlagStratusMouseModes`
+- **Added:** `FFlagStratusMouseMovesAndClicks`
+- **Added:** `FFlagStratusMouseScrollInput`
+- **Added:** `FFlagStudioBetterErrorForACCb`
+- **Added:** `FFlagStudioFixLocalPlaceFileArgQuoting`
+- **Added:** `FFlagStudioLocalFileDeserializeAssetContentMap`
+- **Added:** `FFlagStudioReplaceGSTWithIdInWindowManager`
+- **Added:** `FFlagStudioViewportVisualizationContext`
+- **Added:** `FFlagTTranscoderCleanup`
+- **Added:** `FFlagTTranscoderUnifiedKtx2Encode`
+- **Added:** `FFlagTagEditorVersionedUris`
+- **Added:** `FFlagTagEmoteMaxPartTranslation3`
+- **Added:** `FFlagTerrainClearCheckIsAllocated2`
+- **Added:** `FFlagTerrainFixWaterLevelMax`
+- **Added:** `FFlagTerrainRemoveOrphanedVertices`
+- **Added:** `FFlagTextureGeneratorGuardNullMeshUpload`
+- **Added:** `FFlagUFRFriendsChatIXPExposure_IXP`
+- **Added:** `FFlagUGCValidateAllowEmoteAttributes`
+- **Added:** `FFlagUGCValidateAttachmentBoundsErrorMessage`
+- **Added:** `FFlagUGCValidateBackendContentNotEditable`
+- **Added:** `FFlagUGCValidateCurveAnimAttributes`
+- **Added:** `FFlagUGCValidateCurveAnimSingleRoot`
+- **Added:** `FFlagUGCValidateDisallowAeroMeshData`
+- **Added:** `FFlagUGCValidateEmoteAttributes`
+- **Added:** `FFlagUGCValidateInstanceTreesEquivalent2`
+- **Added:** `FFlagUGCValidateMakeupCategoryParity`
+- **Added:** `FFlagUGCValidateNoExtraTagsRequireHsrAssets`
+- **Added:** `FFlagUGCValidateR15FixedAttributes`
+- **Added:** `FFlagUGCValidateSensibleExpandedTypes`
+- **Added:** `FFlagUGCValidateSerializeExcludeCollisionPhysics`
+- **Added:** `FFlagUGCValidateSerializedAssetSizeBounded2`
+- **Added:** `FFlagUGCValidateWrapDataCaps`
+- **Added:** `FFlagUGCValidationAnimationAssetDisableModelStructure`
+- **Added:** `FFlagUpdateSocialCarouselAddFriendsIcon`
+- **Added:** `FFlagUseGenericAccountSwitchSignOutCopy`
+- **Added:** `FFlagUseInstanceRefRepRootPart`
+- **Added:** `FFlagUseRbxTransportClient3_PlaceFilter`
+- **Added:** `FFlagUserAbilitiesUserInterfaceA_PlaceFilter`
+- **Added:** `FFlagUserAbilitiesUserInterfaceA_UniverseFilter`
+- **Added:** `FFlagUserAbilitiesUserInterfaceB_PlaceFilter`
+- **Added:** `FFlagUserAbilitiesUserInterfaceB_UniverseFilter`
+- **Added:** `FFlagUserAgreementsDynamicBodyText`
+- **Added:** `FFlagUserCCLNoSwimAnimationsFix_PlaceFilter`
+- **Added:** `FFlagUserCCLNoSwimAnimationsFix_UniverseFilter`
+- **Added:** `FFlagUserDoubleJumpButtonFix_PlaceFilter`
+- **Added:** `FFlagUserDoubleJumpButtonFix_UniverseFilter`
+- **Added:** `FFlagUserListCanonicalCtaAnalytics`
+- **Added:** `FFlagUserListComposeRenderRowWithCta`
+- **Added:** `FFlagUserListViewCtaAnalytics`
+- **Added:** `FFlagUserPlayerScriptsCCLIntegrationD_PlaceFilter`
+- **Added:** `FFlagUserPlayerScriptsCCLIntegrationD_UniverseFilter`
+- **Added:** `FFlagUserPlayerScriptsPlayerControlState2_PlaceFilter`
+- **Added:** `FFlagUserPlayerScriptsPlayerControlState2_UniverseFilter`
+- **Added:** `FFlagUserPlayerScriptsResetDTTouchOnCreate`
+- **Added:** `FFlagUserTileRemoveContextualInfoTag`
+- **Added:** `FFlagVJMAsyncMeshUpload`
+- **Added:** `FFlagVRAvatarGesturesFixJointLimits`
+- **Added:** `FFlagVRAvatarGesturesUseNilForHandChainRootRebuild`
+- **Added:** `FFlagVideoPlaybackSmoothnessHeartbeatCounter`
+- **Added:** `FFlagVideoPlayerFixLocalPlayback`
+- **Added:** `FFlagVideoPlayerPreloadAsync_IXP`
+- **Added:** `FFlagVideoPreloadSegments_IXP`
+- **Added:** `FFlagVideoStreamFailureState_IXP`
+- **Added:** `FFlagVoiceChatFixStopRecordingTimerLifetime`
+- **Added:** `FFlagVoiceChatVolumePerUserMuteVolumeSync`
+- **Added:** `FFlagVoiceRtcStatsSplitOmitSfuDetails`
+- **Added:** `FFlagVoiceVolumeControlsApplyPerUserMultiplier`
+- **Added:** `FFlagVoiceVolumeControlsPerUserPlayerGridMenu`
+- **Added:** `FFlagVoiceVolumeControlsPerUserPlayerListButton5`
+- **Added:** `FFlagVoxelGridFragmentWritePolicy`
+- **Added:** `FFlagVoxelGridNoCacheOnRead`
+- **Added:** `FFlagWebBrowserFixFileSelect`
+- **Added:** `FFlagWebBrowserMultiPreload`
+- **Added:** `FFlagWindowsCustomTitleBarFixMinimize_IXP`
+- **Added:** `FFlagWindowsDisableSystrayOnHandheld`
+- **Added:** `FFlagWindowsEnablePinShortcut1_IXP`
+- **Added:** `FFlagWorldPrimitiveIndexAccessor`
+- **Added:** `FFlagWrapContentProviderEnabled2`
+- **Added:** `FFlagWrapDeformerApplyFaceVisibilityInContext2`
+- **Added:** `FFlagYieldInStreamingAudioDecoders`
+- **Added:** `FIntAXFavoritePillWriteDebounceMs_IXP`
+- **Added:** `FIntAXFavoritePillWriteMaxRetries_IXP`
+- **Added:** `FIntCodegenHeuristicsInstructionLimit`
+- **Added:** `FIntCustomTitleBarTelemetryThrottleHundredthsPercent_IXP`
+- **Added:** `FIntEnableDataModelChangeTrackingHundredthPercent_PlaceFilter`
+- **Added:** `FIntInExperienceOffersNotificationMaxExposureCount_IXP`
+- **Added:** `FIntLuauGcGoalStartup`
+- **Added:** `FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent`
+- **Added:** `FIntMomentsPreloadDownloadWindowForward_IXP`
+- **Added:** `FIntPerformanceControlCrashMetricAlgorithmType2_IXP`
+- **Added:** `FIntPerformanceControlCrashMetricPostProcessingAlgorithmType2_IXP`
+- **Added:** `FIntPinShortcutSnackbarTelemetryThrottleHundredthsPercent_IXP`
+- **Added:** `FIntPublishStatusDefaultContentHeight`
+- **Added:** `FIntPublishStatusDefaultContentWidth`
+- **Added:** `FIntSlimCFrameTranslationQuantizeAbsolute`
+- **Added:** `FIntSlimCFrameTranslationQuantizeMode`
+- **Added:** `FIntSlimLoadBalancerAutoMemoryBudget1GBInMB`
+- **Added:** `FIntSlimLoadBalancerAutoMemoryBudget2GBInMB`
+- **Added:** `FIntSlimLoadBalancerAutoMemoryBudget3GBInMB`
+- **Added:** `FIntSlimLoadBalancerAutoMemoryBudget4GBInMB`
+- **Added:** `FIntSlimLoadBalancerAutoMemoryBudget8GBInMB`
+- **Added:** `FIntUGCValidateMaxEmissiveAreaLayeredClothing`
+- **Added:** `FIntUGCValidateMaxEmissiveAreaRigidAccessory`
+- **Added:** `FIntUGCValidateMaxEmissivePercentageBody`
+- **Added:** `FIntUGCValidateMaxEmissivePercentageDynamicHead`
+- **Added:** `FIntVoxelGridNoCacheOnReadThreshold`
+- **Added:** `FIntVoxelGridSerializationVersion`
+- **Added:** `FStringAXFetchCartPricingDuringInExperienceLayerName`
+- **Added:** `FStringBlacklistSurfaceAppearanceDitheringV2`
+- **Added:** `FStringGraphicsVulkanHQShadersBlacklistV2`
+- **Added:** `FStringInExperienceOfferExposureStorageKey`
+- **Added:** `FStringMomentsCreationToolsIxpLayer`
+- **Added:** `FStringMomentsExperienceJoinActionTextIxpLayer`
+- **Added:** `FStringPerformanceControlExperimentName_IXP`
+- **Added:** `FStringPowerVRWhitelistHQShadersV2`
+- **Added:** `FStringPowerVRWhitelistMSAAV2`
+- **Added:** `FStringWebBrowserMultiPreloadLegacyPaths`
+- **Added:** `FStringWebBrowserMultiPreloadPaths`
+- **Added:** `SFFlagTerrainUndoUseCompressedChunks`
+- **Added:** `SFFlagUserPlayerScriptsSAuthDirectAPIs2`
+- **Added:** `SFFlagUserPlayerScriptsSupportTVRemoteKeycodes`
+- **Changed:** `DFFlagFriendsApiCallerIdentityParam`
+  - Before: `False`
+  - After: `True`
+- **Changed:** `DFFlagLogJourneyEventEnabled_UniverseFilter`
+  - Before: `True;10683865908;9950442110`
+  - After: `True;10683865908;9950442110;4165164803;204387960;8580361332;5467837225;10062969908;6618224782;3906287814;6421895339;9326923393;6544763344;2152417643;1585046700;10766008731`
+- **Changed:** `DFFlagLuauFixEnumPropertyAssignmentErrorType`
+  - Before: `False`
+  - After: `True`
+- **Changed:** `DFFlagVoicePerExperienceMetrics_PlaceFilter`
+  - Before: `True;18206581791;15550215902;6884319169;83560050182573`
+  - After: `True;18206581791;15550215902;6884319169;83560050182573;142823291;12699642568;128736949265057;7041939546;71647256260480`
+- **Changed:** `DFIntBadgeServiceMaximumBadgeGetCount_PlaceFilter`
+  - Before: `100;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480;17427651911;17332573759;17811009787;18262641901;18320910606;18566529930;18728438729;6707084726;6574756904;82695214392018;92359758414863;102348430542932;92317288901318;124180448122765;105466784794605;98209635344835;77252205177177;91056838556452;117307096056960;73013009471924;111766488806474;79067096912443;128924802640820;123081450742357;130060983231727`
+  - After: `100;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480;17427651911;17332573759;17811009787;18262641901;18320910606;18566529930;18728438729;6707084726;6574756904;74205509034203;82695214392018;92359758414863;102348430542932;92317288901318;124180448122765;105466784794605;98209635344835;77252205177177;91056838556452;117307096056960;73013009471924;111766488806474;79067096912443;128924802640820;123081450742357;130060983231727`
+- **Changed:** `DFIntDataStoreRequestEventThrottleHundredthsPercentage`
+  - Before: `7500`
+  - After: `10000`
+- **Changed:** `DFIntLcDeformerPropertySetEventHundredthsPercentageSentPoint`
+  - Before: `100`
+  - After: `10`
+- **Changed:** `DFIntLcDeformerPropertySetSampleOneInN`
+  - Before: `1001`
+  - After: `2000`
+- **Changed:** `DFIntOperationStatusPollingMaxRetry`
+  - Before: `3600`
+  - After: `720`
+- **Changed:** `DFIntWebrtcMaxResolutionLongSide`
+  - Before: `1920`
+  - After: `3840`
+- **Changed:** `DFIntWebrtcMaxResolutionShortSide`
+  - Before: `1080`
+  - After: `2160`
+- **Changed:** `DFStringFlagRepoGitHashDynamicString`
+  - Before: `1bf2295751fb8a18b9a910b23d3343cd24baf1bc`
+  - After: `7ffa00fa26089d2854fcea96e46204f56b8c617f`
+- **Changed:** `DFStringFlipTimeStampDynamicString`
+  - Before: `2026-09-19T19:38:08.677Z`
+  - After: `2026-10-01T01:32:21.953Z`
+- **Changed:** `DFStringSlimMajorVersion`
+  - Before: `v2.2`
+  - After: `v2.4`
+- **Changed:** `FFlagAXCatalogCategoriesSDUILinks`
+  - Before: `True`
+  - After: `False`
+- **Changed:** `FFlagAppThemeClassicForAll`
+  - Before: `True`
+  - After: `False`
+- **Changed:** `FFlagAppThemeClassicUnlockable`
+  - Before: `True`
+  - After: `False`
+- **Changed:** `FFlagCLI214028_UniverseFilter`
+  - Before: `True;2440500124;383310974;7178032757;1516533665;3936365689;274816972;210851291;5578556129;3508322461;1686885941`
+  - After: `True;2440500124;383310974;7178032757;1516533665;3936365689;274816972;210851291;5578556129;3508322461;1686885941;1727457149;10123059921;2954818192;833209132;2765784373;8659262047;10163906565;1198533421;8221095306;5129563181;5351931175;7084172542;9168386959;7882785167;7023488558;1116949753;10764369335;5352702811;5836869368;4925010421;5526904396;7028875382;6523512604;6298331310;1527252839;3508969520;189374243;2324662457;44636121;7130790664;9624601035;8739739464;290384992;3924708500;9107423630;10...`
+- **Changed:** `FFlagCLI214030EnforceData_UniverseFilter`
+  - Before: `True;10123059921;383310974;7178032757;1516533665;3936365689;274816972;210851291;5578556129;3508322461;1686885941`
+  - After: `True;10123059921;383310974;7178032757;1516533665;3936365689;274816972;210851291;5578556129;3508322461;1686885941;1727457149;2954818192;833209132;2765784373;8659262047;10163906565;1198533421;8221095306;5129563181;5351931175;7084172542;9168386959;7882785167;7023488558;1116949753;10764369335;5352702811;5836869368;4925010421;5526904396;7028875382;6523512604;6298331310;1527252839;3508969520;189374243;2324662457;44636121;7130790664;9624601035;8739739464;290384992;3924708500;9107423630;10292441778;8...`
+- **Changed:** `FFlagCLI214030EnforceSettings_UniverseFilter`
+  - Before: `True;290384992;383310974;7178032757;1516533665;3936365689;274816972;210851291;5578556129;3508322461;1686885941`
+  - After: `True;290384992;383310974;7178032757;1516533665;3936365689;274816972;210851291;5578556129;3508322461;1686885941;1727457149;10123059921;2954818192;833209132;2765784373;8659262047;10163906565;1198533421;8221095306;5129563181;5351931175;7084172542;9168386959;7882785167;7023488558;1116949753;10764369335;5352702811;5836869368;4925010421;5526904396;7028875382;6523512604;6298331310;1527252839;3508969520;189374243;2324662457;44636121;7130790664;9624601035;8739739464;3924708500;9107423630;10292441778;8...`
+- **Changed:** `FFlagContentIdConflictDetection`
+  - Before: `True`
+  - After: `False`
+- **Changed:** `FFlagDebugCodegenOptSize`
+  - Before: `False`
+  - After: `True`
+- **Changed:** `FFlagEnableHomePageSduiPrefetch_IXP`
+  - Before: `1;PlayerApp.HomePage.UX;P13N.Home.SDUIMigration.V1.Desktop;567844422;flagbank`
+  - After: `1;PlayerApp.Homepage.UX.ExplicitSignal;P13N.Home.SDUIMigration.V2.Desktop;1926759024;flagbank`
+- **Changed:** `FFlagFixUIDragDetectorVirtualCursorDragOnSelectedObjects`
+  - Before: `True`
+  - After: `False`
+- **Changed:** `FFlagFmodCoreAudioStartStopCrashFix`
+  - Before: `False`
+  - After: `True`
+- **Changed:** `FFlagGuacMomentsFeatureList`
+  - Before: `False`
+  - After: `True`
+- **Changed:** `FFlagIASSinking_PlaceFilter`
+  - Before: `False;6000468131;99046552174353;107058894021320;115501326827215;118214123142991;16630762868;1333478699;536610775;14211774114;142823291;120663613476096;97419900482751;134784669137038;6447798030;15853290560;9591807130;119405477806317;14940375106;12299133019;114793399982419;128684318683332;463915360;966642236;92846094157750;80299426886587;133701727273517;331811267;79229494478119`
+  - After: `False;99046552174353;107058894021320;115501326827215;118214123142991;16630762868;142823291;120663613476096;97419900482751;134784669137038;6447798030;15853290560;9591807130;119405477806317;14940375106;114793399982419;128684318683332;92846094157750;80299426886587;133701727273517;331811267;79229494478119;463915360;966642236`
+- **Changed:** `FFlagLuaAppEnableRoRumRouteTracker`
+  - Before: `False`
+  - After: `True`
+- **Changed:** `FFlagLuaAppIsClickoutEnabledUniverse_UniverseFilter`
+  - Before: `True;9707042192;9671070925;8491889239;9164570436;9859999587;5824195619;9876947216;10004846655;9605987780;10036955953;10123702430;10241252491;10382950395;10390927281;10390930030;10390933265;10538358999;10538473450;7738776082;8005766508;10643104390;10631479676;10762769249;10765877033;10766493343;10766485671`
+  - After: `True;9707042192;9671070925;8491889239;9164570436;9859999587;5824195619;9876947216;10004846655;9605987780;10036955953;10123702430;10241252491;10382950395;10390927281;10390930030;10390933265;10538358999;10538473450;7738776082;8005766508;10643104390;10631479676;10762769249;10765877033;10766493343;10766485671;4391533696;2564505263`
+- **Changed:** `FFlagLuaAppsEnableMarkButtonSeq`
+  - Before: `True`
+  - After: `False`
+- **Changed:** `FFlagLuaAppsMarkButtonStartWithHat`
+  - Before: `True`
+  - After: `False`
+- **Changed:** `FFlagStreamingSkipLocalOnlyNOUs`
+  - Before: `False`
+  - After: `True`
+- **Changed:** `FFlagUseRbxTransportClient3`
+  - Before: `False`
+  - After: `True`
+- **Changed:** `FFlagUseSubscriptionRequest2`
+  - Before: `False`
+  - After: `True`
+- **Changed:** `FIntLuauTarjanChildLimit`
+  - Before: `10000`
+  - After: `20000`
+- **Changed:** `FIntStreamingMetricsCollectorThrottleHundrethPercentage`
+  - Before: `1`
+  - After: `10`
+- **Changed:** `FStringFlagRepoGitHashFastString`
+  - Before: `1bf2295751fb8a18b9a910b23d3343cd24baf1bc`
+  - After: `7ffa00fa26089d2854fcea96e46204f56b8c617f`
+- **Changed:** `FStringFlipTimeStampFastString`
+  - Before: `2026-09-19T19:38:08.677Z`
+  - After: `2026-10-01T01:32:21.953Z`
+- **Changed:** `FStringIxpNewLayersForRegistration`
+  - Before: `Social.ConnectionsHub,App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,Consoles.App,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass....`
+  - After: `Social.ConnectionsHub,App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,Consoles.App,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass....`
+- **Changed:** `FStringPerformanceControlIncludedTunables`
+  - Before: `Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure, WHAM1707 memory pressure, Physics Compute Tunable`
+  - After: `Texture quality, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure, WHAM1707 memory pressure, Physics Compute Tunable, StreamingCompute`
+- **Changed:** `FStringStudioPlayModeAllowedBuiltins`
+  - Before: `Debugger.rbxm,SelectDragger.rbxm,SimulationStep.rbxm,MoveDragger.rbxm,ScaleDragger.rbxm,RotateDragger.rbxm,Tutorials.rbxm,AttenuationCurveEditor.rbxm,StreamingServiceDispatcherRegistry.rbxm,AudioEqualizerEditor.rbxm,DirectionalCurveEditor.rbxm,ExplorerPlugin.rbxm,PerformanceTools.rbxm,FindReplaceAll.rbxm,ControlsEmulator.rbxm,MultitouchEmulator.rbxm`
+  - After: `Debugger.rbxm,SelectDragger.rbxm,SimulationStep.rbxm,MoveDragger.rbxm,ScaleDragger.rbxm,RotateDragger.rbxm,Tutorials.rbxm,AttenuationCurveEditor.rbxm,StreamingServiceDispatcherRegistry.rbxm,AudioEqualizerEditor.rbxm,DirectionalCurveEditor.rbxm,ExplorerPlugin.rbxm,PerformanceTools.rbxm,FindReplaceAll.rbxm,ControlsEmulator.rbxm,MultitouchEmulator.rbxm,InputActionManager.rbxm`
+- **Removed:** `DFFlagDataStoreEnableDeserializedJsonObjectsInPatch_PlaceFilter`
+- **Removed:** `DFFlagDataStoreEnableRdbAshTraffic_PlaceFilter`
+- **Removed:** `DFFlagDataStoreEnableRdbShadowTraffic_PlaceFilter`
+- **Removed:** `DFFlagDataStoreGetKeyVersionInfoRdbFlag_PlaceFilter`
+- **Removed:** `FFlagAXEnableExpiredUserLookCheckout10_IXP`
+- **Removed:** `FFlagInExperienceShopFtuxTooltip`
+- **Removed:** `FFlagInExperienceShopFtuxTooltip_IXP`
+- **Removed:** `FFlagLuaAppGameTileNotInterestedDirectAction_IXP`
+- **Removed:** `FFlagLuaAppLogChartsAppPageExposure_IXP`
+- **Removed:** `FFlagUpdateSocialCarouselAddFriendsIcon_IXP`
+- **Removed:** `FFlagVoiceChatVolumePerUserDisableInteractionWhenMuted_IXP`
+- **Removed:** `FFlagVoiceChatVolumePerUserMuteVolumeSync_IXP`
+- **Removed:** `FFlagVoiceVolumeControlsApplyPerUserMultiplier_IXP`
+- **Removed:** `FFlagVoiceVolumeControlsEnablePerUserVolumeInteractionTelemetry_IXP`
+- **Removed:** `FFlagVoiceVolumeControlsGlobalVoiceVolumeSliderIxpExposure_IXP`
+- **Removed:** `FFlagVoiceVolumeControlsPerUserPlayerGridMenu_IXP`
+- **Removed:** `FFlagVoiceVolumeControlsPerUserPlayerListButton5_IXP`
+
+## Web
+
+**File changes:** +0 ~45 -1
+
+- **Changed:** [`assets.json`](../../../../current/Web/assets.json)
+- **Changed:** [`js.rbxcdn.com/page-0/AccessManagementUpsellV2.js`](../../../../current/Web/js.rbxcdn.com/page-0/AccessManagementUpsellV2.js)
+- **Changed:** [`js.rbxcdn.com/page-0/Challenge.js`](../../../../current/Web/js.rbxcdn.com/page-0/Challenge.js)
+- **Changed:** [`js.rbxcdn.com/page-0/CookieBannerV3.js`](../../../../current/Web/js.rbxcdn.com/page-0/CookieBannerV3.js)
+- **Changed:** [`js.rbxcdn.com/page-0/CoreUtilities.js`](../../../../current/Web/js.rbxcdn.com/page-0/CoreUtilities.js)
+- **Changed:** [`js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_CommonUI.Features.js`](../../../../current/Web/js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_CommonUI.Features.js)
+- **Changed:** [`js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_CommonUI.Messages.js`](../../../../current/Web/js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_CommonUI.Messages.js)
+- **Changed:** [`js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js`](../../../../current/Web/js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js)
+- **Changed:** [`js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Parents.js`](../../../../current/Web/js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Parents.js)
+- **Changed:** [`js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.ProfileBadges.js`](../../../../current/Web/js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.ProfileBadges.js)
+- **Changed:** [`js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js`](../../../../current/Web/js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js)
+- **Changed:** [`js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Tracking.js`](../../../../current/Web/js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Tracking.js)
+- **Changed:** [`js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Purchasing.RedeemGameCard.js`](../../../../current/Web/js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Purchasing.RedeemGameCard.js)
+- **Changed:** [`js.rbxcdn.com/page-0/Footer.js`](../../../../current/Web/js.rbxcdn.com/page-0/Footer.js)
+- **Changed:** [`js.rbxcdn.com/page-0/ItemDetailsHydrationService.js`](../../../../current/Web/js.rbxcdn.com/page-0/ItemDetailsHydrationService.js)
+- **Changed:** [`js.rbxcdn.com/page-0/Navigation.js`](../../../../current/Web/js.rbxcdn.com/page-0/Navigation.js)
+- **Changed:** [`js.rbxcdn.com/page-0/ReactStyleGuide.js`](../../../../current/Web/js.rbxcdn.com/page-0/ReactStyleGuide.js)
+- **Changed:** [`js.rbxcdn.com/page-0/RealTime.js`](../../../../current/Web/js.rbxcdn.com/page-0/RealTime.js)
+- **Changed:** [`js.rbxcdn.com/page-0/SduiLandingPage.js`](../../../../current/Web/js.rbxcdn.com/page-0/SduiLandingPage.js)
+- **Changed:** [`js.rbxcdn.com/page-0/Sentry.js`](../../../../current/Web/js.rbxcdn.com/page-0/Sentry.js)
+- **Changed:** [`js.rbxcdn.com/page-0/StyleGuide.js`](../../../../current/Web/js.rbxcdn.com/page-0/StyleGuide.js)
+- **Changed:** [`js.rbxcdn.com/page-0/UserAgreementsChecker.js`](../../../../current/Web/js.rbxcdn.com/page-0/UserAgreementsChecker.js)
+- **Changed:** [`js.rbxcdn.com/page-0/headerinit.js`](../../../../current/Web/js.rbxcdn.com/page-0/headerinit.js)
+- **Changed:** [`js.rbxcdn.com/page-1/AccessManagementUpsellV2.js`](../../../../current/Web/js.rbxcdn.com/page-1/AccessManagementUpsellV2.js)
+- **Changed:** [`js.rbxcdn.com/page-1/Challenge.js`](../../../../current/Web/js.rbxcdn.com/page-1/Challenge.js)
+- **Changed:** [`js.rbxcdn.com/page-1/CookieBannerV3.js`](../../../../current/Web/js.rbxcdn.com/page-1/CookieBannerV3.js)
+- **Changed:** [`js.rbxcdn.com/page-1/CoreUtilities.js`](../../../../current/Web/js.rbxcdn.com/page-1/CoreUtilities.js)
+- **Changed:** [`js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Common.GameSorts.js`](../../../../current/Web/js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Common.GameSorts.js)
+- **Changed:** [`js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_CommonUI.Features.js`](../../../../current/Web/js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_CommonUI.Features.js)
+- **Changed:** [`js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_CommonUI.Messages.js`](../../../../current/Web/js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_CommonUI.Messages.js)
+- **Changed:** [`js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js`](../../../../current/Web/js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js)
+- **Changed:** [`js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Parents.js`](../../../../current/Web/js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Parents.js)
+- **Changed:** [`js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.ProfileBadges.js`](../../../../current/Web/js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.ProfileBadges.js)
+- **Changed:** [`js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js`](../../../../current/Web/js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js)
+- **Changed:** [`js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Tracking.js`](../../../../current/Web/js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Tracking.js)
+- **Changed:** [`js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Purchasing.RedeemGameCard.js`](../../../../current/Web/js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Purchasing.RedeemGameCard.js)
+- **Changed:** [`js.rbxcdn.com/page-1/Footer.js`](../../../../current/Web/js.rbxcdn.com/page-1/Footer.js)
+- **Changed:** [`js.rbxcdn.com/page-1/ItemDetailsHydrationService.js`](../../../../current/Web/js.rbxcdn.com/page-1/ItemDetailsHydrationService.js)
+- **Changed:** [`js.rbxcdn.com/page-1/Navigation.js`](../../../../current/Web/js.rbxcdn.com/page-1/Navigation.js)
+- **Changed:** [`js.rbxcdn.com/page-1/ReactStyleGuide.js`](../../../../current/Web/js.rbxcdn.com/page-1/ReactStyleGuide.js)
+- **Changed:** [`js.rbxcdn.com/page-1/RealTime.js`](../../../../current/Web/js.rbxcdn.com/page-1/RealTime.js)
+- **Changed:** [`js.rbxcdn.com/page-1/Sentry.js`](../../../../current/Web/js.rbxcdn.com/page-1/Sentry.js)
+- **Changed:** [`js.rbxcdn.com/page-1/StyleGuide.js`](../../../../current/Web/js.rbxcdn.com/page-1/StyleGuide.js)
+- **Changed:** [`js.rbxcdn.com/page-1/UserAgreementsChecker.js`](../../../../current/Web/js.rbxcdn.com/page-1/UserAgreementsChecker.js)
+- **Changed:** [`js.rbxcdn.com/page-1/headerinit.js`](../../../../current/Web/js.rbxcdn.com/page-1/headerinit.js)
+- **Removed:** `js.rbxcdn.com/page-0/ConfigureWebApps.js`
+
