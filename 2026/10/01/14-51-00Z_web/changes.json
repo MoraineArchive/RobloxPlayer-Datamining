@@ -1,0 +1,38 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "Web": {
+      "current": "d883e927d5a5fb79e6a5a92899fb7150c15e1fd30bb29ddc41d7891c321254bd",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.PlacesList.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.SignUp.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.Captcha.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Landing.js",
+          "js.rbxcdn.com/page-0/PresenceRegistration.js",
+          "js.rbxcdn.com/page-0/ReactLanding.js"
+        ],
+        "unchanged": 220
+      },
+      "previous": "f51d40ec14e5ac508c14041518994ac71bf0015908379e30ac64c57f977b19ae",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
