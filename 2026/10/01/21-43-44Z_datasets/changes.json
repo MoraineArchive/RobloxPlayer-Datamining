@@ -1,0 +1,200 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "61e9c1913535114a79797abf1ae38da0d230ea824817de41e275d1d77bb18500",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "34aebf21c4e1df02f17fbf0560537953cb45f582d086d7dddbd3bfab2aa4006b",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 25
+        }
+      }
+    },
+    "InExperience": {
+      "current": "51591e7d01b791b12ec4ce8a110f529c61e2eee0fa687ef67d3243ba204f2cf7",
+      "files": {
+        "added": [],
+        "changed": [
+          "PatchRoot/CoreScripts/Assets.txt",
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json",
+          "ota-config.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "b62ac79e93c70f75527af0114757e4f4a5a6f28cf5788cff6bae57a84f15a1c7",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "571d60aba2aaf7490deba4bdc853d14668e93c1a173beb4a1c37f99c0c9f294d",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "f74454a9894e31e4c40a0d369d59abb4cdcad4992d00e24c58c243cb0247590e",
+      "semantic": {
+        "added": [
+          "DFFlagRenderFixMeshBatchHiQualCount",
+          "DFIntJoinLimitWin32x64_Staged",
+          "DFIntScreenshotCaptureSavedEventThrottleHundrethsPercent_Staged",
+          "DFStringDebugFileMeshDataValidationPolicy_Staged",
+          "FFlagAXAddLookTypeToAvatarTile",
+          "FFlagAssistantCapsRestrictDataStore2_Staged",
+          "FFlagBootcampCLI225598_Staged",
+          "FFlagCLI209762A_Staged",
+          "FFlagDeviceSimulatorNetworkV12_Staged",
+          "FFlagDeviceSimulatorToolbarWaitForDataModel",
+          "FFlagDontReloadDeviceOnBridgeChanged_Staged",
+          "FFlagEnableDeviceSimulatorClientViewportOnly",
+          "FFlagEnableDeviceSimulatorDeviceVisibility",
+          "FFlagEnableDeviceSimulatorRegistry_Staged",
+          "FFlagEnableExportInstanceToGlbAsync",
+          "FFlagFixUserGuiRenderingAfterVRDisabled_Staged",
+          "FFlagFlyoutSidePanelUseAppPolicy_Staged",
+          "FFlagLuaAppUseGameTransactionsApiForReceipts_Staged",
+          "FFlagMomentsTTSComposerCaretAlignment",
+          "FFlagMomentsTTSStartTimePositioning_IXP",
+          "FFlagSduiDialogHeroMediaProps2_Staged",
+          "FFlagSentrySplitQueuesBySeverity_Staged",
+          "FFlagSetDefaultResolutionScaleForCustomDevice_Staged",
+          "FFlagStudioControlsEmulatorReconnectDeviceSignalOnReopen",
+          "FFlagStudioDeviceEmulatorClampOversizedViewport",
+          "FFlagStudioDeviceEmulatorDefaultScreenDpiFromSystem",
+          "FFlagStudioDeviceSimVRSwitchFixes",
+          "FFlagStudioDeviceSimulatorAndroidTV_Staged",
+          "FFlagStudioDeviceSimulatorRegistryEnabled2_Staged",
+          "FFlagStudioDeviceSimulatorServerSkipDevicePersist_Staged",
+          "FFlagStudioDeviceSwitchResyncInputState2",
+          "FFlagStudsPerTileOptimization_Staged",
+          "FFlagTFClassmatesProfileInsight",
+          "FFlagUserListPresenceStoreMigration_v2_Staged",
+          "FFlagVRSpatialUIGuardNilHeadScale_Staged",
+          "FStringIxpNewLayersForRegistration_Staged"
+        ],
+        "changed": [
+          {
+            "after": "d04ca94e92e3f21dc1d5c5c203c3054fe78faf28",
+            "before": "7b650596ef09abcb3036d002d61282145d351c85",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-01T21:43:02.792Z",
+            "before": "2026-10-01T19:48:23.607Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagAdEndpointConnectivityProbeEnabled"
+          },
+          {
+            "after": "True;9707042192;9671070925;8491889239;9164570436;9859999587;5824195619;9876947216;10004846655;9605987780;10036955953;10123702430;10241252491;10382950395;10390927281;10390930030;10390933265;10538358999;10538473450;7738776082;8005766508;10643104390;10631479676;10762769249;10765877033;10766493343;10766485671;4391533696;2564505263;10767763406",
+            "before": "True;9707042192;9671070925;8491889239;9164570436;9859999587;5824195619;9876947216;10004846655;9605987780;10036955953;10123702430;10241252491;10382950395;10390927281;10390930030;10390933265;10538358999;10538473450;7738776082;8005766508;10643104390;10631479676;10762769249;10765877033;10766493343;10766485671;4391533696;2564505263",
+            "name": "FFlagLuaAppIsClickoutEnabledUniverse_UniverseFilter"
+          },
+          {
+            "after": "1;Moments.CreationTools;Moments.TTS.Phase2;143735543;dev_controlled",
+            "before": "1;Moments.CreationTools;Moments.TTS.Phase1;1208482120;flagbank",
+            "name": "FFlagMomentsCreationToolsIxpEnabled_IXP"
+          },
+          {
+            "after": "1;Moments.CreationTools;Moments.TTS.Phase2;143735543;dev_controlled",
+            "before": "1;Moments.CreationTools;Moments.TTS.Phase1;1208482120;flagbank",
+            "name": "FFlagMomentsTTSAudioOverlayLua5_IXP"
+          },
+          {
+            "after": "d04ca94e92e3f21dc1d5c5c203c3054fe78faf28",
+            "before": "7b650596ef09abcb3036d002d61282145d351c85",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-01T21:43:02.792Z",
+            "before": "2026-10-01T19:48:23.607Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "Texture quality, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure, WHAM1707 memory pressure, Physics Compute Tunable, StreamingCompute",
+            "before": "Texture quality, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure, WHAM1707 memory pressure, Physics Compute Tunable, StreamingCompute",
+            "name": "FStringPerformanceControlIncludedTunables"
+          }
+        ],
+        "removed": [
+          "DFFlagRenderFixMeshBatchHiQualCount_Staged",
+          "FFlagAXAddLookTypeToAvatarTile_Staged",
+          "FFlagAdEndpointConnectivityProbeEnabled_Staged",
+          "FFlagDeviceSimulatorToolbarWaitForDataModel_Staged",
+          "FFlagEnableDeviceSimulatorClientViewportOnly_Staged",
+          "FFlagEnableDeviceSimulatorDeviceVisibility_Staged",
+          "FFlagEnableExportInstanceToGlbAsync_Staged",
+          "FFlagMomentsTTSComposerCaretAlignment_Staged",
+          "FFlagStudioControlsEmulatorReconnectDeviceSignalOnReopen_Staged",
+          "FFlagStudioDeviceEmulatorClampOversizedViewport_Staged",
+          "FFlagStudioDeviceEmulatorDefaultScreenDpiFromSystem_Staged",
+          "FFlagStudioDeviceSimVRSwitchFixes_Staged",
+          "FFlagStudioDeviceSwitchResyncInputState2_Staged",
+          "FFlagTFClassmatesProfileInsight_Staged",
+          "FStringPerformanceControlIncludedTunables_Staged"
+        ],
+        "unchanged": 23252
+      }
+    },
+    "UniversalApp": {
+      "current": "ebbd5f681e3b34b0a6b8c2832820c23394cca15f09d238e463a6a8f4687a4377",
+      "files": {
+        "added": [],
+        "changed": [
+          "PatchRoot/CoreScripts/Assets.txt",
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json",
+          "ota-config.json"
+        ],
+        "removed": [],
+        "unchanged": 5
+      },
+      "previous": "06d2a5db01a6376229df619998a64e64e9849dde5af6e39e6af6a2160ec18014",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}

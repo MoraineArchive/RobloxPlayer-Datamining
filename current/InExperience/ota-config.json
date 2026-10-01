@@ -1,7 +1,7 @@
 {
   "appStorageResetId": "0",
   "assetId": "80471914653504",
-  "assetVersion": "13938",
+  "assetVersion": "14492",
   "assetsManifest": {
     "100119004605329": "content/textures/ui/LuaChat/graphic/gr-indicator-ingame-14x14@3x.png",
     "100348805600292": "content/textures/ui/LuaChat/icons/ic-close-gray2@3x.png",
@@ -46,6 +46,7 @@
     "106130388589509": "content/textures/ui/LuaChat/icons/ic-createchat1-24x24@2x.png",
     "106137999559200": "content/textures/ui/LuaChat/icons/ic-checkbox-on copy@3x.png",
     "106312295323681": "content/textures/ui/LuaChat/graphic/gr-game-border-24x24@2x.png",
+    "106552654909360": "content/LuaPackages/Packages/_Index/BuilderIcons/BuilderIcons/Font/BuilderIcons-Regular.ttf",
     "106612899471758": "content/textures/ui/LuaApp/icons/ic-more-about.png",
     "106934320029656": "content/textures/ui/LuaChat/icons/ic-viewdetails-20x20@3x.png",
     "107054990926375": "content/textures/ui/LuaApp/icons/ic-more-help.png",
@@ -97,7 +98,6 @@
     "113746627486689": "content/textures/ui/LuaChat/graphic/gr-indicator-online-6x6.png",
     "113773759783673": "content/textures/ui/ImageSet/LuaApp/img_set_2x_3.png",
     "113986545202394": "content/textures/ui/LuaChat/icons/ic-close-white.png",
-    "114048164010179": "content/LuaPackages/Packages/_Index/BuilderIcons/BuilderIcons/Font/BuilderIcons-Regular.ttf",
     "114250546815181": "content/textures/ui/LuaApp/icons/ic-more-events.png",
     "114571874892034": "content/textures/ui/LuaApp/icons/ic-add@2x.png",
     "114635642797213": "content/textures/ui/LuaChat/icons/ic-game-pressed-24x24@3x.png",
@@ -203,7 +203,6 @@
     "128804043437851": "content/textures/ui/LuaChat/icons/ic-alert.png",
     "128831975840070": "content/textures/ui/LuaChat/graphic/ic-checkbox@2x.png",
     "128924634597458": "content/textures/ui/LuaApp/graphic/gr-avatar mask-90x90@3x.png",
-    "129031103963676": "content/LuaPackages/Packages/_Index/BuilderIcons/BuilderIcons/Font/BuilderIcons-Filled.ttf",
     "129073792177925": "content/textures/ui/LuaChat/icons/ic-chat-large@3x.png",
     "129074976595802": "content/textures/ui/LuaApp/icons/ic-view-details20x20@3x.png",
     "129214111481759": "content/textures/ui/LuaChat/icons/ic-pin@3x.png",
@@ -386,6 +385,7 @@
     "82055987325919": "content/textures/ui/LuaApp/graphic/Auth/wechatlogo.png",
     "82578883316167": "content/textures/ui/LuaChat/icons/ic-remove.png",
     "82597153959026": "content/textures/ui/LuaChat/graphic/gr-indicator-online-12x12@3x.png",
+    "82602470709809": "content/LuaPackages/Packages/_Index/BuilderIcons/BuilderIcons/Font/BuilderIcons-Filled.ttf",
     "82976611076525": "content/textures/ui/LuaApp/icons/GameDetails/contentRating/igrs-18.png",
     "83074343404009": "content/textures/ui/LuaChat/graphic/gr-indicator-instudio-8x8@3x.png",
     "83123173712181": "content/textures/ui/LuaChat/icons/navigation_pushBack@3x.png",
@@ -527,9 +527,9 @@
   "isForcedUpdate": false,
   "isStandalone": null,
   "localAssetURI": "rbxasset://models/InExperience/InExperience.rbxm",
-  "maxAppVersion": "740",
+  "maxAppVersion": "742",
   "name": "InExperience",
   "tryoutName": null,
-  "version": "13938",
-  "versionV2": 21107
+  "version": "14492",
+  "versionV2": 22833
 }

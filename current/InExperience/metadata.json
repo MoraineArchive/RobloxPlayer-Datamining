@@ -2,31 +2,31 @@
   "observationMode": "live",
   "provenance": [
     {
-      "bytes": 42712,
+      "bytes": 42711,
       "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
-      "sha256": "6da724fbe032c99e0fb89e2beb02d5fe5c055908d9c12e9044e6ddfee42b7ceb",
+      "sha256": "532aeb9c3709d88b2fc5e1afa170ab50abefa6b844f8300537ace25d0e284fe8",
       "sourceType": "official",
-      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.739.0.7390687&tag=Release&name=app-patch-in-experience"
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.741.0.7411058&tag=Release&name=app-patch-in-experience"
     },
     {
-      "bytes": 13090192,
+      "bytes": 13634328,
       "derivedFrom": "InExperience.rbxm",
-      "sha256": "120453d91c443dbc5ccbee7a45c67c4c3f0ac234c11a0200e8f7a50f1b9d6e7c",
+      "sha256": "cf6f9ea4db3f2578e1acc608d8490820bdcfcd2ae8a33c288849d4248b71f85a",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=14001"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=14686"
     }
   ],
   "reason": "The live model stores compiled Source fields (type 0x1d); original Luau text is not publicly present in this artifact. No reconstructed source is presented as original.",
   "status": "partial",
   "summary": {
     "assetId": "80471914653504",
-    "assetVersion": "14001",
-    "configuredAssetVersion": "13938",
+    "assetVersion": "14686",
+    "configuredAssetVersion": "14492",
     "engineRevision": 1,
-    "instances": 32566,
+    "instances": 33608,
     "localizationFiles": 2,
     "sources": 0,
-    "unreadableScripts": 30012
+    "unreadableScripts": 31003
   },
   "target": "WindowsPlayer"
 }
