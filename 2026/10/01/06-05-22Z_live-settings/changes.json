@@ -1,0 +1,52 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "22a1a1949524c82247fa84449f1c089d61acd130da22598cb3c3eede810951aa",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "ca12e708ea27a32f9ac6f31b4ea0b582eeb4dd84e681f9995d92d91307a38fe9",
+      "semantic": {
+        "added": [],
+        "changed": [
+          {
+            "after": "9d2e18e49bd508e10d991c46fd59dd179d28fdef",
+            "before": "7ffa00fa26089d2854fcea96e46204f56b8c617f",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-01T05:39:26.940Z",
+            "before": "2026-10-01T01:32:21.953Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "9d2e18e49bd508e10d991c46fd59dd179d28fdef",
+            "before": "7ffa00fa26089d2854fcea96e46204f56b8c617f",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-01T05:39:26.940Z",
+            "before": "2026-10-01T01:32:21.953Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 23236
+      }
+    }
+  },
+  "schemaVersion": 1
+}
