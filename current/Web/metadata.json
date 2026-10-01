@@ -1274,12 +1274,6 @@
       "sourceUrl": "https://js.rbxcdn.com/f237746d0aea12de9860040043f8d9bee7dab0baf4a87bb6fc87de6d160c4000.js"
     },
     {
-      "bytes": 3281,
-      "sha256": "f626f9346627fe25c375186eec489d610358ff7dce1a059678cb20926b5edaf4",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/f237746d0aea12de9860040043f8d9bee7dab0baf4a87bb6fc87de6d160c4000.js"
-    },
-    {
       "bytes": 24423,
       "sha256": "dc7162351df3dbaa8c2068e0f1f9b2aa2c57c15820925a3008268fcbcca848f7",
       "sourceType": "official",
@@ -1343,12 +1337,12 @@
       "bytes": 11309,
       "sha256": "a5c8a04f376146e4db42b372cd6f0b2fffbf06d01cd6599573681c76cc217a40",
       "sourceType": "official",
-      "sourceUrl": "https://www.roblox.com/js/utilities/bundleVerifier.js?v=91dceb4978eda412b09842312dd6cbaa"
+      "sourceUrl": "https://www.roblox.com/js/utilities/bundleVerifier.js?v=d8be7ec8aee81a9acf17014aae64dd2e"
     }
   ],
   "status": "available",
   "summary": {
-    "assets": 224,
+    "assets": 223,
     "engineRevision": 1,
     "errors": 0,
     "pages": [

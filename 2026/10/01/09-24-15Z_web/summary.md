@@ -4,11 +4,8 @@
 
 **Observed:** 01/10/2026, 11:24:15 CEST (09:24:15 UTC)
 
-**Event:** [`2026/10/01/09-24-15Z_web/`](2026/10/01/09-24-15Z_web/)
-
-**Build:** [`0.741.0.7411058`](current/Build/version.json)
-
-**GUID:** [`version-02c37bc51a384b8f`](current/Provenance/Build.json)
+**Version:** `0.741.0.7411058`
+**GUID:** `version-02c37bc51a384b8f`
 
 ## Summary
 
@@ -18,8 +15,10 @@ Web files          +0 ~1 -1
 
 File counts describe canonical files. Nested semantic rows describe values or API/source records inside those files.
 
-## Findings
+## Notable Changes
 
-No correlated findings for this event.
+- [`assets.json`](../../../../current/Web/assets.json)
 
-See the [summary](2026/10/01/09-24-15Z_web/summary.md), [diff](2026/10/01/09-24-15Z_web/diff.md), [findings](2026/10/01/09-24-15Z_web/findings.md), and [changes.json](2026/10/01/09-24-15Z_web/changes.json).
+## Provenance
+
+Event provenance is available in [`provenance.json`](provenance.json).
