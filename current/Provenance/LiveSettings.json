@@ -1,27 +1,27 @@
 {
   "hashes": {
-    "current.json": "64261d04685b2569709b3d2dea26c5aa9a825c3eb73cb76bb12cb03010943961",
-    "metadata.json": "932dc7317c09575f0df7e959c1d8efa08717285877ca470c86aaef626a67dd76"
+    "current.json": "b2186b891456b3cd42d643b5bb9534a9d03b6fcf8a79f9af0684253d690e129a",
+    "metadata.json": "146a3b9b62155c3f509b92cdf84df55120bfcce817bc1ca9d4f15ab93f2b2809"
   },
-  "id": "5e2efe69a8dc0237b3b5a456479c5e78d028445888ff4a706c52df366da4fda0",
+  "id": "48102bd5e666eeb9771db1d431ae0fc1afbad642c93f177df09b690175d351e6",
   "observationMode": "live",
-  "observedAt": "2026-10-01T16:41:10.551Z",
+  "observedAt": "2026-10-01T19:36:36.240Z",
   "provenance": [
     {
-      "bytes": 1344512,
+      "bytes": 1346795,
       "reference": "https://raw.githubusercontent.com/MaximumADHD/Roblox-FFlag-Tracker/main/README.md",
-      "sha256": "641e0983e534b159f7599cb75dafe770d3893b6cba54708b5d58332195052e43",
+      "sha256": "354ed284c9b3c1b44401f39f3bf291a28a186c1abc40fa5080149962ea852136",
       "sourceType": "official",
       "sourceUrl": "https://clientsettings.roblox.com/v2/settings/application/PCDesktopClient"
     }
   ],
-  "sequence": 132,
+  "sequence": 133,
   "status": "available",
   "summary": {
     "application": "PCDesktopClient",
     "engineRevision": 1,
     "note": "Current public remotely served values, observed independently of executable version.",
-    "settings": 23247
+    "settings": 23272
   },
   "surface": "LiveSettings",
   "target": "WindowsPlayer"

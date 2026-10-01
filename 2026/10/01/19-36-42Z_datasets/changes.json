@@ -1,0 +1,149 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "48102bd5e666eeb9771db1d431ae0fc1afbad642c93f177df09b690175d351e6",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "5e2efe69a8dc0237b3b5a456479c5e78d028445888ff4a706c52df366da4fda0",
+      "semantic": {
+        "added": [
+          "DFFlagAnimGraphOneShotNode",
+          "DFFlagAnimGraphTriggerParameters",
+          "DFFlagBuildRigSkipAccessoryParts",
+          "DFFlagExtractStructuredStackTraces",
+          "DFFlagRenderFixMeshBatchHiQualCount_Staged",
+          "DFFlagTextChatChannelDisplayMode_PlaceFilter",
+          "DFFlagUIGradientFixFirstLastStop",
+          "DFFlagUserInitiatedCurrentTimeAdjustment",
+          "DFIntRbxStorageSQLiteL2MissCap",
+          "FFlagAXAddLookTypeToAvatarTile_Staged",
+          "FFlagAXFetchCartPricingDuringInExperienceExposure_IXP",
+          "FFlagAXLimitWidgetLoadedItemCount",
+          "FFlagAdEndpointConnectivityProbeEnabled_Staged",
+          "FFlagBasePartSpatialReads",
+          "FFlagDeviceSimulatorToolbarWaitForDataModel_Staged",
+          "FFlagDisableInExpMarketplaceOffersTemp_IXP",
+          "FFlagEnableDeviceSimulatorClientViewportOnly_Staged",
+          "FFlagEnableDeviceSimulatorDeviceVisibility_Staged",
+          "FFlagEnableExportInstanceToGlbAsync_Staged",
+          "FFlagEnableFetchCartPricingDuringInExperience_IXP",
+          "FFlagMomentsCreationBackCta",
+          "FFlagMomentsTTSComposerCaretAlignment_Staged",
+          "FFlagProfileInsightsParseClassmates",
+          "FFlagSchoolMemberListMutualFriends",
+          "FFlagSlimCanonicalSkeleton2",
+          "FFlagStudioControlsEmulatorReconnectDeviceSignalOnReopen_Staged",
+          "FFlagStudioDeviceEmulatorClampOversizedViewport_Staged",
+          "FFlagStudioDeviceEmulatorDefaultScreenDpiFromSystem_Staged",
+          "FFlagStudioDeviceSimVRSwitchFixes_Staged",
+          "FFlagStudioDeviceSwitchResyncInputState2_Staged",
+          "FFlagTFClassmatesProfileInsight_Staged",
+          "FStringPerformanceControlIncludedTunables_Staged"
+        ],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagSlimRollout"
+          },
+          {
+            "after": "0",
+            "before": "10000",
+            "name": "DFIntAdEndpointConnectivityProbeEventThrottleHundredthsPercent"
+          },
+          {
+            "after": "100",
+            "before": "1",
+            "name": "DFIntResendAliveForAllCapThrottle"
+          },
+          {
+            "after": "9d4d037bb60eea9706003dd324ea5108027d6fc0",
+            "before": "b4b0eae8cd800fa2d516131c85cf13c26b542c72",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-01T19:35:01.477Z",
+            "before": "2026-10-01T16:40:38.241Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False;142823291;6447798030;15853290560;14940375106;463915360;966642236",
+            "before": "False;99046552174353;107058894021320;115501326827215;118214123142991;16630762868;142823291;120663613476096;97419900482751;134784669137038;6447798030;15853290560;9591807130;119405477806317;14940375106;114793399982419;128684318683332;92846094157750;80299426886587;133701727273517;331811267;79229494478119;463915360;966642236",
+            "name": "FFlagIASSinking_PlaceFilter"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagUseRbxTransportClient3"
+          },
+          {
+            "after": "20",
+            "before": "200",
+            "name": "FIntUGCValidateMaxEmissiveAreaLayeredClothing"
+          },
+          {
+            "after": "9d4d037bb60eea9706003dd324ea5108027d6fc0",
+            "before": "b4b0eae8cd800fa2d516131c85cf13c26b542c72",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-01T19:35:01.477Z",
+            "before": "2026-10-01T16:40:38.241Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagBuildRigSkipAccessoryParts_Staged",
+          "DFIntRbxStorageSQLiteL2MissCap_Staged",
+          "DFIntResendAliveForAllCapThrottle_Staged",
+          "FFlagProfileInsightsParseClassmates_Staged",
+          "FFlagSchoolMemberListMutualFriends_Staged",
+          "FFlagSlimCanonicalSkeleton2_Staged",
+          "FFlagUseRbxTransportClient3_Staged"
+        ],
+        "unchanged": 23230
+      }
+    },
+    "Web": {
+      "current": "f15373787f7861fd1415dde6bec094674278261684752352574b3f703f0b3d70",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/Challenge.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.Login.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js",
+          "js.rbxcdn.com/page-1/Challenge.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Authentication.Login.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js",
+          "metadata.json",
+          "www.roblox.com/page-0/script-000.js",
+          "www.roblox.com/page-1/script-000.js"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/ConfigureWebApps.js",
+          "js.rbxcdn.com/page-1/ConfigureWebApps.js"
+        ],
+        "unchanged": 213
+      },
+      "previous": "d883e927d5a5fb79e6a5a92899fb7150c15e1fd30bb29ddc41d7891c321254bd",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
