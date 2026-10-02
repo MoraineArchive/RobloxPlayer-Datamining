@@ -1,0 +1,285 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "aa2b7d74f47acabd37d4c99e52c4664c6bab27d0606605f5f8af601b0a972ffc",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "f49355f2027332ce8f070b91bf0506601346a1d3f4f337392df5a527209d4334",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 25
+        }
+      }
+    },
+    "InExperience": {
+      "current": "2e604323c8ca1ca5514bff62a6ac6467e0440d523d500a90fbfb258842f70957",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "fb111c89790d0abc2730d2b163417b3fa6942e7f0821219d7ad1d598f2f5c5a5",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "bc615d9c9f3029cbbc18d9106ef50c07c9bd567108cab87c8322e4345bcbf793",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "ba6d9bc554f2b6cf95a38e571068eb0c60608760b1dfd41ee25731ffc4164107",
+      "semantic": {
+        "added": [
+          "DFFlagFlagRolloutTestDynamicBool0_Staged",
+          "DFFlagFlagRolloutTestDynamicBool10_Staged",
+          "DFFlagFlagRolloutTestDynamicBool11_Staged",
+          "DFFlagFlagRolloutTestDynamicBool12_Staged",
+          "DFFlagFlagRolloutTestDynamicBool13_Staged",
+          "DFFlagFlagRolloutTestDynamicBool14_Staged",
+          "DFFlagFlagRolloutTestDynamicBool15_Staged",
+          "DFFlagFlagRolloutTestDynamicBool16_Staged",
+          "DFFlagFlagRolloutTestDynamicBool17_Staged",
+          "DFFlagFlagRolloutTestDynamicBool18_Staged",
+          "DFFlagFlagRolloutTestDynamicBool19_Staged",
+          "DFFlagFlagRolloutTestDynamicBool1_Staged",
+          "DFFlagFlagRolloutTestDynamicBool20_Staged",
+          "DFFlagFlagRolloutTestDynamicBool21_Staged",
+          "DFFlagFlagRolloutTestDynamicBool22_Staged",
+          "DFFlagFlagRolloutTestDynamicBool23_Staged",
+          "DFFlagFlagRolloutTestDynamicBool24_Staged",
+          "DFFlagFlagRolloutTestDynamicBool25_Staged",
+          "DFFlagFlagRolloutTestDynamicBool26_Staged",
+          "DFFlagFlagRolloutTestDynamicBool27_Staged",
+          "DFFlagFlagRolloutTestDynamicBool28_Staged",
+          "DFFlagFlagRolloutTestDynamicBool29_Staged",
+          "DFFlagFlagRolloutTestDynamicBool2_Staged",
+          "DFFlagFlagRolloutTestDynamicBool30_Staged",
+          "DFFlagFlagRolloutTestDynamicBool31_Staged",
+          "DFFlagFlagRolloutTestDynamicBool32_Staged",
+          "DFFlagFlagRolloutTestDynamicBool33_Staged",
+          "DFFlagFlagRolloutTestDynamicBool34_Staged",
+          "DFFlagFlagRolloutTestDynamicBool35_Staged",
+          "DFFlagFlagRolloutTestDynamicBool36_Staged",
+          "DFFlagFlagRolloutTestDynamicBool37_Staged",
+          "DFFlagFlagRolloutTestDynamicBool38_Staged",
+          "DFFlagFlagRolloutTestDynamicBool39_Staged",
+          "DFFlagFlagRolloutTestDynamicBool3_Staged",
+          "DFFlagFlagRolloutTestDynamicBool4_Staged",
+          "DFFlagFlagRolloutTestDynamicBool5_Staged",
+          "DFFlagFlagRolloutTestDynamicBool6_Staged",
+          "DFFlagFlagRolloutTestDynamicBool7_Staged",
+          "DFFlagFlagRolloutTestDynamicBool8_Staged",
+          "DFFlagFlagRolloutTestDynamicBool9_Staged",
+          "FFlagDMRecorderRecordCoreGui",
+          "FFlagFlagRolloutTestStaticBool0_Staged",
+          "FFlagFlagRolloutTestStaticBool10_Staged",
+          "FFlagFlagRolloutTestStaticBool11_Staged",
+          "FFlagFlagRolloutTestStaticBool12_Staged",
+          "FFlagFlagRolloutTestStaticBool13_Staged",
+          "FFlagFlagRolloutTestStaticBool14_Staged",
+          "FFlagFlagRolloutTestStaticBool15_Staged",
+          "FFlagFlagRolloutTestStaticBool16_Staged",
+          "FFlagFlagRolloutTestStaticBool17_Staged",
+          "FFlagFlagRolloutTestStaticBool18_Staged",
+          "FFlagFlagRolloutTestStaticBool19_Staged",
+          "FFlagFlagRolloutTestStaticBool1_Staged",
+          "FFlagFlagRolloutTestStaticBool20_Staged",
+          "FFlagFlagRolloutTestStaticBool21_Staged",
+          "FFlagFlagRolloutTestStaticBool22_Staged",
+          "FFlagFlagRolloutTestStaticBool23_Staged",
+          "FFlagFlagRolloutTestStaticBool24_Staged",
+          "FFlagFlagRolloutTestStaticBool25_Staged",
+          "FFlagFlagRolloutTestStaticBool26_Staged",
+          "FFlagFlagRolloutTestStaticBool27_Staged",
+          "FFlagFlagRolloutTestStaticBool28_Staged",
+          "FFlagFlagRolloutTestStaticBool29_Staged",
+          "FFlagFlagRolloutTestStaticBool2_Staged",
+          "FFlagFlagRolloutTestStaticBool30_Staged",
+          "FFlagFlagRolloutTestStaticBool31_Staged",
+          "FFlagFlagRolloutTestStaticBool32_Staged",
+          "FFlagFlagRolloutTestStaticBool33_Staged",
+          "FFlagFlagRolloutTestStaticBool34_Staged",
+          "FFlagFlagRolloutTestStaticBool35_Staged",
+          "FFlagFlagRolloutTestStaticBool36_Staged",
+          "FFlagFlagRolloutTestStaticBool37_Staged",
+          "FFlagFlagRolloutTestStaticBool38_Staged",
+          "FFlagFlagRolloutTestStaticBool39_Staged",
+          "FFlagFlagRolloutTestStaticBool3_Staged",
+          "FFlagFlagRolloutTestStaticBool4_Staged",
+          "FFlagFlagRolloutTestStaticBool5_Staged",
+          "FFlagFlagRolloutTestStaticBool6_Staged",
+          "FFlagFlagRolloutTestStaticBool7_Staged",
+          "FFlagFlagRolloutTestStaticBool8_Staged",
+          "FFlagFlagRolloutTestStaticBool9_Staged",
+          "FFlagMomentsCreationMusicChipRemoveButton",
+          "FFlagUserSearchClassmatesInsight"
+        ],
+        "changed": [
+          {
+            "after": "dcf7fceb3dc521d3a11494f5acbfd427467c4af1",
+            "before": "13789711b1793b55ba529f745fb21cc451cc0707",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-02T21:32:06.756Z",
+            "before": "2026-10-02T20:52:20.006Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "dcf7fceb3dc521d3a11494f5acbfd427467c4af1",
+            "before": "13789711b1793b55ba529f745fb21cc451cc0707",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-02T21:32:06.756Z",
+            "before": "2026-10-02T20:52:20.006Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagFlagRolloutTestDynamicBool0",
+          "DFFlagFlagRolloutTestDynamicBool1",
+          "DFFlagFlagRolloutTestDynamicBool10",
+          "DFFlagFlagRolloutTestDynamicBool11",
+          "DFFlagFlagRolloutTestDynamicBool12",
+          "DFFlagFlagRolloutTestDynamicBool13",
+          "DFFlagFlagRolloutTestDynamicBool14",
+          "DFFlagFlagRolloutTestDynamicBool15",
+          "DFFlagFlagRolloutTestDynamicBool16",
+          "DFFlagFlagRolloutTestDynamicBool17",
+          "DFFlagFlagRolloutTestDynamicBool18",
+          "DFFlagFlagRolloutTestDynamicBool19",
+          "DFFlagFlagRolloutTestDynamicBool2",
+          "DFFlagFlagRolloutTestDynamicBool20",
+          "DFFlagFlagRolloutTestDynamicBool21",
+          "DFFlagFlagRolloutTestDynamicBool22",
+          "DFFlagFlagRolloutTestDynamicBool23",
+          "DFFlagFlagRolloutTestDynamicBool24",
+          "DFFlagFlagRolloutTestDynamicBool25",
+          "DFFlagFlagRolloutTestDynamicBool26",
+          "DFFlagFlagRolloutTestDynamicBool27",
+          "DFFlagFlagRolloutTestDynamicBool28",
+          "DFFlagFlagRolloutTestDynamicBool29",
+          "DFFlagFlagRolloutTestDynamicBool3",
+          "DFFlagFlagRolloutTestDynamicBool30",
+          "DFFlagFlagRolloutTestDynamicBool31",
+          "DFFlagFlagRolloutTestDynamicBool32",
+          "DFFlagFlagRolloutTestDynamicBool34",
+          "DFFlagFlagRolloutTestDynamicBool35",
+          "DFFlagFlagRolloutTestDynamicBool36",
+          "DFFlagFlagRolloutTestDynamicBool37",
+          "DFFlagFlagRolloutTestDynamicBool38",
+          "DFFlagFlagRolloutTestDynamicBool39",
+          "DFFlagFlagRolloutTestDynamicBool4",
+          "DFFlagFlagRolloutTestDynamicBool5",
+          "DFFlagFlagRolloutTestDynamicBool6",
+          "DFFlagFlagRolloutTestDynamicBool7",
+          "DFFlagFlagRolloutTestDynamicBool8",
+          "DFFlagFlagRolloutTestDynamicBool9",
+          "FFlagDMRecorderRecordCoreGui_Staged",
+          "FFlagFlagRolloutTestStaticBool0",
+          "FFlagFlagRolloutTestStaticBool1",
+          "FFlagFlagRolloutTestStaticBool10",
+          "FFlagFlagRolloutTestStaticBool11",
+          "FFlagFlagRolloutTestStaticBool12",
+          "FFlagFlagRolloutTestStaticBool13",
+          "FFlagFlagRolloutTestStaticBool14",
+          "FFlagFlagRolloutTestStaticBool15",
+          "FFlagFlagRolloutTestStaticBool16",
+          "FFlagFlagRolloutTestStaticBool17",
+          "FFlagFlagRolloutTestStaticBool18",
+          "FFlagFlagRolloutTestStaticBool19",
+          "FFlagFlagRolloutTestStaticBool2",
+          "FFlagFlagRolloutTestStaticBool20",
+          "FFlagFlagRolloutTestStaticBool21",
+          "FFlagFlagRolloutTestStaticBool22",
+          "FFlagFlagRolloutTestStaticBool23",
+          "FFlagFlagRolloutTestStaticBool24",
+          "FFlagFlagRolloutTestStaticBool25",
+          "FFlagFlagRolloutTestStaticBool26",
+          "FFlagFlagRolloutTestStaticBool27",
+          "FFlagFlagRolloutTestStaticBool28",
+          "FFlagFlagRolloutTestStaticBool29",
+          "FFlagFlagRolloutTestStaticBool3",
+          "FFlagFlagRolloutTestStaticBool30",
+          "FFlagFlagRolloutTestStaticBool31",
+          "FFlagFlagRolloutTestStaticBool32",
+          "FFlagFlagRolloutTestStaticBool33",
+          "FFlagFlagRolloutTestStaticBool34",
+          "FFlagFlagRolloutTestStaticBool35",
+          "FFlagFlagRolloutTestStaticBool36",
+          "FFlagFlagRolloutTestStaticBool37",
+          "FFlagFlagRolloutTestStaticBool38",
+          "FFlagFlagRolloutTestStaticBool39",
+          "FFlagFlagRolloutTestStaticBool4",
+          "FFlagFlagRolloutTestStaticBool5",
+          "FFlagFlagRolloutTestStaticBool6",
+          "FFlagFlagRolloutTestStaticBool7",
+          "FFlagFlagRolloutTestStaticBool8",
+          "FFlagFlagRolloutTestStaticBool9",
+          "FFlagMomentsCreationMusicChipRemoveButton_Staged",
+          "FFlagUserSearchClassmatesInsight_Staged"
+        ],
+        "unchanged": 22724
+      }
+    },
+    "UniversalApp": {
+      "current": "7828a350b691c849794df61e76a486de63551f2023f0cbf187cc7c19c69c4ffb",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "61507d8c1025333eab9184a783f518ad2dee1b653720b6520769a9a7628286ca",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
