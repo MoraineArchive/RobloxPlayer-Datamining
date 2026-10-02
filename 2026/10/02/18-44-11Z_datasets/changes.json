@@ -1,0 +1,146 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "55811ecef4d2f93be48673ad1a9e4d1b40fadc09eac325cdb6da0b74080cefa1",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "3c39b76f83fcdbf7be13ad4260b5ee94a37ed52f2e1beb266c686c15a91c6a48",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 25
+        }
+      }
+    },
+    "InExperience": {
+      "current": "6543161e27b90fcd2dfeb65065250c73e94e177a31490876d40f49a6e31e9fe0",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "fdb4803afc8b5a2bd587b97d283d34e396c3c774e125fbd515ad252e87a71903",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "2c6d3446cfd8a3d9efde7bd4f40775badaeb4bfa19ebb7b69b1c18af55bb7691",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "98288dd8c269f023cedcf63b28a22942fbc02845c55bd32a8ade107410b90428",
+      "semantic": {
+        "added": [
+          "FFlagEnableRobuxUpsellPlusButtonExperimentV2",
+          "FFlagLuaAppInitializeErrorReporterEarly_Staged",
+          "FFlagPresenceRefetchTelemetryEnabled2_Staged"
+        ],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagUIGradientFixFirstLastStop"
+          },
+          {
+            "after": "aeacd33bcfa12a03f698f3b1ad736d42d5600268",
+            "before": "4304ccea5565d8c6b500c6d89390fb9bc0b85334",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-02T18:42:13.094Z",
+            "before": "2026-10-02T18:27:41.361Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "aeacd33bcfa12a03f698f3b1ad736d42d5600268",
+            "before": "4304ccea5565d8c6b500c6d89390fb9bc0b85334",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-02T18:42:13.094Z",
+            "before": "2026-10-02T18:27:41.361Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagUIGradientFixFirstLastStop_Staged",
+          "FFlagEnableRobuxUpsellPlusButtonExperimentV2_Staged"
+        ],
+        "unchanged": 22798
+      }
+    },
+    "UniversalApp": {
+      "current": "9ca2af49db7b264d717976b3874cfe6c5a0912e28b4ba8d87da084333f971f5d",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "db2327a07a70dc8a67d89555d5b573d34654a4bd67e96e67120e44fa2d1e5af2",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "e3ff9ccc5fc51918d49a61241f481f149f040c22d1dfacfb473cd8da7047709e",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/ReactUtilities.js",
+          "js.rbxcdn.com/page-1/ReactUtilities.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "9db453f4d1eb8b6153b58d46d066eea7415bd0bcfbb8e76b9ce919ed4c10b9be",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
