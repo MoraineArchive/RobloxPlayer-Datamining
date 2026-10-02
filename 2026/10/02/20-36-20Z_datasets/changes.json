@@ -1,0 +1,187 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "08fb437b56ddbd2d8ec53a27bdbe73d50bee686367aebd77340fcdfd42540489",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "55811ecef4d2f93be48673ad1a9e4d1b40fadc09eac325cdb6da0b74080cefa1",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 25
+        }
+      }
+    },
+    "InExperience": {
+      "current": "c2bd0a456d708fb3a9e05a949d855d125609a599a13ef8043cf19a21a659ed7e",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "6543161e27b90fcd2dfeb65065250c73e94e177a31490876d40f49a6e31e9fe0",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "8bd8af24847e3957f722e2a984df3a69eaa1c5d464d3c442163adcf670c1e310",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "2c6d3446cfd8a3d9efde7bd4f40775badaeb4bfa19ebb7b69b1c18af55bb7691",
+      "semantic": {
+        "added": [
+          "DFFlagDMRecorderRecordListLayoutPadding",
+          "DFFlagRbxTransportQuicDetailedLogging",
+          "FFlagBuildExperienceReleaseFocusOnOverflowAction",
+          "FFlagDMRecorderRecordCoreGui_Staged",
+          "FFlagLuauCompileRecursiveAliases",
+          "FFlagLuauInstantiationCheckArguments",
+          "FFlagMomentsCreationMusicChipRemoveButton_Staged",
+          "FFlagPresenceEventReceiverRefetchOnRealtimeReconnect",
+          "FFlagPresenceRefetchTelemetryCounters_Staged",
+          "FFlagShareSheetFixPeoplePickerCenterSheetOverflow",
+          "FFlagUserSearchClassmatesInsight_Staged",
+          "FIntMomentsAudioDuckRatio",
+          "FIntMomentsAudioDuckThresholdDb",
+          "FIntMomentsTTSVolumePercent",
+          "FIntPresenceRefetchTelemetryExpectedComparisonsPerHour",
+          "FIntPresenceRefetchTelemetryThrottleHundredthsPercent"
+        ],
+        "changed": [
+          {
+            "after": "400",
+            "before": "300",
+            "name": "DFIntDMChangeTrackerMinFreeMemoryMB"
+          },
+          {
+            "after": "b43c6ea9efd411a12f574f27abe9348271eed76e",
+            "before": "aeacd33bcfa12a03f698f3b1ad736d42d5600268",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-02T20:32:41.687Z",
+            "before": "2026-10-02T18:42:13.094Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagAssistantCapsRestrictDataStore2"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagSlowDownRendering"
+          },
+          {
+            "after": "400;17625359962;18126510175;71874690745115;117398147513099;129604661913557;133215910299950;8712817601;72794186691769;121844478504211;126050458756269;139094215325277;10449761463;12360882630;130818724007978;131048399685555;1962086868;3582763398;5253186791;7227293156;7237794334;7237795212;94971861814985;9391468976;17016840407;73956553001240;74691681039273;85395484560711;86789627188240;96802054849934;102580589030177;103521881639626;109684591839194;117134837736236;134314141048307;17516596118;86696142930150;92980558919575;97804379417079;100040622766961;105357751512007;108428559529058;110169684430399;122181485177067;128220027114734;131008473296170;134474332601640;3351674303;5918142776;12633767856;12633809000;15547586975;71775212858107;99421106727783;126851911577827;13772394625;14368557094;14732610803;14915220621;15131065025;15144787112;15185247558;15234596844;15264892126;15509350986;15517169103;15552588346;15582821022;15582823307;16044264830;16281300371;16331595046;16331596518;16331598816;16331600459;16456370330;16581637217;16581648071;17757592456;71039363739363;92458008626219;97204747083036;111661204337143;14315258385;15266870117;15772804763;16071359275;16213033715;102822770050361;109525531177846;122871537893081;131227677343500;5154858502;9786129743;18746877890;18746880008;18746890645;18746891831;18746893663;12355337193;13771457545;14195703130;15385224902;71613907306319;75453361115735;75012837977315;75595554329924;93411036959889;95082159892680;101521033763856;110562057660902;116669109771779;118941584817777;126722955844429;128614435234859;132203136173938;1818;92416421522960;101402127000136;108455473966865;112296196649210;2338325648;4822225642;4940687511;7097139127;7098347455;7098347570;11414445247;12770493773;12986634964;12986636453;12986638725;13415948659;13834702475;14801724413;15098628040;17685156577;17685159087;17685161741;17685164681;17685181130;93001350941802;125444254609144",
+            "before": "800;17625359962;18126510175;71874690745115;117398147513099;129604661913557;133215910299950;8712817601;72794186691769;121844478504211;126050458756269;139094215325277;10449761463;12360882630;130818724007978;131048399685555;1962086868;3582763398;5253186791;7227293156;7237794334;7237795212;94971861814985;9391468976;17016840407;73956553001240;74691681039273;85395484560711;86789627188240;96802054849934;102580589030177;103521881639626;109684591839194;117134837736236;134314141048307;17516596118;86696142930150;92980558919575;97804379417079;100040622766961;105357751512007;108428559529058;110169684430399;122181485177067;128220027114734;131008473296170;134474332601640;3351674303;5918142776;12633767856;12633809000;15547586975;71775212858107;99421106727783;126851911577827;13772394625;14368557094;14732610803;14915220621;15131065025;15144787112;15185247558;15234596844;15264892126;15509350986;15517169103;15552588346;15582821022;15582823307;16044264830;16281300371;16331595046;16331596518;16331598816;16331600459;16456370330;16581637217;16581648071;17757592456;71039363739363;92458008626219;97204747083036;111661204337143;14315258385;15266870117;15772804763;16071359275;16213033715;102822770050361;109525531177846;122871537893081;131227677343500;5154858502;9786129743;18746877890;18746880008;18746890645;18746891831;18746893663;12355337193;13771457545;14195703130;15385224902;71613907306319;75453361115735;75012837977315;75595554329924;93411036959889;95082159892680;101521033763856;110562057660902;116669109771779;118941584817777;126722955844429;128614435234859;132203136173938;1818;92416421522960;101402127000136;108455473966865;112296196649210;2338325648;4822225642;4940687511;7097139127;7098347455;7098347570;11414445247;12770493773;12986634964;12986636453;12986638725;13415948659;13834702475;14801724413;15098628040;17685156577;17685159087;17685161741;17685164681;17685181130;93001350941802;125444254609144",
+            "name": "FIntEnableDataModelChangeTrackingHundredthPercent_PlaceFilter"
+          },
+          {
+            "after": "b43c6ea9efd411a12f574f27abe9348271eed76e",
+            "before": "aeacd33bcfa12a03f698f3b1ad736d42d5600268",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-02T20:32:41.687Z",
+            "before": "2026-10-02T18:42:13.094Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAssistantCapsRestrictDataStore2_Staged",
+          "FFlagBuildExperienceReleaseFocusOnOverflowAction_Staged",
+          "FFlagLuauCompileRecursiveAliases_Staged",
+          "FFlagLuauInstantiationCheckArguments_Staged",
+          "FFlagPresenceEventReceiverRefetchOnRealtimeReconnect_Staged",
+          "FFlagShareSheetFixPeoplePickerCenterSheetOverflow_Staged",
+          "FFlagSlowDownRendering_Staged",
+          "FIntMomentsAudioDuckRatio_Staged",
+          "FIntMomentsAudioDuckThresholdDb_Staged",
+          "FIntMomentsTTSVolumePercent_Staged",
+          "FIntPresenceRefetchTelemetryExpectedComparisonsPerHour_Staged",
+          "FIntPresenceRefetchTelemetryThrottleHundredthsPercent_Staged"
+        ],
+        "unchanged": 22786
+      }
+    },
+    "UniversalApp": {
+      "current": "6fbbb95da74f837c47321be445cb60c0c49fe52db6cb30eb5065a9201300870d",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "9ca2af49db7b264d717976b3874cfe6c5a0912e28b4ba8d87da084333f971f5d",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "f274c578d6e4c427f2ad2ff906e072c5e07dc86ee2a66682cf9604c8d9b1eb56",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.GameLaunchGuestMode.js",
+          "js.rbxcdn.com/page-0/ReactStyleGuide.js",
+          "js.rbxcdn.com/page-0/ReactUtilities.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.GameLaunchGuestMode.js",
+          "js.rbxcdn.com/page-1/ReactStyleGuide.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 217
+      },
+      "previous": "e3ff9ccc5fc51918d49a61241f481f149f040c22d1dfacfb473cd8da7047709e",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}

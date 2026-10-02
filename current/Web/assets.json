@@ -306,10 +306,10 @@
   {
     "path": "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.GameLaunchGuestMode.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "23060560358c9209da4041616577e529140d2521acd7dee315724e41ce629f9e",
+    "sha256": "d09aa4a51ec8d83a1a35bba96fde7261aa23eb5303511e0cf96074c2ea461343",
     "sourceMap": null,
     "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/5d2b10e51dd6cc2329604087e74e8eeb57c37024d75e0be8c47eca40e741a269.js"
+    "url": "https://js.rbxcdn.com/b6ab2ca5e489d34abf4eed4eafce5d177b596b678b399cecf81a0faad692fd32.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.IdVerification.js",
@@ -682,18 +682,18 @@
   {
     "path": "js.rbxcdn.com/page-0/ReactStyleGuide.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "2c836cd43bed8b4d6d6795fe00fce8f88f8f05df9c6e96b49bd398827cc4b696",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/reactStyleGuide-13a0772a53a910a2.js.map",
+    "sha256": "f03cb130b7f940ed1d7c6690dfa073705f159a577428c5d48feb98399fcb739b",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/reactStyleGuide-f8dcc6c0add7f665.js.map",
     "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/d66537d65ddf65e28b7c689a34d7fc7c5d120e96a094b400e48a8dd36bc41b8e-ReactStyleGuide.js"
+    "url": "https://js.rbxcdn.com/d4249670d6db998d60d9a26685cdb16c5eedfbfc02681ae423330add2964c18e-ReactStyleGuide.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/ReactUtilities.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "2e0eecf0ab0ed1057f6d11ff091122948db6da44418657769ebd9958fbccef2b",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/reactUtilities-329af4f8dfa657b9.js.map",
+    "sha256": "e8165413ea0714b8146b5a11f926ab1ac9a929c71c759adb39d5c6eca5a4e49f",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/reactUtilities-53128728ea0d67bf.js.map",
     "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/da52244a99f12d2e7da9fcf2b4cdafc311f97e34981e76fe60cdcb2341a174ac-ReactUtilities.js"
+    "url": "https://js.rbxcdn.com/350730ac37c2d24576b0ac806e102b17df06273610b1769a41eeb28eb9569276-ReactUtilities.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/RealTime.js",
@@ -1170,10 +1170,10 @@
   {
     "path": "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.GameLaunchGuestMode.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "23060560358c9209da4041616577e529140d2521acd7dee315724e41ce629f9e",
+    "sha256": "d09aa4a51ec8d83a1a35bba96fde7261aa23eb5303511e0cf96074c2ea461343",
     "sourceMap": null,
     "sourcePage": "https://www.roblox.com/discover",
-    "url": "https://js.rbxcdn.com/5d2b10e51dd6cc2329604087e74e8eeb57c37024d75e0be8c47eca40e741a269.js"
+    "url": "https://js.rbxcdn.com/b6ab2ca5e489d34abf4eed4eafce5d177b596b678b399cecf81a0faad692fd32.js"
   },
   {
     "path": "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.GamePage.js",
@@ -1570,10 +1570,10 @@
   {
     "path": "js.rbxcdn.com/page-1/ReactStyleGuide.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "2c836cd43bed8b4d6d6795fe00fce8f88f8f05df9c6e96b49bd398827cc4b696",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/reactStyleGuide-13a0772a53a910a2.js.map",
+    "sha256": "f03cb130b7f940ed1d7c6690dfa073705f159a577428c5d48feb98399fcb739b",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/reactStyleGuide-f8dcc6c0add7f665.js.map",
     "sourcePage": "https://www.roblox.com/discover",
-    "url": "https://js.rbxcdn.com/d66537d65ddf65e28b7c689a34d7fc7c5d120e96a094b400e48a8dd36bc41b8e-ReactStyleGuide.js"
+    "url": "https://js.rbxcdn.com/d4249670d6db998d60d9a26685cdb16c5eedfbfc02681ae423330add2964c18e-ReactStyleGuide.js"
   },
   {
     "path": "js.rbxcdn.com/page-1/ReactUtilities.js",
