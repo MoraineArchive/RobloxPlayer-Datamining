@@ -1,0 +1,150 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "7174b4f54587dd8d3107232f6caf3cb70d2883ffbcecd306e18f1664d999d805",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "ec1f5ecc0cea741e97fb59bb9340bc987a9cea5f426716f1e080e418abc1764a",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 25
+        }
+      }
+    },
+    "InExperience": {
+      "current": "05e902126130de5e2e468682383e1e44292c2d1f4e11db4b54fa736c7d4aebff",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "b10d5e9cae923d273bed20e3215a12b5e19b2d8071f40cb71c20688e03328d0c",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "e51b0a860e5bb7dfe288bbb95852f824997b3d4f33b83e19be917d7ea0851717",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "ee9be381c5642ccdbed2aaf62ea13df16dc25a2c16478289673a796b51d2ff84",
+      "semantic": {
+        "added": [
+          "FFlagGroupObjectMapRawPointer",
+          "FFlagMigrateGameEngineAndroidAlertingTelemetryToV2",
+          "FFlagMigrateGameEngineConsolesAlertingTelemetryToV2",
+          "FFlagMigrateGameEngineNetworkingReplicationAlertingTelemetryToV2",
+          "FFlagMigrateGameEngineRccAlertingTelemetryToV2",
+          "FFlagMigrateGameEngineSecurityAlertingTelemetryToV2",
+          "FFlagMigrateGameEngineStudioFileLockAlertingTelemetryToV2",
+          "FFlagMigrateGameEngineStudioPackagesAlertingTelemetryToV2",
+          "FFlagMigrateStudioObservabilityAlertingTelemetryToV2"
+        ],
+        "changed": [
+          {
+            "after": "3000",
+            "before": "120",
+            "name": "DFIntVideoCaptureSnapshotMaxFrameTimeSecond"
+          },
+          {
+            "after": "da91c483d23e5f5f1c880c66ef281ca60cd843e6",
+            "before": "d76b276d18fa0b8cd59c23f33a5c45abf1bd6f16",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-02T01:07:31.641Z",
+            "before": "2026-10-02T00:12:43.548Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagMigrateComponentManagerToRuntimeInjector8"
+          },
+          {
+            "after": "da91c483d23e5f5f1c880c66ef281ca60cd843e6",
+            "before": "d76b276d18fa0b8cd59c23f33a5c45abf1bd6f16",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-02T01:07:31.641Z",
+            "before": "2026-10-02T00:12:43.548Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFIntVideoCaptureSnapshotMaxFrameTimeSecond_Staged",
+          "FFlagGroupObjectMapRawPointer_Staged",
+          "FFlagMigrateComponentManagerToRuntimeInjector8_Staged",
+          "FFlagMigrateGameEngineAndroidAlertingTelemetryToV2_Staged",
+          "FFlagMigrateGameEngineConsolesAlertingTelemetryToV2_Staged",
+          "FFlagMigrateGameEngineNetworkingReplicationAlertingTelemetryToV2_Staged",
+          "FFlagMigrateGameEngineRccAlertingTelemetryToV2_Staged",
+          "FFlagMigrateGameEngineSecurityAlertingTelemetryToV2_Staged",
+          "FFlagMigrateGameEngineStudioFileLockAlertingTelemetryToV2_Staged",
+          "FFlagMigrateGameEngineStudioPackagesAlertingTelemetryToV2_Staged",
+          "FFlagMigrateStudioObservabilityAlertingTelemetryToV2_Staged"
+        ],
+        "unchanged": 23296
+      }
+    },
+    "UniversalApp": {
+      "current": "d99eebbb935d7a678bf4f5431888837be662f04fb42046f33e5580840241c06a",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "3519c673f9486675382ebfea2264e543084f01f49f1b4df1bd1911fd034c8817",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
