@@ -1,6 +1,5 @@
 {
-  "observationMode": "live",
-  "provenance": [
+  "FastVariables": [
     {
       "buildGuid": "version-02c37bc51a384b8f",
       "bytes": 135315213,
@@ -78,12 +77,36 @@
       "sourceUrl": "https://setup.rbxcdn.com/version-02c37bc51a384b8f-extracontent-translations.zip"
     }
   ],
-  "status": "available",
-  "summary": {
-    "cpp": 25,
-    "engineRevision": 1,
-    "lua": 0,
-    "method": "C++: explicitly prefixed native strings. Lua: explicit names and DefineFast/GetFast literals. These are observations, not a complete executable registration table. LIVE values are separate."
-  },
-  "target": "WindowsPlayer"
+  "InExperience": [
+    {
+      "bytes": 42711,
+      "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
+      "sha256": "532aeb9c3709d88b2fc5e1afa170ab50abefa6b844f8300537ace25d0e284fe8",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.741.0.7411058&tag=Release&name=app-patch-in-experience"
+    },
+    {
+      "bytes": 13681705,
+      "derivedFrom": "InExperience.rbxm",
+      "sha256": "057fe06d61a1d48b5295eca87dac3eefbfe2e1d56e9f533b08ab6fd51f9ad795",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=14775"
+    }
+  ],
+  "UniversalApp": [
+    {
+      "bytes": 42712,
+      "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
+      "sha256": "6c9aa5383363543d01d27e1cc5196cdb99122b11fb30c3260d1aebd2e0392ef6",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.741.0.7411058&tag=Release&name=app-patch-universal-app"
+    },
+    {
+      "bytes": 12742586,
+      "derivedFrom": "UniversalApp.rbxm",
+      "sha256": "93148e8c45f9684433518c98ea9f889df4a766950855442166b550b9f7d61386",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=14864"
+    }
+  ]
 }

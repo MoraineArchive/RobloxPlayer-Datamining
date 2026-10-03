@@ -8,14 +8,14 @@
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsExperimental/SignalsExperimental/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsReact/SignalsReact/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "instances.json": "bba4b7ca57bd50ae377a811b6ac51da16f708e90d51d95d953cd30cc70f01733",
-    "latest-asset.json": "ba18f1d25f182e7ad536d2fb5daa09654a19c4da12561f081c126673c49aa8d9",
-    "metadata.json": "b4393d534c0bd4d3f72b516edf1d15238396850c0d66b0cd007a8e8646f987fb",
+    "instances.json": "7f68cd3f25b7907d9277b449a7cc58c276d792172caa7222cc94f5782e65c9a2",
+    "latest-asset.json": "99768788cd9dcce20606845bb71239cd20379e39da11bb632ab01fd644917bd6",
+    "metadata.json": "a6a9ac8001a3b82e00c77f9044a85d081741c4223a7c7c97456ce9d9fdc473e0",
     "ota-config.json": "fe234c5fce76c0e785cbfd6b669220a6e0f6332e0444949cbb7787615ab09dd9"
   },
-  "id": "0635560000e58a8f872290c8bb42161afc93219087cea8b220b0ffe43e856a13",
+  "id": "7b6eec55accfe3dff5923c11d59b71ceb977e35ba1e40f49b93bb036acb988eb",
   "observationMode": "live",
-  "observedAt": "2026-10-03T06:18:39.932Z",
+  "observedAt": "2026-10-03T13:28:46.844Z",
   "provenance": [
     {
       "bytes": 42711,
@@ -25,18 +25,18 @@
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.741.0.7411058&tag=Release&name=app-patch-in-experience"
     },
     {
-      "bytes": 13662196,
+      "bytes": 13681705,
       "derivedFrom": "InExperience.rbxm",
-      "sha256": "5097d0e2d18d76f817a62aa2c87547faffbed6bab842934774b3bc1da7a48c10",
+      "sha256": "057fe06d61a1d48b5295eca87dac3eefbfe2e1d56e9f533b08ab6fd51f9ad795",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=14774"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=14775"
     }
   ],
-  "sequence": 49,
+  "sequence": 50,
   "status": "partial",
   "summary": {
     "assetId": "80471914653504",
-    "assetVersion": "14774",
+    "assetVersion": "14775",
     "configuredAssetVersion": "14492",
     "engineRevision": 1,
     "instances": 33707,
