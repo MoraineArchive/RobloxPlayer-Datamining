@@ -1,7 +1,7 @@
 {
   "appStorageResetId": "0",
   "assetId": "118593852151835",
-  "assetVersion": "14581",
+  "assetVersion": "14758",
   "assetsManifest": {
     "100119004605329": "content/textures/ui/LuaChat/graphic/gr-indicator-ingame-14x14@3x.png",
     "100348805600292": "content/textures/ui/LuaChat/icons/ic-close-gray2@3x.png",
@@ -237,6 +237,7 @@
     "133780619154616": "content/textures/ui/LuaApp/graphic/player-tile-background-dark.png",
     "134026516767271": "content/textures/ui/LuaChat/graphic/gr-indicator-online-10x10@2x.png",
     "134294833932650": "content/textures/ui/LuaChat/icons/ic-viewdetails-20x20.png",
+    "134544517826926": "content/textures/ui/ExternalIdentity/google.png",
     "135186938543467": "content/textures/ui/LuaChat/graphic/gr-send.png",
     "135313792109962": "content/textures/ui/ImageSet/AE/img_set_2x_5.png",
     "135391113012200": "content/textures/ui/LuaApp/icons/ic-game.png",
@@ -530,6 +531,6 @@
   "maxAppVersion": "742",
   "name": "UniversalApp",
   "tryoutName": null,
-  "version": "14581",
-  "versionV2": 22900
+  "version": "14758",
+  "versionV2": 23230
 }

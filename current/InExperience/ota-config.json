@@ -1,7 +1,7 @@
 {
   "appStorageResetId": "0",
   "assetId": "80471914653504",
-  "assetVersion": "14492",
+  "assetVersion": "14669",
   "assetsManifest": {
     "100119004605329": "content/textures/ui/LuaChat/graphic/gr-indicator-ingame-14x14@3x.png",
     "100348805600292": "content/textures/ui/LuaChat/icons/ic-close-gray2@3x.png",
@@ -237,6 +237,7 @@
     "133780619154616": "content/textures/ui/LuaApp/graphic/player-tile-background-dark.png",
     "134026516767271": "content/textures/ui/LuaChat/graphic/gr-indicator-online-10x10@2x.png",
     "134294833932650": "content/textures/ui/LuaChat/icons/ic-viewdetails-20x20.png",
+    "134544517826926": "content/textures/ui/ExternalIdentity/google.png",
     "135186938543467": "content/textures/ui/LuaChat/graphic/gr-send.png",
     "135313792109962": "content/textures/ui/ImageSet/AE/img_set_2x_5.png",
     "135391113012200": "content/textures/ui/LuaApp/icons/ic-game.png",
@@ -530,6 +531,6 @@
   "maxAppVersion": "742",
   "name": "InExperience",
   "tryoutName": null,
-  "version": "14492",
-  "versionV2": 22833
+  "version": "14669",
+  "versionV2": 23163
 }
