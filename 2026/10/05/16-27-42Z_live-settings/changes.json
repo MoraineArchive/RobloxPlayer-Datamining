@@ -1,0 +1,65 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "5de849a705f332fa20cddafabdd33bc32b937d63d2e44b15ddebc624c8c9b262",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "c01a3544f4e3740e4f40fe466f4ca34e487e29bd6708a4e37c8aaafd5dec0b38",
+      "semantic": {
+        "added": [
+          "FFlagBulkPurchaseReportCounters_Staged",
+          "FFlagDeferredGameJoinEnabled_Staged",
+          "FFlagFixInspectAndBuyThirdPartySales_Staged",
+          "FFlagLuauRemoveConstraintSolverEmplace_Staged",
+          "FFlagTTranscoderProfiling_Staged",
+          "FStringRenderMeshPerLodStreamingForceEnablePlaceIds_IXP",
+          "FStringRenderMeshPerLodStreamingForceEnablePlaceIds_Staged"
+        ],
+        "changed": [
+          {
+            "after": "True;SteadyState;100;90;Promote;2026-10-05T16:25:20",
+            "before": "True;SteadyState;100;90;Promote;2026-10-02T21:32:05",
+            "name": "DFFlagFlagRolloutTestDynamicBool33_Staged"
+          },
+          {
+            "after": "fea81ae180a6f3cd759c4c59283b95d9d752a1d0",
+            "before": "27dcdb55f51b27141e5cb9e259c5b8f6c4521420",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-05T16:25:22.134Z",
+            "before": "2026-10-05T16:06:54.103Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "fea81ae180a6f3cd759c4c59283b95d9d752a1d0",
+            "before": "27dcdb55f51b27141e5cb9e259c5b8f6c4521420",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-05T16:25:22.134Z",
+            "before": "2026-10-05T16:06:54.103Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 22809
+      }
+    }
+  },
+  "schemaVersion": 1
+}
