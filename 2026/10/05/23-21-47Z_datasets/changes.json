@@ -1,0 +1,153 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "0aaec377e67722858a35979912236c63737ca3464eece21d24f40a025a9d3fae",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "aae451e99b5447833967a5ce73e948b8d6cb671f2d615f1ab66eea2ccd35905b",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 25
+        }
+      }
+    },
+    "InExperience": {
+      "current": "152dbbd9147650cd1bfabe89e5b9f4f2e2ae44e78f05246b41bc2242aff425ec",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "681ebcf95766f74f3749af47c1c5679f2a997e5764ab29fa1fe493477521591f",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "5d06f304e62ec8e49f9a973f4d33c809923d580a067ebe72f6bfaa5bd2dcf695",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "60211fe1d8f2dd1775c8c112094b421c8927f82eaf04f0f7300b76637b7175fb",
+      "semantic": {
+        "added": [
+          "FFlagAppChatConversationTrustedFriendUpsellBanner4",
+          "FFlagDataModelPatchWebSocketTransport",
+          "FFlagFoundationKnobRaisedShadow",
+          "FFlagFoundationListItemDecoupledInput_Staged",
+          "FFlagFoundationListItemTypographySpacing_Staged",
+          "FFlagFoundationSliderBeta3",
+          "FFlagFoundationTooltipBeta3_Staged",
+          "FFlagUseSpecialMeshNoFaceForDefaultR62_Staged"
+        ],
+        "changed": [
+          {
+            "after": "9fa21bdfd3cee3097d8603af479940cb4c3e4592",
+            "before": "75ce811a85623020c6c97f56cc7933a2047cff21",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-05T23:12:29.558Z",
+            "before": "2026-10-05T22:52:45.556Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagSlimDisableAnyAvatarChanges"
+          },
+          {
+            "after": "9fa21bdfd3cee3097d8603af479940cb4c3e4592",
+            "before": "75ce811a85623020c6c97f56cc7933a2047cff21",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-05T23:12:29.558Z",
+            "before": "2026-10-05T22:52:45.556Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAppChatConversationTrustedFriendUpsellBanner4_Staged",
+          "FFlagDataModelPatchWebSocketTransport_Staged",
+          "FFlagFoundationKnobRaisedShadow_Staged",
+          "FFlagFoundationSliderBeta3_Staged",
+          "FFlagSlimDisableAnyAvatarChanges_Staged"
+        ],
+        "unchanged": 22900
+      }
+    },
+    "UniversalApp": {
+      "current": "ea6d0cf34cc93d3457994e90bff8ec19ea38bd8976bfc27dc2b5a6c495fc1eb5",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "51c86513d2a0cc47acf09980d0227d8a848a6fb67af13fccc762352884ec24cc",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "d69d57f5a41f2cf3b689f49e8953e34bba4cf8a68517bb89f72ee309132436dc",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 221
+      },
+      "previous": "6ba0d22e0614e3a84b99b73d3fd91b34cdc293a98f5619576a9702dbf333e89f",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}

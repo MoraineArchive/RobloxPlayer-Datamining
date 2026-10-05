@@ -1,6 +1,6 @@
 {
   "hashes": {
-    "assets.json": "f2e82e34e5c095421e1937e4f223be51f59c9cafa8d455f2d17e0d97cfa110fa",
+    "assets.json": "a15429fdf3c50b37f0f0db0dbaa06bbbe93bb915b1b1fe8d0f23312971055773",
     "js.rbxcdn.com/page-0/AccessManagementUpsell.js": "7a2795cd4a6595d6cdf824a5ec6518b89b887fdd09bab1186d84e315628e35e7",
     "js.rbxcdn.com/page-0/AccessManagementUpsellV2.js": "4ae387297396518e398a6b5e94de55811189e14824ac05c7299bf97b5029c97c",
     "js.rbxcdn.com/page-0/AccountSwitcher.js": "9c6c77ae499bacb2cc2df4f9432fb7a767041594db6345045d110ebab0514f2f",
@@ -56,7 +56,7 @@
     "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.ProofOfWorkChallenge.js": "29c6735c889aa74e29f5569337f03a1df150c204837977c09357efe789d1b2cd",
     "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Reauthentication.js": "07c8f5eab3ded2ba45d8c5e8914e42fb196c90e45d68efcd2db8b5cb58d27756",
     "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Recommendations.js": "f4a5e85207307c5be4392b6b7d28d29a99591c493473ca8ede47c5a187803e1e",
-    "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js": "ee6e0e65da381af242da96397ec70b25610176ce3d689f230aac586d52ec15df",
+    "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js": "01ad1c84af0720545a968618491a7179e6fd7fe5e3b8f1ce06347f2268fb7f81",
     "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.RostileChallenge.js": "405c9ee62d2f087ff96595929a6ddc15d733d32ed6b66bc2f325380b336ffb0b",
     "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SduiLandingPage.js": "0f58408d85723e36635d10682ecfdc6f31e1b9e01c913ba33d50413faf85ebc0",
     "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.SecurityQuestions.js": "2f6cf29047c3d7bee78e45891ea26653789776ee058e669c0c156885f8a59585",
@@ -219,15 +219,15 @@
     "js.rbxcdn.com/page-1/leanbase.js": "968a20eab1449bae7485d20d20a614f2a33b0515f27f143792b10cf4d700711e",
     "js.rbxcdn.com/page-1/page.js": "432095ee2a25a586d05e62c1917b10003e21c76a094c065faf79ba5259461c1c",
     "js.rbxcdn.com/page-1/pageEnd.js": "de24bba08f5774c1350a3cc8afef4bda3c28d5e6a8eca82e20bcfd8d46b99d9a",
-    "metadata.json": "8e3ef2383db30313ed005e1a7a35edb3fed85ac308a0b8e522543e9e5a24796b",
+    "metadata.json": "5947e575a384b3687db40da8ec13b6a24e3393675365ae9d033d8d6f4b599bcf",
     "roblox.com/page-0/script-007.js": "a406bd97fed4ceb8954133f97a6d5c225b2f673606c5d439de4a910c83b4ecad",
     "roblox.com/page-1/script-007.js": "a406bd97fed4ceb8954133f97a6d5c225b2f673606c5d439de4a910c83b4ecad",
     "www.roblox.com/page-0/script-000.js": "f5641e111fbcbc519c8b140eed0015e4e6d0346d9a1b6e57959e3268de21653c",
     "www.roblox.com/page-1/script-000.js": "f5641e111fbcbc519c8b140eed0015e4e6d0346d9a1b6e57959e3268de21653c"
   },
-  "id": "6ba0d22e0614e3a84b99b73d3fd91b34cdc293a98f5619576a9702dbf333e89f",
+  "id": "d69d57f5a41f2cf3b689f49e8953e34bba4cf8a68517bb89f72ee309132436dc",
   "observationMode": "live",
-  "observedAt": "2026-10-05T22:57:15.183Z",
+  "observedAt": "2026-10-05T23:21:47.617Z",
   "provenance": [
     {
       "bytes": 1919,
@@ -348,6 +348,12 @@
       "sha256": "f0fb5109ddb5e2a36762835cdac048dc0c9d17e6b74c56067c8e51b59796e2e6",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/13b3b0cf97cfb5da4538eb0c59f252188b4f724f9328c264a58d24a714e41fe5.js"
+    },
+    {
+      "bytes": 22009,
+      "sha256": "01ad1c84af0720545a968618491a7179e6fd7fe5e3b8f1ce06347f2268fb7f81",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/1402a84d0d7f1ff50deae9ec2371427867e9a8814a6b7cbb31b0578ecfcb9943.js"
     },
     {
       "bytes": 22009,
@@ -594,12 +600,6 @@
       "sha256": "8be6d591fa0c6c4722e989099bff012b5ed9a7a71681f4640b93b5163086e250",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/49f819f50921f59d8ed1641215c263c7135920b170fe596ee2ac90e9558c4e30-Sentry.js"
-    },
-    {
-      "bytes": 21856,
-      "sha256": "ee6e0e65da381af242da96397ec70b25610176ce3d689f230aac586d52ec15df",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/4a3d7cb7d217e0304037a99982bdd4c834bbef5ecf51112f59acf2d04e60024b.js"
     },
     {
       "bytes": 945945,
@@ -1562,7 +1562,7 @@
       "sourceUrl": "https://www.roblox.com/js/utilities/bundleVerifier.js?v=d8be7ec8aee81a9acf17014aae64dd2e"
     }
   ],
-  "sequence": 152,
+  "sequence": 153,
   "status": "available",
   "summary": {
     "assets": 222,
