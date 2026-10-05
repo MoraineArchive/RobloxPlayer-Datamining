@@ -1,0 +1,76 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "60211fe1d8f2dd1775c8c112094b421c8927f82eaf04f0f7300b76637b7175fb",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "c910d50526fe5c77ebefad517b829799f5814702df95a7201e1eced591666e90",
+      "semantic": {
+        "added": [
+          "FFlagExpChatTCWAllowKeyboardNav_Staged"
+        ],
+        "changed": [
+          {
+            "after": "1111111111010111111101001111111110011111111111111110111",
+            "before": "11111111110101111111010011111111100111111111111111101",
+            "name": "DFStringDebugFileMeshDataValidationPolicy"
+          },
+          {
+            "after": "75ce811a85623020c6c97f56cc7933a2047cff21",
+            "before": "b76a8fbdd38bcf221df608ca23130c72f748acde",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-05T22:52:45.556Z",
+            "before": "2026-10-05T22:37:58.747Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "75ce811a85623020c6c97f56cc7933a2047cff21",
+            "before": "b76a8fbdd38bcf221df608ca23130c72f748acde",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-05T22:52:45.556Z",
+            "before": "2026-10-05T22:37:58.747Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFStringDebugFileMeshDataValidationPolicy_Staged"
+        ],
+        "unchanged": 22904
+      }
+    },
+    "Web": {
+      "current": "6ba0d22e0614e3a84b99b73d3fd91b34cdc293a98f5619576a9702dbf333e89f",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 221
+      },
+      "previous": "9b198beb389bc2b24908dfa9d44231b107001e4d5c0bb556f88193f25285d92b",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
