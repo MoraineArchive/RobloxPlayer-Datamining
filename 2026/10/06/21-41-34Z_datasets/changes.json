@@ -1,0 +1,122 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "086d486b6ba49d8f1b234601442e1cb7ae497a9af0b5e1ccc4b0cf8c6264a7e2",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "fb9dfff1c484f040ccccd63e8f119b86c83249f9e7841c7389ecd761624d1e07",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 25
+        }
+      }
+    },
+    "InExperience": {
+      "current": "e5dbcc8612040f8e1df7e1415cc3d1840c65332a909428a42cedad25a34e53bc",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "2d42ae67b73a59715d3241a79ac1048694001991b09ab503d742e28dcf7f8e3d",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "8c91006fec7a8b65c86f54cbc2cbbaa10378916703eae6ca573175fbd6eeaa60",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "30ef6b85ab911078913b72e0c657e7549f6a399203cfefe8f5e0a211a9f1053e",
+      "semantic": {
+        "added": [
+          "FFlagAXFixOrientationInputBlocking_Staged",
+          "FFlagLuaAppEdpKeepFullPageOnPortraitRotation_Staged",
+          "FFlagSlimAlwaysShadowUploadOnAvatarFetch_Staged"
+        ],
+        "changed": [
+          {
+            "after": "731cc6576b331e38606ab13f0b62a06588705e2c",
+            "before": "0e478b0072924333b16245369267007e14b8dd18",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-06T21:39:07.901Z",
+            "before": "2026-10-06T21:30:56.126Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "731cc6576b331e38606ab13f0b62a06588705e2c",
+            "before": "0e478b0072924333b16245369267007e14b8dd18",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-06T21:39:07.901Z",
+            "before": "2026-10-06T21:30:56.126Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 22976
+      }
+    },
+    "UniversalApp": {
+      "current": "33b7af9052a3cc0db831a9a3d4ea34c7a977afb19838d436604afdf36db14682",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "861ab5ac897f42f4553cecc3de9fda4e0cfd2da4ce1cf0c683ca79df4183a630",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
