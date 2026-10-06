@@ -1,0 +1,23 @@
+{
+  "archivePath": "2026/10/06/03-05-04Z_live-settings",
+  "commit": {
+    "body": "LiveSettings files +0 ~1 -0\nLiveSettings       +0 ~5 -1",
+    "subject": "6 October 2026 - LIVE settings update"
+  },
+  "findings": {
+    "new": 0,
+    "updated": 0
+  },
+  "guid": "version-02c37bc51a384b8f",
+  "id": "00d3cea8cd26056454eddcf36e57976c404ba6451d5cc93b43ec427cfb78cfe3",
+  "observedAt": "2026-10-06T03:05:04.439Z",
+  "product": "Player",
+  "schemaVersion": 1,
+  "surfaces": [
+    "LiveSettings"
+  ],
+  "target": "WindowsPlayer",
+  "type": "live-settings.changed",
+  "upstreamChange": true,
+  "version": "0.741.0.7411058"
+}
