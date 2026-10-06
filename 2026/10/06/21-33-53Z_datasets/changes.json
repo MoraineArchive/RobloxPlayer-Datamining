@@ -1,0 +1,262 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "fb9dfff1c484f040ccccd63e8f119b86c83249f9e7841c7389ecd761624d1e07",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "46b82b345c0dae1ff08d9bdb6a5ea1c07502d93c7ca5beb958456fa9c7abfe99",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 25
+        }
+      }
+    },
+    "InExperience": {
+      "current": "2d42ae67b73a59715d3241a79ac1048694001991b09ab503d742e28dcf7f8e3d",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "740f8e39c4d73c5397703688ec35bbbe84649f487e5bc50699cd28fa3d71b7dc",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "30ef6b85ab911078913b72e0c657e7549f6a399203cfefe8f5e0a211a9f1053e",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "4bb4612671462117eda88828c12feca9f06b2f850dd3594df5b1f3475f1c129f",
+      "semantic": {
+        "added": [
+          "DFFlagCLI226288",
+          "DFFlagCLI226305",
+          "DFFlagCollisionSummaryCLI151929",
+          "DFFlagDataModelDrainDiagnostics2",
+          "DFFlagEditableMeshSlotMapNegativeIndexOverflow_Staged",
+          "DFFlagGamepadSelectionRespectsInteractable",
+          "DFFlagRbxTransportProfileIoEventLoopThreads",
+          "DFFlagRbxTransportQuicRccTokenRotation",
+          "DFFlagRbxTransportSentinelConnectionIdCheck",
+          "DFFlagSimAnimationConstraintVisual",
+          "DFIntMaxImmersiveBrandedAdIdsPerCampaign_Staged",
+          "FFlagACSDeserializeSkipRobloxSerializable",
+          "FFlagAddImpressionSourceInstanceAndLifecycleId",
+          "FFlagAndroidUseTypedWindowInsets_Staged",
+          "FFlagAnimGraphUIPasteWithoutConnections_Staged",
+          "FFlagAnimGraphUIRemoveOrphanedParameterWires_Staged",
+          "FFlagAnimatorFilterNonAnimatableDescendants",
+          "FFlagAppChatReactivePaneLayoutOnRotation_Staged",
+          "FFlagBootcampCLI226592_Staged",
+          "FFlagBuildExperienceVersionHistoryPagination_Staged",
+          "FFlagCollectionEngineSignalsEnabled",
+          "FFlagCollectionTopLevelAccessors",
+          "FFlagDMCTMetadataIncludeChannelAndRecordingType",
+          "FFlagDMPatcherCloneToDestinationEngineContext_Staged",
+          "FFlagDeviceSimulatorNetworkOffState",
+          "FFlagDeviceSimulatorToolbarNetworkSync2",
+          "FFlagEnableAndroidUnifiedSystemBarControl_Staged",
+          "FFlagEnableLuaAppScriptErrorListener2_Staged",
+          "FFlagEnablePath2DSelectedControlPointPropertyEditor",
+          "FFlagExtendRobloxInputListener",
+          "FFlagFMDFixCompressedCoreMeshViewSize_Staged",
+          "FFlagFixCheckForRolloutsRespectFilters",
+          "FFlagFixGameDetailsDeepLinkHomeRootRoute",
+          "FFlagFixHighlightTypeofInGenericArgs",
+          "FFlagFoundationSystemEmphasisNonActions",
+          "FFlagGameDetailsHomeRootTelemetry",
+          "FFlagGrassGPUDensityCull",
+          "FFlagIECPublishValidationLoadingUI",
+          "FFlagKeepWebviewOpenOnNavigation_Staged",
+          "FFlagLuaAppAddHomeExtraTopPadding",
+          "FFlagLuaAppGamepadSelectionRespectsInteractable_Staged",
+          "FFlagLuaAppHideDeviceInsetBackgroundOnAvatarWrapperPages_Staged",
+          "FFlagMegaClusterDisableAsyncAPIs",
+          "FFlagMomentsCreationMusicSkipMetadataFetch",
+          "FFlagMomentsFeedSwipeSensitivityConfig",
+          "FFlagNativeFunctionProfilerIndependentInvocation",
+          "FFlagProfileGamepadPrimaryActionFocus",
+          "FFlagRenderWaterTransparencyNonSHQ3_Staged",
+          "FFlagSceneAnalysisMdiDataModelPicker",
+          "FFlagScriptEditorDropStaleDelayedHover",
+          "FFlagSduiFeedScrollBarFixes",
+          "FFlagSduiPageCanvasCollectionLayout",
+          "FFlagStratusEnableSetStatusBarVisibility",
+          "FFlagStratusKeyboardOnRemoteTextBox",
+          "FFlagStratusKeyboardOnRemoteTextBoxIOS",
+          "FFlagStratusUserSettingsSync",
+          "FFlagStratusWebViewForwarding",
+          "FFlagStudioControlsEmulatorWaitForDeviceEmulator",
+          "FFlagStudioDeferSendTestEndSignal_Staged",
+          "FFlagStudioShortcutKeyMapping_Staged",
+          "FFlagStyleTransitionLerpSequences",
+          "FFlagUseTM1ColorMapOnlyDecal",
+          "FFlagUserPlayerScriptsTaskDeferSimulation_Staged",
+          "FFlagVRLaserPointerRaycastChange",
+          "FIntAssetsUploadUseMultiPartSizeThresholdBytes",
+          "FIntLuaAppNxMApportioningDiagnosticThrottleHundredthsPercent_Staged",
+          "FIntSentryErrorLevelQueueTimeLimitSeconds"
+        ],
+        "changed": [
+          {
+            "after": "True",
+            "before": "False",
+            "name": "DFFlagCSGPublishDedupSolidMesh"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "DFFlagEnableTeamTestLuauExecution"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "DFFlagMotor6DC0C1WriteTelemetry"
+          },
+          {
+            "after": "0e478b0072924333b16245369267007e14b8dd18",
+            "before": "7e45e2d00b0b2b52c54bbd307c2d52ff9662cb61",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-06T21:30:56.126Z",
+            "before": "2026-10-06T17:23:14.620Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagUseTM1PropsetSupportedTranscoderForDecal"
+          },
+          {
+            "after": "True;127863843520618;107028958120249;92540165845503;131988988207445;80928167009449;103050087219606;75467626919852;105367763549847;103506668827966;91708113927022;136979595698984;87105585898144;102275973000315;90159781129598;127830186289117;89741522333138;108194620404229;78533368171928;131890646335001;87265254925239;105868495660726;93866646275922;94123586713231;119887281559953;105450852598759;109852527075942;126717016095151;132404650098218;94522119810308;83621382586683;137450197218005;138228542455444;126298764168407;77541380503238;92755694215125;106998012115536;120798446928695;95344444648686;123962966150395;123114131168528;105236129978788;111356441520638;85784835755901;98911804991818;124378295695368;99936364644556;131183658593047;73969653008164;110773211873091;93289712854863;94626323054526;83291776150181;122724651395545;79143963521188;108412071814243;111690309539206;78525724545575;127210642809629;78772399348482;134332097267970;70871138376268;139561909307043;81270904946526;81025356716139;111362117875754;78092772027092;72978157969725;80143305996885;128488233547081;99727015454137;110875544422684;84990426276965;96112613747192;80607520815487;107412202981656;109084229872135;94001616681829;115999999910618;121676933856072;94622010057971;106469557899798;101741061298990;137678363403771;95984890859948;80939703733964;76524197186639;86801301511729;123940993933848;106157216315640;108036570985507;93785651106588;112934510111679;136656017132972;94742341656573;117330511618118;117744897757799;122100184578727;98954687073963;72194430968900;107605130869868;93488922370085;110841460192982;73518012586073;84573529411763;93130451391478;95081479810589;93640309613621",
+            "before": "True;127863843520618;107028958120249;92540165845503;131988988207445;80928167009449;103050087219606;75467626919852;105367763549847;103506668827966;91708113927022;136979595698984;87105585898144;102275973000315;90159781129598;127830186289117;89741522333138;108194620404229;78533368171928;131890646335001;87265254925239;105868495660726;93866646275922;94123586713231;119887281559953;105450852598759;109852527075942;126717016095151;132404650098218;94522119810308;83621382586683;137450197218005;138228542455444;126298764168407;77541380503238;92755694215125;106998012115536;120798446928695;95344444648686;123962966150395;123114131168528;105236129978788;111356441520638;85784835755901;98911804991818;124378295695368;99936364644556;131183658593047;73969653008164;110773211873091;93289712854863;94626323054526;83291776150181;122724651395545;79143963521188;108412071814243;111690309539206;78525724545575;127210642809629;78772399348482;134332097267970;70871138376268;139561909307043;81270904946526;81025356716139;111362117875754;78092772027092;72978157969725;80143305996885;128488233547081;99727015454137;110875544422684;84990426276965;96112613747192;80607520815487;107412202981656;109084229872135;94001616681829;115999999910618;121676933856072;94622010057971;106469557899798;101741061298990;137678363403771;95984890859948;80939703733964;76524197186639;86801301511729;123940993933848;106157216315640;108036570985507;93785651106588;112934510111679;136656017132972;94742341656573;117330511618118;117744897757799;122100184578727;98954687073963;72194430968900;107605130869868;93488922370085;110841460192982;73518012586073;84573529411763;93130451391478;95081479810589",
+            "name": "FFlagVideoApiEnabled5_PlaceFilter"
+          },
+          {
+            "after": "0e478b0072924333b16245369267007e14b8dd18",
+            "before": "7e45e2d00b0b2b52c54bbd307c2d52ff9662cb61",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-06T21:30:56.126Z",
+            "before": "2026-10-06T17:23:14.620Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagACSDeserializeSkipRobloxSerializable_Staged",
+          "FFlagCollectionEngineSignalsEnabled_Staged",
+          "FFlagCollectionTopLevelAccessors_Staged",
+          "FFlagExtendRobloxInputListener_Staged",
+          "FFlagFixHighlightTypeofInGenericArgs_Staged",
+          "FFlagFoundationSystemEmphasisNonActions_Staged",
+          "FFlagGrassGPUDensityCull_Staged",
+          "FFlagLuaAppAddHomeExtraTopPadding_Staged",
+          "FFlagLuaAppCompositionSearch_IXP",
+          "FFlagNativeFunctionProfilerIndependentInvocation_Staged",
+          "FFlagProfileGamepadPrimaryActionFocus_Staged",
+          "FFlagScriptEditorDropStaleDelayedHover_Staged",
+          "FFlagSduiFeedScrollBarFixes_Staged",
+          "FFlagSduiPageCanvasCollectionLayout_Staged",
+          "FFlagStratusEnableSetStatusBarVisibility_Staged",
+          "FFlagStratusKeyboardOnRemoteTextBoxIOS_Staged",
+          "FFlagStratusKeyboardOnRemoteTextBox_Staged",
+          "FFlagStratusUserSettingsSync_Staged",
+          "FFlagStratusWebViewForwarding_Staged",
+          "FFlagUseTM1ColorMapOnlyDecal_Staged"
+        ],
+        "unchanged": 22904
+      }
+    },
+    "UniversalApp": {
+      "current": "861ab5ac897f42f4553cecc3de9fda4e0cfd2da4ce1cf0c683ca79df4183a630",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "17ee94d0c9de58972a1f95a358ddbc347b6d8de5db31d8557d4169f2fe8cd0b1",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "23c873215d1ac20ad4d7789c95fbf7bb606f91ad58844ea47a888e877839c212",
+      "files": {
+        "added": [
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.ForcePasswordlessLogin.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.ForcePasswordlessLogin.js"
+        ],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/Challenge.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Friends.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js",
+          "js.rbxcdn.com/page-0/EnvironmentUrls.js",
+          "js.rbxcdn.com/page-0/Navigation.js",
+          "js.rbxcdn.com/page-0/TranslationResources.js",
+          "js.rbxcdn.com/page-1/Challenge.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Friends.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js",
+          "js.rbxcdn.com/page-1/EnvironmentUrls.js",
+          "js.rbxcdn.com/page-1/Navigation.js",
+          "js.rbxcdn.com/page-1/TranslationResources.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 209
+      },
+      "previous": "2f9b949d8e2ebabcd642738cf1a4adb9b65f7ba5fa7da0472be0cbd01a11b835",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
