@@ -1,0 +1,128 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "b8389996a1b199178d20fd32ae209fd013b4f73311cb8eeccef09db1d9fae12b",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "2ecd7db3b859a85ed27189213c45205af724d86b0aceb407b01efc11bd7786f2",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 25
+        }
+      }
+    },
+    "InExperience": {
+      "current": "3b915d09ffd676c1db6569453f526b83408625df0b39d504d007bdaa8948d332",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "4666e3273cbf7d5a73cd1997a291efd67fe689da80aa5d3d5ec3f28fbd6bf27d",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "b42d2cc011e8c4fb839dc906c6d1cc722c09e35d29be796b33bc0e6558b5b4ef",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "ab6dc06a9048953c5624b2ad7fd75a204d77e845633c88fe96ff4b8589a6bc54",
+      "semantic": {
+        "added": [
+          "DFFlagNativeFunctionProfilerTelemetry_Staged",
+          "DFFlagSimAdaptiveExplicitlyMarkInterpolatedAssemblies2_Staged",
+          "FFlagCollectionEngineSignalsEnabled_Staged",
+          "FFlagCollectionTopLevelAccessors_Staged",
+          "FFlagFoundationSystemEmphasisNonActions_Staged",
+          "FFlagGrassGPUDensityCull_Staged",
+          "FFlagNativeFunctionProfilerIndependentInvocation_Staged",
+          "FFlagStratusUserSettingsSync_Staged",
+          "FFlagUseTM1ColorMapOnlyDecal_Staged"
+        ],
+        "changed": [
+          {
+            "after": "d0ba389476b7a11d4dea646d9a703e7703754664",
+            "before": "069e488292c3e8f5f2f84d0ddb06fe203d0d3d67",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-06T16:31:55.388Z",
+            "before": "2026-10-06T03:02:06.326Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "d0ba389476b7a11d4dea646d9a703e7703754664",
+            "before": "069e488292c3e8f5f2f84d0ddb06fe203d0d3d67",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-06T16:31:55.388Z",
+            "before": "2026-10-06T03:02:06.326Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 22908
+      }
+    },
+    "UniversalApp": {
+      "current": "46b44b8e06e679ce433d6ad522bdad365f72b7e62185e469a4cc10655e0b3d07",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "d3aa335909c7c8bdac8f81b9216f81bc912699db4e4cf7842ce47f69501c2fea",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
