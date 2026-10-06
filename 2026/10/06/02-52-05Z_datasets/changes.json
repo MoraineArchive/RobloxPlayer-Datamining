@@ -1,0 +1,205 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "7c8ef9436dc17368f1c43119bf3f67f240bcee21574b11a9e049e23231d4cd26",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "0aaec377e67722858a35979912236c63737ca3464eece21d24f40a025a9d3fae",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 25
+        }
+      }
+    },
+    "InExperience": {
+      "current": "ab021c61c5340e631ee3423d3128eb6013ecf31a1388fdc2f04de5f3eedf9090",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "152dbbd9147650cd1bfabe89e5b9f4f2e2ae44e78f05246b41bc2242aff425ec",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "41ddc131f0cf8478759516534ab34c18c1c60b30482590624e8c8a7fea74126b",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "5d06f304e62ec8e49f9a973f4d33c809923d580a067ebe72f6bfaa5bd2dcf695",
+      "semantic": {
+        "added": [
+          "DFFlagAvatarJointUpgradeOnlyDestroyRigMotor6Ds",
+          "DFFlagEnableTeamTestLuauExecution_Staged",
+          "DFFlagForceOTAFinalizeLuaAppExperienceOnly",
+          "DFFlagOtaPatchSafeBackupCleanup",
+          "DFFlagRbxTransportDummyClientSendCapabilities",
+          "DFFlagRbxTransportRtcIoSelfSignedCertRotation2",
+          "FFlagAppChatConversationLoadingSkeleton",
+          "FFlagAppChatMomentShareCardPermissionContextFix",
+          "FFlagAppChatReactiveFeatureRestrictions",
+          "FFlagComposerMultiLineCaretFix",
+          "FFlagEnableAvatarItemAffiliateDeepLink",
+          "FFlagExpChatTCWAllowKeyboardNav",
+          "FFlagFixConstraintFocusInZoomExtents",
+          "FFlagFoundationListItemDecoupledInput",
+          "FFlagFoundationListItemTypographySpacing",
+          "FFlagFoundationTooltipBeta3",
+          "FFlagFriendsChatAddTopBarDivider",
+          "FFlagLuauIterativeTypeSearcher2",
+          "FFlagMomentsOptimisticProfilePending",
+          "FFlagMomentsRefreshProfileOnPostStatus",
+          "FFlagMomentsResolvePublishedPostFeedItem",
+          "FFlagMomentsTabsBehindModalScrim",
+          "FFlagMomentsUpdateReactionTrayOrder",
+          "FFlagMomentsVideoPermissionContextFix",
+          "FFlagSduiViewportVisibilityComponent",
+          "FFlagUseSpecialMeshNoFaceForDefaultR62",
+          "FStringMomentsCommentsIxpLayer"
+        ],
+        "changed": [
+          {
+            "after": "1000",
+            "before": "5000",
+            "name": "DFIntImmersiveAdImpressionEventPointsThrottleHundrethsPercent"
+          },
+          {
+            "after": "1000",
+            "before": "5000",
+            "name": "DFIntImmersiveAdTeleportEventPointsThrottleHundrethsPercent"
+          },
+          {
+            "after": "1000",
+            "before": "5000",
+            "name": "DFIntImpressionCriteriaCounterPointsThrottleHundrethsPercent"
+          },
+          {
+            "after": "251a9a32311fefb9200a11f3bdcaa42c6495ce18",
+            "before": "9fa21bdfd3cee3097d8603af479940cb4c3e4592",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-06T01:18:14.756Z",
+            "before": "2026-10-05T23:12:29.558Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "251a9a32311fefb9200a11f3bdcaa42c6495ce18",
+            "before": "9fa21bdfd3cee3097d8603af479940cb4c3e4592",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-06T01:18:14.756Z",
+            "before": "2026-10-05T23:12:29.558Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagAvatarJointUpgradeOnlyDestroyRigMotor6Ds_Staged",
+          "DFFlagRbxTransportDummyClientSendCapabilities_Staged",
+          "DFFlagRbxTransportRtcIoSelfSignedCertRotation2_Staged",
+          "DFIntImmersiveAdImpressionEventPointsThrottleHundrethsPercent_Staged",
+          "DFIntImmersiveAdTeleportEventPointsThrottleHundrethsPercent_Staged",
+          "DFIntImpressionCriteriaCounterPointsThrottleHundrethsPercent_Staged",
+          "FFlagAppChatConversationLoadingSkeleton_Staged",
+          "FFlagAppChatMomentShareCardPermissionContextFix_Staged",
+          "FFlagAppChatReactiveFeatureRestrictions_Staged",
+          "FFlagComposerMultiLineCaretFix_Staged",
+          "FFlagEnableAvatarItemAffiliateDeepLink_Staged",
+          "FFlagExpChatTCWAllowKeyboardNav_Staged",
+          "FFlagFixConstraintFocusInZoomExtents_Staged",
+          "FFlagFoundationListItemDecoupledInput_Staged",
+          "FFlagFoundationListItemTypographySpacing_Staged",
+          "FFlagFoundationTooltipBeta3_Staged",
+          "FFlagFriendsChatAddTopBarDivider_Staged",
+          "FFlagLuauIterativeTypeSearcher2_Staged",
+          "FFlagMomentsOptimisticProfilePending_Staged",
+          "FFlagMomentsRefreshProfileOnPostStatus_Staged",
+          "FFlagMomentsResolvePublishedPostFeedItem_Staged",
+          "FFlagMomentsTabsBehindModalScrim_Staged",
+          "FFlagMomentsUpdateReactionTrayOrder_Staged",
+          "FFlagMomentsVideoPermissionContextFix_Staged",
+          "FFlagSduiViewportVisibilityComponent_Staged",
+          "FFlagUseSpecialMeshNoFaceForDefaultR62_Staged",
+          "FStringMomentsCommentsIxpLayer_Staged"
+        ],
+        "unchanged": 22879
+      }
+    },
+    "UniversalApp": {
+      "current": "7566520c0a1fab2783d17f3e2d8ed9f08d269d3dc1619524dbfbb2497645e133",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "ea6d0cf34cc93d3457994e90bff8ec19ea38bd8976bfc27dc2b5a6c495fc1eb5",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "28df1c48798a8c32046083cfaef82b88d41fcd24a9735419f28ef32a58f81bd2",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.VerificationUpsell.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.VerificationUpsell.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "d69d57f5a41f2cf3b689f49e8953e34bba4cf8a68517bb89f72ee309132436dc",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
