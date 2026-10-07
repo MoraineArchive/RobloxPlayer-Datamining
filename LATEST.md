@@ -2,19 +2,28 @@
 
 # Latest Roblox Player Datamining
 
-**Observed:** 07/10/2026, 18:37:04 CEST (16:37:04 UTC)
+**Observed:** 07/10/2026, 22:14:10 CEST (20:14:10 UTC)
 
-**Event:** [`2026/10/07/16-37-04Z_live-settings/`](2026/10/07/16-37-04Z_live-settings/)
+**Event:** [`2026/10/07/20-14-10Z_build_version-cec3ad5889b447cf/`](2026/10/07/20-14-10Z_build_version-cec3ad5889b447cf/)
 
-**Build:** [`0.741.0.7411058`](current/Build/version.json)
+**Build:** [`0.742.0.7421053`](current/Build/version.json)
 
-**GUID:** [`version-02c37bc51a384b8f`](current/Provenance/Build.json)
+**GUID:** [`version-cec3ad5889b447cf`](current/Provenance/Build.json)
 
 ## Summary
 
 ```text
+Build files        +0 ~3 -0
+LuaPackages files  +0 ~8 -0
+Native files       +0 ~8 -0
+FastVariables files +0 ~2 -0
 LiveSettings files +0 ~1 -0
-LiveSettings       +4 ~4 -0
+Web files          +0 ~5 -0
+Packages           +0 ~10 -0
+Files              +2 ~17 -1
+LuaPackages sources +0 ~0 -0
+FastVariables      +2 ~25 -0
+LiveSettings       +35 ~8 -15
 ```
 
 File counts describe canonical files. Nested semantic rows describe values or API/source records inside those files.
@@ -23,4 +32,4 @@ File counts describe canonical files. Nested semantic rows describe values or AP
 
 No correlated findings for this event.
 
-See the [summary](2026/10/07/16-37-04Z_live-settings/summary.md), [diff](2026/10/07/16-37-04Z_live-settings/diff.md), [findings](2026/10/07/16-37-04Z_live-settings/findings.md), and [changes.json](2026/10/07/16-37-04Z_live-settings/changes.json).
+See the [summary](2026/10/07/20-14-10Z_build_version-cec3ad5889b447cf/summary.md), [diff](2026/10/07/20-14-10Z_build_version-cec3ad5889b447cf/diff.md), [findings](2026/10/07/20-14-10Z_build_version-cec3ad5889b447cf/findings.md), and [changes.json](2026/10/07/20-14-10Z_build_version-cec3ad5889b447cf/changes.json).
