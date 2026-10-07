@@ -1,0 +1,219 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-02c37bc51a384b8f",
+    "manifestFiles": 2848,
+    "packages": 22,
+    "version": "0.741.0.7411058"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "8f3794b7a50506ea836c731850d791afd6c1047e271443df0ea57ad032495968",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "cffec0414e4ae5546f52a61a75f9e9cd6c60039721fb0ba0378e7f3490d0e18e",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 25
+        }
+      }
+    },
+    "InExperience": {
+      "current": "51dd5de86eaaa17ece568512844ae123f555d2c10cf17245394d6c0306b6f58a",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "9b4dcf3b21a645a499a38f94c152eb1a81b1be414e827aca99a941f950c87fda",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "e8d52a074f2bc9866fe7b99614671ce5dbbe892a4411a21c3983b9ed4eef6009",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "b4069310dc5ee244212e9db76587f09ae24592a47bd878e4da1a3afb73738480",
+      "semantic": {
+        "added": [
+          "DFFlagCloseSoundOutputOnDestroy",
+          "DFFlagEditableMeshSlotMapNegativeIndexOverflow",
+          "DFFlagSubFlowDurationLoggerReportFlowStart",
+          "FFlagAXAddPlusUpsellToBulkPurchaseExposure_IXP",
+          "FFlagAXAddPlusUpsellToBulkPurchase_IXP",
+          "FFlagAXFixOrientationInputBlocking",
+          "FFlagAndroidUseTypedWindowInsets",
+          "FFlagAnimGraphUIPasteWithoutConnections",
+          "FFlagAnimGraphUIRemoveOrphanedParameterWires",
+          "FFlagAppChatReactivePaneLayoutOnRotation",
+          "FFlagBootcampCLI226592",
+          "FFlagBuildExperienceVersionHistoryPagination",
+          "FFlagDMPatcherCloneToDestinationEngineContext",
+          "FFlagEnableAndroidUnifiedSystemBarControl",
+          "FFlagEnableLuaAppScriptErrorListener2",
+          "FFlagEnablePlayerSupportCaptureAttachments2",
+          "FFlagFMDFixCompressedCoreMeshViewSize",
+          "FFlagKeepWebviewOpenOnNavigation",
+          "FFlagLuaAppEdpKeepFullPageOnPortraitRotation",
+          "FFlagLuaAppGamepadSelectionRespectsInteractable",
+          "FFlagLuaAppHideDeviceInsetBackgroundOnAvatarWrapperPages",
+          "FFlagLuaAppNxMApportioningDiagnosticIncludeLatency_Staged",
+          "FFlagMomentsActionRailSpacing",
+          "FFlagMomentsAlignFeedNavArrowsWithHeader",
+          "FFlagPlatformLeaderboardDisplayNameEnabled",
+          "FFlagProfileModalViewStatusBarOffset",
+          "FFlagReactEnableClassCompilerRuntimeRelease1",
+          "FFlagReactEnableCompilerRuntimeRelease1",
+          "FFlagReactEnableNoCloningCompilerMemoCache",
+          "FFlagRenderWaterTransparencyNonSHQ3",
+          "FFlagSTUDIOPLAT44513EnablePreinitHandoff",
+          "FFlagSTUDIOPLAT44648RetryCorruptOTAPluginAsBuiltIn",
+          "FFlagSlimAlwaysShadowUploadOnAvatarFetch",
+          "FFlagSlimUseBoxMappingForSkinnedMeshDecal",
+          "FFlagStudioShortcutKeyMapping",
+          "FFlagUserPlayerScriptsTaskDeferSimulation"
+        ],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagSimAdaptiveExplicitlyMarkInterpolatedAssemblies2"
+          },
+          {
+            "after": "a02569ab0836fff05acb6380760fae3a3902a940",
+            "before": "6c802620f8fefd84904bbc050da54d2f015345a3",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-07T01:12:26.400Z",
+            "before": "2026-10-06T21:52:38.840Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+            "before": "1;Ads.UI;Ads.HomeAds.MaxReachNxMFlagOnly.V2-WithTelemetryVariants;799635606;flagbank",
+            "name": "FFlagLuaAppEnableNxMRoduxApportioning_IXP"
+          },
+          {
+            "after": "10000",
+            "before": "2000",
+            "name": "FIntLuaAppNxMApportioningDiagnosticThrottleHundredthsPercent"
+          },
+          {
+            "after": "a02569ab0836fff05acb6380760fae3a3902a940",
+            "before": "6c802620f8fefd84904bbc050da54d2f015345a3",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-07T01:12:26.400Z",
+            "before": "2026-10-06T21:52:38.840Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagCloseSoundOutputOnDestroy_Staged",
+          "DFFlagEditableMeshSlotMapNegativeIndexOverflow_Staged",
+          "FFlagAXFixOrientationInputBlocking_Staged",
+          "FFlagAndroidUseTypedWindowInsets_Staged",
+          "FFlagAnimGraphUIPasteWithoutConnections_Staged",
+          "FFlagAnimGraphUIRemoveOrphanedParameterWires_Staged",
+          "FFlagAppChatReactivePaneLayoutOnRotation_Staged",
+          "FFlagBootcampCLI226592_Staged",
+          "FFlagBuildExperienceVersionHistoryPagination_Staged",
+          "FFlagDMPatcherCloneToDestinationEngineContext_Staged",
+          "FFlagEnableAndroidUnifiedSystemBarControl_Staged",
+          "FFlagEnableLuaAppScriptErrorListener2_Staged",
+          "FFlagFMDFixCompressedCoreMeshViewSize_Staged",
+          "FFlagKeepWebviewOpenOnNavigation_Staged",
+          "FFlagLuaAppEdpKeepFullPageOnPortraitRotation_Staged",
+          "FFlagLuaAppGamepadSelectionRespectsInteractable_Staged",
+          "FFlagLuaAppHideDeviceInsetBackgroundOnAvatarWrapperPages_Staged",
+          "FFlagRenderWaterTransparencyNonSHQ3_Staged",
+          "FFlagSTUDIOPLAT44513EnablePreinitHandoff_Staged",
+          "FFlagSTUDIOPLAT44648RetryCorruptOTAPluginAsBuiltIn_Staged",
+          "FFlagSlimAlwaysShadowUploadOnAvatarFetch_Staged",
+          "FFlagStudioShortcutKeyMapping_Staged",
+          "FFlagUserPlayerScriptsTaskDeferSimulation_Staged",
+          "FIntLuaAppNxMApportioningDiagnosticThrottleHundredthsPercent_Staged"
+        ],
+        "unchanged": 22955
+      }
+    },
+    "UniversalApp": {
+      "current": "1485fdd135a6337b38625f6e835b80bd55318aa06c1f9146c5a7a59a958c9bc5",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "59ef0e5b1b9f85c879a0b5f806b460bddcd482bddb7a85360e068e140c26fbee",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "b1217c8a4fa64f1614b786b1623f72a1ca13b1bb265584273a748ee00dda1eee",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/AccessManagementUpsellV2.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.Login.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js",
+          "js.rbxcdn.com/page-0/ItemDetailsHydrationService.js",
+          "js.rbxcdn.com/page-0/StyleGuide.js",
+          "js.rbxcdn.com/page-1/AccessManagementUpsellV2.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Authentication.Login.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js",
+          "js.rbxcdn.com/page-1/ItemDetailsHydrationService.js",
+          "js.rbxcdn.com/page-1/StyleGuide.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 214
+      },
+      "previous": "23c873215d1ac20ad4d7789c95fbf7bb606f91ad58844ea47a888e877839c212",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
