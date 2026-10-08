@@ -1,0 +1,110 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "60dac685e94c2ddd04a432db6a96ea4e4c27ccfc6d7613c16b0bbc566d914284",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "93ab9039d301c0ceee57aac75b139e2e81bd59735ce753cd5c00aa547d42b0ff",
+      "semantic": {
+        "added": [
+          "DFFlagMemoryPrioritizationHeapCompactRateLimit",
+          "DFIntConnectionClosedMatchmakingPointsThrottleHundredthsPercent",
+          "DFIntConnectionClosedNonePointsThrottleHundredthsPercent",
+          "DFIntConnectionClosedPlaceLaunchPointsThrottleHundredthsPercent",
+          "FFlagActivityFeedMigrateUseDialog",
+          "FFlagAnimGraphUI_FixCanvasRepaintOnRemount",
+          "FFlagAnimationR15SwimFingerToeTracks",
+          "FFlagAssetAccessMigrateUseDialog",
+          "FFlagAssetContentMapDeserializationEnabled",
+          "FFlagAvatarSettingsControllerModeLoadTimeOnly",
+          "FFlagAvatarSettingsMigrateUseDialog",
+          "FFlagDevFrameworkUsesFoundationDialog",
+          "FFlagLegacyChatDeprecationMigrateUseDialog",
+          "FFlagRibbonMigrateUseDialog",
+          "FFlagStartPageMigrateUseDialog",
+          "FFlagStudioAutoRecoveryFlowRefactor2",
+          "FFlagTerrainPerPlaceGrid2"
+        ],
+        "changed": [
+          {
+            "after": "fc1e46cfd000ee0630dd8c9e7b028c7f2f90ccf3",
+            "before": "6cc8f4c35ec93850e2b3f05d42334c61409c9b5f",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-08T01:22:42.125Z",
+            "before": "2026-10-08T00:22:47.043Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagRobloxTelemetryEnableTestMetrics_V0"
+          },
+          {
+            "after": "fc1e46cfd000ee0630dd8c9e7b028c7f2f90ccf3",
+            "before": "6cc8f4c35ec93850e2b3f05d42334c61409c9b5f",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-08T01:22:42.125Z",
+            "before": "2026-10-08T00:22:47.043Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagMemoryPrioritizationHeapCompactRateLimit_Staged",
+          "DFIntConnectionClosedMatchmakingPointsThrottleHundredthsPercent_Staged",
+          "DFIntConnectionClosedNonePointsThrottleHundredthsPercent_Staged",
+          "DFIntConnectionClosedPlaceLaunchPointsThrottleHundredthsPercent_Staged",
+          "FFlagActivityFeedMigrateUseDialog_Staged",
+          "FFlagAnimGraphUI_FixCanvasRepaintOnRemount_Staged",
+          "FFlagAnimationR15SwimFingerToeTracks_Staged",
+          "FFlagAssetAccessMigrateUseDialog_Staged",
+          "FFlagAssetContentMapDeserializationEnabled_Staged",
+          "FFlagAvatarSettingsControllerModeLoadTimeOnly_Staged",
+          "FFlagAvatarSettingsMigrateUseDialog_Staged",
+          "FFlagDevFrameworkUsesFoundationDialog_Staged",
+          "FFlagLegacyChatDeprecationMigrateUseDialog_Staged",
+          "FFlagRibbonMigrateUseDialog_Staged",
+          "FFlagRobloxTelemetryEnableTestMetrics_V0_Staged",
+          "FFlagStartPageMigrateUseDialog_Staged",
+          "FFlagStudioAutoRecoveryFlowRefactor2_Staged",
+          "FFlagTerrainPerPlaceGrid2_Staged"
+        ],
+        "unchanged": 23050
+      }
+    },
+    "Web": {
+      "current": "2cdbc6419912a34b35bdaa339ba355c96f1230b197fe63161afe4b652134a35c",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "4b4be3994b217b030082924d29ab055ababd20e4d9091c7114ea559da0f288eb",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
