@@ -1,0 +1,166 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "93ab9039d301c0ceee57aac75b139e2e81bd59735ce753cd5c00aa547d42b0ff",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "f57bbcc0584a4c98bfce1e473eb217e22228760a4aee03c0e73a8a6f49b2337f",
+      "semantic": {
+        "added": [
+          "DFFlagAllowFtsVendorPinning",
+          "DFFlagFixDLICHandoffAttemptedPlacement",
+          "DFFlagMemoryPrioritizationHeapCompactRateLimit_Staged",
+          "DFFlagRCCInstanceTrackingIsolationTag",
+          "DFFlagRuppAllowImmediateTokenRegeneration",
+          "DFIntAssetQualityValidationPollingIntervalMs",
+          "DFIntConnectionClosedMatchmakingPointsThrottleHundredthsPercent_Staged",
+          "DFIntConnectionClosedNonePointsThrottleHundredthsPercent_Staged",
+          "DFIntConnectionClosedPlaceLaunchPointsThrottleHundredthsPercent_Staged",
+          "DFIntConnectionClosedPlayerPointsThrottleHundredthsPercent",
+          "DFIntConnectionClosedPortPointsThrottleHundredthsPercent",
+          "DFIntConnectionClosedReplicationPointsThrottleHundredthsPercent",
+          "DFIntConnectionClosedSecurityPointsThrottleHundredthsPercent",
+          "DFIntConnectionClosedStudioPointsThrottleHundredthsPercent",
+          "DFIntConnectionClosedTeleportPointsThrottleHundredthsPercent",
+          "FFlagAXMarketplaceItemCardIndicatorStack",
+          "FFlagAXMarketplaceLicensing",
+          "FFlagAXMarketplaceLicensingItemCards2",
+          "FFlagAXMarketplaceLicensingItemDetails3",
+          "FFlagAXRemoveDynamicHeadBadge",
+          "FFlagAXWidgetListWindowSizeByMemoryTier_IXP",
+          "FFlagActivityFeedMigrateUseDialog_Staged",
+          "FFlagAmpV2WizardNoCanvasGroupDim",
+          "FFlagAmrAcceptFriendlyEnumNames",
+          "FFlagAnimGraphUI_FixCanvasRepaintOnRemount_Staged",
+          "FFlagAnimationR15SwimFingerToeTracks_Staged",
+          "FFlagAppChatIxpParallelScreenLayers",
+          "FFlagAssetAccessMigrateUseDialog_Staged",
+          "FFlagAssetContentMapDeserializationEnabled_Staged",
+          "FFlagAvatarSettingsControllerModeLoadTimeOnly_Staged",
+          "FFlagAvatarSettingsMigrateUseDialog_Staged",
+          "FFlagDevFrameworkUsesFoundationDialog_Staged",
+          "FFlagEnableCategoryLoggingInShop",
+          "FFlagFixGridListenerLifecycle",
+          "FFlagFoundationNumberInputBeta",
+          "FFlagGpuVoxelCompression",
+          "FFlagGraphicsMetalFixInstancedStreamClobber",
+          "FFlagLegacyChatDeprecationMigrateUseDialog_Staged",
+          "FFlagLuaAppAddHasOneByTwoFieldSdui",
+          "FFlagLuaAppEnableOneByTwoTileFunnelTelemetry",
+          "FFlagLuaAppOneByTwoHoverIdleAutoplay",
+          "FFlagParseStableCategoryId",
+          "FFlagPlayerSupportStructuredErrorReasons",
+          "FFlagRenderEnvMapUseRoomCenterForCapture",
+          "FFlagRibbonMigrateUseDialog_Staged",
+          "FFlagRobloxTelemetryEnableTestMetrics_V0_Staged",
+          "FFlagRouteStandaloneAmpThroughUniversalApp",
+          "FFlagSessionReparentL2OnL1Transition",
+          "FFlagStartPageMigrateUseDialog_Staged",
+          "FFlagStratusSessionHistoryV2",
+          "FFlagStudioAutoRecoveryFlowRefactor2_Staged",
+          "FFlagTerrainPerPlaceGrid2_Staged",
+          "FStringLibMpHtmlAssetsBaseUrl",
+          "FStringPublishStatusFallbackPath"
+        ],
+        "changed": [
+          {
+            "after": "6cc8f4c35ec93850e2b3f05d42334c61409c9b5f",
+            "before": "695077d3dd524db2708778e41bd4aebbec76998c",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-08T00:22:47.043Z",
+            "before": "2026-10-07T22:10:39.577Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagDMPatcherCloneToDestinationEngineContext"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagVideoSpsAdaptiveDecodeLatency"
+          },
+          {
+            "after": "6cc8f4c35ec93850e2b3f05d42334c61409c9b5f",
+            "before": "695077d3dd524db2708778e41bd4aebbec76998c",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-08T00:22:47.043Z",
+            "before": "2026-10-07T22:10:39.577Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagFixDLICHandoffAttemptedPlacement_Staged",
+          "DFFlagRuppAllowImmediateTokenRegeneration_Staged",
+          "FFlagAXMarketplaceItemCardIndicatorStack_Staged",
+          "FFlagAXMarketplaceLicensingItemCards2_Staged",
+          "FFlagAXMarketplaceLicensingItemDetails3_Staged",
+          "FFlagAXMarketplaceLicensing_Staged",
+          "FFlagAXRemoveDynamicHeadBadge_Staged",
+          "FFlagAmpV2WizardNoCanvasGroupDim_Staged",
+          "FFlagAmrAcceptFriendlyEnumNames_Staged",
+          "FFlagAppChatIxpParallelScreenLayers_Staged",
+          "FFlagDMPatcherCloneToDestinationEngineContext_Staged",
+          "FFlagEnableCategoryLoggingInShop_Staged",
+          "FFlagFixGridListenerLifecycle_Staged",
+          "FFlagFlatMidPhase_Staged",
+          "FFlagFoundationNumberInputBeta_Staged",
+          "FFlagGpuVoxelCompression_Staged",
+          "FFlagGraphicsMetalFixInstancedStreamClobber_Staged",
+          "FFlagLuaAppAddHasOneByTwoFieldSdui_Staged",
+          "FFlagLuaAppEnableOneByTwoTileFunnelTelemetry_Staged",
+          "FFlagLuaAppOneByTwoHoverIdleAutoplay_Staged",
+          "FFlagMeshContentProviderFutureApi2_Staged",
+          "FFlagParseStableCategoryId_Staged",
+          "FFlagPlayerSupportStructuredErrorReasons_Staged",
+          "FFlagRenderEnvMapUseRoomCenterForCapture_Staged",
+          "FFlagRouteStandaloneAmpThroughUniversalApp_Staged",
+          "FFlagSessionReparentL2OnL1Transition_Staged",
+          "FFlagStratusSessionHistoryV2_Staged",
+          "FFlagVideoSpsAdaptiveDecodeLatency_Staged",
+          "FStringLibMpHtmlAssetsBaseUrl_Staged",
+          "FStringPublishStatusFallbackPath_Staged"
+        ],
+        "unchanged": 23013
+      }
+    },
+    "Web": {
+      "current": "4b4be3994b217b030082924d29ab055ababd20e4d9091c7114ea559da0f288eb",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/ReactStyleGuide.js",
+          "js.rbxcdn.com/page-0/StyleGuide.js",
+          "js.rbxcdn.com/page-1/ReactStyleGuide.js",
+          "js.rbxcdn.com/page-1/StyleGuide.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "6119155c492e6eb001377457d544661186ced7c4c478e09a36e242144d5b8cc2",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
