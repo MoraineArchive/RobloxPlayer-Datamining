@@ -304,11 +304,63 @@
             "filter",
             "place"
           ]
+        },
+        {
+          "after": "True;10139630272;10768492546;10761698214",
+          "before": "True;10139630272",
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/10/08/20-13-01Z_datasets",
+          "evidencePath": "2026/10/08/20-13-01Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "50b76b39d7ad0a4a755bce16318e8d555462dda2ba70a762e55a2a836649a71e",
+          "key": "DFFlagAvatarAbilitiesUseStudioBeta2Asset_UniverseFilter",
+          "kind": "LiveSettings",
+          "observedAt": "2026-10-08T20:13:01.987Z",
+          "operation": "changed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "asset",
+            "avatar",
+            "beta2",
+            "filter",
+            "universe"
+          ]
+        },
+        {
+          "after": "rbxassetid://134298046760445",
+          "before": "rbxassetid://75664971430011",
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/10/08/20-13-01Z_datasets",
+          "evidencePath": "2026/10/08/20-13-01Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "6039d2667a2690426f78545ee0dabf29fcb5290c79b8a615a7bada2229b685b5",
+          "key": "DFStringRbxAvatarAbilitiesStudioBeta2ContentUri",
+          "kind": "LiveSettings",
+          "observedAt": "2026-10-08T20:13:01.987Z",
+          "operation": "changed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "avatar",
+            "beta2",
+            "content",
+            "rbx",
+            "uri"
+          ]
         }
       ],
       "firstObservedAt": "2026-09-08T23:42:52.368Z",
       "id": "avatar-abilities",
-      "lastObservedAt": "2026-10-01T01:38:10.321Z",
+      "lastObservedAt": "2026-10-08T20:13:01.987Z",
       "lifecycle": [
         {
           "observedAt": "2026-09-09T01:37:12.973Z",

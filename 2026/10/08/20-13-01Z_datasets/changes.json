@@ -1,0 +1,256 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "3f8b5e18efb5b40e006afb0077739b7debddb0ac92b669b349d14d0c511af9ed",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "30fc9fc1638dc834fa520878e5abfa7c58b7156ddf5c858fd1974fe734943614",
+      "semantic": {
+        "added": [
+          "DFFlagCDVisFixQueryable",
+          "DFFlagEditableMeshSerialFullReadReplacesMesh",
+          "DFFlagEditableMeshSerialRenderTriangleLimit",
+          "DFFlagMomentsServiceFetchPostApi",
+          "DFFlagPowerTraceFixAndroidLPM",
+          "DFFlagPowerTraceIncludePowerDraw",
+          "DFFlagRCCSetGameIdContextAttributeEarly",
+          "DFFlagRbxTransportRtcioNativeControlChannel2",
+          "DFFlagRenderingPerfTelemetryImprovements_Staged",
+          "DFIntConnectionClosedProtocolPointsThrottleHundredthsPercent",
+          "DFIntConnectionClosedRoMarkPointsThrottleHundredthsPercent",
+          "DFIntPurchasePayloadMaxBytes",
+          "DFIntStudioPluginMemoryTelemetryPercent_Staged",
+          "FFlagAppChatFoundationSearchInputV3_IXP",
+          "FFlagAppChatWideAlwaysVisibleSearchBoxV1_IXP",
+          "FFlagAssetExportNarrowInstanceAccess",
+          "FFlagAudioTextToSpeechAutoLocalization",
+          "FFlagCacheIsLayersEnabled_Staged",
+          "FFlagEditableRemoveIdVerification_Staged",
+          "FFlagEnableCaptureUploadForSupportTicket_Staged",
+          "FFlagEnableDeferredDeeplinkRouteOnceAndroid_Staged",
+          "FFlagExpChatGlobalTabDefault_Staged",
+          "FFlagExpChatPresetAutocompleteSearchVariants",
+          "FFlagExpChatPresetChatAutocompleteEnabled3",
+          "FFlagFixWebViewProtocolShowDomainAsTitle",
+          "FFlagFmodAAudioWaitForStateChange",
+          "FFlagFoundationFontFaceMigration3",
+          "FFlagLiveScriptingUriSignals_Staged",
+          "FFlagLuauCompileRefactorFeedback_Staged",
+          "FFlagLuauLoadRemapOptionalUserdata_Staged",
+          "FFlagLuauTypeFunctionsReturnAfterAllSerialized",
+          "FFlagLuauUnconditionallyVisitTypeAliasParams",
+          "FFlagMacDisableVP9HWOpenGl_Staged",
+          "FFlagMicroProfilerStreamUi",
+          "FFlagMomentsScrubberSeekOnRelease_Staged",
+          "FFlagMomentsTTSComposerUncontrolledInput_Staged",
+          "FFlagMomentsTTSScrubberDragInOverlay_Staged",
+          "FFlagMusicPickerSongbirdAnalytics_Staged",
+          "FFlagPreserveSerializedOverrides",
+          "FFlagPresetsForAnimationVersioning_Staged",
+          "FFlagQueryDescendantsType",
+          "FFlagRealtimeMediaPermissionsOverWebRTC",
+          "FFlagRoactFitComponentsFontDatatypeSupport",
+          "FFlagRobloxSubscriptionProductsDirectFetch",
+          "FFlagSduiContentRowTrailingHover2_Staged",
+          "FFlagSeparateVideoGpuCpuMemory_Staged",
+          "FFlagSimWorldTouchListener",
+          "FFlagSkipGpuVoxelsWithoutVT_Staged",
+          "FFlagSlimDebugTintBetaFeature_Staged",
+          "FFlagSlimDevConsole2_Staged",
+          "FFlagSlimFixCSGDecalUVs_Staged",
+          "FFlagSlimPBRDecals_Staged",
+          "FFlagStudioReplaceGSTWithIdInPluginManager",
+          "FFlagStudioScriptModificationTracking1",
+          "FFlagVirtualCursorModularization5_Staged",
+          "FFlagWrapDeformerAvoidParallelPropertySetSolvesForSameHash_Staged",
+          "FFlagWrapDeformerCoalesceStructuralInvalidationBeforeFetch"
+        ],
+        "changed": [
+          {
+            "after": "True;10139630272;10768492546;10761698214",
+            "before": "True;10139630272",
+            "name": "DFFlagAvatarAbilitiesUseStudioBeta2Asset_UniverseFilter"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagCapturePlayerGuiScreenshotAndBuildVideos"
+          },
+          {
+            "after": "True;10139630272;10768492546;10761698214",
+            "before": "True;10139630272",
+            "name": "DFFlagClimbSensorUseLookAsNormal_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10768492546;10761698214",
+            "before": "True;10139630272",
+            "name": "DFFlagPlayerControlStateAcceptOldSchema_UniverseFilter"
+          },
+          {
+            "after": "cf80940bba0e403e7bb017d6e760708deb6cbe28",
+            "before": "3c6fd37decf04d299d326fdf5683dfdda59e5053",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-08T20:10:51.919Z",
+            "before": "2026-10-08T16:49:42.501Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "rbxassetid://134298046760445",
+            "before": "rbxassetid://75664971430011",
+            "name": "DFStringRbxAvatarAbilitiesStudioBeta2ContentUri"
+          },
+          {
+            "after": "True;10139630272;10768492546;10761698214",
+            "before": "True;10139630272",
+            "name": "FFlagAnimationSAIdleOnMovingPlatformFix_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10768492546;10761698214",
+            "before": "True;10139630272",
+            "name": "FFlagAvatarSettingsClientInitializeScriptType_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10768492546;10761698214",
+            "before": "True;10139630272",
+            "name": "FFlagAvatarSettingsCrouchSprintStrafe3_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10768492546;10761698214",
+            "before": "True;10139630272",
+            "name": "FFlagAvatarSettingsTurning_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10768492546;10761698214",
+            "before": "True;10139630272",
+            "name": "FFlagCclClientInitializeFrom2026Jun03AbilityManagerRepo3_UniverseFilter"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagMakeupSingleAssetUploadEnabled2"
+          },
+          {
+            "after": "True;10139630272;10768492546;10761698214",
+            "before": "True;10139630272",
+            "name": "FFlagPlayerControlStateApplyInputOnClientNonSAuth2_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10768492546;10761698214",
+            "before": "True;10139630272",
+            "name": "FFlagPlayerControlStateEnabled_UniverseFilter"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagPromptCreateMakeupAsyncEnabled5"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagSlimLoadBalancerCommon3"
+          },
+          {
+            "after": "True;10139630272;10768492546;10761698214",
+            "before": "True;10139630272",
+            "name": "FFlagUserAbilitiesUserInterfaceA_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10768492546;10761698214",
+            "before": "True;10139630272",
+            "name": "FFlagUserAbilitiesUserInterfaceB_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10768492546;10761698214",
+            "before": "True;10139630272",
+            "name": "FFlagUserCCLNoSwimAnimationsFix_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10768492546;10761698214",
+            "before": "True;10139630272",
+            "name": "FFlagUserDoubleJumpButtonFix_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10768492546;10761698214",
+            "before": "True;10139630272",
+            "name": "FFlagUserPlayerScriptsCCLIntegrationD_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10768492546;10761698214",
+            "before": "True;10139630272",
+            "name": "FFlagUserPlayerScriptsPlayerControlState2_UniverseFilter"
+          },
+          {
+            "after": "cf80940bba0e403e7bb017d6e760708deb6cbe28",
+            "before": "3c6fd37decf04d299d326fdf5683dfdda59e5053",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-08T20:10:51.919Z",
+            "before": "2026-10-08T16:49:42.501Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "Social.ConnectionsHub,App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,Consoles.App,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass.RobuxUpsell,Universality.AppNav,Social.ProfileViewSocialLinks,Social.JoinGameCardViewProfile,HomePage.UpsellCard,AvatarMarketplace.WidgetPlatformSorts,Universality.FoundationColors,Universality.AppNav.2,AvatarExperience.UA.ActionBarView,Universality.MorePage,UniversalApp.MoreLayout.Exposure,Experience.Menu.Settings.Exposure,PlayerApp.HomePage.UX.TileLayer,Social.FriendsCarouselAddFriendsEntry,Social.PartyRollout,PlayerApp.HomePage.UX.WholePageRanking,Social.PartyVoice,PlatformExcellence.Consoles.Features,ProfileQRCodeScannerLayer,AvatarExperience.UA.SearchView,Social.ViewFriendSortInGameFriends,Social.AppChat,Social.CommunityProfileView,UIEcosystem.User,InExperience.Performance,CreatorSuccess.VirtualEvents,ContactImporter.DevicePermissionNeededModal.Exposure,PlayerApp.ConsoleAndVR.HomePage.UX.TileLayer,PlayerApp.Homepage.Serving.SDUI,Experience.Menu.VR,UIEcosystem.User.Migration,User.Communication.ConsoleVoice,Social.RM,Party.Coordination.ExperienceJoin2,PlayerApp.GameDetailsPage.Exposure,CoreServices.Thumbnail.ServeThumbnailsFromEdge,Experience.Menu.HelpPage.Exposure,Social.ProfilePeekView.Secondary,Economy.DeveloperMonetization.EdpVirtualProductsRanking,Universality.MorePage.Access,Party.ConversationPage,Party.PartySheet,Party.LandingPage,Party.EntryPoint,Party.Toast,Party.Push,PlayerApp.Badges.Exposure,Party.Coordination.UnifyCoplay,Social.SelfUserProfileCompletion,PartySchedule,AvatarMarketplace.TimedOption,ExperienceChat.SystemMessages,Portal.UniverseChat.NewInputBar-1781035962,AvatarExperience.UA.AllViews.Secondary,P13N.TopCharts.ChartsMigration,Social.MomentsMigration,Discovery.Homepage.NotInterestedCoachmark.Exposure,Ads.RewardedAds.PlayWithRewardBeta.Android,PlayerApp.Homepage.Serving.Evidence,PlayerApp.Homepage.Serving.EvidenceV2,Party.Coordination.ExperienceJoin3,PlayerApp.SearchResultsPage.PowerSearch,UniversalApp.PageLoad,UniverseChat.PresetChatAutocomplete,UniversalApp.SettingsRootPage,Ads.GamePreviewVideo,User.Communication.HasChatAccess.JoinGame.UserId",
+            "before": "Social.ConnectionsHub,App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,Consoles.App,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass.RobuxUpsell,Universality.AppNav,Social.ProfileViewSocialLinks,Social.JoinGameCardViewProfile,HomePage.UpsellCard,AvatarMarketplace.WidgetPlatformSorts,Universality.FoundationColors,Universality.AppNav.2,AvatarExperience.UA.ActionBarView,Universality.MorePage,UniversalApp.MoreLayout.Exposure,Experience.Menu.Settings.Exposure,PlayerApp.HomePage.UX.TileLayer,Social.FriendsCarouselAddFriendsEntry,Social.PartyRollout,PlayerApp.HomePage.UX.WholePageRanking,Social.PartyVoice,PlatformExcellence.Consoles.Features,ProfileQRCodeScannerLayer,AvatarExperience.UA.SearchView,Social.ViewFriendSortInGameFriends,Social.AppChat,Social.CommunityProfileView,UIEcosystem.User,InExperience.Performance,CreatorSuccess.VirtualEvents,ContactImporter.DevicePermissionNeededModal.Exposure,PlayerApp.ConsoleAndVR.HomePage.UX.TileLayer,PlayerApp.Homepage.Serving.SDUI,Experience.Menu.VR,UIEcosystem.User.Migration,User.Communication.ConsoleVoice,Social.RM,Party.Coordination.ExperienceJoin2,PlayerApp.GameDetailsPage.Exposure,CoreServices.Thumbnail.ServeThumbnailsFromEdge,Experience.Menu.HelpPage.Exposure,Social.ProfilePeekView.Secondary,Economy.DeveloperMonetization.EdpVirtualProductsRanking,Universality.MorePage.Access,Party.ConversationPage,Party.PartySheet,Party.LandingPage,Party.EntryPoint,Party.Toast,Party.Push,PlayerApp.Badges.Exposure,Party.Coordination.UnifyCoplay,Social.SelfUserProfileCompletion,PartySchedule,AvatarMarketplace.TimedOption,ExperienceChat.SystemMessages,Portal.UniverseChat.NewInputBar-1781035962,AvatarExperience.UA.AllViews.Secondary,P13N.TopCharts.ChartsMigration,Social.MomentsMigration,Discovery.Homepage.NotInterestedCoachmark.Exposure,Ads.RewardedAds.PlayWithRewardBeta.Android,PlayerApp.Homepage.Serving.Evidence,PlayerApp.Homepage.Serving.EvidenceV2,Party.Coordination.ExperienceJoin3,PlayerApp.SearchResultsPage.PowerSearch,UniversalApp.PageLoad,UniverseChat.PresetChatAutocomplete,UniversalApp.SettingsRootPage,Ads.GamePreviewVideo",
+            "name": "FStringIxpNewLayersForRegistration"
+          }
+        ],
+        "removed": [
+          "DFFlagCDVisFixQueryable_Staged",
+          "DFFlagCapturePlayerGuiScreenshotAndBuildVideos_IXP",
+          "DFFlagMomentsServiceFetchPostApi_Staged",
+          "DFIntConnectionClosedProtocolPointsThrottleHundredthsPercent_Staged",
+          "DFIntConnectionClosedRoMarkPointsThrottleHundredthsPercent_Staged",
+          "FFlagAudioTextToSpeechAutoLocalization_Staged",
+          "FFlagFmodAAudioWaitForStateChange_Staged",
+          "FFlagLuauTypeFunctionsReturnAfterAllSerialized_Staged",
+          "FFlagLuauUnconditionallyVisitTypeAliasParams_Staged",
+          "FFlagMicroProfilerStreamUi_Staged",
+          "FFlagPreserveSerializedOverrides_Staged",
+          "FFlagRealtimeMediaPermissionsOverWebRTC_Staged",
+          "FFlagWrapDeformerCoalesceStructuralInvalidationBeforeFetch_Staged"
+        ],
+        "unchanged": 23045
+      }
+    },
+    "Web": {
+      "current": "de644063392ede2bb7b5275cf9ebf2f73cd837c9ad639f6450e2398828674c3a",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-0/ItemPurchase.js",
+          "js.rbxcdn.com/page-0/Navigation.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-1/ItemPurchase.js",
+          "js.rbxcdn.com/page-1/Navigation.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 216
+      },
+      "previous": "2b34f75ba27b0210ae903abe0c81f53b48b10f0b4ac1113fe96fbcc4959bbf2d",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
