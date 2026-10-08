@@ -1,0 +1,74 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "a3c1cc74daf0bf4dcdd1fd5c1dfda413d4411f8fe009f97e4f2c9508e08b8188",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "3e9a4fe98f097435e42c51154992c9628d85974d85286d234ac5c08cb3f3e88e",
+      "semantic": {
+        "added": [
+          "DFIntScriptModificationTrackingEventThrottleHundredthsPercent_Staged",
+          "FFlagBuildExperienceChatCaptureGalleryNewestFirst_Staged",
+          "FFlagBuildExperienceChatHistoryPrefetch2_Staged",
+          "FFlagBuildExperienceConfirmStop_Staged",
+          "FFlagBuildExperienceRefreshChatDraftOnGameLeave_Staged",
+          "FFlagCacheIsLayersEnabled",
+          "FFlagEnableCaptureUploadForSupportTicket",
+          "FFlagExpChatGlobalTabDefault",
+          "FFlagISRAttributeReplicationRobustness_Staged",
+          "FFlagPromptsActionEventLogging",
+          "FFlagSplitHashNoRehashOnExistingKey_Staged"
+        ],
+        "changed": [
+          {
+            "after": "6b589afe0e0b6ba0ff9fd5787aa3aa68d2bb6277",
+            "before": "b87402c5711dfa900a2502dd46e4eae98fdf4645",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-08T22:24:08.924Z",
+            "before": "2026-10-08T22:08:50.817Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "1;Universality.MorePage.Access;UniversalApp.FlyoutSidePanel.Desktop.2;1461475554;flagbank",
+            "before": "1;Universality.MorePage.Access;UniversalApp.FlyoutSidePanel.3;1461475554;flagbank",
+            "name": "FIntFlyoutTestVariantRollout12_IXP"
+          },
+          {
+            "after": "6b589afe0e0b6ba0ff9fd5787aa3aa68d2bb6277",
+            "before": "b87402c5711dfa900a2502dd46e4eae98fdf4645",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-08T22:24:08.924Z",
+            "before": "2026-10-08T22:08:50.817Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagCacheIsLayersEnabled_Staged",
+          "FFlagEnableCaptureUploadForSupportTicket_Staged",
+          "FFlagExpChatGlobalTabDefault_Staged",
+          "FFlagPromptsActionEventLogging_Staged"
+        ],
+        "unchanged": 23160
+      }
+    }
+  },
+  "schemaVersion": 1
+}
