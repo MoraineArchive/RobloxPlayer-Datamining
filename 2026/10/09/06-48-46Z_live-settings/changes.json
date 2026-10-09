@@ -1,0 +1,56 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "ad6b2af8eacc45949fb32892cf8ff34ba18e17193bb95704b64f675c5d0f26e8",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "16a8c815c36417bc2b353d0f23f623daa284a3ebf95f23a3fcfbdc8ef8ec3f93",
+      "semantic": {
+        "added": [
+          "FFlagRobloxPlusTrialDiscountTiming"
+        ],
+        "changed": [
+          {
+            "after": "a00534e0c6e3019dabf77f491be7d336c29c3e3f",
+            "before": "b53f2a25eec8d0b05593bdffaddfb622d0c97fd5",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-09T03:02:27.164Z",
+            "before": "2026-10-09T02:02:18.986Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "a00534e0c6e3019dabf77f491be7d336c29c3e3f",
+            "before": "b53f2a25eec8d0b05593bdffaddfb622d0c97fd5",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-09T03:02:27.164Z",
+            "before": "2026-10-09T02:02:18.986Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagRobloxPlusTrialDiscountTiming_Staged"
+        ],
+        "unchanged": 23200
+      }
+    }
+  },
+  "schemaVersion": 1
+}
