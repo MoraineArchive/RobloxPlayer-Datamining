@@ -1,0 +1,139 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "20311e026f6dda4bd17a7d7ec8d735e57d50b2f52756e4bc98666a7b6a644d46",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "f8f34659cc0cf179d09afb16134c400c3056d5d06d7e09761691990e2e2bcce3",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 27
+        }
+      }
+    },
+    "InExperience": {
+      "current": "451f6dc227f4a73d9fd0e136718cf4ffc2c63f63adf2b7be0ff7b44cd2beee6a",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "db5f0f131496c2fb0ede005adf48d9312b8d90a94b7ba0baf28644d973c70abb",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "3ca6a5d3f5c00f05ceea28651d71e96eb16738f2d61996abf069cfe10ad12530",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "278e782402a35e284de27bffabfed0517c871d0f5064cbecda4b4f8b61e8e4d6",
+      "semantic": {
+        "added": [
+          "DFFlagRemoteProfilerCaptureAtFlipUseXHtmlDump_Staged",
+          "FFlagMicroProfilerUiUseXHtmlDump_Staged",
+          "FFlagMomentsTextOverlayColorPickerIcon_Staged",
+          "FFlagMomentsTextOverlayFixedContrast_Staged"
+        ],
+        "changed": [
+          {
+            "after": "13061be96c38a883b777800b7b623252b0d479e3",
+            "before": "28728441235382bffc2e6d65f0c525a4a2fc8665",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-09T16:32:54.067Z",
+            "before": "2026-10-09T16:15:19.312Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "13061be96c38a883b777800b7b623252b0d479e3",
+            "before": "28728441235382bffc2e6d65f0c525a4a2fc8665",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-09T16:32:54.067Z",
+            "before": "2026-10-09T16:15:19.312Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 23205
+      }
+    },
+    "UniversalApp": {
+      "current": "27100fbee015d1937ef253d20624df560d247bb2ebec514bc43fe2052d0e09b4",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "2b9e504b52b5a3e4c075aa8625a22df40eb4fd95db5d2d60536701f675edf6fd",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "6a4b34ec1ba949aca3d693913c3a2f80759c71869b0795bd1224cc44f8753f6e",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/Sentry.js",
+          "js.rbxcdn.com/page-1/Sentry.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "21613fa4e7c1add3ec50260a9f8fff9c4b264fc43f6a9ecbfe7b3bc3e1e1490b",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
