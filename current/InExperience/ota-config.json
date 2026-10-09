@@ -1,7 +1,7 @@
 {
   "appStorageResetId": "0",
   "assetId": "80471914653504",
-  "assetVersion": "14669",
+  "assetVersion": "14878",
   "assetsManifest": {
     "100119004605329": "content/textures/ui/LuaChat/graphic/gr-indicator-ingame-14x14@3x.png",
     "100348805600292": "content/textures/ui/LuaChat/icons/ic-close-gray2@3x.png",
@@ -528,9 +528,9 @@
   "isForcedUpdate": false,
   "isStandalone": null,
   "localAssetURI": "rbxasset://models/InExperience/InExperience.rbxm",
-  "maxAppVersion": "742",
+  "maxAppVersion": "743",
   "name": "InExperience",
   "tryoutName": null,
-  "version": "14669",
-  "versionV2": 23163
+  "version": "14878",
+  "versionV2": 23802
 }

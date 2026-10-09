@@ -1,0 +1,125 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "f8f34659cc0cf179d09afb16134c400c3056d5d06d7e09761691990e2e2bcce3",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "4fd573ae5f4f012700d79805e5ebf8d1ede9c14c8a4082f29bd75369d22b1e63",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 27
+        }
+      }
+    },
+    "InExperience": {
+      "current": "db5f0f131496c2fb0ede005adf48d9312b8d90a94b7ba0baf28644d973c70abb",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json",
+          "ota-config.json"
+        ],
+        "removed": [],
+        "unchanged": 8
+      },
+      "previous": "33b4e50bccaa8a808c6f2b5ae1894dfa71877fc8a7002b8fc4b85b2f1fcf9ee7",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "278e782402a35e284de27bffabfed0517c871d0f5064cbecda4b4f8b61e8e4d6",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "6fcdcafa71bab5f42584a8229f04e85af2e078b32c05940aad34f8aa3d060ec7",
+      "semantic": {
+        "added": [
+          "DFIntPCGDKFunctionsErrorThrottleHundredthsPercent_Staged",
+          "FFlagDMCTMigrateTextBoxCursorSelection_Staged",
+          "FFlagDMCTMigrateWorkspace_Staged",
+          "FFlagLuauCodeGenFastpcall2_Staged"
+        ],
+        "changed": [
+          {
+            "after": "28728441235382bffc2e6d65f0c525a4a2fc8665",
+            "before": "ee5a5620b9db6715683c4f3fca640770dbbe3dc8",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-09T16:15:19.312Z",
+            "before": "2026-10-09T16:02:57.238Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "28728441235382bffc2e6d65f0c525a4a2fc8665",
+            "before": "ee5a5620b9db6715683c4f3fca640770dbbe3dc8",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-09T16:15:19.312Z",
+            "before": "2026-10-09T16:02:57.238Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 23201
+      }
+    },
+    "UniversalApp": {
+      "current": "2b9e504b52b5a3e4c075aa8625a22df40eb4fd95db5d2d60536701f675edf6fd",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json",
+          "ota-config.json"
+        ],
+        "removed": [],
+        "unchanged": 6
+      },
+      "previous": "0c548d0a81e2e67d43d95142d03e2c73472d8055f7bbb83aefb6d59f72835f65",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
