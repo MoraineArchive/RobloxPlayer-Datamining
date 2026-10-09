@@ -1,0 +1,169 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "918fb8ee62f7a95fe893386c47cc47354d304b47c38fc6be3386f26239875ca3",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "20311e026f6dda4bd17a7d7ec8d735e57d50b2f52756e4bc98666a7b6a644d46",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 27
+        }
+      }
+    },
+    "InExperience": {
+      "current": "6919d08c0d3f0a3a86b1e35bef8d6752cd85859163be134c9a38a4ba2cd73975",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "451f6dc227f4a73d9fd0e136718cf4ffc2c63f63adf2b7be0ff7b44cd2beee6a",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "5c29b53295c0da68072a54373b8df6441ffd48f07467d056b648b219bd57c106",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "3ca6a5d3f5c00f05ceea28651d71e96eb16738f2d61996abf069cfe10ad12530",
+      "semantic": {
+        "added": [
+          "DFFlagRbxTransportQuicEmptyPayloadNoFinFix3",
+          "DFFlagRbxTransportQuicStableStreamContexts",
+          "DFFlagRemoteProfilerCaptureAtFlipUseXHtmlDump",
+          "DFFlagRemoteProfilerCaptureAtFlip_Staged",
+          "DFIntDeferredRbxmDownloadFetchTimeoutMs",
+          "DFIntQuicPacketReceivedPacketAggregationTimeThresholdInSeconds_Staged",
+          "DFIntQuicPacketSendPacketAggregationCountThreshold_Staged",
+          "DFIntQuicPacketSendPacketAggregationTimeThresholdInSeconds_Staged",
+          "FFlagBuildAdUpsell4_Staged",
+          "FFlagBuildExperienceDevProductRecovery_Staged",
+          "FFlagBuildExperienceManageDevProduct_Staged",
+          "FFlagBuildExperienceMonetizationNativeUI2_Staged",
+          "FFlagBuildExperiencePublishedShareLink_Staged",
+          "FFlagDMCTMigrateTextBoxCursorSelection",
+          "FFlagDMCTMigrateWorkspace",
+          "FFlagEnableBuildAdPromotion6_Staged",
+          "FFlagEnablePaidAds4_Staged",
+          "FFlagLuaAppPlayButtonPrivatePTEnableSingleButton",
+          "FFlagLuaAppPlayButtonPrivatePTSupport",
+          "FFlagLuauBufferCage_Staged",
+          "FFlagLuauCodeGenFastpcall2",
+          "FFlagMicroProfilerUiUseXHtmlDump",
+          "FFlagMomentsCommentActionsRealtime_Staged",
+          "FFlagMomentsComments2_IXP",
+          "FFlagMomentsCommentsCountAnalytics_Staged",
+          "FFlagMomentsCommentsIxpEnabled_IXP",
+          "FFlagMomentsReportButtonAnalytics_Staged",
+          "FFlagMomentsTextOverlayColorPickerIcon",
+          "FFlagMomentsTextOverlayFixedContrast",
+          "FFlagStudioReplaceGSTWithIdForPluginRelay_Staged",
+          "FStringPerformanceControlComputePrimaryTunableConfigJson_Staged"
+        ],
+        "changed": [
+          {
+            "after": "100",
+            "before": "500",
+            "name": "DFIntPCGDKFunctionsErrorThrottleHundredthsPercent"
+          },
+          {
+            "after": "3261a1aa727ac53f5cd864bc0cd228a227be51d5",
+            "before": "13061be96c38a883b777800b7b623252b0d479e3",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-09T19:02:46.392Z",
+            "before": "2026-10-09T16:32:54.067Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "400;17625359962;18126510175;71874690745115;117398147513099;129604661913557;133215910299950;8712817601;72794186691769;121844478504211;126050458756269;139094215325277;10449761463;12360882630;130818724007978;131048399685555;1962086868;3582763398;5253186791;7227293156;7237794334;7237795212;94971861814985;9391468976;17016840407;73956553001240;74691681039273;85395484560711;86789627188240;96802054849934;102580589030177;103521881639626;109684591839194;117134837736236;134314141048307;17516596118;86696142930150;92980558919575;97804379417079;100040622766961;105357751512007;108428559529058;110169684430399;122181485177067;128220027114734;131008473296170;134474332601640;3351674303;5918142776;12633767856;12633809000;15547586975;71775212858107;99421106727783;126851911577827;13772394625;14368557094;14732610803;14915220621;15131065025;15144787112;15185247558;15234596844;15264892126;15509350986;15517169103;15552588346;15582821022;15582823307;16044264830;16281300371;16331595046;16331596518;16331598816;16331600459;16456370330;16581637217;16581648071;17757592456;71039363739363;92458008626219;97204747083036;111661204337143;14315258385;15266870117;15772804763;16071359275;16213033715;102822770050361;109525531177846;122871537893081;131227677343500;5154858502;9786129743;18746877890;18746880008;18746890645;18746891831;18746893663;12355337193;13771457545;14195703130;15385224902;71613907306319;75453361115735;75012837977315;75595554329924;93411036959889;95082159892680;101521033763856;110562057660902;116669109771779;118941584817777;126722955844429;128614435234859;132203136173938;1818;92416421522960;101402127000136;108455473966865;112296196649210;2338325648;4822225642;4940687511;7097139127;7098347455;7098347570;11414445247;12770493773;12986634964;12986636453;12986638725;13415948659;13834702475;14801724413;15098628040;17685156577;17685159087;17685161741;17685164681;17685181130;93001350941802;125444254609144",
+            "before": "800;17625359962;18126510175;71874690745115;117398147513099;129604661913557;133215910299950;8712817601;72794186691769;121844478504211;126050458756269;139094215325277;10449761463;12360882630;130818724007978;131048399685555;1962086868;3582763398;5253186791;7227293156;7237794334;7237795212;94971861814985;9391468976;17016840407;73956553001240;74691681039273;85395484560711;86789627188240;96802054849934;102580589030177;103521881639626;109684591839194;117134837736236;134314141048307;17516596118;86696142930150;92980558919575;97804379417079;100040622766961;105357751512007;108428559529058;110169684430399;122181485177067;128220027114734;131008473296170;134474332601640;3351674303;5918142776;12633767856;12633809000;15547586975;71775212858107;99421106727783;126851911577827;13772394625;14368557094;14732610803;14915220621;15131065025;15144787112;15185247558;15234596844;15264892126;15509350986;15517169103;15552588346;15582821022;15582823307;16044264830;16281300371;16331595046;16331596518;16331598816;16331600459;16456370330;16581637217;16581648071;17757592456;71039363739363;92458008626219;97204747083036;111661204337143;14315258385;15266870117;15772804763;16071359275;16213033715;102822770050361;109525531177846;122871537893081;131227677343500;5154858502;9786129743;18746877890;18746880008;18746890645;18746891831;18746893663;12355337193;13771457545;14195703130;15385224902;71613907306319;75453361115735;75012837977315;75595554329924;93411036959889;95082159892680;101521033763856;110562057660902;116669109771779;118941584817777;126722955844429;128614435234859;132203136173938;1818;92416421522960;101402127000136;108455473966865;112296196649210;2338325648;4822225642;4940687511;7097139127;7098347455;7098347570;11414445247;12770493773;12986634964;12986636453;12986638725;13415948659;13834702475;14801724413;15098628040;17685156577;17685159087;17685161741;17685164681;17685181130;93001350941802;125444254609144",
+            "name": "FIntEnableDataModelChangeTrackingHundredthPercent_PlaceFilter"
+          },
+          {
+            "after": "3261a1aa727ac53f5cd864bc0cd228a227be51d5",
+            "before": "13061be96c38a883b777800b7b623252b0d479e3",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-09T19:02:46.392Z",
+            "before": "2026-10-09T16:32:54.067Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagRemoteProfilerCaptureAtFlipUseXHtmlDump_Staged",
+          "DFIntPCGDKFunctionsErrorThrottleHundredthsPercent_Staged",
+          "FFlagDMCTMigrateTextBoxCursorSelection_Staged",
+          "FFlagDMCTMigrateWorkspace_Staged",
+          "FFlagLuauCodeGenFastpcall2_Staged",
+          "FFlagMicroProfilerUiUseXHtmlDump_Staged",
+          "FFlagMomentsTextOverlayColorPickerIcon_Staged",
+          "FFlagMomentsTextOverlayFixedContrast_Staged"
+        ],
+        "unchanged": 23199
+      }
+    },
+    "UniversalApp": {
+      "current": "63788d3a5c675d730eb5ffde37d27d53ff3e5040a21da0c666975029cc33eafa",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "27100fbee015d1937ef253d20624df560d247bb2ebec514bc43fe2052d0e09b4",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
