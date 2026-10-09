@@ -1,0 +1,88 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "271661dfdc99dc3826ce2c589cc4e768ff6ddeb0a4f4de8060bd5c20e7fb0da3",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "dc6b71993993823dcd131d9a8b06790677601d002bf89088182a10a3da186af6",
+      "semantic": {
+        "added": [
+          "FFlagAppChatContextCardNameLoadingShimmer",
+          "FFlagAppChatInvalidGameLinkCard",
+          "FFlagDeviceSimulatorRefreshBetaFeature2",
+          "FFlagDeviceSimulatorToolbarPluginGui3",
+          "FFlagEnableDeviceSimulatorToolbar",
+          "FFlagRenameEmulatorToSimulator",
+          "FFlagSimAeroCancelExpiredOccludedMeshTask",
+          "FFlagSplitHashNoRehashOnExistingKey",
+          "FStringExpChatGlobalTabDefaultExperimentLayer"
+        ],
+        "changed": [
+          {
+            "after": "74929010b2727ca314db9126643c3340d457ba82",
+            "before": "8202bb2c2506709c124a34f3cba906d62f79ccd0",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-09T01:52:43.480Z",
+            "before": "2026-10-09T00:38:19.803Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "74929010b2727ca314db9126643c3340d457ba82",
+            "before": "8202bb2c2506709c124a34f3cba906d62f79ccd0",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-09T01:52:43.480Z",
+            "before": "2026-10-09T00:38:19.803Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAppChatContextCardNameLoadingShimmer_Staged",
+          "FFlagAppChatInvalidGameLinkCard_Staged",
+          "FFlagDeviceSimulatorRefreshBetaFeature2_Staged",
+          "FFlagDeviceSimulatorToolbarPluginGui3_Staged",
+          "FFlagEnableDeviceSimulatorToolbar_Staged",
+          "FFlagRenameEmulatorToSimulator_Staged",
+          "FFlagSimAeroCancelExpiredOccludedMeshTask_Staged",
+          "FFlagSplitHashNoRehashOnExistingKey_Staged",
+          "FStringExpChatGlobalTabDefaultExperimentLayer_Staged"
+        ],
+        "unchanged": 23192
+      }
+    },
+    "Web": {
+      "current": "21613fa4e7c1add3ec50260a9f8fff9c4b264fc43f6a9ecbfe7b3bc3e1e1490b",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "92c54979d4ee8b1dd7f04f2d3fcb6b6c9916fb38ef7d8710e65852d988a94648",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
