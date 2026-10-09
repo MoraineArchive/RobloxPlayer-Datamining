@@ -1,0 +1,191 @@
+[![Moraine Roblox Datamining](https://github.com/MoraineArchive/Moraine-asset/blob/main/roblox/banner_roblox.png?raw=true)](https://github.com/MoraineArchive/Moraine-asset/blob/main/roblox/banner_roblox.png)
+
+# Roblox Player Datamining Diff
+
+**Observed:** 09/10/2026, 02:42:09 CEST (00:42:09 UTC)
+
+## LiveSettings
+
+**File changes:** +0 ~1 -0
+
+- **Changed:** [`current.json`](../../../../current/LiveSettings/current.json)
+
+### Values
+
+- **Added:** `DFFlagBetterDecompressionTelemetry`
+- **Added:** `DFFlagClimbSensorUseLookAsNormal`
+- **Added:** `DFFlagDoNotMutateNetworkStreamBeforeSendingIfSharedStream`
+- **Added:** `DFFlagPlayerCharacterDestroyDelay`
+- **Added:** `DFFlagRbxTransportQuicPacketReaderCloseAfterRecvError`
+- **Added:** `DFFlagRbxTransportRtcioConnStartReentrant2`
+- **Added:** `DFFlagUserRemoveIdRangeChecks`
+- **Added:** `DFFlagWorkspaceReplicationModeControls`
+- **Added:** `DFIntNetStreamRxByteAggregationCountThreshold`
+- **Added:** `DFIntNetStreamRxByteAggregationTimeThresholdInSeconds`
+- **Added:** `DFIntNetStreamRxCountAggregationCountThreshold`
+- **Added:** `DFIntNetStreamRxCountAggregationTimeThresholdInSeconds`
+- **Added:** `DFIntNetStreamTxByteAggregationCountThreshold`
+- **Added:** `DFIntNetStreamTxByteAggregationTimeThresholdInSeconds`
+- **Added:** `DFIntNetStreamTxCountAggregationCountThreshold`
+- **Added:** `DFIntNetStreamTxCountAggregationTimeThresholdInSeconds`
+- **Added:** `DFIntPCGDKFunctionsErrorThrottleHundredthsPercent`
+- **Added:** `DFIntPlayerDestroyDelaySeconds`
+- **Added:** `DFIntQuicNetStreamReceivedByteAggregationCountThreshold`
+- **Added:** `DFIntQuicNetStreamReceivedByteAggregationTimeThresholdInSeconds`
+- **Added:** `DFIntQuicNetStreamSentByteAggregationCountThreshold`
+- **Added:** `DFIntQuicNetStreamSentByteAggregationTimeThresholdInSeconds`
+- **Added:** `DFIntQuicPacketLostPacketAggregationTimeThresholdInSeconds`
+- **Added:** `DFIntQuicPacketReceivedByteAggregationCountThreshold`
+- **Added:** `DFIntQuicPacketReceivedByteAggregationTimeThresholdInSeconds`
+- **Added:** `DFIntQuicPacketReceivedPacketAggregationCountThreshold`
+- **Added:** `DFIntQuicPacketSendByteAggregationCountThreshold`
+- **Added:** `DFIntQuicPacketSendByteAggregationTimeThresholdInSeconds`
+- **Added:** `DFIntQuicWriteStreamErrAggregationCountThreshold`
+- **Added:** `DFIntQuicWriteStreamErrAggregationTimeThresholdInSeconds`
+- **Added:** `DFIntScriptModificationTrackingEventThrottleHundredthsPercent`
+- **Added:** `FFlagAnimationSAIdleOnMovingPlatformFix`
+- **Added:** `FFlagAppChatContextCardNameLoadingShimmer_Staged`
+- **Added:** `FFlagAppChatInvalidGameLinkCard_Staged`
+- **Added:** `FFlagAppChatShareLinkV2Fallbacks`
+- **Added:** `FFlagBuildExperienceChatCaptureGalleryNewestFirst`
+- **Added:** `FFlagBuildExperienceChatHistoryPrefetch2`
+- **Added:** `FFlagBuildExperienceConfirmStop`
+- **Added:** `FFlagBuildExperienceRefreshChatDraftOnGameLeave`
+- **Added:** `FFlagEnableAppsFlyerSrnConversionKeysAndroid`
+- **Added:** `FFlagExpChatPerfTrackerTabName`
+- **Added:** `FFlagFRMDrawModerateQLProfile_IXP`
+- **Added:** `FFlagFRMUseStaticTargetModes_IXP`
+- **Added:** `FFlagFRMUseSteppedFrameTimeTarget_IXP`
+- **Added:** `FFlagGameSettingsEditableApiRemoveIdVerification`
+- **Added:** `FFlagISRAttributeReplicationRobustness`
+- **Added:** `FFlagLibMpDataSourceTelemetry`
+- **Added:** `FFlagLibMpExperimentalContentMode`
+- **Added:** `FFlagLibMpExperimentalFileStream`
+- **Added:** `FFlagLibMpExperimentalFileStreamToSlot`
+- **Added:** `FFlagLibMpExperimentalMemoryStream`
+- **Added:** `FFlagLibMpExperimentalV1Api`
+- **Added:** `FFlagMicroProfilerLabelBufferMemoryTarget`
+- **Added:** `FFlagMicroProfilerRefreshOldCachedLabels`
+- **Added:** `FFlagMicroProfilerStoreLabelLiteralsInBuffer`
+- **Added:** `FFlagMicroProfilerThreadLogMemoryTarget`
+- **Added:** `FFlagMigrateDesyncCounterToTelemetryBindings`
+- **Added:** `FFlagPerFocusGCDistance`
+- **Added:** `FFlagReportFRMQualityProfileTelemetry_IXP`
+- **Added:** `FFlagRobloxPlusDynamicFreeTrialLength_Staged`
+- **Added:** `FFlagRobloxPlusTrialDiscountTiming_Staged`
+- **Added:** `FFlagSelectionHighlightManagerWeakInstanceTracking`
+- **Added:** `FIntAutomaticDRSHundredthPercent_IXP`
+- **Added:** `FStringCategorizedL2SessionNamesForTelemetryCounter`
+- **Added:** `FStringExpChatGlobalTabDefaultExperimentLayer_Staged`
+- **Changed:** `DFStringFlagRepoGitHashDynamicString`
+  - Before: `6b589afe0e0b6ba0ff9fd5787aa3aa68d2bb6277`
+  - After: `8202bb2c2506709c124a34f3cba906d62f79ccd0`
+- **Changed:** `DFStringFlipTimeStampDynamicString`
+  - Before: `2026-10-08T22:24:08.924Z`
+  - After: `2026-10-09T00:38:19.803Z`
+- **Changed:** `FFlagAppChatMigrateFriendshipStatuses`
+  - Before: `True`
+  - After: `False`
+- **Changed:** `FFlagCrashMetricRelaxAfterSuccessStreak_IXP`
+  - Before: `1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840;1896011377;flagbank`
+  - After: `1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840-17915026293-1791502882208;1458332433;flagbank`
+- **Changed:** `FFlagCrashMetricStorageAddPostProcessing2_IXP`
+  - Before: `1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840;1562157105;flagbank`
+  - After: `1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840-17915026293-1791502882208;1458332433;flagbank`
+- **Changed:** `FFlagDeviceSimulatorRefreshBetaFeature2_Staged`
+  - Before: `False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1969135100;2026-10-08T21:53:36`
+  - After: `False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1689742780;2026-10-08T23:48:08`
+- **Changed:** `FFlagDeviceSimulatorToolbarPluginGui3_Staged`
+  - Before: `True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1969135100;2026-10-08T21:53:36`
+  - After: `True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1689742780;2026-10-08T23:48:08`
+- **Changed:** `FFlagEnableDeviceSimulatorToolbar_Staged`
+  - Before: `True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1969135100;2026-10-08T21:53:36`
+  - After: `True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1689742780;2026-10-08T23:48:08`
+- **Changed:** `FFlagLuaAppInlineRequireAppConfigurer`
+  - Before: `False`
+  - After: `True`
+- **Changed:** `FFlagMigrateFriendshipStatusesPYMK_v1`
+  - Before: `True`
+  - After: `False`
+- **Changed:** `FFlagMigrateFriendshipStatusesRemainingActions`
+  - Before: `True`
+  - After: `False`
+- **Changed:** `FFlagMigrateFriendshipStatusesUserSearch`
+  - Before: `True`
+  - After: `False`
+- **Changed:** `FFlagRenameEmulatorToSimulator_Staged`
+  - Before: `True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1969135100;2026-10-08T21:53:36`
+  - After: `True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1689742780;2026-10-08T23:48:08`
+- **Changed:** `FFlagSimAeroCancelExpiredOccludedMeshTask_Staged`
+  - Before: `True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-08T21:28:47`
+  - After: `True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-08T23:42:21`
+- **Changed:** `FFlagSplitHashNoRehashOnExistingKey_Staged`
+  - Before: `True;SteadyState;10;30;Revert;2026-10-08T22:21:41`
+  - After: `True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-08T23:30:38`
+- **Changed:** `FIntPerformanceControlCrashMetricAlgorithmType2_IXP`
+  - Before: `1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840;451054129;flagbank`
+  - After: `1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840-17915026293-1791502882208;1458332433;flagbank`
+- **Changed:** `FIntPerformanceControlCrashMetricPostProcessingAlgorithmType2_IXP`
+  - Before: `1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840;23720017;flagbank`
+  - After: `1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840-17915026293-1791502882208;1458332433;flagbank`
+- **Changed:** `FIntSentryErrorLevelQueueTimeLimitSeconds`
+  - Before: `3`
+  - After: `1`
+- **Changed:** `FStringFlagRepoGitHashFastString`
+  - Before: `6b589afe0e0b6ba0ff9fd5787aa3aa68d2bb6277`
+  - After: `8202bb2c2506709c124a34f3cba906d62f79ccd0`
+- **Changed:** `FStringFlipTimeStampFastString`
+  - Before: `2026-10-08T22:24:08.924Z`
+  - After: `2026-10-09T00:38:19.803Z`
+- **Changed:** `FStringIxpNewLayersForRegistration`
+  - Before: `Social.ConnectionsHub,App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,Consoles.App,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass....`
+  - After: `Social.ConnectionsHub,App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,Consoles.App,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass....`
+- **Removed:** `DFFlagClimbSensorUseLookAsNormal_Staged`
+- **Removed:** `DFFlagPlayerCharacterDestroyDelay_Staged`
+- **Removed:** `DFFlagRbxTransportRtcioConnStartReentrant2_Staged`
+- **Removed:** `DFIntPlayerDestroyDelaySeconds_Staged`
+- **Removed:** `DFIntScriptModificationTrackingEventThrottleHundredthsPercent_Staged`
+- **Removed:** `FFlagAnimationSAIdleOnMovingPlatformFix_Staged`
+- **Removed:** `FFlagAppChatMigrateFriendshipStatuses_Staged`
+- **Removed:** `FFlagBuildExperienceChatCaptureGalleryNewestFirst_Staged`
+- **Removed:** `FFlagBuildExperienceChatHistoryPrefetch2_Staged`
+- **Removed:** `FFlagBuildExperienceConfirmStop_Staged`
+- **Removed:** `FFlagBuildExperienceRefreshChatDraftOnGameLeave_Staged`
+- **Removed:** `FFlagEnableAppsFlyerSrnConversionKeysAndroid_Staged`
+- **Removed:** `FFlagExpChatPerfTrackerTabName_Staged`
+- **Removed:** `FFlagGameSettingsEditableApiRemoveIdVerification_Staged`
+- **Removed:** `FFlagGuiSelectionRepeatFInts_Staged`
+- **Removed:** `FFlagISRAttributeReplicationRobustness_Staged`
+- **Removed:** `FFlagLibMpDataSourceTelemetry_Staged`
+- **Removed:** `FFlagLibMpExperimentalContentMode_Staged`
+- **Removed:** `FFlagLibMpExperimentalFileStreamToSlot_Staged`
+- **Removed:** `FFlagLibMpExperimentalFileStream_Staged`
+- **Removed:** `FFlagLibMpExperimentalMemoryStream_Staged`
+- **Removed:** `FFlagLibMpExperimentalV1Api_Staged`
+- **Removed:** `FFlagLuaAppInlineRequireAppConfigurer_Staged`
+- **Removed:** `FFlagMicroProfilerLabelBufferMemoryTarget_Staged`
+- **Removed:** `FFlagMicroProfilerRefreshOldCachedLabels_Staged`
+- **Removed:** `FFlagMicroProfilerStoreLabelLiteralsInBuffer_Staged`
+- **Removed:** `FFlagMicroProfilerThreadLogMemoryTarget_Staged`
+- **Removed:** `FFlagMigrateDesyncCounterToTelemetryBindings_Staged`
+- **Removed:** `FFlagMigrateFriendshipStatusesPYMK_v1_Staged`
+- **Removed:** `FFlagMigrateFriendshipStatusesRemainingActions_Staged`
+- **Removed:** `FFlagMigrateFriendshipStatusesUserSearch_Staged`
+- **Removed:** `FFlagPerFocusGCDistance_Staged`
+- **Removed:** `FFlagSelectionHighlightManagerWeakInstanceTracking_Staged`
+- **Removed:** `FIntSentryErrorLevelQueueTimeLimitSeconds_Staged`
+- **Removed:** `FStringCategorizedL2SessionNamesForTelemetryCounter_Staged`
+- **Removed:** `FStringIxpNewLayersForRegistration_Staged`
+
+## Web
+
+**File changes:** +0 ~7 -0
+
+- **Changed:** [`assets.json`](../../../../current/Web/assets.json)
+- **Changed:** [`js.rbxcdn.com/page-0/Challenge.js`](../../../../current/Web/js.rbxcdn.com/page-0/Challenge.js)
+- **Changed:** [`js.rbxcdn.com/page-0/ItemPurchaseUpsell.js`](../../../../current/Web/js.rbxcdn.com/page-0/ItemPurchaseUpsell.js)
+- **Changed:** [`js.rbxcdn.com/page-0/Navigation.js`](../../../../current/Web/js.rbxcdn.com/page-0/Navigation.js)
+- **Changed:** [`js.rbxcdn.com/page-1/Challenge.js`](../../../../current/Web/js.rbxcdn.com/page-1/Challenge.js)
+- **Changed:** [`js.rbxcdn.com/page-1/ItemPurchaseUpsell.js`](../../../../current/Web/js.rbxcdn.com/page-1/ItemPurchaseUpsell.js)
+- **Changed:** [`js.rbxcdn.com/page-1/Navigation.js`](../../../../current/Web/js.rbxcdn.com/page-1/Navigation.js)
+
