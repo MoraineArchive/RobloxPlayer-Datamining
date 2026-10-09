@@ -1,0 +1,157 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "ecdf1a1c1780a1f957408eea10a06d15703515fc17f8f4050218658fd531c540",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "918fb8ee62f7a95fe893386c47cc47354d304b47c38fc6be3386f26239875ca3",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 27
+        }
+      }
+    },
+    "InExperience": {
+      "current": "40d2a4f173c339ed97565b3c16f69686a94cbe4750e9755c07be7689a59f0787",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "6919d08c0d3f0a3a86b1e35bef8d6752cd85859163be134c9a38a4ba2cd73975",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "a09ab4ec810f8d4a79ac2dfb8a2f4a596a8922307ac12d685189c8bb23a70628",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "5c29b53295c0da68072a54373b8df6441ffd48f07467d056b648b219bd57c106",
+      "semantic": {
+        "added": [
+          "DFFlagRemoteProfilerCaptureAtFlip",
+          "DFIntQuicPacketReceivedPacketAggregationTimeThresholdInSeconds",
+          "DFIntQuicPacketSendPacketAggregationCountThreshold",
+          "DFIntQuicPacketSendPacketAggregationTimeThresholdInSeconds",
+          "FFlagBuildAdUpsell4",
+          "FFlagBuildExperienceDevProductRecovery",
+          "FFlagBuildExperienceManageDevProduct",
+          "FFlagBuildExperienceMonetizationNativeUI2",
+          "FFlagBuildExperiencePublishedShareLink",
+          "FFlagEnableBuildAdPromotion6",
+          "FFlagEnablePaidAds4",
+          "FFlagMomentsCommentActionsRealtime",
+          "FFlagMomentsCommentsCountAnalytics",
+          "FFlagMomentsReportButtonAnalytics",
+          "FFlagStudioReplaceGSTWithIdForPluginRelay",
+          "FFlagVirtualCursorModularization5_Staged"
+        ],
+        "changed": [
+          {
+            "after": "fd0adce27fd1f9630e673138982d6711fc7d476c",
+            "before": "3261a1aa727ac53f5cd864bc0cd228a227be51d5",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-09T20:15:23.018Z",
+            "before": "2026-10-09T19:02:46.392Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "fd0adce27fd1f9630e673138982d6711fc7d476c",
+            "before": "3261a1aa727ac53f5cd864bc0cd228a227be51d5",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-09T20:15:23.018Z",
+            "before": "2026-10-09T19:02:46.392Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "{\"Physics Compute Tunable\":{\"priority\":100,\"stepsPerTurn\":1,\"waitFramesAfterStep\":60},\"StreamingCompute\":{\"priority\":99,\"stepsPerTurn\":1,\"waitFramesAfterStep\":15}}",
+            "before": "{\"Physics Compute Tunable\":{\"priority\":100,\"stepsPerTurn\":1,\"waitFramesAfterStep\":60}}",
+            "name": "FStringPerformanceControlComputePrimaryTunableConfigJson"
+          }
+        ],
+        "removed": [
+          "DFFlagRemoteProfilerCaptureAtFlip_Staged",
+          "DFIntQuicPacketReceivedPacketAggregationTimeThresholdInSeconds_Staged",
+          "DFIntQuicPacketSendPacketAggregationCountThreshold_Staged",
+          "DFIntQuicPacketSendPacketAggregationTimeThresholdInSeconds_Staged",
+          "FFlagBuildAdUpsell4_Staged",
+          "FFlagBuildExperienceDevProductRecovery_Staged",
+          "FFlagBuildExperienceManageDevProduct_Staged",
+          "FFlagBuildExperienceMonetizationNativeUI2_Staged",
+          "FFlagBuildExperiencePublishedShareLink_Staged",
+          "FFlagEnableBuildAdPromotion6_Staged",
+          "FFlagEnablePaidAds4_Staged",
+          "FFlagMomentsCommentActionsRealtime_Staged",
+          "FFlagMomentsCommentsCountAnalytics_Staged",
+          "FFlagMomentsReportButtonAnalytics_Staged",
+          "FFlagStudioReplaceGSTWithIdForPluginRelay_Staged",
+          "FStringPerformanceControlComputePrimaryTunableConfigJson_Staged"
+        ],
+        "unchanged": 23215
+      }
+    },
+    "UniversalApp": {
+      "current": "05cf3721b512200b03db45dc344d23fafb0d41526ad8ad991a42923f74211d90",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "63788d3a5c675d730eb5ffde37d27d53ff3e5040a21da0c666975029cc33eafa",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
