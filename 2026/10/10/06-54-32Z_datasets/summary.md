@@ -4,11 +4,8 @@
 
 **Observed:** 10/10/2026, 08:54:32 CEST (06:54:32 UTC)
 
-**Event:** [`2026/10/10/06-54-32Z_datasets/`](2026/10/10/06-54-32Z_datasets/)
-
-**Build:** [`0.742.0.7421053`](current/Build/version.json)
-
-**GUID:** [`version-cec3ad5889b447cf`](current/Provenance/Build.json)
+**Version:** `0.742.0.7421053`
+**GUID:** `version-cec3ad5889b447cf`
 
 ## Summary
 
@@ -23,8 +20,13 @@ FastVariables      +0 ~0 -0
 
 File counts describe canonical files. Nested semantic rows describe values or API/source records inside those files.
 
-## Findings
+## Notable Changes
 
-No correlated findings for this event.
+- [`instances.json`](../../../../current/InExperience/instances.json)
+- [`latest-asset.json`](../../../../current/InExperience/latest-asset.json)
+- [`instances.json`](../../../../current/UniversalApp/instances.json)
+- [`latest-asset.json`](../../../../current/UniversalApp/latest-asset.json)
 
-See the [summary](2026/10/10/06-54-32Z_datasets/summary.md), [diff](2026/10/10/06-54-32Z_datasets/diff.md), [findings](2026/10/10/06-54-32Z_datasets/findings.md), and [changes.json](2026/10/10/06-54-32Z_datasets/changes.json).
+## Provenance
+
+Event provenance is available in [`provenance.json`](provenance.json).
