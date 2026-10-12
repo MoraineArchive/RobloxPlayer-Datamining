@@ -158,18 +158,6 @@
       "sourceUrl": "https://js.rbxcdn.com/264d4bed21a614e8a15806c5d97af0aa92f26a99f5bf89b2e94cd705728b9f1f.js"
     },
     {
-      "bytes": 591557,
-      "sha256": "43ee17ec7bc8404fd04b39f5a28e72ea1f322a9ffaa9487196ba5b16d804d18c",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/2cd5434bead132c88ed5a077bac26c21e265abc878ef72fd6671cd2b102f7dd6-AccessManagementUpsellV2.js"
-    },
-    {
-      "bytes": 591557,
-      "sha256": "43ee17ec7bc8404fd04b39f5a28e72ea1f322a9ffaa9487196ba5b16d804d18c",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/2cd5434bead132c88ed5a077bac26c21e265abc878ef72fd6671cd2b102f7dd6-AccessManagementUpsellV2.js"
-    },
-    {
       "bytes": 1498,
       "sha256": "2f6cf29047c3d7bee78e45891ea26653789776ee058e669c0c156885f8a59585",
       "sourceType": "official",
@@ -386,6 +374,18 @@
       "sourceUrl": "https://js.rbxcdn.com/47aa20a4d7ec095fabb9db116c99c5c798b2fa37161a5f59a340cb352279596f.js"
     },
     {
+      "bytes": 280755,
+      "sha256": "417d1522b8dd23e8689456bf8143b6645d3c86a7581cd11c1c14d2b6b8dc729c",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/4b1622cffffd47df4803000604bc86bf9e595680109940279db923fba973a1dc-PresenceStatus.js"
+    },
+    {
+      "bytes": 280755,
+      "sha256": "417d1522b8dd23e8689456bf8143b6645d3c86a7581cd11c1c14d2b6b8dc729c",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/4b1622cffffd47df4803000604bc86bf9e595680109940279db923fba973a1dc-PresenceStatus.js"
+    },
+    {
       "bytes": 945945,
       "sha256": "bc2584da067c72c1e0f6fed9bdeeecea6d67a91a8bf0e971ebe319eb93f0f193",
       "sourceType": "official",
@@ -468,6 +468,18 @@
       "sha256": "f547512caa5bc9f842f0d3a8eea540926d8314e9d245ee0548b3d33add06cce8",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/54c13aaea011e94d285d4171277dbaa0a2ec1bf763b408d71f2adc7f72bad919.js"
+    },
+    {
+      "bytes": 592107,
+      "sha256": "6912ed2b144bf1c365aa20278d4c75bf1501a300c55620b387c796bc52f6cae5",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/59e8c1b1dd640a961847b49a83ebe7fe47df8db14c13e3fac0cadf370edd6068-AccessManagementUpsellV2.js"
+    },
+    {
+      "bytes": 592107,
+      "sha256": "6912ed2b144bf1c365aa20278d4c75bf1501a300c55620b387c796bc52f6cae5",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/59e8c1b1dd640a961847b49a83ebe7fe47df8db14c13e3fac0cadf370edd6068-AccessManagementUpsellV2.js"
     },
     {
       "bytes": 60563,
@@ -600,6 +612,18 @@
       "sha256": "9c94362634e5e51959f115a530cc37d9ab58d9f72cf7655b3172178c4b43331d",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/6d0743dbab0070921c5bb3eff46802cead3a6881479fd3c902639ffba397d5f3-IdVerification.js"
+    },
+    {
+      "bytes": 1168339,
+      "sha256": "59e3d314ac3d183d1953f593dde232409d9e582ed2c0f841108b54eb6b739878",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/70dfbf22cc8f2ba182be82634229574c31205f713140703a2d9ddbdcd10b7247-Challenge.js"
+    },
+    {
+      "bytes": 1168339,
+      "sha256": "59e3d314ac3d183d1953f593dde232409d9e582ed2c0f841108b54eb6b739878",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/70dfbf22cc8f2ba182be82634229574c31205f713140703a2d9ddbdcd10b7247-Challenge.js"
     },
     {
       "bytes": 6679,
@@ -678,18 +702,6 @@
       "sha256": "69c8c5709067423fe4b645a0d9f7c371294204aa5bf7316028b5e99f0635855f",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/7900f41d7ecf81f51614b16658e0402590a077abde9aa1a55c59f810c50bbcfe.js"
-    },
-    {
-      "bytes": 1168276,
-      "sha256": "556a20acef2f915bf415171c20b674438eb3371ecdc8a9aea4432ed6ad76c71a",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/7a8e143a83ee9626daafb2e9983680fcbc7b314ef4b961649fb2359b1c5382a5-Challenge.js"
-    },
-    {
-      "bytes": 1168276,
-      "sha256": "556a20acef2f915bf415171c20b674438eb3371ecdc8a9aea4432ed6ad76c71a",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/7a8e143a83ee9626daafb2e9983680fcbc7b314ef4b961649fb2359b1c5382a5-Challenge.js"
     },
     {
       "bytes": 1134,
@@ -840,18 +852,6 @@
       "sha256": "c0acdee5084a24156a8526a19b5ce0ddb78007a3f106c8ca57ef5ba64af8eee1",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/924736e791de090266dce0d5637f4f8f34a8be32da9272a9941c3b69c958e25e-GameLaunch.js"
-    },
-    {
-      "bytes": 251110,
-      "sha256": "4505ebc3d7336f51c0b4d41b19f2ad23361413d917b0882681eda7e391590634",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/932cd731257164fc9eba426e6b3c5c8d08469faafc68ceb51f979f331807631d-PresenceStatus.js"
-    },
-    {
-      "bytes": 251110,
-      "sha256": "4505ebc3d7336f51c0b4d41b19f2ad23361413d917b0882681eda7e391590634",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/932cd731257164fc9eba426e6b3c5c8d08469faafc68ceb51f979f331807631d-PresenceStatus.js"
     },
     {
       "bytes": 503,
