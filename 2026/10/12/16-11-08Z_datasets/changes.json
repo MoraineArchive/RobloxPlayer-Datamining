@@ -1,0 +1,72 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "75511e54d0a5e841507b9da0d114c0ee8fd15339ea8fc1ec25bfed7a3c97cf6a",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "c73c4d86f02a91f6f9f7f8f586b8bc5edda8260170c08123303a100603d0e6a8",
+      "semantic": {
+        "added": [
+          "FFlagLuaAppEdpShowBuildTag_Staged",
+          "FFlagLuaAppMigrateGameEventsTelemetryService_Staged"
+        ],
+        "changed": [
+          {
+            "after": "6359fd1e0df75855b1a4de80936028110de1650c",
+            "before": "9f4ef5de94e251b7cc767893a160e9d0378e7e1c",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-12T16:08:38.532Z",
+            "before": "2026-10-10T00:27:40.939Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "6359fd1e0df75855b1a4de80936028110de1650c",
+            "before": "9f4ef5de94e251b7cc767893a160e9d0378e7e1c",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-12T16:08:38.532Z",
+            "before": "2026-10-10T00:27:40.939Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagLuaAppMigrateGameEventsTelemetryService_IXP"
+        ],
+        "unchanged": 23230
+      }
+    },
+    "Web": {
+      "current": "d9621ee9097dc6319258cf7796e4e2831a0c1f3ad54fa1f51c3890cc4f402bbe",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 223
+      },
+      "previous": "7544e0b1241c2104b73cead9ad6687efb00e31f2e6f426fa6e379a708e97b0c0",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
