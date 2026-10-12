@@ -1,0 +1,93 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "c1f3b91018a16e620ed0ebbe0cf1aa492dce78a9c170e83d792ccc09328f8035",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "d4a5b38996e04061722d7374b0c9ad9bdc3d4918cd0c11af132306a2c2d7c470",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 27
+        }
+      }
+    },
+    "InExperience": {
+      "current": "58bfe8a70c77bc570b7688b1b0686169f43843bdc722fc522696056c7acf4c33",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "0f3e119b8b7aed5d19c0c9a24baf11a58466527c99462044763ed9b3bdb2c406",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "UniversalApp": {
+      "current": "3a2819d23c285e9371dc718cbb0acb7d26786e0e59df53ce83a5f41fffe00166",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "aaf9415f2f9d1de6349382f12c0a96633a2c07776b2d753421b10dc741b9b4d5",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "7544e0b1241c2104b73cead9ad6687efb00e31f2e6f426fa6e379a708e97b0c0",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 223
+      },
+      "previous": "6a4b34ec1ba949aca3d693913c3a2f80759c71869b0795bd1224cc44f8753f6e",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
