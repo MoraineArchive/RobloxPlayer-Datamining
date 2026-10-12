@@ -1,0 +1,54 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "a2ebcd329a609d675036e541165c96a7917a61752c14b96ddd3d63f35162ac64",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "764110cb34f307ef21412681c2ec6d0d0a1fec189d8ecaf1df06a5ea58563fbe",
+      "semantic": {
+        "added": [
+          "FFlagMacMouseLockCenterSubtractWarpDelta2_Staged"
+        ],
+        "changed": [
+          {
+            "after": "24893a066ed01ccac1e7df0e73d094f5aed1ecf2",
+            "before": "711fbc34c59e92918af750003673c258d079342a",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-12T23:15:21.974Z",
+            "before": "2026-10-12T23:07:46.245Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "24893a066ed01ccac1e7df0e73d094f5aed1ecf2",
+            "before": "711fbc34c59e92918af750003673c258d079342a",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-12T23:15:21.974Z",
+            "before": "2026-10-12T23:07:46.245Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 23292
+      }
+    }
+  },
+  "schemaVersion": 1
+}
