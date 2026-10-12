@@ -1,7 +1,7 @@
 {
   "appStorageResetId": "0",
   "assetId": "80471914653504",
-  "assetVersion": "14878",
+  "assetVersion": "15080",
   "assetsManifest": {
     "100119004605329": "content/textures/ui/LuaChat/graphic/gr-indicator-ingame-14x14@3x.png",
     "100348805600292": "content/textures/ui/LuaChat/icons/ic-close-gray2@3x.png",
@@ -531,6 +531,6 @@
   "maxAppVersion": "743",
   "name": "InExperience",
   "tryoutName": null,
-  "version": "14878",
-  "versionV2": 23802
+  "version": "15080",
+  "versionV2": 24081
 }

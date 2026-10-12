@@ -3,11 +3,11 @@
     "combined.json": "1698c5c9393902782d52677e243702cf9a95057ae041f73ca09caff003df8f4c",
     "cpp.txt": "9388629e1569e980f125c830ca8328aea01496c5d1d6c36f1e782bdddd31e708",
     "lua.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
-    "metadata.json": "86c450f17ec351f24a9a1d637d829ce55f278105554e9d5e1e60f5451f90eadf"
+    "metadata.json": "b318ec3268327c1a738906a435668d2b7bc3586506977f4e37e64c84b0221d6f"
   },
-  "id": "407f447991b5e3b1e05ba09ff46442f88764cbb3cdf8f8afe3552696f4f53a14",
+  "id": "c60a45e60b94efdfcfba59ffd2aae492873f8071aeffe01fd65b5b2f311567f7",
   "observationMode": "live",
-  "observedAt": "2026-10-12T17:41:53.316Z",
+  "observedAt": "2026-10-12T23:03:20.939Z",
   "provenance": [
     {
       "buildGuid": "version-cec3ad5889b447cf",
@@ -20,30 +20,30 @@
     {
       "bytes": 42779,
       "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
-      "sha256": "46ad67795a93e163c171a3312aabb3c8cbe44eece59697f464135a3429f277fe",
+      "sha256": "de543f36575c4159901a6527685a4549bbda816bd768c493b6d8046cdd4b724f",
       "sourceType": "official",
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.742.0.7421053&tag=Release&name=app-patch-in-experience"
     },
     {
-      "bytes": 14022280,
+      "bytes": 14012475,
       "derivedFrom": "InExperience.rbxm",
-      "sha256": "2ac076e3f2bdfd765a6eba149ca5f3231e6dab6ad589b5d7db45e87a34415e94",
+      "sha256": "9da770ba56bbb373588e807e45b046bb383a820181b59dcd752f079f98eedbe6",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=15161"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=15212"
     },
     {
       "bytes": 42780,
       "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
-      "sha256": "2ac2b4949d5b632eb026414e4548c6d2b4512275fe3697cbbdbbd062ce7cd9bb",
+      "sha256": "0c7d9047addf2887d8dceeb323a9d36d2e04ec8c99b956e4a1287a6e225ddd67",
       "sourceType": "official",
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.742.0.7421053&tag=Release&name=app-patch-universal-app"
     },
     {
-      "bytes": 12980151,
+      "bytes": 12996370,
       "derivedFrom": "UniversalApp.rbxm",
-      "sha256": "9532dee114b6bcdfa3d4195ea82e86883be406b674632de3e3926070f9bfd096",
+      "sha256": "bec6f45a87b329da2b7b9e29f03d760f40b35f0e9a6d359ee88ca2ad3b9d5859",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=15252"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=15304"
     },
     {
       "buildGuid": "version-cec3ad5889b447cf",
@@ -86,7 +86,7 @@
       "sourceUrl": "https://setup.rbxcdn.com/version-cec3ad5889b447cf-extracontent-translations.zip"
     }
   ],
-  "sequence": 87,
+  "sequence": 88,
   "status": "available",
   "summary": {
     "cpp": 27,

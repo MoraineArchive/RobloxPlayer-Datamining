@@ -356,11 +356,63 @@
             "rbx",
             "uri"
           ]
+        },
+        {
+          "after": "True;10139630272;10768492546;10761698214;10769634303;10770019413",
+          "before": "True;10139630272;10768492546;10761698214",
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/10/12/23-03-26Z_datasets",
+          "evidencePath": "2026/10/12/23-03-26Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "0533783dcea8aac3e9314a2ced2d702addcd964458f1f9700a7097745ec4b16d",
+          "key": "DFFlagAvatarAbilitiesUseStudioBeta2Asset_UniverseFilter",
+          "kind": "LiveSettings",
+          "observedAt": "2026-10-12T23:03:26.756Z",
+          "operation": "changed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "asset",
+            "avatar",
+            "beta2",
+            "filter",
+            "universe"
+          ]
+        },
+        {
+          "after": "True;76307118827763;136747632025032;129942045637891;78486662010358;114057946826872;97459740552813;78957164244171;114108261963852;88860002459743;117393659852834",
+          "before": "True;76307118827763;136747632025032;129942045637891;78486662010358;114057946826872;97459740552813;78957164244171;114108261963852",
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/10/12/23-03-26Z_datasets",
+          "evidencePath": "2026/10/12/23-03-26Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "db574557f3c50cbca2968099e8184fe11d69a152f56ec1fd85e5c6cbb7c5eae4",
+          "key": "DFFlagAvatarAbilitiesUseStudioBeta2Asset_PlaceFilter",
+          "kind": "LiveSettings",
+          "observedAt": "2026-10-12T23:03:26.756Z",
+          "operation": "changed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "asset",
+            "avatar",
+            "beta2",
+            "filter",
+            "place"
+          ]
         }
       ],
       "firstObservedAt": "2026-09-08T23:42:52.368Z",
       "id": "avatar-abilities",
-      "lastObservedAt": "2026-10-08T20:13:01.987Z",
+      "lastObservedAt": "2026-10-12T23:03:26.756Z",
       "lifecycle": [
         {
           "observedAt": "2026-09-09T01:37:12.973Z",
