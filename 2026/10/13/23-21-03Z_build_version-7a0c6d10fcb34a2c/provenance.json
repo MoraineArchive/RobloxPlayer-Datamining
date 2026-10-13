@@ -1,0 +1,163 @@
+{
+  "Build": [
+    {
+      "bytes": 103,
+      "sha256": "ca2ebc931c9e434e413f7d03f60cc11f690b47fca24029ad5b790b7248c7b353",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettings.roblox.com/v2/client-version/WindowsPlayer"
+    },
+    {
+      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "bytes": 1636,
+      "sha256": "6167a7a459d4049a8c1eaeb6be6c73bc74d4cd60f00c09261f2bac8b3bd08736",
+      "sourceType": "official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-rbxPkgManifest.txt"
+    },
+    {
+      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "bytes": 253792,
+      "sha256": "2dd3027fc3ec67ec7265660bc59339b3046fed0e5769228dc7615809dd4debf3",
+      "sourceType": "official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-rbxManifest.txt"
+    }
+  ],
+  "FastVariables": [
+    {
+      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "bytes": 137447289,
+      "derivedFrom": "RobloxPlayerBeta.exe",
+      "sha256": "992b4c52b4b5e99ded625fd8fff30b4f4b4b293d1d8bee842621f20650ea96ba",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-RobloxApp.zip"
+    },
+    {
+      "bytes": 42779,
+      "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
+      "sha256": "de543f36575c4159901a6527685a4549bbda816bd768c493b6d8046cdd4b724f",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.742.0.7421053&tag=Release&name=app-patch-in-experience"
+    },
+    {
+      "bytes": 14062096,
+      "derivedFrom": "InExperience.rbxm",
+      "sha256": "a0c5b94fb6517704e0c2c8ac50f5db7aedc045a993e343210f69c963672b3b5e",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=15261"
+    },
+    {
+      "bytes": 42780,
+      "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
+      "sha256": "0c7d9047addf2887d8dceeb323a9d36d2e04ec8c99b956e4a1287a6e225ddd67",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.742.0.7421053&tag=Release&name=app-patch-universal-app"
+    },
+    {
+      "bytes": 13060185,
+      "derivedFrom": "UniversalApp.rbxm",
+      "sha256": "85c3d2595266b82551eee9334eda6d81ac64a304f62d947e979f289970b712ee",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=15353"
+    },
+    {
+      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "bytes": 306511,
+      "derivedFrom": "content-configs.zip",
+      "sha256": "05cba50015de1924108c8cb1bdbbe5e4e2d65f09f2c83977f59e1781a2498d8a",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-content-configs.zip"
+    },
+    {
+      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "bytes": 620166,
+      "derivedFrom": "content-models.zip",
+      "sha256": "bd9d84b18399042e0478ccdc989081d48a82279a498b36efaa197a317e01df76",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-content-models.zip"
+    },
+    {
+      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "bytes": 2825687,
+      "derivedFrom": "extracontent-luapackages.zip",
+      "sha256": "fcd44e8a02fa69e93d280d8ec2cecc88651d0095a22902593b28b88a7e2438b2",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-extracontent-luapackages.zip"
+    },
+    {
+      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "bytes": 27278690,
+      "derivedFrom": "extracontent-models.zip",
+      "sha256": "9e93f4657eef05f031f37988f9b614b9f3cf073e9fa01c81b5e7cb653c8f8637",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-extracontent-models.zip"
+    },
+    {
+      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "bytes": 610717,
+      "derivedFrom": "extracontent-translations.zip",
+      "sha256": "16cd03787910fec0340c58cd4efd4ba47d1f00d61395c76693cd5db695db58a4",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-extracontent-translations.zip"
+    }
+  ],
+  "LiveSettings": [
+    {
+      "bytes": 1385295,
+      "reference": "https://raw.githubusercontent.com/MaximumADHD/Roblox-FFlag-Tracker/main/README.md",
+      "sha256": "2dbb6f4f9030f41c8efbaa67a37cc424d54ac4a1d186156f0755d89e9f5474cf",
+      "sourceType": "official",
+      "sourceUrl": "https://clientsettings.roblox.com/v2/settings/application/PCDesktopClient"
+    }
+  ],
+  "LuaPackages": [
+    {
+      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "bytes": 306511,
+      "derivedFrom": "content-configs.zip",
+      "sha256": "05cba50015de1924108c8cb1bdbbe5e4e2d65f09f2c83977f59e1781a2498d8a",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-content-configs.zip"
+    },
+    {
+      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "bytes": 620166,
+      "derivedFrom": "content-models.zip",
+      "sha256": "bd9d84b18399042e0478ccdc989081d48a82279a498b36efaa197a317e01df76",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-content-models.zip"
+    },
+    {
+      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "bytes": 2825687,
+      "derivedFrom": "extracontent-luapackages.zip",
+      "sha256": "fcd44e8a02fa69e93d280d8ec2cecc88651d0095a22902593b28b88a7e2438b2",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-extracontent-luapackages.zip"
+    },
+    {
+      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "bytes": 27278690,
+      "derivedFrom": "extracontent-models.zip",
+      "sha256": "9e93f4657eef05f031f37988f9b614b9f3cf073e9fa01c81b5e7cb653c8f8637",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-extracontent-models.zip"
+    },
+    {
+      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "bytes": 610717,
+      "derivedFrom": "extracontent-translations.zip",
+      "sha256": "16cd03787910fec0340c58cd4efd4ba47d1f00d61395c76693cd5db695db58a4",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-extracontent-translations.zip"
+    }
+  ],
+  "Native": [
+    {
+      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "bytes": 137447289,
+      "derivedFrom": "RobloxPlayerBeta.exe",
+      "sha256": "992b4c52b4b5e99ded625fd8fff30b4f4b4b293d1d8bee842621f20650ea96ba",
+      "sourceType": "derived-official",
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-RobloxApp.zip"
+    }
+  ]
+}

@@ -572,7 +572,7 @@
       "ExtraContent",
       "voice"
     ],
-    "checksum": "c4bda024336089bbf7e7d3f5d36533d9",
+    "checksum": "1604abeccc3d2f96db98e4295b0e16c4",
     "path": "ExtraContent/models/CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch.rbxm"
   },
   {
@@ -580,7 +580,7 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "7413597d69a2e5c9686b747033ddaf62",
+    "checksum": "0bc3eb5de4aab9bcc2791c7ad38438b7",
     "path": "ExtraContent/models/InExperience/InExperience.rbxm"
   },
   {
@@ -588,7 +588,7 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "2f04948ad552fcd623e7af82cfb7d9ee",
+    "checksum": "6a374b042bf3f00fe19854fcd31ea279",
     "path": "ExtraContent/models/InExperience/InExperience_checksum"
   },
   {
@@ -596,7 +596,7 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "2b9a60130e750a741cfe6c064ef6d332",
+    "checksum": "7339486af6b389e4d66ff73d8ae3c0aa",
     "path": "ExtraContent/models/Licenses/Licenses.rbxm"
   },
   {
@@ -620,7 +620,7 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "1a659fee28101ad409f9472d1ba9c977",
+    "checksum": "089c574c6cd42991308841dd0c1c6bc5",
     "path": "ExtraContent/models/UniversalApp/UniversalApp.rbxm"
   },
   {
@@ -628,7 +628,7 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "a284133681e392f24607873414469a3b",
+    "checksum": "683d9a6e5c021bcab38ffdebaf99f2bc",
     "path": "ExtraContent/models/UniversalApp/UniversalApp_checksum"
   },
   {
@@ -7032,8 +7032,8 @@
     "categories": [
       "content"
     ],
-    "checksum": "e294e639b9c0b20ff1595877fae08e2d",
-    "path": "PlatformContent/pc/shared_compression_dictionaries/3274c4fe58582a02c0acdd9dd5463043c248ff1045b054f59923a70665a8ca79.dict"
+    "checksum": "02208b7d76e478ce7fa0ffe2c0b3eb9c",
+    "path": "PlatformContent/pc/shared_compression_dictionaries/57ace1df87f8e37023aebc8d9ce7e0802ffc0ee11dbcc89b34b18ed4e75f1de7.dict"
   },
   {
     "categories": [
@@ -7385,21 +7385,21 @@
     "categories": [
       "other"
     ],
-    "checksum": "a4ecdaaf6f3cbe9ec50b265550a04558",
+    "checksum": "8f9eaf53c08c22e7ce8a8aaa067f3c76",
     "path": "RobloxCrashHandler.exe"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "2a43ef1622f33c50ce7c415f6709f0b0",
+    "checksum": "5b8ee628b0bdabca323bd196e7f5aa4e",
     "path": "RobloxPlayerBeta.dll"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "bee4ec0a18578133b2d61bfc6482add9",
+    "checksum": "d5d542577d51d764751438bdbbfa59cf",
     "path": "RobloxPlayerBeta.exe"
   },
   {
@@ -7910,6 +7910,14 @@
       "content",
       "avatar"
     ],
+    "checksum": "37b280ebe69a1763db54e739c80a42ab",
+    "path": "content/avatar/scripts/humanoidAnimateR15.lua"
+  },
+  {
+    "categories": [
+      "content",
+      "avatar"
+    ],
     "checksum": "9a02868e36dd01a2616d4aefd9f2f058",
     "path": "content/avatar/scripts/humanoidAnimateR15_DEPRECATED_20260813.rbxm"
   },
@@ -8186,7 +8194,7 @@
     "categories": [
       "content"
     ],
-    "checksum": "915483eb4f2976cac56cdc891a2b341b",
+    "checksum": "46a5c3b7376252d6a4c3545f5a1ba451",
     "path": "content/configs/InExperiencePatchConfig/InExperiencePatchConfig.json"
   },
   {
@@ -8235,7 +8243,7 @@
     "categories": [
       "content"
     ],
-    "checksum": "009663d5f88bdf39fbb21018f9f3223b",
+    "checksum": "6437a5e296f77b26f1e174755b51ce00",
     "path": "content/configs/UniversalAppPatchConfig/UniversalAppPatchConfig.json"
   },
   {
@@ -17817,6 +17825,30 @@
       "content",
       "UI"
     ],
+    "checksum": "46c80d35605b1d5e7765c52059a2be70",
+    "path": "content/textures/ui/Moments/text-color-picker.png"
+  },
+  {
+    "categories": [
+      "content",
+      "UI"
+    ],
+    "checksum": "5fcfbc0f7c36642ab0f34ed76f3fba90",
+    "path": "content/textures/ui/Moments/text-color-picker@2x.png"
+  },
+  {
+    "categories": [
+      "content",
+      "UI"
+    ],
+    "checksum": "e18e7edb72102be282f4d5fe86e8fdce",
+    "path": "content/textures/ui/Moments/text-color-picker@3x.png"
+  },
+  {
+    "categories": [
+      "content",
+      "UI"
+    ],
     "checksum": "ff8644a1660aa5c9ba4df7f907332c27",
     "path": "content/textures/ui/Motor.png"
   },
@@ -23970,35 +24002,35 @@
     "categories": [
       "other"
     ],
-    "checksum": "cee194d0276ba67012eeb12e56a309a2",
+    "checksum": "5c1afe140a97f4a028b54768baa4e0bc",
     "path": "shaders/shaders_d3d10.pack"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "af2fcb81b8df2bbb12873cd494395a8e",
+    "checksum": "6354c80f88f68503267800cf2a008598",
     "path": "shaders/shaders_d3d10_1.pack"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "fa4b057e8a60e30dfed2d27f69ac03af",
+    "checksum": "cc176a233e009859a48c9cc87b154ac1",
     "path": "shaders/shaders_d3d11.pack"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "b874b463ee602ec086548c319423a8cc",
+    "checksum": "f727c27636dde70b84319aa80c7b8b0e",
     "path": "shaders/shaders_glsl3.pack"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "cf04c2cd1e1ed1dcdac534c8d285f6e3",
+    "checksum": "ae9d88a69e913758882d8e599a216121",
     "path": "shaders/shaders_vulkan_desktop.pack"
   },
   {

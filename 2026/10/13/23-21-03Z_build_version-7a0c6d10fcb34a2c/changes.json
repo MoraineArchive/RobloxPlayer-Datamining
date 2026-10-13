@@ -1,0 +1,426 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-7a0c6d10fcb34a2c",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.743.0.7431129"
+  },
+  "datasets": {
+    "Build": {
+      "current": "fc53cf0e74a07669345e907a12e31ab0418d34d7b1739af42017ca576cf82d27",
+      "files": {
+        "added": [],
+        "changed": [
+          "FileManifest.json",
+          "Packages.json",
+          "metadata.json",
+          "version.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "a913ef9b52669ce01abe6e2701e9559241f50c32f92137ccaa726751ea884184",
+      "semantic": {
+        "files": {
+          "added": [
+            "PlatformContent/pc/shared_compression_dictionaries/57ace1df87f8e37023aebc8d9ce7e0802ffc0ee11dbcc89b34b18ed4e75f1de7.dict",
+            "content/avatar/scripts/humanoidAnimateR15.lua",
+            "content/textures/ui/Moments/text-color-picker.png",
+            "content/textures/ui/Moments/text-color-picker@2x.png",
+            "content/textures/ui/Moments/text-color-picker@3x.png"
+          ],
+          "changed": [
+            "ExtraContent/models/CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch.rbxm",
+            "ExtraContent/models/InExperience/InExperience.rbxm",
+            "ExtraContent/models/InExperience/InExperience_checksum",
+            "ExtraContent/models/Licenses/Licenses.rbxm",
+            "ExtraContent/models/UniversalApp/UniversalApp.rbxm",
+            "ExtraContent/models/UniversalApp/UniversalApp_checksum",
+            "RobloxCrashHandler.exe",
+            "RobloxPlayerBeta.dll",
+            "RobloxPlayerBeta.exe",
+            "content/configs/InExperiencePatchConfig/InExperiencePatchConfig.json",
+            "content/configs/UniversalAppPatchConfig/UniversalAppPatchConfig.json",
+            "shaders/shaders_d3d10.pack",
+            "shaders/shaders_d3d10_1.pack",
+            "shaders/shaders_d3d11.pack",
+            "shaders/shaders_glsl3.pack",
+            "shaders/shaders_vulkan_desktop.pack"
+          ],
+          "removed": [
+            "PlatformContent/pc/shared_compression_dictionaries/3274c4fe58582a02c0acdd9dd5463043c248ff1045b054f59923a70665a8ca79.dict"
+          ],
+          "unchanged": 2832
+        },
+        "packages": {
+          "added": [],
+          "changed": [
+            {
+              "after": {
+                "checksum": "a53ad94566f66455e4b4f7c10436a737",
+                "compressedSize": 137447289,
+                "name": "RobloxApp.zip",
+                "uncompressedSize": 175541803
+              },
+              "before": {
+                "checksum": "fcb9e6e381cdc82049c9bfe03ae54878",
+                "compressedSize": 137930981,
+                "name": "RobloxApp.zip",
+                "uncompressedSize": 177468971
+              },
+              "name": "RobloxApp.zip"
+            },
+            {
+              "after": {
+                "checksum": "4cead1e95680f3a32aab608784e30a32",
+                "compressedSize": 13816784,
+                "name": "RobloxPlayerInstaller.exe",
+                "uncompressedSize": 13816784
+              },
+              "before": {
+                "checksum": "62c76b67b4f53fc033317cedaed84c12",
+                "compressedSize": 13575632,
+                "name": "RobloxPlayerInstaller.exe",
+                "uncompressedSize": 13575632
+              },
+              "name": "RobloxPlayerInstaller.exe"
+            },
+            {
+              "after": {
+                "checksum": "582673a112920a98600ec251e21af477",
+                "compressedSize": 83405,
+                "name": "WebView2.zip",
+                "uncompressedSize": 166000
+              },
+              "before": {
+                "checksum": "01b8778e13e5692bc519870938863614",
+                "compressedSize": 83405,
+                "name": "WebView2.zip",
+                "uncompressedSize": 166000
+              },
+              "name": "WebView2.zip"
+            },
+            {
+              "after": {
+                "checksum": "d6728552adc0631741832b9b8fef8df3",
+                "compressedSize": 301988,
+                "name": "content-avatar.zip",
+                "uncompressedSize": 1080093
+              },
+              "before": {
+                "checksum": "2e92dd1487819341ac2688e24ec8fa11",
+                "compressedSize": 293631,
+                "name": "content-avatar.zip",
+                "uncompressedSize": 1047884
+              },
+              "name": "content-avatar.zip"
+            },
+            {
+              "after": {
+                "checksum": "67226d220b3c234849b54be9f0813a1e",
+                "compressedSize": 306511,
+                "name": "content-configs.zip",
+                "uncompressedSize": 1805511
+              },
+              "before": {
+                "checksum": "4f4c9d8cec0d24ea75a5850e2f437c3c",
+                "compressedSize": 306514,
+                "name": "content-configs.zip",
+                "uncompressedSize": 1805511
+              },
+              "name": "content-configs.zip"
+            },
+            {
+              "after": {
+                "checksum": "e4777783652cac408a27b7c864709d26",
+                "compressedSize": 421097,
+                "name": "content-platform-dictionaries.zip",
+                "uncompressedSize": 1421112
+              },
+              "before": {
+                "checksum": "e90e79d9e1684e52378e9e9b8c40d651",
+                "compressedSize": 423809,
+                "name": "content-platform-dictionaries.zip",
+                "uncompressedSize": 1427253
+              },
+              "name": "content-platform-dictionaries.zip"
+            },
+            {
+              "after": {
+                "checksum": "13bd4d729bed81aaed788e7904476fbe",
+                "compressedSize": 5747337,
+                "name": "content-textures2.zip",
+                "uncompressedSize": 5994283
+              },
+              "before": {
+                "checksum": "7261e58eb4c49c6ebdad1ff1171a3360",
+                "compressedSize": 5738076,
+                "name": "content-textures2.zip",
+                "uncompressedSize": 5985469
+              },
+              "name": "content-textures2.zip"
+            },
+            {
+              "after": {
+                "checksum": "c002b6e7a7c01cb8e31fa9b1a98c97ea",
+                "compressedSize": 27278690,
+                "name": "extracontent-models.zip",
+                "uncompressedSize": 27389040
+              },
+              "before": {
+                "checksum": "c0cf43d15c2b7ea1115e165e49c747aa",
+                "compressedSize": 26602687,
+                "name": "extracontent-models.zip",
+                "uncompressedSize": 26717412
+              },
+              "name": "extracontent-models.zip"
+            },
+            {
+              "after": {
+                "checksum": "edefea49e7603fe9b7aea1ee419ef57a",
+                "compressedSize": 13802091,
+                "name": "shaders.zip",
+                "uncompressedSize": 87574452
+              },
+              "before": {
+                "checksum": "5ea6d67868506baa039fdc217dc3432d",
+                "compressedSize": 13804098,
+                "name": "shaders.zip",
+                "uncompressedSize": 87591776
+              },
+              "name": "shaders.zip"
+            },
+            {
+              "after": {
+                "checksum": "5d15a73788faf2792c7be977b0d95edf",
+                "compressedSize": 130569,
+                "name": "ssl.zip",
+                "uncompressedSize": 228725
+              },
+              "before": {
+                "checksum": "78d4243415175ff9b3553c427eafbfbd",
+                "compressedSize": 130569,
+                "name": "ssl.zip",
+                "uncompressedSize": 228725
+              },
+              "name": "ssl.zip"
+            }
+          ],
+          "removed": [],
+          "unchanged": 12
+        }
+      }
+    },
+    "FastVariables": {
+      "current": "7d26e7a9855bd48fee6490f0f61d727d2a5cac268157a8f24be1a114cc8551c1",
+      "files": {
+        "added": [],
+        "changed": [
+          "combined.json",
+          "cpp.txt",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 1
+      },
+      "previous": "fe2237af8c6491a8119efd038238e96e800a3bba3f10aa34621fad53fddd279e",
+      "semantic": {
+        "variables": {
+          "added": [
+            "C++:FFlagWinInstallerWebBtidOverride"
+          ],
+          "changed": [
+            "C++:DFFlagSoundServiceMockOutputDevices",
+            "C++:DFIntGameNetLocalSpaceMaxSendIndex",
+            "C++:FFlagBankGuard",
+            "C++:FFlagCollectionServiceTagAddedRemovedOnInstanceSignals",
+            "C++:FFlagDebugEnableLocalAppUpdateChecks",
+            "C++:FFlagDebugEnableTestServiceDeterministicCapture",
+            "C++:FFlagDebugEnableTestServiceVideoCapture",
+            "C++:FFlagDifferentiateStreamedOut",
+            "C++:FFlagLCQualityValidation",
+            "C++:FFlagLuauExpressionReferencesMethod",
+            "C++:FFlagLuauExpressionServiceEnabled",
+            "C++:FFlagMigrateCameraCFrameDatamodel",
+            "C++:FFlagMigrateCameraFocusDatamodel",
+            "C++:FFlagMigrateCameraFovDatamodel",
+            "C++:FFlagNextGenReplicatorEnabledRead",
+            "C++:FFlagNextGenReplicatorEnabledWrite",
+            "C++:FFlagSaveAndReloadDebuggablePluginVerb",
+            "C++:FFlagUGCValidateInstanceTreesEquivalent",
+            "C++:FFlagUGCValidatePropertiesSensible",
+            "C++:FFlagUGCValidateSerializeExcludeCollisionPhysics",
+            "C++:FFlagVoiceUseWebRTCSession",
+            "C++:FFlagWIPTrackPackagelinkOverrides",
+            "C++:FIntContentProviderPreloadHangHashRepeatCount",
+            "C++:FStringDebugRenderingTestVideoCapturePath",
+            "C++:FStringSlimTranscoderResourcePath",
+            "C++:FStringTextureTranscodeRollout"
+          ],
+          "removed": [
+            "C++:FFlagUGCValidateHSRMeshIds"
+          ],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "60380de86793053656a746a8647a92908a11eac2b8982e9eaadc548c8274fe08",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "f67236fc1a8c8b3f615b0cf4223e122fa6f460336d6194257a206f533e2c9f57",
+      "semantic": {
+        "added": [
+          "DFFlagBadgeServiceEnableStats_Staged",
+          "DFFlagCLI224256Fix",
+          "DFFlagCLI230770_Staged",
+          "DFFlagDebugCLI191972Gui_UniverseFilter",
+          "DFFlagFixReportSampledBwData",
+          "DFFlagSimCsgFixDedupeEdgeOrphanVerts",
+          "FFlagAXScrollTelemetryIntegration",
+          "FFlagAmpV2WizardCodeInputAspectRatio",
+          "FFlagAppChatPlusReferralAssetCard",
+          "FFlagAppChatTimestampInSubtitleConversationRow_IXP",
+          "FFlagBindToCloseDetectRawResumedThreads_Staged",
+          "FFlagCapturesInExpUseMomentsCreation_Staged",
+          "FFlagDMCTMigrateHumanoidDescriptionAnimation",
+          "FFlagDMCTMigrateHumanoidDescriptionAppearance",
+          "FFlagDMCTMigrateHumanoidDescriptionScale",
+          "FFlagDMCTMigratePlayer",
+          "FFlagDMCTMigratePlayerCameraZoom",
+          "FFlagDMCTMigratePose",
+          "FFlagEnablePlusReferralFlyoutEntry3_Staged",
+          "FFlagEnablePlusReferralRecipientFlyoutEntry_Staged",
+          "FFlagFixEditableImageBlendTransparentSource_Staged",
+          "FFlagFixSplitHashCopyTombstoneCount_Staged",
+          "FFlagLuaAppAddHasOneByTwoFieldSdui_Staged",
+          "FFlagLuaAppSkipStartupRouteHop",
+          "FFlagMicroProfilerExperimentalHttpApi",
+          "FFlagMomentsEngagementMetricsFeature_Staged",
+          "FFlagPhysicalPropertiesConsistentFloatKeys",
+          "FFlagSearchAllRegistryEntriesForAutoFocus_Staged",
+          "FFlagStratusConnectWithoutOrientationWait_Staged",
+          "FFlagStratusReconcileResolutionOnConnect_Staged",
+          "FFlagStyleEditorUDimFormatting",
+          "FFlagUIBoundsTracking2",
+          "FFlagUserCCLNoSwimAnimationsFix",
+          "FIntExplicitTextureRequestHundredthPercent_Staged",
+          "FStringRenderMeshPerLodStreamingForceEnablePlaceIds"
+        ],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagPartiallyCompressPhysicsPackets2"
+          },
+          {
+            "after": "1197122c6ea05db0e2bd76a0c7f35d47df52b02f",
+            "before": "d0c4fed4bdb9602adee1fea2856f5a7defa5ec7d",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-13T23:12:50.210Z",
+            "before": "2026-10-13T21:10:00.759Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "1;Portal.AnimationParallelMultiSubmitBatchSizeSetSetToOneV2-1791925966;AnimationParallelMultiSubmitBatchSizeSetSetToOneV2;148829864;flagbank",
+            "before": "1;Portal.SetAnimationParallelMultiSubmitBatchSizeToOne-1791914020;SetAnimationParallelMultiSubmitBatchSizeToOne;725417252;flagbank",
+            "name": "FIntAnimationParallelMultiSubmitBatchSize_IXP"
+          },
+          {
+            "after": "1197122c6ea05db0e2bd76a0c7f35d47df52b02f",
+            "before": "d0c4fed4bdb9602adee1fea2856f5a7defa5ec7d",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-13T23:12:50.210Z",
+            "before": "2026-10-13T21:10:00.759Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagPartiallyCompressPhysicsPackets2_Staged",
+          "DFFlagSimCsgFixDedupeEdgeOrphanVerts_Staged",
+          "FFlagAXScrollTelemetryIntegration_Staged",
+          "FFlagAmpV2WizardCodeInputAspectRatio_Staged",
+          "FFlagAppChatPlusReferralAssetCard_Staged",
+          "FFlagAppChatReadMessageListFromSignalsStore_IXP",
+          "FFlagDMCTMigrateHumanoidDescriptionAnimation_Staged",
+          "FFlagDMCTMigrateHumanoidDescriptionAppearance_Staged",
+          "FFlagDMCTMigrateHumanoidDescriptionScale_Staged",
+          "FFlagDMCTMigratePlayerCameraZoom_Staged",
+          "FFlagDMCTMigratePlayer_Staged",
+          "FFlagDMCTMigratePose_Staged",
+          "FFlagLuaAppSkipStartupRouteHop_Staged",
+          "FFlagMicroProfilerExperimentalHttpApi_Staged",
+          "FFlagPhysicalPropertiesConsistentFloatKeys_Staged",
+          "FFlagSlimRendererHandleNullAnimationStream_Staged",
+          "FFlagSlimReplicationFixAnimationDataEntityDestruction_Staged",
+          "FFlagStyleEditorUDimFormatting_Staged",
+          "FFlagUIBoundsTracking2_Staged",
+          "FFlagUserCCLNoSwimAnimationsFix_Staged",
+          "FStringRenderMeshPerLodStreamingForceEnablePlaceIds_Staged"
+        ],
+        "unchanged": 23335
+      }
+    },
+    "LuaPackages": {
+      "current": "05cbcdcdbe27b1ec4c0a817bfcdfebc6186a6412dd85f4624a21169f8b7eafb0",
+      "files": {
+        "added": [],
+        "changed": [
+          "content-configs/InExperiencePatchConfig/InExperiencePatchConfig.json",
+          "content-configs/UniversalAppPatchConfig/UniversalAppPatchConfig.json",
+          "extracontent-models/CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch/instances.json",
+          "extracontent-models/InExperience/InExperience/instances.json",
+          "extracontent-models/UniversalApp/UniversalApp/instances.json",
+          "index.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 98
+      },
+      "previous": "f130e36a22498b486592093be2f1fb504403d711a1d603eacce497429a2353ba",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Native": {
+      "current": "fd2cef1347472654a224e033c40c2fb6e603adddf49cd43f7b241f760a7ad743",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json",
+          "pe.json",
+          "strings/ascii.txt",
+          "strings/identifiers.txt",
+          "strings/symbols.txt",
+          "strings/utf16.txt",
+          "strings/utf8.txt",
+          "strings/variables.txt",
+          "symbols.txt"
+        ],
+        "removed": [],
+        "unchanged": 5
+      },
+      "previous": "a983c35915e8647c78f4e291945db245268779655a4d946060dcb36471c09e29",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}

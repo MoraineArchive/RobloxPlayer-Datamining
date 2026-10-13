@@ -2,57 +2,57 @@
   "observationMode": "live",
   "provenance": [
     {
-      "buildGuid": "version-cec3ad5889b447cf",
-      "bytes": 306514,
+      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "bytes": 306511,
       "derivedFrom": "content-configs.zip",
-      "sha256": "46d4c874a6310144832527e320e1e804073d71f251bf862ea6a1140881f4cdf1",
+      "sha256": "05cba50015de1924108c8cb1bdbbe5e4e2d65f09f2c83977f59e1781a2498d8a",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-cec3ad5889b447cf-content-configs.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-content-configs.zip"
     },
     {
-      "buildGuid": "version-cec3ad5889b447cf",
+      "buildGuid": "version-7a0c6d10fcb34a2c",
       "bytes": 620166,
       "derivedFrom": "content-models.zip",
       "sha256": "bd9d84b18399042e0478ccdc989081d48a82279a498b36efaa197a317e01df76",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-cec3ad5889b447cf-content-models.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-content-models.zip"
     },
     {
-      "buildGuid": "version-cec3ad5889b447cf",
+      "buildGuid": "version-7a0c6d10fcb34a2c",
       "bytes": 2825687,
       "derivedFrom": "extracontent-luapackages.zip",
       "sha256": "fcd44e8a02fa69e93d280d8ec2cecc88651d0095a22902593b28b88a7e2438b2",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-cec3ad5889b447cf-extracontent-luapackages.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-extracontent-luapackages.zip"
     },
     {
-      "buildGuid": "version-cec3ad5889b447cf",
-      "bytes": 26602687,
+      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "bytes": 27278690,
       "derivedFrom": "extracontent-models.zip",
-      "sha256": "1343740117ef5e789fcc961891adfe3738494aebbff7d70a47bddf2f66561660",
+      "sha256": "9e93f4657eef05f031f37988f9b614b9f3cf073e9fa01c81b5e7cb653c8f8637",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-cec3ad5889b447cf-extracontent-models.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-extracontent-models.zip"
     },
     {
-      "buildGuid": "version-cec3ad5889b447cf",
+      "buildGuid": "version-7a0c6d10fcb34a2c",
       "bytes": 610717,
       "derivedFrom": "extracontent-translations.zip",
       "sha256": "16cd03787910fec0340c58cd4efd4ba47d1f00d61395c76693cd5db695db58a4",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-cec3ad5889b447cf-extracontent-translations.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-extracontent-translations.zip"
     }
   ],
   "reason": "Some distributed models contain bytecode rather than original script source.",
   "status": "partial",
   "summary": {
     "engineRevision": 1,
-    "guid": "version-cec3ad5889b447cf",
+    "guid": "version-7a0c6d10fcb34a2c",
     "localizationFiles": 28,
     "models": 18,
     "packages": 5,
     "sources": 0,
     "textFiles": 104,
-    "unreadableScripts": 37078
+    "unreadableScripts": 38066
   },
   "target": "WindowsPlayer"
 }

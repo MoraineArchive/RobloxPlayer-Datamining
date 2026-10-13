@@ -3,32 +3,32 @@
   "provenance": [
     {
       "bytes": 103,
-      "sha256": "fb7598f118b76dea1e93efb9cd3208f49abf16b6d4a6b640f9a727de80f790d9",
+      "sha256": "ca2ebc931c9e434e413f7d03f60cc11f690b47fca24029ad5b790b7248c7b353",
       "sourceType": "official",
       "sourceUrl": "https://clientsettings.roblox.com/v2/client-version/WindowsPlayer"
     },
     {
-      "buildGuid": "version-cec3ad5889b447cf",
+      "buildGuid": "version-7a0c6d10fcb34a2c",
       "bytes": 1636,
-      "sha256": "ba310caf9b43512e97fc236fac4d0bd99f01fe79e82cf83329c63cd39c3b4498",
+      "sha256": "6167a7a459d4049a8c1eaeb6be6c73bc74d4cd60f00c09261f2bac8b3bd08736",
       "sourceType": "official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-cec3ad5889b447cf-rbxPkgManifest.txt"
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-rbxPkgManifest.txt"
     },
     {
-      "buildGuid": "version-cec3ad5889b447cf",
-      "bytes": 253450,
-      "sha256": "a75ffea9351200eb3debbac2f89195a7dfb3fbea4a755ec317d547e262f534f2",
+      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "bytes": 253792,
+      "sha256": "2dd3027fc3ec67ec7265660bc59339b3046fed0e5769228dc7615809dd4debf3",
       "sourceType": "official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-cec3ad5889b447cf-rbxManifest.txt"
+      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-rbxManifest.txt"
     }
   ],
   "status": "available",
   "summary": {
     "engineRevision": 1,
-    "guid": "version-cec3ad5889b447cf",
-    "manifestFiles": 2849,
+    "guid": "version-7a0c6d10fcb34a2c",
+    "manifestFiles": 2853,
     "packages": 22,
-    "version": "0.742.0.7421053"
+    "version": "0.743.0.7431129"
   },
   "target": "WindowsPlayer"
 }
