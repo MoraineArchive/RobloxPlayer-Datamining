@@ -1,0 +1,216 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "1cd38d747c6729d5b3bbdfc43a632ad446bcccb3cca424a83c9eef5d7ec9c520",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "fec7ad7390bd6f97dbf763787613c8f38f5f348132f60b2d2b02883cd11c1357",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 27
+        }
+      }
+    },
+    "InExperience": {
+      "current": "ef07c8654469158eb105863e4e700eb9ef2e72f0ce58574d8916039cd422d0dd",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "c0d37a512ed129365e6eb417ddf988a48bb846344eefee21ff7653ab52dca28b",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "0bdb0a7f1402f401d38851983415ae312520b765134a31324c237f823556dc07",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "060dd3365d379795fff6f954934469b9871cc5b7cfc249c7e1051d2138c4a77d",
+      "semantic": {
+        "added": [
+          "DFFlagAbuseReportEnrichmentAddPresetInfoToChatHistory",
+          "DFFlagCurvedSurfaceGuiRaycastRespectsEnabled",
+          "DFFlagEnableBatchDataModelClose",
+          "DFFlagJoinTicketV2UseBotScore_Staged",
+          "DFFlagStreamJobTimeScalesWithPlayerCount",
+          "DFFlagTextChatChannelDisplayMode_Staged",
+          "FFlagAXFixExpiredLookCheckoutNav_Staged",
+          "FFlagAXMakeAnalyticsOptionalInEquipOutfit_Staged",
+          "FFlagAXMakeupLayeringTooltipFTUX_Staged",
+          "FFlagAddFriendsIgnoreAllMenuVR",
+          "FFlagAddFriendsPageHighlightUnseenRequests_v3_Staged",
+          "FFlagDMCTMigrateBasePartNetwork_Staged",
+          "FFlagEnableDestroyLuaAppV2Experiment2_Staged",
+          "FFlagEnableOffersPrefetch",
+          "FFlagEnablePlusReferralDashboardDeepLink_Staged",
+          "FFlagEnablePlusReferralDashboard_v5_Staged",
+          "FFlagEnablePlusReferralLandingSheet4_Staged",
+          "FFlagEnablePlusReferralLegalDisclosure_Staged",
+          "FFlagEnablePlusReferralTelemetry_Staged",
+          "FFlagEnableSubscriptionPurchaseReferrerId_Staged",
+          "FFlagEnableSurfaceAppearanceColorObjectExport",
+          "FFlagExpChatAutocompleteLazyBuild_IXP",
+          "FFlagExpChatAutocompleteOptimization_IXP",
+          "FFlagFlyoutSidePanelUseAppPolicy_Staged",
+          "FFlagIEMSettingsGroups709",
+          "FFlagLuaAppSduiHomeSponsoredAdViewability",
+          "FFlagLuauCodegenExitSyncUpdate",
+          "FFlagLuauCodegenLimitVersionsExtra",
+          "FFlagLuauCodegenNoZeroScale",
+          "FFlagLuauCodegenScopedSpillKeepLazy",
+          "FFlagLuauCompileMoveElisionFix",
+          "FFlagLuauCompileTableFoldFix",
+          "FFlagMeProfileEntryTooltipEnabled_IXP",
+          "FFlagMeTabBadgeEnabled_IXP",
+          "FFlagMigrateMassPackageUpdaterToPublishSM_Staged",
+          "FFlagMigrateVoiceApiClientTelemetryLoggerLegacyTelemetry_Staged",
+          "FFlagMomentsBlockingModalInOverlay_Staged",
+          "FFlagMomentsUseMomentsServiceForUpload_Staged",
+          "FFlagMvTpRequestsFix",
+          "FFlagPreEmptivelyDestroyLuaAppForAll_Staged",
+          "FFlagRemoveMobileHomeProfileHeader_v2_IXP",
+          "FFlagRenderFixEditableMeshExtentsCFrameLifetime",
+          "FFlagSTUDIOPLAT44614SafeClearFileStore_Staged",
+          "FFlagSduiVerticalFeedScrollTelemetry_Staged",
+          "FFlagSetAttributeEarlyOut",
+          "FFlagSimRuntimeContentServiceNoDmLock_Staged",
+          "FFlagSpatialUIHiddenPanelRaycastFix",
+          "FFlagTPGUploadCallbackFix_Staged",
+          "FFlagUIBoundsTracking2_Staged",
+          "FFlagUserSearchCancelTileActivationOnHoldIntent2_Staged",
+          "FFlagUserSearchHideFriendActionsForBlockedUsers_Staged",
+          "FIntAnimationParallelMultiSubmitBatchSize_IXP"
+        ],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagSimGroundControllerBalanceDerivedLocomotionLimit"
+          },
+          {
+            "after": "29e0e360a51076e15276b1aabf49ba4492488480",
+            "before": "ad010621d433ab16f4203e44c09ec3d100038c5d",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-13T19:11:40.510Z",
+            "before": "2026-10-13T01:52:28.582Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840-1791836708427;1458332433;flagbank",
+            "before": "1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840-17915026293-1791502882208;1458332433;flagbank",
+            "name": "FFlagCrashMetricRelaxAfterSuccessStreak_IXP"
+          },
+          {
+            "after": "1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840-1791836708427;1458332433;flagbank",
+            "before": "1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840-17915026293-1791502882208;1458332433;flagbank",
+            "name": "FFlagCrashMetricStorageAddPostProcessing2_IXP"
+          },
+          {
+            "after": "1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840-1791836708427;1458332433;flagbank",
+            "before": "1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840-17915026293-1791502882208;1458332433;flagbank",
+            "name": "FIntPerformanceControlCrashMetricAlgorithmType2_IXP"
+          },
+          {
+            "after": "1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840-1791836708427;1458332433;flagbank",
+            "before": "1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840-17915026293-1791502882208;1458332433;flagbank",
+            "name": "FIntPerformanceControlCrashMetricPostProcessingAlgorithmType2_IXP"
+          },
+          {
+            "after": "29e0e360a51076e15276b1aabf49ba4492488480",
+            "before": "ad010621d433ab16f4203e44c09ec3d100038c5d",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-13T19:11:40.510Z",
+            "before": "2026-10-13T01:52:28.582Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 23284
+      }
+    },
+    "UniversalApp": {
+      "current": "66e837d624d54e0cf750615d73bc32293c65f6497c9549d669f6444bfa15781b",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "07845c2312dd27636310d4811e418884cd887b5d4197fb1df3df14f792e75e21",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "9e86f8c77ec2bbe6d998c76830e7c3fcb75847af882649c5ee69c4db6da847bc",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.Login.js",
+          "js.rbxcdn.com/page-0/GameLaunch.js",
+          "js.rbxcdn.com/page-0/Navigation.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Authentication.Login.js",
+          "js.rbxcdn.com/page-1/GameLaunch.js",
+          "js.rbxcdn.com/page-1/Navigation.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 218
+      },
+      "previous": "e01b33c94dab00d32185748a8a648f3774e65e464f365191919a3c80cf010704",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
