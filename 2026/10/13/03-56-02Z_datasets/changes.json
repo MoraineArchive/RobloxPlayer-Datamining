@@ -1,0 +1,78 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "1e04e533e4cbf129ac0bce67dc1bc4cf18bc47686a80b30738b1c15bde80b289",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "b681e6e6995895d656cc4a1bb36c6880b53ebb715761a4a8ba87a94fe0f21a66",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 27
+        }
+      }
+    },
+    "InExperience": {
+      "current": "c9ff14b88c738d30438ac400b9223b923e9f2bbda298ea9a6ec71ce57996c8c2",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "0397377c05fad3059fcdd5305b9f192234944dc8141935f0565811424a6caa83",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "UniversalApp": {
+      "current": "46fa04cebbd1f5c5c8b6ace11886d4ba74be80b3ff7941c5f203abe60e9962ac",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "0950a5e87d8325dc1112a40976a388c907db09de5bd512ddb1d0e7478e75eadd",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
