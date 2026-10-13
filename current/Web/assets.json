@@ -10,10 +10,10 @@
   {
     "path": "js.rbxcdn.com/page-0/AccessManagementUpsellV2.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "6912ed2b144bf1c365aa20278d4c75bf1501a300c55620b387c796bc52f6cae5",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/accessManagementUpsellV2-004a3c13959382e9.js.map",
+    "sha256": "01574fd8a91c2fab44c1246414ec007e75117ffccb030b2125c37838f04d5895",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/accessManagementUpsellV2-9d0db0db05f5721b.js.map",
     "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/59e8c1b1dd640a961847b49a83ebe7fe47df8db14c13e3fac0cadf370edd6068-AccessManagementUpsellV2.js"
+    "url": "https://js.rbxcdn.com/c3b3bd828a2710c8c8e78a4a9abdbac45e8806854e7ad1f5944e22ab0994b765-AccessManagementUpsellV2.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/AccountSwitcher.js",
@@ -210,10 +210,10 @@
   {
     "path": "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "f61bf80b7537090b7ce9e4cd8e35f114c02bee7a61d172b0781552ffc9f256a8",
+    "sha256": "33a19eb8d33cf338d1e3f12b6a6bbe391c459458e132844228280bcfa087be57",
     "sourceMap": null,
     "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/dccd12359b0619f8b5b1b2ceff56111ddc3615fe131ac5c6ba0433489d4483de.js"
+    "url": "https://js.rbxcdn.com/331e48e6b06f0b2d60a8dec1281dd9a6d96235a5c08e1b387c69fce048e974c7.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AgeVerificationUpsell.js",
@@ -874,10 +874,10 @@
   {
     "path": "js.rbxcdn.com/page-1/AccessManagementUpsellV2.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "6912ed2b144bf1c365aa20278d4c75bf1501a300c55620b387c796bc52f6cae5",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/accessManagementUpsellV2-004a3c13959382e9.js.map",
+    "sha256": "01574fd8a91c2fab44c1246414ec007e75117ffccb030b2125c37838f04d5895",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/accessManagementUpsellV2-9d0db0db05f5721b.js.map",
     "sourcePage": "https://www.roblox.com/discover",
-    "url": "https://js.rbxcdn.com/59e8c1b1dd640a961847b49a83ebe7fe47df8db14c13e3fac0cadf370edd6068-AccessManagementUpsellV2.js"
+    "url": "https://js.rbxcdn.com/c3b3bd828a2710c8c8e78a4a9abdbac45e8806854e7ad1f5944e22ab0994b765-AccessManagementUpsellV2.js"
   },
   {
     "path": "js.rbxcdn.com/page-1/AccountSwitcher.js",
@@ -1082,10 +1082,10 @@
   {
     "path": "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "f61bf80b7537090b7ce9e4cd8e35f114c02bee7a61d172b0781552ffc9f256a8",
+    "sha256": "33a19eb8d33cf338d1e3f12b6a6bbe391c459458e132844228280bcfa087be57",
     "sourceMap": null,
     "sourcePage": "https://www.roblox.com/discover",
-    "url": "https://js.rbxcdn.com/dccd12359b0619f8b5b1b2ceff56111ddc3615fe131ac5c6ba0433489d4483de.js"
+    "url": "https://js.rbxcdn.com/331e48e6b06f0b2d60a8dec1281dd9a6d96235a5c08e1b387c69fce048e974c7.js"
   },
   {
     "path": "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AgeVerificationUpsell.js",

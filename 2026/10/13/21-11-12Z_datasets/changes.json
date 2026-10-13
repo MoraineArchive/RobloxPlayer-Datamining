@@ -1,0 +1,218 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "fe2237af8c6491a8119efd038238e96e800a3bba3f10aa34621fad53fddd279e",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "ed9a22c1c09ef5fe719ba188651f26ddcce833bc44c635bf33447bd675dfc71f",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 27
+        }
+      }
+    },
+    "InExperience": {
+      "current": "ee9d9ae4fbffb4f85c33e8f66397f36813315be07573a18fcf9c486f10360a8c",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "e7d89219d9ec73a25af56a99773579f99d0986f022afac0431ea39bd553b3b4e",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "f67236fc1a8c8b3f615b0cf4223e122fa6f460336d6194257a206f533e2c9f57",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "3392a971da5bd3acc245c99c0e895da88c951e4d30ca10e91e8db5db6a8e2fd6",
+      "semantic": {
+        "added": [
+          "DFFlagJoinTicketV2UseBotScore",
+          "DFFlagPartiallyCompressPhysicsPackets2_Staged",
+          "DFFlagSimCsgFixDedupeEdgeOrphanVerts_Staged",
+          "DFFlagSoundCacheUseBudgetUtilizationEstimator_IXP",
+          "FFlagAXScrollTelemetryIntegration_Staged",
+          "FFlagAddFriendsPageHighlightUnseenRequests_v3",
+          "FFlagAmpV2WizardCodeInputAspectRatio_Staged",
+          "FFlagAppChatPlusReferralAssetCard_Staged",
+          "FFlagDMCTMigrateBasePartNetwork",
+          "FFlagDMCTMigrateHumanoidDescriptionAnimation_Staged",
+          "FFlagDMCTMigrateHumanoidDescriptionAppearance_Staged",
+          "FFlagDMCTMigrateHumanoidDescriptionScale_Staged",
+          "FFlagDMCTMigratePlayerCameraZoom_Staged",
+          "FFlagDMCTMigratePlayer_Staged",
+          "FFlagDMCTMigratePose_Staged",
+          "FFlagEnableDestroyLuaAppV2Experiment2",
+          "FFlagEnablePlusReferralDashboardDeepLink",
+          "FFlagEnablePlusReferralDashboard_v5",
+          "FFlagEnablePlusReferralLandingSheet4",
+          "FFlagEnablePlusReferralLegalDisclosure",
+          "FFlagEnablePlusReferralTelemetry",
+          "FFlagEnableSubscriptionPurchaseReferrerId",
+          "FFlagLuaAppSkipStartupRouteHop_Staged",
+          "FFlagMicroProfilerExperimentalHttpApi_Staged",
+          "FFlagMigrateMassPackageUpdaterToPublishSM",
+          "FFlagMigrateVoiceApiClientTelemetryLoggerLegacyTelemetry",
+          "FFlagMomentsBlockingModalInOverlay",
+          "FFlagMomentsUseMomentsServiceForUpload",
+          "FFlagPhysicalPropertiesConsistentFloatKeys_Staged",
+          "FFlagPreEmptivelyDestroyLuaAppForAll",
+          "FFlagSTUDIOPLAT44614SafeClearFileStore",
+          "FFlagSduiVerticalFeedScrollTelemetry",
+          "FFlagSlimRendererHandleNullAnimationStream_Staged",
+          "FFlagSlimReplicationFixAnimationDataEntityDestruction_Staged",
+          "FFlagStyleEditorUDimFormatting_Staged",
+          "FFlagTPGUploadCallbackFix",
+          "FFlagUserCCLNoSwimAnimationsFix_Staged",
+          "FStringRenderMeshPerLodStreamingForceEnablePlaceIds_Staged"
+        ],
+        "changed": [
+          {
+            "after": "d0c4fed4bdb9602adee1fea2856f5a7defa5ec7d",
+            "before": "fc82213f3efe038303910ca15e6bfd873c2892d3",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-13T21:10:00.759Z",
+            "before": "2026-10-13T19:34:05.082Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagAXMakeupLayeringTooltipFTUX"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagSimRuntimeContentServiceNoDmLock"
+          },
+          {
+            "after": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;972205951;2026-10-13T20:14:17",
+            "before": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;2025439028;2026-10-13T18:10:39",
+            "name": "FFlagUIBoundsTracking2_Staged"
+          },
+          {
+            "after": "d0c4fed4bdb9602adee1fea2856f5a7defa5ec7d",
+            "before": "fc82213f3efe038303910ca15e6bfd873c2892d3",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-13T21:10:00.759Z",
+            "before": "2026-10-13T19:34:05.082Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "1;HarmonyExposure;HarmonyExposure.SoundCacheHigherIdealEstimatorDesktop;656025828;flagbank",
+            "before": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+            "name": "FStringPerformanceControlIncludedTunables_IXP"
+          }
+        ],
+        "removed": [
+          "DFFlagJoinTicketV2UseBotScore_Staged",
+          "DFFlagSoundCacheUseBudgetUtilizationEstimator_Staged",
+          "FFlagAXMakeupLayeringTooltipFTUX_Staged",
+          "FFlagAddFriendsPageHighlightUnseenRequests_v3_Staged",
+          "FFlagDMCTMigrateBasePartNetwork_Staged",
+          "FFlagEnableDestroyLuaAppV2Experiment2_Staged",
+          "FFlagEnablePlusReferralDashboardDeepLink_Staged",
+          "FFlagEnablePlusReferralDashboard_v5_Staged",
+          "FFlagEnablePlusReferralLandingSheet4_Staged",
+          "FFlagEnablePlusReferralLegalDisclosure_Staged",
+          "FFlagEnablePlusReferralTelemetry_Staged",
+          "FFlagEnableSubscriptionPurchaseReferrerId_Staged",
+          "FFlagFlyoutSidePanelUseAppPolicy_Staged",
+          "FFlagMigrateMassPackageUpdaterToPublishSM_Staged",
+          "FFlagMigrateVoiceApiClientTelemetryLoggerLegacyTelemetry_Staged",
+          "FFlagMomentsBlockingModalInOverlay_Staged",
+          "FFlagMomentsUseMomentsServiceForUpload_Staged",
+          "FFlagPreEmptivelyDestroyLuaAppForAll_Staged",
+          "FFlagSTUDIOPLAT44614SafeClearFileStore_Staged",
+          "FFlagSduiVerticalFeedScrollTelemetry_Staged",
+          "FFlagSimRuntimeContentServiceNoDmLock_Staged",
+          "FFlagTPGUploadCallbackFix_Staged"
+        ],
+        "unchanged": 23316
+      }
+    },
+    "UniversalApp": {
+      "current": "5a890b525054efd42020c96cf6a5d6362861db3e4f85f1978c381be701cfc253",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "a3223c22c790e9d889f39b3af046388d26079b2e46e67ec320596f4e17a64c4f",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "4eada98db0f230ea1592003becdc1217ae2cfdc78ce2ff7e4bd9bfa56c60cb21",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/AccessManagementUpsellV2.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/AccessManagementUpsellV2.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "9e86f8c77ec2bbe6d998c76830e7c3fcb75847af882649c5ee69c4db6da847bc",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
