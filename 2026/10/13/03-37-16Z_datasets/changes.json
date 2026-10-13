@@ -1,0 +1,124 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "b681e6e6995895d656cc4a1bb36c6880b53ebb715761a4a8ba87a94fe0f21a66",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "ba6348116c226752f5503b0969393b7b6660c3e3e23709584c216f41451c304d",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 27
+        }
+      }
+    },
+    "InExperience": {
+      "current": "0397377c05fad3059fcdd5305b9f192234944dc8141935f0565811424a6caa83",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "8f93fd52c1d7398a5bc347b5e4bd8aef60328ef799d49d8d3fb4e9d670e28090",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "060dd3365d379795fff6f954934469b9871cc5b7cfc249c7e1051d2138c4a77d",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "de8ad04c5e0900cf4b44139bfca703467b23c5d132b88ce8886b3b9820172cfb",
+      "semantic": {
+        "added": [
+          "FFlagAudioDeviceOutputCanRenderWithoutPlayers",
+          "FFlagMacMouseLockCenterSubtractWarpDelta2"
+        ],
+        "changed": [
+          {
+            "after": "ad010621d433ab16f4203e44c09ec3d100038c5d",
+            "before": "38fe21c2f7506fa651387fe7a684cfa670eaff81",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-13T01:52:28.582Z",
+            "before": "2026-10-13T00:27:35.042Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "ad010621d433ab16f4203e44c09ec3d100038c5d",
+            "before": "38fe21c2f7506fa651387fe7a684cfa670eaff81",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-13T01:52:28.582Z",
+            "before": "2026-10-13T00:27:35.042Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAudioDeviceOutputCanRenderWithoutPlayers_Staged",
+          "FFlagMacMouseLockCenterSubtractWarpDelta2_Staged"
+        ],
+        "unchanged": 23287
+      }
+    },
+    "UniversalApp": {
+      "current": "0950a5e87d8325dc1112a40976a388c907db09de5bd512ddb1d0e7478e75eadd",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "7fa1fde93c805e5d6d9c61651fb5edf791865611d98409e2a5457c6b936a4863",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
