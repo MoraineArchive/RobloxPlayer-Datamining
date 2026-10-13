@@ -1,0 +1,57 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "3392a971da5bd3acc245c99c0e895da88c951e4d30ca10e91e8db5db6a8e2fd6",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "d72e1b2aec9f7ce3762bd82c1403613f7efca96241c4e58e9bd7795d4295f68f",
+      "semantic": {
+        "added": [
+          "DFFlagSoundCacheUseBudgetUtilizationEstimator_Staged",
+          "DFFlagTextChatChannelDisplayMode"
+        ],
+        "changed": [
+          {
+            "after": "fc82213f3efe038303910ca15e6bfd873c2892d3",
+            "before": "33b09be13a503b3c5875591fca0f8e2ae91fbd3b",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-13T19:34:05.082Z",
+            "before": "2026-10-13T19:27:50.949Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "fc82213f3efe038303910ca15e6bfd873c2892d3",
+            "before": "33b09be13a503b3c5875591fca0f8e2ae91fbd3b",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-13T19:34:05.082Z",
+            "before": "2026-10-13T19:27:50.949Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagTextChatChannelDisplayMode_Staged"
+        ],
+        "unchanged": 23340
+      }
+    }
+  },
+  "schemaVersion": 1
+}
