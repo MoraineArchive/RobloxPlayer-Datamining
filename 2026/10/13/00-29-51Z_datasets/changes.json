@@ -1,0 +1,161 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-cec3ad5889b447cf",
+    "manifestFiles": 2849,
+    "packages": 22,
+    "version": "0.742.0.7421053"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "ba6348116c226752f5503b0969393b7b6660c3e3e23709584c216f41451c304d",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "c60a45e60b94efdfcfba59ffd2aae492873f8071aeffe01fd65b5b2f311567f7",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 27
+        }
+      }
+    },
+    "InExperience": {
+      "current": "8f93fd52c1d7398a5bc347b5e4bd8aef60328ef799d49d8d3fb4e9d670e28090",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "f0d01cfef230653f63233b452586881f96cbdb88d58d000c74a9b5af30fcac1c",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "de8ad04c5e0900cf4b44139bfca703467b23c5d132b88ce8886b3b9820172cfb",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "a2ebcd329a609d675036e541165c96a7917a61752c14b96ddd3d63f35162ac64",
+      "semantic": {
+        "added": [
+          "FFlagAXSurfaceItemInfoRowPromptVR",
+          "FFlagEnableShopRobuxBuyTelemetry",
+          "FFlagFoundationFixColorOnScrubbableNumberInput",
+          "FFlagHideOfferNotificationsWhenShopEmpty",
+          "FFlagMomentsImmersiveHeaderFadeOut",
+          "FFlagSchoolsMemberListShareButton",
+          "FFlagSchoolsNoSchoolEmailInterest",
+          "FFlagSduiLinkTextStyleOverride",
+          "FFlagSduiStreamingRefreshReplacesInputData",
+          "FFlagSduiUserSearchTile",
+          "FFlagSimRuntimeContentServiceNoDmLock"
+        ],
+        "changed": [
+          {
+            "after": "38fe21c2f7506fa651387fe7a684cfa670eaff81",
+            "before": "24893a066ed01ccac1e7df0e73d094f5aed1ecf2",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-13T00:27:35.042Z",
+            "before": "2026-10-12T23:15:21.974Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagEnableAndroidUnifiedSystemBarControl"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagSkipPaymentSessionForPlainRobux"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagSlimDisableCustomCharacter"
+          },
+          {
+            "after": "38fe21c2f7506fa651387fe7a684cfa670eaff81",
+            "before": "24893a066ed01ccac1e7df0e73d094f5aed1ecf2",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-13T00:27:35.042Z",
+            "before": "2026-10-12T23:15:21.974Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAXSurfaceItemInfoRowPromptVR_Staged",
+          "FFlagEnableAndroidUnifiedSystemBarControl_Staged",
+          "FFlagEnableShopRobuxBuyTelemetry_Staged",
+          "FFlagFoundationFixColorOnScrubbableNumberInput_Staged",
+          "FFlagHideOfferNotificationsWhenShopEmpty_Staged",
+          "FFlagLuaAppAddHasOneByTwoField_Staged",
+          "FFlagMomentsImmersiveHeaderFadeOut_Staged",
+          "FFlagSchoolsMemberListShareButton_Staged",
+          "FFlagSchoolsNoSchoolEmailInterest_Staged",
+          "FFlagSduiLinkTextStyleOverride_Staged",
+          "FFlagSduiStreamingRefreshReplacesInputData_Staged",
+          "FFlagSduiUserSearchTile_Staged",
+          "FFlagSimRuntimeContentServiceNoDmLock_Staged",
+          "FFlagSkipPaymentSessionForPlainRobux_Staged",
+          "FFlagSlimDisableCustomCharacter_Staged"
+        ],
+        "unchanged": 23275
+      }
+    },
+    "UniversalApp": {
+      "current": "7fa1fde93c805e5d6d9c61651fb5edf791865611d98409e2a5457c6b936a4863",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "91643c97797f226b337be61ccb305ff4c95d9b1139dd8d729a43e281801be4b2",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
