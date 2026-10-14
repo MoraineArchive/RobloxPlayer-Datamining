@@ -1,0 +1,134 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-7a0c6d10fcb34a2c",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.743.0.7431129"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "4df14b0e92492fb47a24f5ff84f797e45a34f59263b16921282131cd02697e97",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "0e26e34d8e50cb4997828c4e6ac2cea13a96d38eb4c6a17fb6667ac62dcc827a",
+      "semantic": {
+        "added": [
+          "DFFlagCollectionDontThrowOnBindingError",
+          "DFFlagCollectionsTelemetryCallbackListFields2",
+          "DFFlagHonorClientPurchaseIdempotencyKey_Staged",
+          "DFFlagHttpUseEmbeddedCaCerts_Staged",
+          "DFFlagWarmStartOnSystrayWebPlay",
+          "DFIntStudioPluginMemoryTelemetryPercent_Staged",
+          "FFlagAssetProviderSubstringMatch406Errors",
+          "FFlagEnableDevProductPurchaseChannel3_Staged",
+          "FFlagEnablePurchasePayloadForDevProductPurchase_Staged",
+          "FFlagFixNullEngineContextAPIDumper",
+          "FFlagFixOctreeUpdateMissingElement2",
+          "FFlagFlyoutRemoveMomentsForArgoEnabled_Staged",
+          "FFlagHierarchicalLogger2",
+          "FFlagInfoTableStableItemKeys",
+          "FFlagLuaAppCompositionSearch_IXP",
+          "FFlagLuaAppGameTileOverflowMenuFocusTransferFix_Staged",
+          "FFlagLuauCodegenA64ForgLoopArray",
+          "FFlagLuauCodegenX64IntSpillRestore",
+          "FFlagLuauCompileCallFbRemap",
+          "FFlagLuauRequireAttributeReferences2_Staged",
+          "FFlagLuauSplitIceHandler",
+          "FFlagLuauTypeFunctionsAbsenceCache",
+          "FFlagMomentsTextOverlayChipGrowAboveKeyboard",
+          "FFlagMomentsTextOverlayEdgeClipFix_Staged",
+          "FFlagMomentsTextOverlayModalTextFix",
+          "FFlagNotificationsUpsellUseRequestPushPermissionHelper_Staged",
+          "FFlagPeoplePageFixCardMenuZIndex_Staged",
+          "FFlagPushNotificationsUpsellHomePromptsExperiment_Staged",
+          "FFlagPushNotificationsUpsellPassClientAttributesToPrompts_Staged",
+          "FFlagSchoolsRejectPersonalEmailDomains",
+          "FFlagSubTabSizeSmall_Staged",
+          "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent_Staged"
+        ],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagRealtimeOnDemandDurableReplay"
+          },
+          {
+            "after": "c71518ccdf07f57515757940f4a27779b9727efa",
+            "before": "ebc554c9c9a566c3ce9fe3dc0869f86645453445",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-14T20:31:28.685Z",
+            "before": "2026-10-14T18:55:12.404Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.Omnisearch.GameItemsOnEmphasizeTileAndNonNavigationalCarousel;1473338198;dev_controlled",
+            "before": "1;PlayerApp.SearchResultsPage.PowerSearch;OmniSearchGameItemsShadowTraffic2;100418201;dev_controlled",
+            "name": "FFlagLuaAppEnableSearchStreamingEndpoint_IXP"
+          },
+          {
+            "after": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.Omnisearch.GameItemsOnEmphasizeTileAndNonNavigationalCarousel;1473338198;dev_controlled",
+            "before": "1;PlayerApp.SearchResultsPage.PowerSearch;OmniSearchGameItemsShadowTraffic2;100418201;dev_controlled",
+            "name": "FFlagLuaAppSduiStreamingChunkedResponses_IXP"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagLuaAppSkipStartupRouteHop"
+          },
+          {
+            "after": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.Omnisearch.GameItemsOnEmphasizeTileAndNonNavigationalCarousel;1473338198;dev_controlled",
+            "before": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration-v6;431634167;dev_controlled",
+            "name": "FFlagUserSearchPresenceStoreMigration_v2_IXP"
+          },
+          {
+            "after": "c71518ccdf07f57515757940f4a27779b9727efa",
+            "before": "ebc554c9c9a566c3ce9fe3dc0869f86645453445",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-14T20:31:28.685Z",
+            "before": "2026-10-14T18:55:12.404Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagClimbSensorUseLookAsNormal_PlaceFilter",
+          "DFFlagClimbSensorUseLookAsNormal_UniverseFilter",
+          "DFFlagCollectionDontThrowOnBindingError_Staged",
+          "DFFlagCollectionsTelemetryCallbackListFields2_Staged",
+          "DFFlagWarmStartOnSystrayWebPlay_Staged",
+          "FFlagAnimationSAIdleOnMovingPlatformFix_PlaceFilter",
+          "FFlagAnimationSAIdleOnMovingPlatformFix_UniverseFilter",
+          "FFlagAssetProviderSubstringMatch406Errors_Staged",
+          "FFlagFixNullEngineContextAPIDumper_Staged",
+          "FFlagFixOctreeUpdateMissingElement2_Staged",
+          "FFlagHierarchicalLogger2_Staged",
+          "FFlagInfoTableStableItemKeys_Staged",
+          "FFlagLuaAppSkipStartupRouteHop_Staged",
+          "FFlagLuauCodegenA64ForgLoopArray_Staged",
+          "FFlagLuauCodegenX64IntSpillRestore_Staged",
+          "FFlagLuauCompileCallFbRemap_Staged",
+          "FFlagLuauSplitIceHandler_Staged",
+          "FFlagLuauTypeFunctionsAbsenceCache_Staged",
+          "FFlagMomentsTextOverlayChipGrowAboveKeyboard_Staged",
+          "FFlagMomentsTextOverlayModalTextFix_Staged",
+          "FFlagSchoolsRejectPersonalEmailDomains_Staged",
+          "FFlagUserCCLNoSwimAnimationsFix_PlaceFilter",
+          "FFlagUserCCLNoSwimAnimationsFix_UniverseFilter"
+        ],
+        "unchanged": 23370
+      }
+    }
+  },
+  "schemaVersion": 1
+}
