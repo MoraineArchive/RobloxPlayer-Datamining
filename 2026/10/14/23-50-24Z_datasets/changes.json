@@ -1,0 +1,95 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-7a0c6d10fcb34a2c",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.743.0.7431129"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "d094a43ceeead7551ac0715f0ff0cd5dfc25e61fd2dc431376b3e23e5bd4d047",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "8ee7ca8eab977d1ab1bd8b0527a5aafb6ec06e77e053036f79be3b1dc2b7bba9",
+      "semantic": {
+        "added": [
+          "DFFlagFixTweenServiceNullEngineContext",
+          "DFFlagGetDetailedNetworkAddressesAppleLinux",
+          "DFFlagSmoothClusterReleaseStaleOccluder",
+          "DFFlagSoundCacheUseBudgetUtilizationEstimator_IXP",
+          "FFlagSimRuntimeContentTextureStreaming_Staged"
+        ],
+        "changed": [
+          {
+            "after": "True",
+            "before": "False",
+            "name": "DFFlagHttpNetworkType"
+          },
+          {
+            "after": "bc797f8258e99f7a2ba3a70664e2c426e0cf7f98",
+            "before": "260b5f3ef20b206337c2c56707fa73094ae4cfa0",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-14T23:47:55.871Z",
+            "before": "2026-10-14T22:38:49.490Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagUIBoundsTracking2"
+          },
+          {
+            "after": "bc797f8258e99f7a2ba3a70664e2c426e0cf7f98",
+            "before": "260b5f3ef20b206337c2c56707fa73094ae4cfa0",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-14T23:47:55.871Z",
+            "before": "2026-10-14T22:38:49.490Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "1;HarmonyExposure;HarmonyExposure.SoundCacheHigherIdealEstimatorDesktop-1792020773711;244672668;flagbank",
+            "before": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+            "name": "FStringPerformanceControlIncludedTunables_IXP"
+          }
+        ],
+        "removed": [
+          "DFFlagFixTweenServiceNullEngineContext_Staged",
+          "DFFlagGetDetailedNetworkAddressesAppleLinux_Staged",
+          "DFFlagHttpNetworkType_Staged",
+          "DFFlagSmoothClusterReleaseStaleOccluder_Staged",
+          "FFlagUIBoundsTracking2_Staged"
+        ],
+        "unchanged": 23407
+      }
+    },
+    "Web": {
+      "current": "aa77b6689217f69f6b87177b164910cb4cdf1dabdff43203c266e147ce30a75c",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.AlertsAndOptions.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Common.AlertsAndOptions.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "6fadd47ca82afebe7012fd96866e0ce49761ad5c83006c0db8c3913bab0becf8",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
