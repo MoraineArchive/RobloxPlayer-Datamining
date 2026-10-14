@@ -1,0 +1,156 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-7a0c6d10fcb34a2c",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.743.0.7431129"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "b2b6333c55aba48da6b3d83d48196e91d9e1e5535b83ab0dbc0630d59a631383",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "4df14b0e92492fb47a24f5ff84f797e45a34f59263b16921282131cd02697e97",
+      "semantic": {
+        "added": [
+          "DFFlagFixTweenServiceNullEngineContext_Staged",
+          "DFFlagGetDetailedNetworkAddressesAppleLinux_Staged",
+          "DFFlagHonorClientPurchaseIdempotencyKey",
+          "DFFlagHttpNetworkType_Staged",
+          "DFFlagHttpUseEmbeddedCaCerts",
+          "DFFlagRemoteFunctionSandboxCheck",
+          "DFFlagSimFixPrimitiveMidPhaseExtentsMapStackCorruption",
+          "DFFlagSmoothClusterReleaseStaleOccluder_Staged",
+          "DFFlagTextChatReportEmojiTelemetry",
+          "FFlagEnablePurchasePayloadForDevProductPurchase",
+          "FFlagLuaAppEnableOneByTwoTileFunnelTelemetrySdui_Staged",
+          "FFlagLuaAppGameTileOverflowMenuFocusTransferFix",
+          "FFlagLuauRequireAttributeReferences2",
+          "FFlagMomentsTextOverlayEdgeClipFix",
+          "FFlagNotificationsUpsellUseRequestPushPermissionHelper",
+          "FFlagPushNotificationsUpsellHomePromptsExperiment",
+          "FFlagPushNotificationsUpsellPassClientAttributesToPrompts",
+          "FFlagUIBloxAddNavigationTabTooltipAndTruncation_Staged",
+          "FFlagUIBoundsTracking2_Staged",
+          "FFlagWrapLayerTakeoffRestoresHsrFaces_Staged",
+          "FIntInputActionManagerBetaFeatureRolloutPercent"
+        ],
+        "changed": [
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10768492546;10761698214",
+            "name": "DFFlagAvatarAbilitiesUseStudioBeta2Asset_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10768492546;10761698214",
+            "name": "DFFlagPlayerControlStateAcceptOldSchema_UniverseFilter"
+          },
+          {
+            "after": "0",
+            "before": "500",
+            "name": "DFIntStudioPluginMemoryTelemetryPercent"
+          },
+          {
+            "after": "e3dbfb75989df2733726023ff2b7a5f3b92604af",
+            "before": "c71518ccdf07f57515757940f4a27779b9727efa",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-14T22:21:20.780Z",
+            "before": "2026-10-14T20:31:28.685Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10768492546;10761698214",
+            "name": "FFlagAvatarSettingsClientInitializeScriptType_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10768492546;10761698214",
+            "name": "FFlagAvatarSettingsCrouchSprintStrafe3_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10768492546;10761698214",
+            "name": "FFlagAvatarSettingsTurning_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10768492546;10761698214",
+            "name": "FFlagCclClientInitializeFrom2026Jun03AbilityManagerRepo3_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10768492546;10761698214",
+            "name": "FFlagPlayerControlStateApplyInputOnClientNonSAuth2_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10768492546;10761698214",
+            "name": "FFlagPlayerControlStateEnabled_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10768492546;10761698214",
+            "name": "FFlagUserAbilitiesUserInterfaceA_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10768492546;10761698214",
+            "name": "FFlagUserAbilitiesUserInterfaceB_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10768492546;10761698214",
+            "name": "FFlagUserDoubleJumpButtonFix_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10768492546;10761698214",
+            "name": "FFlagUserPlayerScriptsCCLIntegrationD_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10768492546;10761698214",
+            "name": "FFlagUserPlayerScriptsPlayerControlState2_UniverseFilter"
+          },
+          {
+            "after": "e3dbfb75989df2733726023ff2b7a5f3b92604af",
+            "before": "c71518ccdf07f57515757940f4a27779b9727efa",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-14T22:21:20.780Z",
+            "before": "2026-10-14T20:31:28.685Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagHonorClientPurchaseIdempotencyKey_Staged",
+          "DFFlagHttpUseEmbeddedCaCerts_Staged",
+          "DFIntStudioPluginMemoryTelemetryPercent_Staged",
+          "FFlagEnablePurchasePayloadForDevProductPurchase_Staged",
+          "FFlagLuaAppGameTileOverflowMenuFocusTransferFix_Staged",
+          "FFlagLuauRequireAttributeReferences2_Staged",
+          "FFlagMomentsTextOverlayEdgeClipFix_Staged",
+          "FFlagNotificationsUpsellUseRequestPushPermissionHelper_Staged",
+          "FFlagPushNotificationsUpsellHomePromptsExperiment_Staged",
+          "FFlagPushNotificationsUpsellPassClientAttributesToPrompts_Staged",
+          "FIntInputActionManagerBetaFeatureRolloutPercent_Staged"
+        ],
+        "unchanged": 23382
+      }
+    }
+  },
+  "schemaVersion": 1
+}
