@@ -570,10 +570,10 @@
   {
     "path": "js.rbxcdn.com/page-0/GameLaunch.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "45ba3b90265aad9a296022b1f53f501fc82b85c6e019426b091f5df55a340ac1",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/gameLaunch-47fbdc1d6cfda192.js.map",
+    "sha256": "ced0afec892d96664374110e0e31d073db137511ef4e9e8c7c92aa6914fb72cc",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/gameLaunch-e73fbed2147b9893.js.map",
     "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/eb5216da4e5157fba9edbebb8d1c829c700fc96da3e14324bb0e425370b8a658-GameLaunch.js"
+    "url": "https://js.rbxcdn.com/407077c6ca8c490e63ca1deb9a548a8c4d28e105a35057a3ff0f3f8ddf1e6436-GameLaunch.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/GlobalPrivacyControlChecker.js",
@@ -1450,18 +1450,18 @@
   {
     "path": "js.rbxcdn.com/page-1/GameCarousel.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "ff1a81f635be369556d0b18028575cec5cea03a45a8edda6934553305f5cc5b5",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/gameCarousel-ba433b2382fa3594.js.map",
+    "sha256": "38c852ee240957c01fc384a452532fef60ff6bdea830fb766759da1f09df46d5",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/gameCarousel-76eedcfd9a43c453.js.map",
     "sourcePage": "https://www.roblox.com/discover",
-    "url": "https://js.rbxcdn.com/fd3e887e985f180b07f13cbd574c02b9be46783c6671a0c2058ecae3fc90a726-GameCarousel.js"
+    "url": "https://js.rbxcdn.com/77327ea6bae354296d06154f2f8fe93148ee98a60c3ab8ae64aabf7d46551003-GameCarousel.js"
   },
   {
     "path": "js.rbxcdn.com/page-1/GameLaunch.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "45ba3b90265aad9a296022b1f53f501fc82b85c6e019426b091f5df55a340ac1",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/gameLaunch-47fbdc1d6cfda192.js.map",
+    "sha256": "ced0afec892d96664374110e0e31d073db137511ef4e9e8c7c92aa6914fb72cc",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/gameLaunch-e73fbed2147b9893.js.map",
     "sourcePage": "https://www.roblox.com/discover",
-    "url": "https://js.rbxcdn.com/eb5216da4e5157fba9edbebb8d1c829c700fc96da3e14324bb0e425370b8a658-GameLaunch.js"
+    "url": "https://js.rbxcdn.com/407077c6ca8c490e63ca1deb9a548a8c4d28e105a35057a3ff0f3f8ddf1e6436-GameLaunch.js"
   },
   {
     "path": "js.rbxcdn.com/page-1/GlobalPrivacyControlChecker.js",

@@ -1,0 +1,110 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-7a0c6d10fcb34a2c",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.743.0.7431129"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "b9eac734007546d20262dece550180ebe478cc4abd81fc9d06d9b34810413571",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "cab42832af5820e06670d8fd9189211b5a0447f2de1cdb9d458decb98b1a03ce",
+      "semantic": {
+        "added": [
+          "DFFlagCollectionDontThrowOnBindingError_Staged",
+          "DFFlagCollectionsTelemetryCallbackListFields2_Staged",
+          "DFFlagEditableMeshSerialCapMapItems",
+          "DFFlagEditableMeshSerialCapVectorLengths",
+          "DFFlagRejectOutOfRangeAxisCode",
+          "DFFlagSimNarrowPhaseWorkerStackSizeCLI228794",
+          "DFFlagStreamingEnforceFrustumInstanceBudget",
+          "DFFlagStreamingExcludeRegionFinalizeFromInstanceBudget",
+          "DFFlagWarmStartOnSystrayWebPlay_Staged",
+          "FFlagAssetProviderSubstringMatch406Errors_Staged",
+          "FFlagFixNullEngineContextAPIDumper_Staged",
+          "FFlagFixOctreeUpdateMissingElement2_Staged",
+          "FFlagHierarchicalLogger2_Staged",
+          "FFlagInfoTableStableItemKeys_Staged",
+          "FFlagLuaAppSkipStartupRouteHop_Staged",
+          "FFlagLuauCompileCallFbRemap_Staged",
+          "FFlagLuauSplitIceHandler_Staged",
+          "FFlagMomentsTextOverlayChipGrowAboveKeyboard_Staged",
+          "FFlagMomentsTextOverlayModalTextFix_Staged",
+          "FFlagSchoolsRejectPersonalEmailDomains_Staged",
+          "FFlagSduiSettingsRootPage2_IXP",
+          "FFlagSduiSettingsRootPageLogExposure_IXP",
+          "FFlagUpgradedUIShadowsBetaFeature",
+          "FFlagWrapConnectedGeometryCsrFaceMap",
+          "FIntInputActionManagerBetaFeatureRolloutPercent_Staged"
+        ],
+        "changed": [
+          {
+            "after": "6473450b77fc58a7095f81db951f766891549abe",
+            "before": "1a04d51b319d9d829ab76162c6e2e3d5ce66a55b",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-14T18:40:19.480Z",
+            "before": "2026-10-14T16:58:21.032Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "9000",
+            "before": "9500",
+            "name": "FIntExplicitTextureRequestHundredthPercent"
+          },
+          {
+            "after": "6473450b77fc58a7095f81db951f766891549abe",
+            "before": "1a04d51b319d9d829ab76162c6e2e3d5ce66a55b",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-14T18:40:19.480Z",
+            "before": "2026-10-14T16:58:21.032Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagRejectOutOfRangeAxisCode_Staged",
+          "DFFlagSimNarrowPhaseWorkerStackSizeCLI228794_Staged",
+          "FFlagFlagRolloutTestStaticBool14_Staged",
+          "FFlagRenderStarsAsQuads_Staged",
+          "FFlagUpgradedUIShadowsBetaFeature_Staged",
+          "FFlagWrapConnectedGeometryCsrFaceMap_Staged",
+          "FIntExplicitTextureRequestHundredthPercent_Staged",
+          "FStringGraphicsVulkanBlacklistDevicePatternV2_Staged",
+          "FStringGraphicsVulkanBlacklistVendorDeviceDriverIDsV2_Staged"
+        ],
+        "unchanged": 23371
+      }
+    },
+    "Web": {
+      "current": "c62e861fd519d0d47780e87fdb458d51488728478106d112010fb5d29c662612",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/GameLaunch.js",
+          "js.rbxcdn.com/page-1/GameCarousel.js",
+          "js.rbxcdn.com/page-1/GameLaunch.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 221
+      },
+      "previous": "a36fb9a6b3f501d039d361fa217e7e8d494e561e959f9726c4391692455b33b8",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}

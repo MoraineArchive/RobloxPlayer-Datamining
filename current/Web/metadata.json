@@ -344,6 +344,18 @@
       "sourceUrl": "https://js.rbxcdn.com/3fec2c529efef400a78a26a5c0a2d33e3e7ec0a13971616a31cd958214c71e37.js"
     },
     {
+      "bytes": 273986,
+      "sha256": "ced0afec892d96664374110e0e31d073db137511ef4e9e8c7c92aa6914fb72cc",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/407077c6ca8c490e63ca1deb9a548a8c4d28e105a35057a3ff0f3f8ddf1e6436-GameLaunch.js"
+    },
+    {
+      "bytes": 273986,
+      "sha256": "ced0afec892d96664374110e0e31d073db137511ef4e9e8c7c92aa6914fb72cc",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/407077c6ca8c490e63ca1deb9a548a8c4d28e105a35057a3ff0f3f8ddf1e6436-GameLaunch.js"
+    },
+    {
       "bytes": 686,
       "sha256": "1529a3576f5b0fda8f7d25f4340c9619c91c8d554206ae172a80da211758ec28",
       "sourceType": "official",
@@ -630,6 +642,12 @@
       "sha256": "07c8f5eab3ded2ba45d8c5e8914e42fb196c90e45d68efcd2db8b5cb58d27756",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/730fcbf0eba6dd82de9b0029e157627f023e6f448059c5b4c6a4f356222b3ac0.js"
+    },
+    {
+      "bytes": 2413534,
+      "sha256": "38c852ee240957c01fc384a452532fef60ff6bdea830fb766759da1f09df46d5",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/77327ea6bae354296d06154f2f8fe93148ee98a60c3ab8ae64aabf7d46551003-GameCarousel.js"
     },
     {
       "bytes": 982,
@@ -1268,18 +1286,6 @@
       "sourceUrl": "https://js.rbxcdn.com/ea02dd03dee8d01ac1d70c79d1a67cd19f1a2cee81b5796e32ae0102917d8992-VerificationUpsell.js"
     },
     {
-      "bytes": 271482,
-      "sha256": "45ba3b90265aad9a296022b1f53f501fc82b85c6e019426b091f5df55a340ac1",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/eb5216da4e5157fba9edbebb8d1c829c700fc96da3e14324bb0e425370b8a658-GameLaunch.js"
-    },
-    {
-      "bytes": 271482,
-      "sha256": "45ba3b90265aad9a296022b1f53f501fc82b85c6e019426b091f5df55a340ac1",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/eb5216da4e5157fba9edbebb8d1c829c700fc96da3e14324bb0e425370b8a658-GameLaunch.js"
-    },
-    {
       "bytes": 5878,
       "sha256": "50d99b89f6d7649bb410c4cf12a52cece115ae7a44f39ecf2c4692a53fe4f904",
       "sourceType": "official",
@@ -1314,12 +1320,6 @@
       "sha256": "d7843f5cba453cdd228329c5f384631abc240c121c965f9f65695510e74112a7",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/fc00826f9e0f8fd2f6bfe2152fb652d4f73e1a12e1ad50ad234d2f60854a311c-Polyfill.js"
-    },
-    {
-      "bytes": 2253392,
-      "sha256": "ff1a81f635be369556d0b18028575cec5cea03a45a8edda6934553305f5cc5b5",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/fd3e887e985f180b07f13cbd574c02b9be46783c6671a0c2058ecae3fc90a726-GameCarousel.js"
     },
     {
       "bytes": 252,
