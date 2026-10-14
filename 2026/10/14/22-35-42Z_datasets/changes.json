@@ -1,0 +1,83 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-7a0c6d10fcb34a2c",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.743.0.7431129"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "b3c90d4ae3abf46806b2ddf1f76d4179384632166a3ef9fe5120b0901a720467",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "b2b6333c55aba48da6b3d83d48196e91d9e1e5535b83ab0dbc0630d59a631383",
+      "semantic": {
+        "added": [
+          "FFlagEnableDevProductPurchaseChannel3",
+          "FFlagFlyoutRemoveMomentsForArgoEnabled",
+          "FFlagPeoplePageFixCardMenuZIndex"
+        ],
+        "changed": [
+          {
+            "after": "3ae1be7b78b49427b9ca499d222adbbd1ee69a8f",
+            "before": "e3dbfb75989df2733726023ff2b7a5f3b92604af",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-14T22:34:04.739Z",
+            "before": "2026-10-14T22:21:20.780Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "5000",
+            "before": "1000",
+            "name": "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent"
+          },
+          {
+            "after": "3ae1be7b78b49427b9ca499d222adbbd1ee69a8f",
+            "before": "e3dbfb75989df2733726023ff2b7a5f3b92604af",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-14T22:34:04.739Z",
+            "before": "2026-10-14T22:21:20.780Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagEnableDevProductPurchaseChannel3_Staged",
+          "FFlagFlyoutRemoveMomentsForArgoEnabled_Staged",
+          "FFlagLuaAppEnableOneByTwoTileFunnelTelemetrySdui_Staged",
+          "FFlagPeoplePageFixCardMenuZIndex_Staged",
+          "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent_Staged"
+        ],
+        "unchanged": 23411
+      }
+    },
+    "Web": {
+      "current": "6fadd47ca82afebe7012fd96866e0ce49761ad5c83006c0db8c3913bab0becf8",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/Navigation.js",
+          "js.rbxcdn.com/page-1/Navigation.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "c62e861fd519d0d47780e87fdb458d51488728478106d112010fb5d29c662612",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
