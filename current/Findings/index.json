@@ -434,11 +434,63 @@
             "filter",
             "place"
           ]
+        },
+        {
+          "after": "True;10139630272;10770019413;10769634303;10768492546;10761698214",
+          "before": "True;10139630272;10768492546;10761698214;10769634303;10770019413",
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/10/14/18-52-37Z_live-settings",
+          "evidencePath": "2026/10/14/18-52-37Z_live-settings/changes.json",
+          "family": "LiveSettings",
+          "id": "2c162ae6d29c4a2db4d5c36f13907d5f40ab72f66d3b342c7aeb4151a260dbb4",
+          "key": "DFFlagAvatarAbilitiesUseStudioBeta2Asset_UniverseFilter",
+          "kind": "LiveSettings",
+          "observedAt": "2026-10-14T18:52:37.420Z",
+          "operation": "changed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "asset",
+            "avatar",
+            "beta2",
+            "filter",
+            "universe"
+          ]
+        },
+        {
+          "after": "True;78957164244171;114108261963852;76307118827763;136747632025032;129942045637891;78486662010358;114057946826872;97459740552813;124927841431570;134308462331388",
+          "before": "True;76307118827763;136747632025032;129942045637891;78486662010358;114057946826872;97459740552813;78957164244171;114108261963852;88860002459743;117393659852834;124927841431570;134308462331388",
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/10/14/18-52-37Z_live-settings",
+          "evidencePath": "2026/10/14/18-52-37Z_live-settings/changes.json",
+          "family": "LiveSettings",
+          "id": "ffd9d6f5ca58d442c9e8a87666d80350a02de16adb05447c511e40eafb316877",
+          "key": "DFFlagAvatarAbilitiesUseStudioBeta2Asset_PlaceFilter",
+          "kind": "LiveSettings",
+          "observedAt": "2026-10-14T18:52:37.420Z",
+          "operation": "changed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "asset",
+            "avatar",
+            "beta2",
+            "filter",
+            "place"
+          ]
         }
       ],
       "firstObservedAt": "2026-09-08T23:42:52.368Z",
       "id": "avatar-abilities",
-      "lastObservedAt": "2026-10-14T16:59:08.123Z",
+      "lastObservedAt": "2026-10-14T18:52:37.420Z",
       "lifecycle": [
         {
           "observedAt": "2026-09-09T01:37:12.973Z",
