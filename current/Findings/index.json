@@ -408,11 +408,37 @@
             "filter",
             "place"
           ]
+        },
+        {
+          "after": "True;76307118827763;136747632025032;129942045637891;78486662010358;114057946826872;97459740552813;78957164244171;114108261963852;88860002459743;117393659852834;124927841431570;134308462331388",
+          "before": "True;76307118827763;136747632025032;129942045637891;78486662010358;114057946826872;97459740552813;78957164244171;114108261963852;88860002459743;117393659852834",
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/10/14/16-59-08Z_datasets",
+          "evidencePath": "2026/10/14/16-59-08Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "553bf128516949ddc94122e53c89d06eae22cd3f35fa48447b4957c6c2f98bc9",
+          "key": "DFFlagAvatarAbilitiesUseStudioBeta2Asset_PlaceFilter",
+          "kind": "LiveSettings",
+          "observedAt": "2026-10-14T16:59:08.123Z",
+          "operation": "changed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "asset",
+            "avatar",
+            "beta2",
+            "filter",
+            "place"
+          ]
         }
       ],
       "firstObservedAt": "2026-09-08T23:42:52.368Z",
       "id": "avatar-abilities",
-      "lastObservedAt": "2026-10-12T23:03:26.756Z",
+      "lastObservedAt": "2026-10-14T16:59:08.123Z",
       "lifecycle": [
         {
           "observedAt": "2026-09-09T01:37:12.973Z",
