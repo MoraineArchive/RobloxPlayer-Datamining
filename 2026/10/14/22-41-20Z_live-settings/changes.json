@@ -1,0 +1,58 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-7a0c6d10fcb34a2c",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.743.0.7431129"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "8ee7ca8eab977d1ab1bd8b0527a5aafb6ec06e77e053036f79be3b1dc2b7bba9",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "b3c90d4ae3abf46806b2ddf1f76d4179384632166a3ef9fe5120b0901a720467",
+      "semantic": {
+        "added": [
+          "FFlagSubTabSizeSmall",
+          "FFlagUIBloxAddNavigationTabTooltipAndTruncation"
+        ],
+        "changed": [
+          {
+            "after": "260b5f3ef20b206337c2c56707fa73094ae4cfa0",
+            "before": "3ae1be7b78b49427b9ca499d222adbbd1ee69a8f",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-14T22:38:49.490Z",
+            "before": "2026-10-14T22:34:04.739Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "260b5f3ef20b206337c2c56707fa73094ae4cfa0",
+            "before": "3ae1be7b78b49427b9ca499d222adbbd1ee69a8f",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-14T22:38:49.490Z",
+            "before": "2026-10-14T22:34:04.739Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagSubTabSizeSmall_Staged",
+          "FFlagUIBloxAddNavigationTabTooltipAndTruncation_Staged"
+        ],
+        "unchanged": 23413
+      }
+    }
+  },
+  "schemaVersion": 1
+}
