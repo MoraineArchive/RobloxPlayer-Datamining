@@ -1,0 +1,293 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-11f155f3450f4c8e",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.743.0.7431134"
+  },
+  "datasets": {
+    "Build": {
+      "current": "208e2674efe9c74a4b6bbf21540947890c346905165ecc7d4e5382474af05a55",
+      "files": {
+        "added": [],
+        "changed": [
+          "FileManifest.json",
+          "Packages.json",
+          "metadata.json",
+          "version.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "fc53cf0e74a07669345e907a12e31ab0418d34d7b1739af42017ca576cf82d27",
+      "semantic": {
+        "files": {
+          "added": [],
+          "changed": [
+            "ExtraContent/models/CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch.rbxm",
+            "ExtraContent/models/InExperience/InExperience.rbxm",
+            "ExtraContent/models/InExperience/InExperience_checksum",
+            "ExtraContent/models/Licenses/Licenses.rbxm",
+            "ExtraContent/models/UniversalApp/UniversalApp.rbxm",
+            "ExtraContent/models/UniversalApp/UniversalApp_checksum",
+            "RobloxCrashHandler.exe",
+            "RobloxPlayerBeta.dll",
+            "RobloxPlayerBeta.exe"
+          ],
+          "removed": [],
+          "unchanged": 2844
+        },
+        "packages": {
+          "added": [],
+          "changed": [
+            {
+              "after": {
+                "checksum": "0dd34f347f8b5c4a8c12b99154ecf1c9",
+                "compressedSize": 137303366,
+                "name": "RobloxApp.zip",
+                "uncompressedSize": 175164971
+              },
+              "before": {
+                "checksum": "a53ad94566f66455e4b4f7c10436a737",
+                "compressedSize": 137447289,
+                "name": "RobloxApp.zip",
+                "uncompressedSize": 175541803
+              },
+              "name": "RobloxApp.zip"
+            },
+            {
+              "after": {
+                "checksum": "4339275c67af8d0c0b42492c710e28e2",
+                "compressedSize": 13816784,
+                "name": "RobloxPlayerInstaller.exe",
+                "uncompressedSize": 13816784
+              },
+              "before": {
+                "checksum": "4cead1e95680f3a32aab608784e30a32",
+                "compressedSize": 13816784,
+                "name": "RobloxPlayerInstaller.exe",
+                "uncompressedSize": 13816784
+              },
+              "name": "RobloxPlayerInstaller.exe"
+            },
+            {
+              "after": {
+                "checksum": "6ec525f840c1d9a4be0ab4f6097713db",
+                "compressedSize": 83405,
+                "name": "WebView2.zip",
+                "uncompressedSize": 166000
+              },
+              "before": {
+                "checksum": "582673a112920a98600ec251e21af477",
+                "compressedSize": 83405,
+                "name": "WebView2.zip",
+                "uncompressedSize": 166000
+              },
+              "name": "WebView2.zip"
+            },
+            {
+              "after": {
+                "checksum": "b0981f86f5aa4b998353be448b4b24a2",
+                "compressedSize": 27224382,
+                "name": "extracontent-models.zip",
+                "uncompressedSize": 27336424
+              },
+              "before": {
+                "checksum": "c002b6e7a7c01cb8e31fa9b1a98c97ea",
+                "compressedSize": 27278690,
+                "name": "extracontent-models.zip",
+                "uncompressedSize": 27389040
+              },
+              "name": "extracontent-models.zip"
+            },
+            {
+              "after": {
+                "checksum": "7aead7c29ad16cd54c0022c6bb6fbb7c",
+                "compressedSize": 130569,
+                "name": "ssl.zip",
+                "uncompressedSize": 228725
+              },
+              "before": {
+                "checksum": "5d15a73788faf2792c7be977b0d95edf",
+                "compressedSize": 130569,
+                "name": "ssl.zip",
+                "uncompressedSize": 228725
+              },
+              "name": "ssl.zip"
+            }
+          ],
+          "removed": [],
+          "unchanged": 17
+        }
+      }
+    },
+    "FastVariables": {
+      "current": "a2bfcaae1ed5b08cb9ca6023ffa74812e0d9ecd3e04c35e58f76ca19ad90f359",
+      "files": {
+        "added": [],
+        "changed": [
+          "combined.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 2
+      },
+      "previous": "7d26e7a9855bd48fee6490f0f61d727d2a5cac268157a8f24be1a114cc8551c1",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [
+            "C++:DFFlagSoundServiceMockOutputDevices",
+            "C++:DFIntGameNetLocalSpaceMaxSendIndex",
+            "C++:FFlagBankGuard",
+            "C++:FFlagCollectionServiceTagAddedRemovedOnInstanceSignals",
+            "C++:FFlagDebugEnableLocalAppUpdateChecks",
+            "C++:FFlagDebugEnableTestServiceDeterministicCapture",
+            "C++:FFlagDebugEnableTestServiceVideoCapture",
+            "C++:FFlagDifferentiateStreamedOut",
+            "C++:FFlagLCQualityValidation",
+            "C++:FFlagLuauExpressionReferencesMethod",
+            "C++:FFlagLuauExpressionServiceEnabled",
+            "C++:FFlagMigrateCameraCFrameDatamodel",
+            "C++:FFlagMigrateCameraFocusDatamodel",
+            "C++:FFlagMigrateCameraFovDatamodel",
+            "C++:FFlagNextGenReplicatorEnabledRead",
+            "C++:FFlagNextGenReplicatorEnabledWrite",
+            "C++:FFlagSaveAndReloadDebuggablePluginVerb",
+            "C++:FFlagUGCValidateInstanceTreesEquivalent",
+            "C++:FFlagUGCValidatePropertiesSensible",
+            "C++:FFlagUGCValidateSerializeExcludeCollisionPhysics",
+            "C++:FFlagVoiceUseWebRTCSession",
+            "C++:FFlagWIPTrackPackagelinkOverrides",
+            "C++:FFlagWinInstallerWebBtidOverride",
+            "C++:FIntContentProviderPreloadHangHashRepeatCount",
+            "C++:FStringDebugRenderingTestVideoCapturePath",
+            "C++:FStringSlimTranscoderResourcePath",
+            "C++:FStringTextureTranscodeRollout"
+          ],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "c9be88e6c2b1bf6a6756649a01fa6b9b2b68cac11bcd87ecc40d223e3f5116a6",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "f45b1d3dae32dfaf8c12d3ba4b6c3adee39a02aa6596f9555a8afb584a0c328f",
+      "semantic": {
+        "added": [
+          "DFFlagEditableMeshSerialV1Read3",
+          "DFFlagFixSimpleNullEngineContextCreationPaths",
+          "DFFlagRbxTransportSharedClientConfig_Staged",
+          "FFlagAssetImporterCreateQueueWidgetImmediately_Staged",
+          "FFlagCinExportUtilRefactor_Staged",
+          "FFlagD3D11SharedTextureShaderResourceView",
+          "FFlagExportInterfaceObjBugfixes_Staged",
+          "FFlagGraphicsD3D11HardwareBufferTextures",
+          "FFlagLuaAppEnableOneByTwoTileFunnelTelemetrySdui_Staged",
+          "FFlagLuaAppPlayWithRewardSkipIxpForShimmer_Staged",
+          "FFlagLuauCompileReuseLocalRegs_Staged",
+          "FFlagPerformanceControlHitchRateEnable_Staged",
+          "FFlagPerformanceControlObserveLowPowerMode_Staged",
+          "FFlagSimCollisionGroupMaskTable",
+          "FFlagSimTerrainContactHoistPartProperties",
+          "FFlagUseVmEngineContextForInstanceCreation",
+          "FFlagVoxelGridFixUnionOccupancyOverflow",
+          "FStringUpgradedUIShadowsBetaFeatureUrl_Staged"
+        ],
+        "changed": [
+          {
+            "after": "c589c8fe6dc4a9a669fac4f2edea3e781e7dde35",
+            "before": "82ffeb70f63ba0ed875c6690c05734a9b3e68323",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-15T20:17:54.307Z",
+            "before": "2026-10-15T18:57:30.257Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "7500",
+            "before": "9000",
+            "name": "FIntExplicitTextureRequestHundredthPercent"
+          },
+          {
+            "after": "c589c8fe6dc4a9a669fac4f2edea3e781e7dde35",
+            "before": "82ffeb70f63ba0ed875c6690c05734a9b3e68323",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-15T20:17:54.307Z",
+            "before": "2026-10-15T18:57:30.257Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagEditableMeshSerialV1Read3_Staged",
+          "DFFlagFixSimpleNullEngineContextCreationPaths_Staged",
+          "FFlagD3D11SharedTextureShaderResourceView_Staged",
+          "FFlagGraphicsD3D11HardwareBufferTextures_Staged",
+          "FFlagSimCollisionGroupMaskTable_Staged",
+          "FFlagSimTerrainContactHoistPartProperties_Staged",
+          "FFlagUseVmEngineContextForInstanceCreation_Staged",
+          "FFlagVoxelGridFixUnionOccupancyOverflow_Staged",
+          "FIntExplicitTextureRequestHundredthPercent_Staged"
+        ],
+        "unchanged": 23431
+      }
+    },
+    "LuaPackages": {
+      "current": "56bd07ad2651465540aa565af9f0a95663e485773e426cbb9ef4f1f1c4068897",
+      "files": {
+        "added": [],
+        "changed": [
+          "extracontent-models/CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch/instances.json",
+          "extracontent-models/InExperience/InExperience/instances.json",
+          "extracontent-models/UniversalApp/UniversalApp/instances.json",
+          "index.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 100
+      },
+      "previous": "05cbcdcdbe27b1ec4c0a817bfcdfebc6186a6412dd85f4624a21169f8b7eafb0",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Native": {
+      "current": "8f86efb8cee61ccb48b627507a266b5eb8a5ee92d1cfe5b27123dc562b550ca7",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json",
+          "pe.json",
+          "strings/ascii.txt",
+          "strings/identifiers.txt",
+          "strings/utf16.txt",
+          "strings/utf8.txt"
+        ],
+        "removed": [],
+        "unchanged": 8
+      },
+      "previous": "fd2cef1347472654a224e033c40c2fb6e603adddf49cd43f7b241f760a7ad743",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}

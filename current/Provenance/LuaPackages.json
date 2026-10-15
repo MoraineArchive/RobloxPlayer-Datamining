@@ -77,7 +77,7 @@
     "extracontent-luapackages/Packages/_Index/BuilderIcons/BuilderIcons/BuilderIcons.json": "352ef71df48c04836603bd944a6756f614f19dfb886a6619dcea536735d5af3d",
     "extracontent-models/AccessoryAdjustment/Ring/instances.json": "c1b1d5ee79cbb0a3c7fb660fb5724f36febf9524f58f9f82df3bdfec9aea282b",
     "extracontent-models/AvatarContextMenu/AvatarContextArrow/instances.json": "bd4b117004f917b4919fc6a6f8f5bffe1549f9f50f2657ea52d613b89d629208",
-    "extracontent-models/CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch/instances.json": "57179e0020cd9dadc6bbcd361f5ec820e5706a17a41c69e01687a96af3e8b9d2",
+    "extracontent-models/CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch/instances.json": "7af138ab53a6672206d124253f0667ade8cd2a4f56322bf45ef064a7e88586a3",
     "extracontent-models/InExperience/InExperience/PatchRoot/CoreScripts/Assets.txt": "b81eb3d334c84778e97de5c144cb8b0d8784ddde5e3d3aecdc34fbeb1c27ebe7",
     "extracontent-models/InExperience/InExperience/PatchRoot/CoreScripts/CoreScriptLocalization.json": "2cc84a6a872e1d34c1ef06d4424bd238b9c40828bcca62f82cd848cb82c50b81",
     "extracontent-models/InExperience/InExperience/PatchRoot/CoreScripts/CoreScriptLocalizationTrimmed.json": "c1cf0c578093019fad01b906b2190d43a915babf504d9eb0afa2813c873591a7",
@@ -86,7 +86,7 @@
     "extracontent-models/InExperience/InExperience/PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsExperimental/SignalsExperimental/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "extracontent-models/InExperience/InExperience/PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsReact/SignalsReact/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "extracontent-models/InExperience/InExperience/PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "extracontent-models/InExperience/InExperience/instances.json": "11534142239ceabbe339dc363f0789137e918ce959086d3e921391d22c708187",
+    "extracontent-models/InExperience/InExperience/instances.json": "90623f0e42f1fd5ea86559e1256ca319ecca6759a580280872ae8447976f978d",
     "extracontent-models/Licenses/Licenses/PatchRoot/CoreScripts/0-FMOD.txt": "1e26c3dda6b56581ac9d4f423116664d6c6d6c38b7501f9135afb12ad776f501",
     "extracontent-models/Licenses/Licenses/PatchRoot/CoreScripts/1-WebView2.txt": "0af8f1b807512aae39c2ac1aa4d0cae65cabecb6fd554b8439a5162a0d6eca55",
     "extracontent-models/Licenses/Licenses/PatchRoot/CoreScripts/2-WIL.txt": "27ebda9d51f0a56b7e281ccd8230a27236dcb51c05f64b07869ecf6e965d68b0",
@@ -99,63 +99,63 @@
     "extracontent-models/UniversalApp/UniversalApp/PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsExperimental/SignalsExperimental/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "extracontent-models/UniversalApp/UniversalApp/PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsReact/SignalsReact/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "extracontent-models/UniversalApp/UniversalApp/PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "extracontent-models/UniversalApp/UniversalApp/instances.json": "e4759a13fbcef862915f12b217bb58858639bd685fd21cedddabc0c0ff2b93f6",
+    "extracontent-models/UniversalApp/UniversalApp/instances.json": "bf229f47e0c67b4e8ec9e412d10938b8ff14cca4f251959f9663da6a65d51d20",
     "extracontent-translations/CoreScriptLocalization.csv": "019535507162693811944647870c1b88ab41ad5a8c9ba1f6357ccf5244afb2bd",
     "extracontent-translations/CoreScriptLocalizationTrimmed.csv": "c4367ee81f8cc2d2ba19541c02d1225ae4f2d0f3111d244245c4a6a0cc2e6168",
-    "index.json": "2f149755cb178565578c23cc4fa36a9de1acca8f42bd392a0875fa89fb6fd0af",
-    "metadata.json": "41604b709c38a396bd7bbfb00f70271d312b0fd205aaed8404eb7f33d3a98429",
+    "index.json": "d5c32350118b7e2c10bd87f0c9911a6041bbd1e8ff2a51784d0c0bf9382b69d9",
+    "metadata.json": "ffd304451133b9312accee2b7503c9a02ae2aab25c16a3aa5ef6fb11f29bed16",
     "unavailable.json": "fe727adb13dfffc384b9088a84a6281d1be52ae70c46bddef78aafb54ad229be"
   },
-  "id": "05cbcdcdbe27b1ec4c0a817bfcdfebc6186a6412dd85f4624a21169f8b7eafb0",
+  "id": "56bd07ad2651465540aa565af9f0a95663e485773e426cbb9ef4f1f1c4068897",
   "observationMode": "live",
-  "observedAt": "2026-10-13T23:20:19.723Z",
+  "observedAt": "2026-10-15T20:23:21.430Z",
   "provenance": [
     {
-      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "buildGuid": "version-11f155f3450f4c8e",
       "bytes": 306511,
       "derivedFrom": "content-configs.zip",
       "sha256": "05cba50015de1924108c8cb1bdbbe5e4e2d65f09f2c83977f59e1781a2498d8a",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-content-configs.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-content-configs.zip"
     },
     {
-      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "buildGuid": "version-11f155f3450f4c8e",
       "bytes": 620166,
       "derivedFrom": "content-models.zip",
       "sha256": "bd9d84b18399042e0478ccdc989081d48a82279a498b36efaa197a317e01df76",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-content-models.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-content-models.zip"
     },
     {
-      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "buildGuid": "version-11f155f3450f4c8e",
       "bytes": 2825687,
       "derivedFrom": "extracontent-luapackages.zip",
       "sha256": "fcd44e8a02fa69e93d280d8ec2cecc88651d0095a22902593b28b88a7e2438b2",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-extracontent-luapackages.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-extracontent-luapackages.zip"
     },
     {
-      "buildGuid": "version-7a0c6d10fcb34a2c",
-      "bytes": 27278690,
+      "buildGuid": "version-11f155f3450f4c8e",
+      "bytes": 27224382,
       "derivedFrom": "extracontent-models.zip",
-      "sha256": "9e93f4657eef05f031f37988f9b614b9f3cf073e9fa01c81b5e7cb653c8f8637",
+      "sha256": "5c0e7ee2251b36321c0fc452ecd11f9db50fb4ea6e1f99694583f53903c69112",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-extracontent-models.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-extracontent-models.zip"
     },
     {
-      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "buildGuid": "version-11f155f3450f4c8e",
       "bytes": 610717,
       "derivedFrom": "extracontent-translations.zip",
       "sha256": "16cd03787910fec0340c58cd4efd4ba47d1f00d61395c76693cd5db695db58a4",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-extracontent-translations.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-extracontent-translations.zip"
     }
   ],
-  "sequence": 6,
+  "sequence": 7,
   "status": "partial",
   "summary": {
     "engineRevision": 1,
-    "guid": "version-7a0c6d10fcb34a2c",
+    "guid": "version-11f155f3450f4c8e",
     "localizationFiles": 28,
     "models": 18,
     "packages": 5,

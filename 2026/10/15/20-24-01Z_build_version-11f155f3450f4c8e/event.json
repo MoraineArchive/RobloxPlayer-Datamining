@@ -1,0 +1,27 @@
+{
+  "archivePath": "2026/10/15/20-24-01Z_build_version-11f155f3450f4c8e",
+  "commit": {
+    "body": "Build files        +0 ~3 -0\nLuaPackages files  +0 ~4 -0\nNative files       +0 ~5 -0\nFastVariables files +0 ~1 -0\nLiveSettings files +0 ~1 -0\nPackages           +0 ~5 -0\nFiles              +0 ~9 -0\nLuaPackages sources +0 ~0 -0\nFastVariables      +0 ~27 -0\nLiveSettings       +18 ~5 -9",
+    "subject": "15 October 2026 - Build 0.743.0.7431134 (version-11f155f3450f4c8e)"
+  },
+  "findings": {
+    "new": 0,
+    "updated": 0
+  },
+  "guid": "version-11f155f3450f4c8e",
+  "id": "cab1678de100989e31b89d11689b640b0320b7e60b6f55fd36ae443630e2b253",
+  "observedAt": "2026-10-15T20:24:01.437Z",
+  "product": "Player",
+  "schemaVersion": 1,
+  "surfaces": [
+    "Build",
+    "LuaPackages",
+    "Native",
+    "FastVariables",
+    "LiveSettings"
+  ],
+  "target": "WindowsPlayer",
+  "type": "build.changed",
+  "upstreamChange": true,
+  "version": "0.743.0.7431134"
+}

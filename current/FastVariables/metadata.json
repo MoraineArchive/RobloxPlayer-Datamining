@@ -2,12 +2,12 @@
   "observationMode": "live",
   "provenance": [
     {
-      "buildGuid": "version-7a0c6d10fcb34a2c",
-      "bytes": 137447289,
+      "buildGuid": "version-11f155f3450f4c8e",
+      "bytes": 137303366,
       "derivedFrom": "RobloxPlayerBeta.exe",
-      "sha256": "992b4c52b4b5e99ded625fd8fff30b4f4b4b293d1d8bee842621f20650ea96ba",
+      "sha256": "14d56568198bb791addf91ffdf3350180b1d07b673216bf7eacaa59dce889d47",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-RobloxApp.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-RobloxApp.zip"
     },
     {
       "bytes": 42779,
@@ -38,44 +38,44 @@
       "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=15353"
     },
     {
-      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "buildGuid": "version-11f155f3450f4c8e",
       "bytes": 306511,
       "derivedFrom": "content-configs.zip",
       "sha256": "05cba50015de1924108c8cb1bdbbe5e4e2d65f09f2c83977f59e1781a2498d8a",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-content-configs.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-content-configs.zip"
     },
     {
-      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "buildGuid": "version-11f155f3450f4c8e",
       "bytes": 620166,
       "derivedFrom": "content-models.zip",
       "sha256": "bd9d84b18399042e0478ccdc989081d48a82279a498b36efaa197a317e01df76",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-content-models.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-content-models.zip"
     },
     {
-      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "buildGuid": "version-11f155f3450f4c8e",
       "bytes": 2825687,
       "derivedFrom": "extracontent-luapackages.zip",
       "sha256": "fcd44e8a02fa69e93d280d8ec2cecc88651d0095a22902593b28b88a7e2438b2",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-extracontent-luapackages.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-extracontent-luapackages.zip"
     },
     {
-      "buildGuid": "version-7a0c6d10fcb34a2c",
-      "bytes": 27278690,
+      "buildGuid": "version-11f155f3450f4c8e",
+      "bytes": 27224382,
       "derivedFrom": "extracontent-models.zip",
-      "sha256": "9e93f4657eef05f031f37988f9b614b9f3cf073e9fa01c81b5e7cb653c8f8637",
+      "sha256": "5c0e7ee2251b36321c0fc452ecd11f9db50fb4ea6e1f99694583f53903c69112",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-extracontent-models.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-extracontent-models.zip"
     },
     {
-      "buildGuid": "version-7a0c6d10fcb34a2c",
+      "buildGuid": "version-11f155f3450f4c8e",
       "bytes": 610717,
       "derivedFrom": "extracontent-translations.zip",
       "sha256": "16cd03787910fec0340c58cd4efd4ba47d1f00d61395c76693cd5db695db58a4",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-7a0c6d10fcb34a2c-extracontent-translations.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-extracontent-translations.zip"
     }
   ],
   "status": "available",
