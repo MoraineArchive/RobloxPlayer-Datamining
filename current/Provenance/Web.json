@@ -1,6 +1,6 @@
 {
   "hashes": {
-    "assets.json": "eb793a37c0b5bc1bac64bda7485d1c4b99201e82de7181dd1f19fad375806eb6",
+    "assets.json": "a450bd5d358352dec9c345820600825b8d920c51fb1c8d6ab648761548fed206",
     "js.rbxcdn.com/page-0/AccessManagementUpsell.js": "7a2795cd4a6595d6cdf824a5ec6518b89b887fdd09bab1186d84e315628e35e7",
     "js.rbxcdn.com/page-0/AccessManagementUpsellV2.js": "15275756549e6f82c38b8ef5c17fe8eeaccf5c154fd830bed76dd3caae54a15f",
     "js.rbxcdn.com/page-0/AccountSwitcher.js": "9c6c77ae499bacb2cc2df4f9432fb7a767041594db6345045d110ebab0514f2f",
@@ -108,7 +108,7 @@
     "js.rbxcdn.com/page-0/intl-polyfill.js": "a7dd794c75f85587f4ffbdf22698a934ea068cb1263d0585b38a6dd13a447eb9",
     "js.rbxcdn.com/page-0/leanbase.js": "f55ce107e3a2191086561efffccb8fa0b61d44f45ae677fab7de06e6ab6604e4",
     "js.rbxcdn.com/page-0/page.js": "84de2e282b246fba5df56719a89c706a053b0d437699a00320994912578b5b15",
-    "js.rbxcdn.com/page-0/pageEnd.js": "c7ba6e846fddf66a226524b8c021ec8c2a13746fc20d0a579175ed40bd979c4c",
+    "js.rbxcdn.com/page-0/pageEnd.js": "cfd73c7a2aef434aea325a507a7ff580a4060bf4c17acb552fb113df178ac375",
     "js.rbxcdn.com/page-1/AccessManagementUpsell.js": "7a2795cd4a6595d6cdf824a5ec6518b89b887fdd09bab1186d84e315628e35e7",
     "js.rbxcdn.com/page-1/AccessManagementUpsellV2.js": "15275756549e6f82c38b8ef5c17fe8eeaccf5c154fd830bed76dd3caae54a15f",
     "js.rbxcdn.com/page-1/AccountSwitcher.js": "9c6c77ae499bacb2cc2df4f9432fb7a767041594db6345045d110ebab0514f2f",
@@ -221,15 +221,15 @@
     "js.rbxcdn.com/page-1/leanbase.js": "968a20eab1449bae7485d20d20a614f2a33b0515f27f143792b10cf4d700711e",
     "js.rbxcdn.com/page-1/page.js": "432095ee2a25a586d05e62c1917b10003e21c76a094c065faf79ba5259461c1c",
     "js.rbxcdn.com/page-1/pageEnd.js": "de24bba08f5774c1350a3cc8afef4bda3c28d5e6a8eca82e20bcfd8d46b99d9a",
-    "metadata.json": "7587d68823523e584398b791545d5654aa56d3eda8d9d0c7a1db75d195e919e9",
+    "metadata.json": "ce2393ed9ed1c7b1a50c7f51913821a271f01863e15ce6b63f435f4aaaf01eea",
     "roblox.com/page-0/script-007.js": "a406bd97fed4ceb8954133f97a6d5c225b2f673606c5d439de4a910c83b4ecad",
     "roblox.com/page-1/script-007.js": "a406bd97fed4ceb8954133f97a6d5c225b2f673606c5d439de4a910c83b4ecad",
     "www.roblox.com/page-0/script-000.js": "f5641e111fbcbc519c8b140eed0015e4e6d0346d9a1b6e57959e3268de21653c",
     "www.roblox.com/page-1/script-000.js": "f5641e111fbcbc519c8b140eed0015e4e6d0346d9a1b6e57959e3268de21653c"
   },
-  "id": "4c60d5cc04cf3b5b7030913cdcc600669ff39f80cc11caccaf6d6409a8847487",
+  "id": "e81e0461a5b315866fbce931de5b96a08713f87d8518223f812710eb7f9f506d",
   "observationMode": "live",
-  "observedAt": "2026-10-15T04:15:49.002Z",
+  "observedAt": "2026-10-15T12:10:32.968Z",
   "provenance": [
     {
       "bytes": 1919,
@@ -1144,12 +1144,6 @@
       "sourceUrl": "https://js.rbxcdn.com/99576d9213cd5a69c4543f9051c87d2b4c881729eb931fbf961e3442ff2c8da1.js"
     },
     {
-      "bytes": 198244,
-      "sha256": "c7ba6e846fddf66a226524b8c021ec8c2a13746fc20d0a579175ed40bd979c4c",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/9e51dd9dda426f9ceb4a97c371d4a8c8.js"
-    },
-    {
       "bytes": 4589,
       "sha256": "2a319fd56ad931ceca15f8dbec1ff2a319ba6d9e5b5f85eec4128af50c7be25e",
       "sourceType": "official",
@@ -1552,6 +1546,12 @@
       "sourceUrl": "https://js.rbxcdn.com/fc00826f9e0f8fd2f6bfe2152fb652d4f73e1a12e1ad50ad234d2f60854a311c-Polyfill.js"
     },
     {
+      "bytes": 198239,
+      "sha256": "cfd73c7a2aef434aea325a507a7ff580a4060bf4c17acb552fb113df178ac375",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/fdd140c909b64670cd15bdefe5a3691f.js"
+    },
+    {
       "bytes": 252,
       "sha256": "ca7aae62c9fe0095fc0a52f920ecdd08ccb7665eabb5c67274516c2ca99a1177",
       "sourceType": "official",
@@ -1576,7 +1576,7 @@
       "sourceUrl": "https://www.roblox.com/js/utilities/bundleVerifier.js?v=d8be7ec8aee81a9acf17014aae64dd2e"
     }
   ],
-  "sequence": 186,
+  "sequence": 187,
   "status": "available",
   "summary": {
     "assets": 224,
