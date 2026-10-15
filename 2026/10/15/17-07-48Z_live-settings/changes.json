@@ -1,0 +1,70 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-7a0c6d10fcb34a2c",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.743.0.7431129"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "9565db3b70a47d0072e4896de16fc6edf06fdd9e8f34330e3987328450e352bf",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "cede41e45a8e4ce5f8ea60baaef5f59c1fbb884e886a428a3144bee3926c9e8a",
+      "semantic": {
+        "added": [
+          "DFFlagCLI228903",
+          "DFFlagEnableImagePublish_Staged",
+          "DFFlagPublishAssetPrompt2_Staged",
+          "DFFlagTextShadowIgnoresRichTextAndSelectionColor_Staged",
+          "DFFlagUIGradientFixFirstLastStop2_Staged",
+          "FFlagCLI228902_Staged",
+          "FFlagMakeupSingleAssetUploadEnabled2_Staged",
+          "FFlagSduiPerSectionPoolSizing2_Staged",
+          "FFlagSduiProgressiveScrollMathFix_Staged",
+          "FFlagSduiSamePoolFeedItemSpacing_Staged",
+          "FFlagSimAvoidSubnormalInertiaInverse_Staged",
+          "FFlagUseVmEngineContextForInstanceCreation_Staged"
+        ],
+        "changed": [
+          {
+            "after": "1a4f89cdb9c1aa3c48dc87b3fba2e6811b30bfd7",
+            "before": "07bc8ddd267f47016f9a9bad86a19652ac69361d",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-15T17:07:25.407Z",
+            "before": "2026-10-15T02:02:25.759Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "1a4f89cdb9c1aa3c48dc87b3fba2e6811b30bfd7",
+            "before": "07bc8ddd267f47016f9a9bad86a19652ac69361d",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-15T17:07:25.407Z",
+            "before": "2026-10-15T02:02:25.759Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840;1729117455;flagbank",
+            "before": "1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840;350451862;flagbank",
+            "name": "FStringPerformanceControlExperimentName_IXP"
+          }
+        ],
+        "removed": [],
+        "unchanged": 23415
+      }
+    }
+  },
+  "schemaVersion": 1
+}
