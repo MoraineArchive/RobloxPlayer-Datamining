@@ -1,0 +1,72 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-7a0c6d10fcb34a2c",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.743.0.7431129"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "cede41e45a8e4ce5f8ea60baaef5f59c1fbb884e886a428a3144bee3926c9e8a",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "ac10b61834ff403b438ee994829c65909144b77fe723456d4e8a5aac0519295d",
+      "semantic": {
+        "added": [
+          "FFlagEnableTimeToLoginMetrics2"
+        ],
+        "changed": [
+          {
+            "after": "07bc8ddd267f47016f9a9bad86a19652ac69361d",
+            "before": "f320a1050e8d57c36d89c83ee6d1e245f6ab8f9a",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-15T02:02:25.759Z",
+            "before": "2026-10-15T00:52:41.363Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "07bc8ddd267f47016f9a9bad86a19652ac69361d",
+            "before": "f320a1050e8d57c36d89c83ee6d1e245f6ab8f9a",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-15T02:02:25.759Z",
+            "before": "2026-10-15T00:52:41.363Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagEnableTimeToLoginMetrics2_Staged"
+        ],
+        "unchanged": 23415
+      }
+    },
+    "Web": {
+      "current": "4c60d5cc04cf3b5b7030913cdcc600669ff39f80cc11caccaf6d6409a8847487",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.Login.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Authentication.Login.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "aa77b6689217f69f6b87177b164910cb4cdf1dabdff43203c266e147ce30a75c",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
