@@ -754,10 +754,10 @@
   {
     "path": "js.rbxcdn.com/page-0/Theme.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "a66aa495270c57ce6f6102da0a8a9e443c523574cd422aacdb2cef061f8cbf3f",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/theme-2bb0baa5d132361f.js.map",
+    "sha256": "dbf56eea7412dfabe42791d5e6f4bea52c00e78be82ccfb314570de616d3af5e",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/theme-26b203d436d70ca9.js.map",
     "sourcePage": "https://www.roblox.com/",
-    "url": "https://js.rbxcdn.com/72eb37c4500a109d17fb01e17a587eca0458cb66f115dd7ac2acc2d76dd4d722-Theme.js"
+    "url": "https://js.rbxcdn.com/5d8d12e4aa148f8e3c9d3fbc66c922e54e2354d4fbe3a1237fb7c6d7491fae40-Theme.js"
   },
   {
     "path": "js.rbxcdn.com/page-0/Thumbnails.js",
@@ -1642,10 +1642,10 @@
   {
     "path": "js.rbxcdn.com/page-1/Theme.js",
     "relationship": "HTML bundle label where supplied; otherwise stable page/script position, not guaranteed semantic identity.",
-    "sha256": "a66aa495270c57ce6f6102da0a8a9e443c523574cd422aacdb2cef061f8cbf3f",
-    "sourceMap": "https://sourcemaps.rbxcdn.com/theme-2bb0baa5d132361f.js.map",
+    "sha256": "dbf56eea7412dfabe42791d5e6f4bea52c00e78be82ccfb314570de616d3af5e",
+    "sourceMap": "https://sourcemaps.rbxcdn.com/theme-26b203d436d70ca9.js.map",
     "sourcePage": "https://www.roblox.com/discover",
-    "url": "https://js.rbxcdn.com/72eb37c4500a109d17fb01e17a587eca0458cb66f115dd7ac2acc2d76dd4d722-Theme.js"
+    "url": "https://js.rbxcdn.com/5d8d12e4aa148f8e3c9d3fbc66c922e54e2354d4fbe3a1237fb7c6d7491fae40-Theme.js"
   },
   {
     "path": "js.rbxcdn.com/page-1/Thumbnails.js",
@@ -1765,7 +1765,7 @@
     "sha256": "ca7aae62c9fe0095fc0a52f920ecdd08ccb7665eabb5c67274516c2ca99a1177",
     "sourceMap": null,
     "sourcePage": "https://www.roblox.com/",
-    "url": "https://roblox.com/js/hsts.js?v=4"
+    "url": "https://roblox.com/js/hsts.js?v=5"
   },
   {
     "path": "roblox.com/page-1/script-007.js",
@@ -1773,7 +1773,7 @@
     "sha256": "ca7aae62c9fe0095fc0a52f920ecdd08ccb7665eabb5c67274516c2ca99a1177",
     "sourceMap": null,
     "sourcePage": "https://www.roblox.com/discover",
-    "url": "https://roblox.com/js/hsts.js?v=4"
+    "url": "https://roblox.com/js/hsts.js?v=5"
   },
   {
     "path": "www.roblox.com/page-0/script-000.js",

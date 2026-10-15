@@ -530,6 +530,18 @@
       "sourceUrl": "https://js.rbxcdn.com/5c7d73b31182161484106be3dd2a04b74eba15dc051cc19a327dfb4cfb679cda.js"
     },
     {
+      "bytes": 6707,
+      "sha256": "dbf56eea7412dfabe42791d5e6f4bea52c00e78be82ccfb314570de616d3af5e",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/5d8d12e4aa148f8e3c9d3fbc66c922e54e2354d4fbe3a1237fb7c6d7491fae40-Theme.js"
+    },
+    {
+      "bytes": 6707,
+      "sha256": "dbf56eea7412dfabe42791d5e6f4bea52c00e78be82ccfb314570de616d3af5e",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/5d8d12e4aa148f8e3c9d3fbc66c922e54e2354d4fbe3a1237fb7c6d7491fae40-Theme.js"
+    },
+    {
       "bytes": 589,
       "sha256": "44cf2d649cfb4974555f38147b172a58993d4d84ceacdc8c2a9d77bc91157249",
       "sourceType": "official",
@@ -612,18 +624,6 @@
       "sha256": "59e3d314ac3d183d1953f593dde232409d9e582ed2c0f841108b54eb6b739878",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/70dfbf22cc8f2ba182be82634229574c31205f713140703a2d9ddbdcd10b7247-Challenge.js"
-    },
-    {
-      "bytes": 6679,
-      "sha256": "a66aa495270c57ce6f6102da0a8a9e443c523574cd422aacdb2cef061f8cbf3f",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/72eb37c4500a109d17fb01e17a587eca0458cb66f115dd7ac2acc2d76dd4d722-Theme.js"
-    },
-    {
-      "bytes": 6679,
-      "sha256": "a66aa495270c57ce6f6102da0a8a9e443c523574cd422aacdb2cef061f8cbf3f",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/72eb37c4500a109d17fb01e17a587eca0458cb66f115dd7ac2acc2d76dd4d722-Theme.js"
     },
     {
       "bytes": 1957,
@@ -1325,13 +1325,13 @@
       "bytes": 252,
       "sha256": "ca7aae62c9fe0095fc0a52f920ecdd08ccb7665eabb5c67274516c2ca99a1177",
       "sourceType": "official",
-      "sourceUrl": "https://roblox.com/js/hsts.js?v=4"
+      "sourceUrl": "https://roblox.com/js/hsts.js?v=5"
     },
     {
       "bytes": 252,
       "sha256": "ca7aae62c9fe0095fc0a52f920ecdd08ccb7665eabb5c67274516c2ca99a1177",
       "sourceType": "official",
-      "sourceUrl": "https://roblox.com/js/hsts.js?v=4"
+      "sourceUrl": "https://roblox.com/js/hsts.js?v=5"
     },
     {
       "bytes": 11451,

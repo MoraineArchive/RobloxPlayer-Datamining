@@ -1,0 +1,127 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-11f155f3450f4c8e",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.743.0.7431134"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "97fc6bdad0ec9c034a3ea0582c43edb7ff8f785fd56a88a8858e4c86dbe6f4d5",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "b416159a052d35260f66afa445be445657a9fe85f4d3b2a47acb0dbdb8043efb",
+      "semantic": {
+        "added": [
+          "DFFlagConnectionClosedPlaceIdDiagnostics",
+          "DFFlagRbxTransportSharedClientConfig",
+          "DFFlagRbxTransportTelemetryWebTransport_Staged",
+          "DFFlagSlimModelsSnapshotNestedComposites",
+          "DFFlagStreamingMemoryBudgetOverride_IXP",
+          "DFIntRuntimeInjectorTelemetryThrottleHundredthsPercent_Staged",
+          "DFIntStreamingMemoryBudgetPercent_IXP",
+          "FFlagAmrRemoveAssetManagerServiceDependency",
+          "FFlagAssetImporterCreateQueueWidgetImmediately",
+          "FFlagCinExportUtilRefactor",
+          "FFlagEnableNavRailTooltipAndTruncation_Staged",
+          "FFlagEnableSupportTicketAssetIdsInPayload_Staged",
+          "FFlagExportInterfaceObjBugfixes",
+          "FFlagLuaAppPlayWithRewardSkipIxpForShimmer",
+          "FFlagMarkdownAssistantParity_Staged",
+          "FFlagPerformanceControlHitchRateEnable",
+          "FFlagPerformanceControlObserveLowPowerMode",
+          "FFlagSimRemoveBodyFromConstraint_Staged",
+          "FFlagSlimLoadBalancerCommonCleanupOrphanedAssets2_Staged",
+          "FFlagStableIdempotencyKeyForProductAndGamePass",
+          "FFlagStudioClassIconCustomFolder",
+          "FFlagTerrainPerPlaceGrid2_Staged",
+          "FFlagUIAntiAliasClipRects2_Staged",
+          "FFlagUIParamStore",
+          "FFlagUpgradeCameraOnPaste",
+          "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent_Staged",
+          "FStringSystrayELTExperimentBucketSettings_Staged",
+          "FStringUpgradedUIShadowsBetaFeatureUrl"
+        ],
+        "changed": [
+          {
+            "after": "True",
+            "before": "False",
+            "name": "DFFlagEnableDynamicCollaboratorSafetyEvictionCheck"
+          },
+          {
+            "after": "bad68b7e49de5ed29534ec6fd811d23e4f92fadf",
+            "before": "1faa667c307ca13581626db717b47912701ee870",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-15T22:03:33.773Z",
+            "before": "2026-10-15T20:30:13.592Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "5",
+            "before": "10",
+            "name": "FIntRealtimeReliabilityMeasurementEnableHundredthPercent"
+          },
+          {
+            "after": "bad68b7e49de5ed29534ec6fd811d23e4f92fadf",
+            "before": "1faa667c307ca13581626db717b47912701ee870",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-15T22:03:33.773Z",
+            "before": "2026-10-15T20:30:13.592Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "1;HarmonyExposure;HarmonyExposure.StreamingDistanceCausalExperiment.Desktop;71149554;flagbank",
+            "before": "1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207-1790119849840;1729117455;flagbank",
+            "name": "FStringPerformanceControlExperimentName_IXP"
+          }
+        ],
+        "removed": [
+          "DFFlagEnableDynamicCollaboratorSafetyEvictionCheck_Staged",
+          "DFFlagRbxTransportSharedClientConfig_Staged",
+          "FFlagAmrRemoveAssetManagerServiceDependency_Staged",
+          "FFlagAssetImporterCreateQueueWidgetImmediately_Staged",
+          "FFlagCinExportUtilRefactor_Staged",
+          "FFlagExportInterfaceObjBugfixes_Staged",
+          "FFlagLuaAppPlayWithRewardSkipIxpForShimmer_Staged",
+          "FFlagPerformanceControlHitchRateEnable_Staged",
+          "FFlagPerformanceControlObserveLowPowerMode_Staged",
+          "FFlagStudioClassIconCustomFolder_Staged",
+          "FFlagUIParamStore_Staged",
+          "FFlagUpgradeCameraOnPaste_Staged",
+          "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Staged",
+          "FStringUpgradedUIShadowsBetaFeatureUrl_Staged"
+        ],
+        "unchanged": 23435
+      }
+    },
+    "Web": {
+      "current": "106e9bfb455837665184d9f7a4b1130064cbafb001a7d0f4ef105f9bae4669e1",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/Theme.js",
+          "js.rbxcdn.com/page-1/Theme.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "17caa532cd68f86ea2e6094d3c31a69a2e1b955fc66e81c6ec66b1574c8e2ff4",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
