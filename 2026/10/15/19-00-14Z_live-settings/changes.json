@@ -1,0 +1,102 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-7a0c6d10fcb34a2c",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.743.0.7431129"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "f45b1d3dae32dfaf8c12d3ba4b6c3adee39a02aa6596f9555a8afb584a0c328f",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "addf15d85779db4a75f455fd4ae2c580a1f2e775138932ae21010b7b6a960824",
+      "semantic": {
+        "added": [
+          "DFFlagEditableMeshSerialV1Read3_Staged",
+          "DFFlagEnableImagePublish",
+          "DFFlagFixSimpleNullEngineContextCreationPaths_Staged",
+          "DFFlagTextShadowIgnoresRichTextAndSelectionColor",
+          "DFFlagUIGradientFixFirstLastStop2",
+          "FFlagAllowCurrentUsernameOnSignup_Staged",
+          "FFlagAmrRemoveAssetManagerServiceDependency_Staged",
+          "FFlagCLI228902",
+          "FFlagD3D11SharedTextureShaderResourceView_Staged",
+          "FFlagGraphicsD3D11HardwareBufferTextures_Staged",
+          "FFlagSduiPerSectionPoolSizing2",
+          "FFlagSduiProgressiveScrollMathFix",
+          "FFlagSduiSamePoolFeedItemSpacing",
+          "FFlagSimAvoidSubnormalInertiaInverse",
+          "FFlagStudioClassIconCustomFolder_Staged",
+          "FFlagUIParamStore_Staged",
+          "FFlagUpgradeCameraOnPaste_Staged",
+          "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Staged"
+        ],
+        "changed": [
+          {
+            "after": "True",
+            "before": "False",
+            "name": "DFFlagPublishAssetPrompt2"
+          },
+          {
+            "after": "10000;136954310107221;105796526973604;95047916580305;124847392687570;75363643704406",
+            "before": "10000;136954310107221;105796526973604;95047916580305;124847392687570",
+            "name": "DFIntVideoMetricsClientHundredthsPercent_PlaceFilter"
+          },
+          {
+            "after": "10000;136954310107221;105796526973604;95047916580305;124847392687570;75363643704406",
+            "before": "10000;136954310107221;105796526973604;95047916580305;124847392687570",
+            "name": "DFIntVideoServiceMetricsEventstreamReportHundredthsPercent_PlaceFilter"
+          },
+          {
+            "after": "82ffeb70f63ba0ed875c6690c05734a9b3e68323",
+            "before": "faa062cafc3e9dfc0b03e83075b9d07628cdb529",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-15T18:57:30.257Z",
+            "before": "2026-10-15T17:23:33.485Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagMakeupSingleAssetUploadEnabled2"
+          },
+          {
+            "after": "82ffeb70f63ba0ed875c6690c05734a9b3e68323",
+            "before": "faa062cafc3e9dfc0b03e83075b9d07628cdb529",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-15T18:57:30.257Z",
+            "before": "2026-10-15T17:23:33.485Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagEnableImagePublish_Staged",
+          "DFFlagPublishAssetPrompt2_Staged",
+          "DFFlagTextShadowIgnoresRichTextAndSelectionColor_Staged",
+          "DFFlagUIGradientFixFirstLastStop2_Staged",
+          "FFlagCLI228902_Staged",
+          "FFlagMakeupSingleAssetUploadEnabled2_Staged",
+          "FFlagSduiPerSectionPoolSizing2_Staged",
+          "FFlagSduiProgressiveScrollMathFix_Staged",
+          "FFlagSduiSamePoolFeedItemSpacing_Staged",
+          "FFlagSimAvoidSubnormalInertiaInverse_Staged"
+        ],
+        "unchanged": 23419
+      }
+    }
+  },
+  "schemaVersion": 1
+}
