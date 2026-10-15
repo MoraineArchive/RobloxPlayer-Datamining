@@ -1,0 +1,90 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-11f155f3450f4c8e",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.743.0.7431134"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "4fbd951b364c9505089616e1adfe262dc0804a8a19c282a5a2ce3600057aff02",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "d89311c32adca9f4eeee7cd32d2392160cfe0c10cbb236af996e4ef0b2a25944",
+      "semantic": {
+        "added": [
+          "DFIntRuntimeInjectorTelemetryThrottleHundredthsPercent",
+          "FFlagEnableSupportTicketAssetIdsInPayload",
+          "FFlagMarkdownAssistantParity",
+          "FFlagSimRemoveBodyFromConstraint",
+          "FFlagSlimLoadBalancerCommonCleanupOrphanedAssets2",
+          "FFlagUIAntiAliasClipRects2"
+        ],
+        "changed": [
+          {
+            "after": "d6e570552b6dbf619f57839f4bce817dacc5a83f",
+            "before": "67293b2f0f1e86d24a04b8a5d1f108deb6bb128c",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-15T23:32:31.944Z",
+            "before": "2026-10-15T22:37:56.982Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "10000",
+            "before": "5000",
+            "name": "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent"
+          },
+          {
+            "after": "d6e570552b6dbf619f57839f4bce817dacc5a83f",
+            "before": "67293b2f0f1e86d24a04b8a5d1f108deb6bb128c",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-15T23:32:31.944Z",
+            "before": "2026-10-15T22:37:56.982Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFIntRuntimeInjectorTelemetryThrottleHundredthsPercent_Staged",
+          "FFlagEnableSupportTicketAssetIdsInPayload_Staged",
+          "FFlagMarkdownAssistantParity_Staged",
+          "FFlagSimRemoveBodyFromConstraint_Staged",
+          "FFlagSlimLoadBalancerCommonCleanupOrphanedAssets2_Staged",
+          "FFlagUIAntiAliasClipRects2_Staged",
+          "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent_Staged"
+        ],
+        "unchanged": 23458
+      }
+    },
+    "Web": {
+      "current": "fdcfb0201adddcf66368f63d0850cd8ec6afd91fc4f0f0ec1d3b2f71d29ffc2e",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.Login.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Authentication.Login.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "106e9bfb455837665184d9f7a4b1130064cbafb001a7d0f4ef105f9bae4669e1",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
