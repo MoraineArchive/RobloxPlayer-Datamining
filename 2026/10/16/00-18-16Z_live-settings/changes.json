@@ -1,0 +1,68 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-11f155f3450f4c8e",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.743.0.7431134"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "5a67cf252343a7d74a8c90aaedc84be1b18fff97d58c1419d8dfb97d3a83693d",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "4fbd951b364c9505089616e1adfe262dc0804a8a19c282a5a2ce3600057aff02",
+      "semantic": {
+        "added": [
+          "FFlagEnableNavRailTooltipAndTruncation"
+        ],
+        "changed": [
+          {
+            "after": "a6a7d194d01affb93a93c66157fc7dc48ca649da",
+            "before": "d6e570552b6dbf619f57839f4bce817dacc5a83f",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-16T00:17:46.133Z",
+            "before": "2026-10-15T23:32:31.944Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagTerrainPerPlaceGrid2"
+          },
+          {
+            "after": "a6a7d194d01affb93a93c66157fc7dc48ca649da",
+            "before": "d6e570552b6dbf619f57839f4bce817dacc5a83f",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-16T00:17:46.133Z",
+            "before": "2026-10-15T23:32:31.944Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "v6-0-99",
+            "before": "v6-35-64",
+            "name": "FStringSystrayELTExperimentBucketSettings"
+          }
+        ],
+        "removed": [
+          "FFlagEnableNavRailTooltipAndTruncation_Staged",
+          "FFlagTerrainPerPlaceGrid2_Staged",
+          "FStringSystrayELTExperimentBucketSettings_Staged"
+        ],
+        "unchanged": 23460
+      }
+    }
+  },
+  "schemaVersion": 1
+}
