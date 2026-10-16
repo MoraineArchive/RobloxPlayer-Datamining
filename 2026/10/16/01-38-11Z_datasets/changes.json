@@ -1,0 +1,75 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-11f155f3450f4c8e",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.743.0.7431134"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "8628fcbc73709804c46665538a6a7b91b5cec5fefe23930fda2e398e25e474ba",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "5a67cf252343a7d74a8c90aaedc84be1b18fff97d58c1419d8dfb97d3a83693d",
+      "semantic": {
+        "added": [],
+        "changed": [
+          {
+            "after": "f51dbc000fbaccd9de377d1a5d7f06144a437be4",
+            "before": "a6a7d194d01affb93a93c66157fc7dc48ca649da",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-10-16T01:27:32.460Z",
+            "before": "2026-10-16T00:17:46.133Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagRenderEnableMultiVE"
+          },
+          {
+            "after": "f51dbc000fbaccd9de377d1a5d7f06144a437be4",
+            "before": "a6a7d194d01affb93a93c66157fc7dc48ca649da",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-10-16T01:27:32.460Z",
+            "before": "2026-10-16T00:17:46.133Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagRenderEnableMultiVE_Staged"
+        ],
+        "unchanged": 23461
+      }
+    },
+    "Web": {
+      "current": "65ef5d15531b770fbf19eb9cb792048e119fc78c4e6adb689251b47a096b2a94",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/Sentry.js",
+          "js.rbxcdn.com/page-1/Sentry.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 222
+      },
+      "previous": "fdcfb0201adddcf66368f63d0850cd8ec6afd91fc4f0f0ec1d3b2f71d29ffc2e",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
