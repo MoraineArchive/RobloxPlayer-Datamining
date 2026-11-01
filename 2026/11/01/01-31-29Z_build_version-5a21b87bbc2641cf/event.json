@@ -1,0 +1,30 @@
+{
+  "archivePath": "2026/11/01/01-31-29Z_build_version-5a21b87bbc2641cf",
+  "commit": {
+    "body": "Build files        +0 ~3 -0\nInExperience files +0 ~4 -0\nUniversalApp files +0 ~4 -0\nLuaPackages files  +4 ~9 -4\nNative files       +0 ~9 -0\nFastVariables files +0 ~2 -0\nLiveSettings files +0 ~1 -0\nWeb files          +0 ~52 -2\nPackages           +0 ~10 -0\nFiles              +3 ~58 -3\nInExperience sources +0 ~0 -0\nUniversalApp sources +0 ~0 -0\nLuaPackages sources +0 ~0 -0\nFastVariables      +4 ~25 -2\nLiveSettings       +957 ~108 -26",
+    "subject": "1 November 2026 - Build 0.745.0.7451137 (version-5a21b87bbc2641cf)"
+  },
+  "findings": {
+    "new": 0,
+    "updated": 2
+  },
+  "guid": "version-5a21b87bbc2641cf",
+  "id": "13c98aa35018bb112dc66b1fc4210be45bb9d6e26547d4810349f6f6f9023473",
+  "observedAt": "2026-11-01T01:31:29.108Z",
+  "product": "Player",
+  "schemaVersion": 1,
+  "surfaces": [
+    "Build",
+    "InExperience",
+    "UniversalApp",
+    "LuaPackages",
+    "Native",
+    "FastVariables",
+    "LiveSettings",
+    "Web"
+  ],
+  "target": "WindowsPlayer",
+  "type": "build.changed",
+  "upstreamChange": true,
+  "version": "0.745.0.7451137"
+}

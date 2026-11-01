@@ -2,6 +2,18 @@
   "observationMode": "live",
   "provenance": [
     {
+      "bytes": 7972,
+      "sha256": "f0046bd18a7b59d278dda17474a7d9086a8eaeb649d9f7a1c2d8c10d756ccddb",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/02a9be6b143b96a40778e51bdb2c115d507a28e1ed9a82136a844577fe26d50e-Theme.js"
+    },
+    {
+      "bytes": 7972,
+      "sha256": "f0046bd18a7b59d278dda17474a7d9086a8eaeb649d9f7a1c2d8c10d756ccddb",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/02a9be6b143b96a40778e51bdb2c115d507a28e1ed9a82136a844577fe26d50e-Theme.js"
+    },
+    {
       "bytes": 1919,
       "sha256": "84de2e282b246fba5df56719a89c706a053b0d437699a00320994912578b5b15",
       "sourceType": "official",
@@ -20,10 +32,16 @@
       "sourceUrl": "https://js.rbxcdn.com/05355f4f42e31d8469852179b730ec7f252467eb07a3139c9f3c2551f378bb9c.js"
     },
     {
-      "bytes": 1076,
-      "sha256": "0f58408d85723e36635d10682ecfdc6f31e1b9e01c913ba33d50413faf85ebc0",
+      "bytes": 15520,
+      "sha256": "e37c818bbd382ec7f1e11be2e1880f597d13ebdf08db1b22bd49409851b94e83",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/07709f6b2cecb7b34d4779d27348293fa0d4058d95fc98bc601c2d0b8f7070aa.js"
+      "sourceUrl": "https://js.rbxcdn.com/05ffa7e020754dd6a4f5ca84f68a66b0bac77262dd21a68e3e5b543b05c3af8e.js"
+    },
+    {
+      "bytes": 15520,
+      "sha256": "e37c818bbd382ec7f1e11be2e1880f597d13ebdf08db1b22bd49409851b94e83",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/05ffa7e020754dd6a4f5ca84f68a66b0bac77262dd21a68e3e5b543b05c3af8e.js"
     },
     {
       "bytes": 25054,
@@ -92,6 +110,30 @@
       "sourceUrl": "https://js.rbxcdn.com/102f367f365415eec3ee964e3fb3a6dfa2fd39c63f3c0f381f141c551b61bc5f.js"
     },
     {
+      "bytes": 1182817,
+      "sha256": "6a0ce27340ccad8f28c47ea000245e4604dae24a295474c4735a7b75db6e4dfe",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/10896dcc8b0f892dd5eda0d963f67234be7013fab2b30f56520148dc6fee15dc-ItemPurchase.js"
+    },
+    {
+      "bytes": 1182817,
+      "sha256": "6a0ce27340ccad8f28c47ea000245e4604dae24a295474c4735a7b75db6e4dfe",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/10896dcc8b0f892dd5eda0d963f67234be7013fab2b30f56520148dc6fee15dc-ItemPurchase.js"
+    },
+    {
+      "bytes": 443199,
+      "sha256": "ba28d4e01c6c47e529261b3a81be80910232b9879498e4be8414a08f92ed9e74",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/12b630149830d1df94cddc2165f9e0d7bfb1328b7d2b6a46ac59fa121db0342d-Sentry.js"
+    },
+    {
+      "bytes": 443199,
+      "sha256": "ba28d4e01c6c47e529261b3a81be80910232b9879498e4be8414a08f92ed9e74",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/12b630149830d1df94cddc2165f9e0d7bfb1328b7d2b6a46ac59fa121db0342d-Sentry.js"
+    },
+    {
       "bytes": 1471,
       "sha256": "f0fb5109ddb5e2a36762835cdac048dc0c9d17e6b74c56067c8e51b59796e2e6",
       "sourceType": "official",
@@ -140,10 +182,16 @@
       "sourceUrl": "https://js.rbxcdn.com/22681959c41ec4192828cea8a1c5d5b4a02dc5373536f7a4188001ad23c616d2.js"
     },
     {
-      "bytes": 690,
-      "sha256": "042cd3da414f3ea7e9154ad873569b413bb8abd15e91128915be1baaed764a47",
+      "bytes": 1308910,
+      "sha256": "462c19aa00964f0c50e87a0f2d0ee4184dc4f44cb4de6667494d8dda27a920d2",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/264d4bed21a614e8a15806c5d97af0aa92f26a99f5bf89b2e94cd705728b9f1f.js"
+      "sourceUrl": "https://js.rbxcdn.com/24a1c1b49140b8e5c860d8aafcc93b47060955d2a61218cf181dd5f24d7c2ec8-SearchLandingPage.js"
+    },
+    {
+      "bytes": 1308910,
+      "sha256": "462c19aa00964f0c50e87a0f2d0ee4184dc4f44cb4de6667494d8dda27a920d2",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/24a1c1b49140b8e5c860d8aafcc93b47060955d2a61218cf181dd5f24d7c2ec8-SearchLandingPage.js"
     },
     {
       "bytes": 690,
@@ -152,16 +200,34 @@
       "sourceUrl": "https://js.rbxcdn.com/264d4bed21a614e8a15806c5d97af0aa92f26a99f5bf89b2e94cd705728b9f1f.js"
     },
     {
-      "bytes": 80305,
-      "sha256": "009fa900b6a2644bb215653c0dc0ef288945ac1fc3c40be823e983475b37e075",
+      "bytes": 690,
+      "sha256": "042cd3da414f3ea7e9154ad873569b413bb8abd15e91128915be1baaed764a47",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/2ccb8cadc764fb3789cf54036a89edc88a99477d9190a13affadbe58dab6b734.js"
+      "sourceUrl": "https://js.rbxcdn.com/264d4bed21a614e8a15806c5d97af0aa92f26a99f5bf89b2e94cd705728b9f1f.js"
     },
     {
-      "bytes": 80305,
-      "sha256": "009fa900b6a2644bb215653c0dc0ef288945ac1fc3c40be823e983475b37e075",
+      "bytes": 10611,
+      "sha256": "192c0db54782a997300e26c8e911037954c43bca3274531bd7d71951dbffd577",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/2ccb8cadc764fb3789cf54036a89edc88a99477d9190a13affadbe58dab6b734.js"
+      "sourceUrl": "https://js.rbxcdn.com/2ac893f3c3073cfc976d62b61eebd8e7ff86ad852e532b61d4bf97a2b0f1ee18.js"
+    },
+    {
+      "bytes": 10611,
+      "sha256": "192c0db54782a997300e26c8e911037954c43bca3274531bd7d71951dbffd577",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/2ac893f3c3073cfc976d62b61eebd8e7ff86ad852e532b61d4bf97a2b0f1ee18.js"
+    },
+    {
+      "bytes": 81419,
+      "sha256": "42c29b66ec620d5b33393e490b2afd402ee7e5f8d1614b23016975dfd478addd",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/2b02804eb850175628dc47778819ecc05e0af910892ee3902785981e10f0b559.js"
+    },
+    {
+      "bytes": 81419,
+      "sha256": "42c29b66ec620d5b33393e490b2afd402ee7e5f8d1614b23016975dfd478addd",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/2b02804eb850175628dc47778819ecc05e0af910892ee3902785981e10f0b559.js"
     },
     {
       "bytes": 1498,
@@ -200,16 +266,16 @@
       "sourceUrl": "https://js.rbxcdn.com/31bf401f9158c39cc2383cb2f432630b5ed2cdf1f40a5618fc790a9fc74377af.js"
     },
     {
-      "bytes": 189270,
-      "sha256": "33a19eb8d33cf338d1e3f12b6a6bbe391c459458e132844228280bcfa087be57",
+      "bytes": 692215,
+      "sha256": "2ac678bc233ed329c49d9584eef273bb87d6d9a61b3167044e208e89c8d69d44",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/331e48e6b06f0b2d60a8dec1281dd9a6d96235a5c08e1b387c69fce048e974c7.js"
+      "sourceUrl": "https://js.rbxcdn.com/31ecff91fb059d786ff7d57dc1a5bfb9a52fe33f5b2f5bd8c4c5ec0075c7dc5a-AccessManagementUpsellV2.js"
     },
     {
-      "bytes": 189270,
-      "sha256": "33a19eb8d33cf338d1e3f12b6a6bbe391c459458e132844228280bcfa087be57",
+      "bytes": 692215,
+      "sha256": "2ac678bc233ed329c49d9584eef273bb87d6d9a61b3167044e208e89c8d69d44",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/331e48e6b06f0b2d60a8dec1281dd9a6d96235a5c08e1b387c69fce048e974c7.js"
+      "sourceUrl": "https://js.rbxcdn.com/31ecff91fb059d786ff7d57dc1a5bfb9a52fe33f5b2f5bd8c4c5ec0075c7dc5a-AccessManagementUpsellV2.js"
     },
     {
       "bytes": 148606,
@@ -230,6 +296,18 @@
       "sourceUrl": "https://js.rbxcdn.com/3549e188c34f5a2d6fd6ff275813b3bc.js"
     },
     {
+      "bytes": 10892,
+      "sha256": "7c94d710cc1494d08c4d0a9a0bf9fb7d7ffc3b35c704f6688b176d3784c44e99",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/35639994051921a3460fc6295c3c45138ea72a065cab1d4f846279ac36a0ff3a-Experimentation.js"
+    },
+    {
+      "bytes": 10892,
+      "sha256": "7c94d710cc1494d08c4d0a9a0bf9fb7d7ffc3b35c704f6688b176d3784c44e99",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/35639994051921a3460fc6295c3c45138ea72a065cab1d4f846279ac36a0ff3a-Experimentation.js"
+    },
+    {
       "bytes": 283711,
       "sha256": "153c7a2b2f87f9c0ff485fb263bd639d7c28f19bcc265af05517d12307d2f6f7",
       "sourceType": "official",
@@ -252,18 +330,6 @@
       "sha256": "2d93743724ff049ef790bd3af0d5cf4d03880c52a65d6854739f69d5e4ea824e",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/38746654b5d7ed5fd1ff195f42751a2dd85a0a3f461c1a4f51a5c8123e16aebc-CookieBannerV3.js"
-    },
-    {
-      "bytes": 592107,
-      "sha256": "15275756549e6f82c38b8ef5c17fe8eeaccf5c154fd830bed76dd3caae54a15f",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/397d67a144adbccfdf226763956b6242c144505df8768f003c8164f48f812943-AccessManagementUpsellV2.js"
-    },
-    {
-      "bytes": 592107,
-      "sha256": "15275756549e6f82c38b8ef5c17fe8eeaccf5c154fd830bed76dd3caae54a15f",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/397d67a144adbccfdf226763956b6242c144505df8768f003c8164f48f812943-AccessManagementUpsellV2.js"
     },
     {
       "bytes": 538,
@@ -302,18 +368,6 @@
       "sourceUrl": "https://js.rbxcdn.com/3e545d98e98d8a8a188a4ef6ce70138b165954d7b45c0c0e54a5cf23ad0cc12b.js"
     },
     {
-      "bytes": 14084,
-      "sha256": "1011c082509fdc267b457a82cee2d64da26e1b8c1289ad1ac3efd8a625b097c0",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/3f05475f3c6402d21d3b177ba91ee2afc5583fa35c2c6dce56f6ba5692f08c56.js"
-    },
-    {
-      "bytes": 14084,
-      "sha256": "1011c082509fdc267b457a82cee2d64da26e1b8c1289ad1ac3efd8a625b097c0",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/3f05475f3c6402d21d3b177ba91ee2afc5583fa35c2c6dce56f6ba5692f08c56.js"
-    },
-    {
       "bytes": 491,
       "sha256": "74a186f2c330b2e9520535f0e34c65cb51fe11fb979131de1cb96afcda86298a",
       "sourceType": "official",
@@ -326,16 +380,16 @@
       "sourceUrl": "https://js.rbxcdn.com/3fec2c529efef400a78a26a5c0a2d33e3e7ec0a13971616a31cd958214c71e37.js"
     },
     {
-      "bytes": 273986,
-      "sha256": "ced0afec892d96664374110e0e31d073db137511ef4e9e8c7c92aa6914fb72cc",
+      "bytes": 237579,
+      "sha256": "eba221b3b8d6d02b69d88cf291630a988f051d13c16706f10480f26f94409d82",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/407077c6ca8c490e63ca1deb9a548a8c4d28e105a35057a3ff0f3f8ddf1e6436-GameLaunch.js"
+      "sourceUrl": "https://js.rbxcdn.com/413c8c9ef8cde5e5c473b1a022235f21f63f9dba6b6e7164658241eb80dc3892-IdVerification.js"
     },
     {
-      "bytes": 273986,
-      "sha256": "ced0afec892d96664374110e0e31d073db137511ef4e9e8c7c92aa6914fb72cc",
+      "bytes": 237579,
+      "sha256": "eba221b3b8d6d02b69d88cf291630a988f051d13c16706f10480f26f94409d82",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/407077c6ca8c490e63ca1deb9a548a8c4d28e105a35057a3ff0f3f8ddf1e6436-GameLaunch.js"
+      "sourceUrl": "https://js.rbxcdn.com/413c8c9ef8cde5e5c473b1a022235f21f63f9dba6b6e7164658241eb80dc3892-IdVerification.js"
     },
     {
       "bytes": 686,
@@ -384,18 +438,6 @@
       "sha256": "417d1522b8dd23e8689456bf8143b6645d3c86a7581cd11c1c14d2b6b8dc729c",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/4b1622cffffd47df4803000604bc86bf9e595680109940279db923fba973a1dc-PresenceStatus.js"
-    },
-    {
-      "bytes": 945945,
-      "sha256": "bc2584da067c72c1e0f6fed9bdeeecea6d67a91a8bf0e971ebe319eb93f0f193",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/4b348a7ff90d503643ec90b7ba91d6fe2c7ed8fc40b15e2e434594fc2e0203b5-SearchLandingPage.js"
-    },
-    {
-      "bytes": 945945,
-      "sha256": "bc2584da067c72c1e0f6fed9bdeeecea6d67a91a8bf0e971ebe319eb93f0f193",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/4b348a7ff90d503643ec90b7ba91d6fe2c7ed8fc40b15e2e434594fc2e0203b5-SearchLandingPage.js"
     },
     {
       "bytes": 250748,
@@ -506,16 +548,22 @@
       "sourceUrl": "https://js.rbxcdn.com/5c7d73b31182161484106be3dd2a04b74eba15dc051cc19a327dfb4cfb679cda.js"
     },
     {
-      "bytes": 6707,
-      "sha256": "dbf56eea7412dfabe42791d5e6f4bea52c00e78be82ccfb314570de616d3af5e",
+      "bytes": 189786,
+      "sha256": "a07cc763a66fc097c78079cd279f1dbf015c26f23ca3f971937dfc0fdb96fd9c",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/5d8d12e4aa148f8e3c9d3fbc66c922e54e2354d4fbe3a1237fb7c6d7491fae40-Theme.js"
+      "sourceUrl": "https://js.rbxcdn.com/5e2ba278953d10459859a83e350ae022d6c39323878322dcc11a16c1d5013ad5.js"
     },
     {
-      "bytes": 6707,
-      "sha256": "dbf56eea7412dfabe42791d5e6f4bea52c00e78be82ccfb314570de616d3af5e",
+      "bytes": 189786,
+      "sha256": "a07cc763a66fc097c78079cd279f1dbf015c26f23ca3f971937dfc0fdb96fd9c",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/5d8d12e4aa148f8e3c9d3fbc66c922e54e2354d4fbe3a1237fb7c6d7491fae40-Theme.js"
+      "sourceUrl": "https://js.rbxcdn.com/5e2ba278953d10459859a83e350ae022d6c39323878322dcc11a16c1d5013ad5.js"
+    },
+    {
+      "bytes": 1246,
+      "sha256": "58dc36c3b43223a35a14dc47a3c4006e53e0e32350f5f4e0229127eb694c9409",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/5e740513671abfd8b06b4e8eebe99f64123b585b131d5798a48bb8e1811de323.js"
     },
     {
       "bytes": 589,
@@ -528,42 +576,6 @@
       "sha256": "44cf2d649cfb4974555f38147b172a58993d4d84ceacdc8c2a9d77bc91157249",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/5fbd8389fb24177a5be64285e12645c445dee91f0a686d5bed5865f0e009d387.js"
-    },
-    {
-      "bytes": 443866,
-      "sha256": "3470ab89273655a531fc2b6abbef8ed7ebdd09a2441729f298aa949bfe952bff",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/61835f7b25c66e6463cc3e247c6c06759099f39808aee1a9f87dc9fa05f2c0da-Sentry.js"
-    },
-    {
-      "bytes": 443866,
-      "sha256": "3470ab89273655a531fc2b6abbef8ed7ebdd09a2441729f298aa949bfe952bff",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/61835f7b25c66e6463cc3e247c6c06759099f39808aee1a9f87dc9fa05f2c0da-Sentry.js"
-    },
-    {
-      "bytes": 269595,
-      "sha256": "2fa5286cadd53c50137e0cbd0686008bef1e503cf102eff88b15da31d0003f37",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/632fce65c1ab7063cdff597f14aa76f572d9b96dea0b55e67c57a0523e29fb38-Footer.js"
-    },
-    {
-      "bytes": 269595,
-      "sha256": "2fa5286cadd53c50137e0cbd0686008bef1e503cf102eff88b15da31d0003f37",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/632fce65c1ab7063cdff597f14aa76f572d9b96dea0b55e67c57a0523e29fb38-Footer.js"
-    },
-    {
-      "bytes": 1029942,
-      "sha256": "de95e52731c367415e4efa08206731955a45210d304f7338b968c0427b8ceff0",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/68e914f6ff1a61dbf6e138779bbeb3b2eee38c4a9e9f5fe6fbeb374019b22310-CoreUtilities.js"
-    },
-    {
-      "bytes": 1029942,
-      "sha256": "de95e52731c367415e4efa08206731955a45210d304f7338b968c0427b8ceff0",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/68e914f6ff1a61dbf6e138779bbeb3b2eee38c4a9e9f5fe6fbeb374019b22310-CoreUtilities.js"
     },
     {
       "bytes": 6920,
@@ -590,28 +602,16 @@
       "sourceUrl": "https://js.rbxcdn.com/6d0691ef28f81e89001d5aaf49fcc4123261046af9aafa9b6368c04aae0bcd98.js"
     },
     {
-      "bytes": 79946,
-      "sha256": "9c94362634e5e51959f115a530cc37d9ab58d9f72cf7655b3172178c4b43331d",
+      "bytes": 273693,
+      "sha256": "3580dac0cf46b005f139152f1b04aa73427775dc3861fb0d7b2e0aa58502493f",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/6d0743dbab0070921c5bb3eff46802cead3a6881479fd3c902639ffba397d5f3-IdVerification.js"
+      "sourceUrl": "https://js.rbxcdn.com/7021250035f3df369d004a0ee2d846b4e586dac9f12cd8f157b68a7fdaf0e60f-ItemPurchaseUpsell.js"
     },
     {
-      "bytes": 79946,
-      "sha256": "9c94362634e5e51959f115a530cc37d9ab58d9f72cf7655b3172178c4b43331d",
+      "bytes": 273693,
+      "sha256": "3580dac0cf46b005f139152f1b04aa73427775dc3861fb0d7b2e0aa58502493f",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/6d0743dbab0070921c5bb3eff46802cead3a6881479fd3c902639ffba397d5f3-IdVerification.js"
-    },
-    {
-      "bytes": 1168339,
-      "sha256": "59e3d314ac3d183d1953f593dde232409d9e582ed2c0f841108b54eb6b739878",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/70dfbf22cc8f2ba182be82634229574c31205f713140703a2d9ddbdcd10b7247-Challenge.js"
-    },
-    {
-      "bytes": 1168339,
-      "sha256": "59e3d314ac3d183d1953f593dde232409d9e582ed2c0f841108b54eb6b739878",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/70dfbf22cc8f2ba182be82634229574c31205f713140703a2d9ddbdcd10b7247-Challenge.js"
+      "sourceUrl": "https://js.rbxcdn.com/7021250035f3df369d004a0ee2d846b4e586dac9f12cd8f157b68a7fdaf0e60f-ItemPurchaseUpsell.js"
     },
     {
       "bytes": 1957,
@@ -626,12 +626,6 @@
       "sourceUrl": "https://js.rbxcdn.com/730fcbf0eba6dd82de9b0029e157627f023e6f448059c5b4c6a4f356222b3ac0.js"
     },
     {
-      "bytes": 2413534,
-      "sha256": "38c852ee240957c01fc384a452532fef60ff6bdea830fb766759da1f09df46d5",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/77327ea6bae354296d06154f2f8fe93148ee98a60c3ab8ae64aabf7d46551003-GameCarousel.js"
-    },
-    {
       "bytes": 982,
       "sha256": "2791e508d3453efa6c5541d5ba69b504a2f276ce7b3f261332c7cd5204f1c459",
       "sourceType": "official",
@@ -642,6 +636,18 @@
       "sha256": "2791e508d3453efa6c5541d5ba69b504a2f276ce7b3f261332c7cd5204f1c459",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/7774e92ccee60b92717e18209b9060b35988362a9493cadb5234c96550e27d90.js"
+    },
+    {
+      "bytes": 13058,
+      "sha256": "49a1aa236eb333d5762c8ac33a8dd5f29ab133623139ad2ad90266df0f3aa893",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/77b9ab0a229bf0a145a162debadd094d663390f4936149a18ed8e2e67c5d5aa7-StyleGuide.js"
+    },
+    {
+      "bytes": 13058,
+      "sha256": "49a1aa236eb333d5762c8ac33a8dd5f29ab133623139ad2ad90266df0f3aa893",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/77b9ab0a229bf0a145a162debadd094d663390f4936149a18ed8e2e67c5d5aa7-StyleGuide.js"
     },
     {
       "bytes": 11357,
@@ -698,6 +704,12 @@
       "sourceUrl": "https://js.rbxcdn.com/7f4c2753c55dc89d4c9bf2dbfbf34e224194f6255457c0bd8c8c1ed0e6350f3a.js"
     },
     {
+      "bytes": 1930911,
+      "sha256": "a2f78aba6dc77312c4f949b13872b5a7c2639b2295ead90a0a1e550ea9af5468",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/802bfa16a78961e688b508f439ad2fd35f88ca6e7a4d9408c8d18dcace91b35f-SduiLandingPage.js"
+    },
+    {
       "bytes": 1483,
       "sha256": "d7f20612efff7fc0769c65582dcc51142364a23994f95b5f50c5c30c8e321fdd",
       "sourceType": "official",
@@ -714,30 +726,6 @@
       "sha256": "8e32c7a1d030bd1b50a56f86969f8bb11bf73baebb1364689deba97778c2cf86",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/86e0fc814aaf8af0bb9a6d35c46b102dc8d681c15c086d0ff6b6ce760a954b0b.js"
-    },
-    {
-      "bytes": 5006,
-      "sha256": "266675cad60a744487b4128b4f7274d1878624d8bf8892918064f6d966a60101",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/8752891d9471e6be28f41a516ec92a89a2ad1535bad936cfbc6f6f2c1a2203aa.js"
-    },
-    {
-      "bytes": 5006,
-      "sha256": "266675cad60a744487b4128b4f7274d1878624d8bf8892918064f6d966a60101",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/8752891d9471e6be28f41a516ec92a89a2ad1535bad936cfbc6f6f2c1a2203aa.js"
-    },
-    {
-      "bytes": 1046082,
-      "sha256": "debaaaea776a8aad0af569f6ffcf915f4afef5d29b1d1bddb4dc7df26fd1214f",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/877db1693d9ff380e52f7c0fd17cc14051141dc36510662b3c0e052a05b495e4-ItemPurchase.js"
-    },
-    {
-      "bytes": 1046082,
-      "sha256": "debaaaea776a8aad0af569f6ffcf915f4afef5d29b1d1bddb4dc7df26fd1214f",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/877db1693d9ff380e52f7c0fd17cc14051141dc36510662b3c0e052a05b495e4-ItemPurchase.js"
     },
     {
       "bytes": 8429,
@@ -806,18 +794,6 @@
       "sourceUrl": "https://js.rbxcdn.com/8e79851738baf4a99514ce726568faa52a0155d6298e0ed7521a210bde79c688-CaptchaCore.js"
     },
     {
-      "bytes": 270609,
-      "sha256": "db804346d341be9f39bbfa4ec5b38347174dc0aa05d120f1a7d5503ef4edb23a",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/8ef94505f4d1e1cc9f8ed237e2406c0dcd17b2d2e6cd90821dde65b20ee8b981-ItemPurchaseUpsell.js"
-    },
-    {
-      "bytes": 270609,
-      "sha256": "db804346d341be9f39bbfa4ec5b38347174dc0aa05d120f1a7d5503ef4edb23a",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/8ef94505f4d1e1cc9f8ed237e2406c0dcd17b2d2e6cd90821dde65b20ee8b981-ItemPurchaseUpsell.js"
-    },
-    {
       "bytes": 183297,
       "sha256": "9c6c77ae499bacb2cc2df4f9432fb7a767041594db6345045d110ebab0514f2f",
       "sourceType": "official",
@@ -884,18 +860,6 @@
       "sourceUrl": "https://js.rbxcdn.com/993eb6cb9b2ed18baadeca1088086e99ede5c9877cb7fe9700e0c6854bfeefe0.js"
     },
     {
-      "bytes": 5597,
-      "sha256": "28b932cb11967422a56ebb6cdf0906c635cf5c21173bed62666a30bb406a3d49",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/99576d9213cd5a69c4543f9051c87d2b4c881729eb931fbf961e3442ff2c8da1.js"
-    },
-    {
-      "bytes": 5597,
-      "sha256": "28b932cb11967422a56ebb6cdf0906c635cf5c21173bed62666a30bb406a3d49",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/99576d9213cd5a69c4543f9051c87d2b4c881729eb931fbf961e3442ff2c8da1.js"
-    },
-    {
       "bytes": 4589,
       "sha256": "2a319fd56ad931ceca15f8dbec1ff2a319ba6d9e5b5f85eec4128af50c7be25e",
       "sourceType": "official",
@@ -906,6 +870,36 @@
       "sha256": "2a319fd56ad931ceca15f8dbec1ff2a319ba6d9e5b5f85eec4128af50c7be25e",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/9f65c239243f3e20a33b4474b7df08f03015b22f3138d4106e490fd8c3da56b5.js"
+    },
+    {
+      "bytes": 1289732,
+      "sha256": "8e108021026e9a71c940581acf4d832ae73eccb61bd10fe952099b064134363a",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/a6afd84b9b1897db81dc5cd72f5fd745df3e0d9d5ae8c1f14e088d42804cf3f4-Challenge.js"
+    },
+    {
+      "bytes": 1289732,
+      "sha256": "8e108021026e9a71c940581acf4d832ae73eccb61bd10fe952099b064134363a",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/a6afd84b9b1897db81dc5cd72f5fd745df3e0d9d5ae8c1f14e088d42804cf3f4-Challenge.js"
+    },
+    {
+      "bytes": 206406,
+      "sha256": "e71df9e59a78a1dca5912a72b354c58fbbed77f7f52094c4f18ce805be9f0295",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/a903ad9579b1ee6427c2212b193940c2.js"
+    },
+    {
+      "bytes": 1665659,
+      "sha256": "d22d7bc6e9b1063a1254eec546dc426e2ef9ad6acb5ab0d156174c4c33f1ed68",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/ac074606f5ac22fea18df92ab378f3566782c5c602e801122c951a80c5666137-Navigation.js"
+    },
+    {
+      "bytes": 1665659,
+      "sha256": "d22d7bc6e9b1063a1254eec546dc426e2ef9ad6acb5ab0d156174c4c33f1ed68",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/ac074606f5ac22fea18df92ab378f3566782c5c602e801122c951a80c5666137-Navigation.js"
     },
     {
       "bytes": 1459,
@@ -920,16 +914,28 @@
       "sourceUrl": "https://js.rbxcdn.com/ac6c91fedd73bf30c02a833e75a2bf196a81dfb08b8a6ba4d846e18280a3710c-Builder.js"
     },
     {
-      "bytes": 10460,
-      "sha256": "bc8764032d226003f7ab356ee291b24183270aa8b73129be44f57d5a8df836ab",
+      "bytes": 1067645,
+      "sha256": "9bd27eba0b96a50f6321a3915d1d09f91f90efc900a9b5bee7a655674463310c",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/acb69086253120ce7945704ce42a0b684c9171ed587de439e2c0f9479fd4ad51.js"
+      "sourceUrl": "https://js.rbxcdn.com/afa1d04c1d0d5244c427b1d395c7a8db59bad316fb7c72365e43915f31f0d526-CoreUtilities.js"
     },
     {
-      "bytes": 10460,
-      "sha256": "bc8764032d226003f7ab356ee291b24183270aa8b73129be44f57d5a8df836ab",
+      "bytes": 1067645,
+      "sha256": "9bd27eba0b96a50f6321a3915d1d09f91f90efc900a9b5bee7a655674463310c",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/acb69086253120ce7945704ce42a0b684c9171ed587de439e2c0f9479fd4ad51.js"
+      "sourceUrl": "https://js.rbxcdn.com/afa1d04c1d0d5244c427b1d395c7a8db59bad316fb7c72365e43915f31f0d526-CoreUtilities.js"
+    },
+    {
+      "bytes": 35263,
+      "sha256": "0ee0ab980431bb8bfeb8e71fdf2dac168b51ca355ccbdaf45662302388691d58",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/b067c7e5d8b92743d571822feb2b93dea681648ab69ec1b77aacfec584523b5e.js"
+    },
+    {
+      "bytes": 35263,
+      "sha256": "0ee0ab980431bb8bfeb8e71fdf2dac168b51ca355ccbdaf45662302388691d58",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/b067c7e5d8b92743d571822feb2b93dea681648ab69ec1b77aacfec584523b5e.js"
     },
     {
       "bytes": 303887,
@@ -980,6 +986,18 @@
       "sourceUrl": "https://js.rbxcdn.com/b6ab2ca5e489d34abf4eed4eafce5d177b596b678b399cecf81a0faad692fd32.js"
     },
     {
+      "bytes": 14227,
+      "sha256": "5f9ddcb463771fdc75677b7bc289471980d0b9538ce84f6c8a181d0474b3f303",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/b7779998e2636a5a9be5e027ea8a625048fcf5c12d68dd7bebe9fda57f76a566.js"
+    },
+    {
+      "bytes": 14227,
+      "sha256": "5f9ddcb463771fdc75677b7bc289471980d0b9538ce84f6c8a181d0474b3f303",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/b7779998e2636a5a9be5e027ea8a625048fcf5c12d68dd7bebe9fda57f76a566.js"
+    },
+    {
       "bytes": 4531,
       "sha256": "9fc0de95329c0df935efbf7db1886d2f95d40ad9a5a9936a18b42a0995082b73",
       "sourceType": "official",
@@ -1004,16 +1022,10 @@
       "sourceUrl": "https://js.rbxcdn.com/b9796ea7983f6d73db40cdbbb06c1b6e2011c9958e67ecd9e4e02ba266800954.js"
     },
     {
-      "bytes": 206410,
-      "sha256": "b0b033e91a4174559c555ff9cf2380efb65140bd55e0b1bb646c6d712d90aa4b",
+      "bytes": 2603894,
+      "sha256": "fa7bec1efb24aa5c766a876ab6d31a412f124b767beca7948162cce6b5e0800c",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/bc5a823e734e88315de74a0e186dce96.js"
-    },
-    {
-      "bytes": 1528714,
-      "sha256": "3ef832e30c464826516a1634a017ed42f56f029af48a0816e95eaf802dfb88ff",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/c00a99952f1aba04046915c6dcf0ba3c0fb214e7d9f7ab57d31b63595ca4a388-SduiLandingPage.js"
+      "sourceUrl": "https://js.rbxcdn.com/bab7ed7c74326edc4fe3a1b57d774c63b6fbc095be21cb98dbd3122fe02ee996-GameCarousel.js"
     },
     {
       "bytes": 2049739,
@@ -1038,30 +1050,6 @@
       "sha256": "20d914c42ae7cb94255f9f178f7bd125359ca012d6c7bea1fb182a02c8a4c329",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/cbae3669084e2a46b6f7730f4ec3e09af389fc747b2affe7e5173e463227ab4b.js"
-    },
-    {
-      "bytes": 3814,
-      "sha256": "813c61d5adff98117ba83a8dd15997d7ffc8a0767745667018ddde5a1a8314e3",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/cd456bb506f1b0b06a2eb645ca018d367185ca84725ec00d524e35ce431f4a8c.js"
-    },
-    {
-      "bytes": 3814,
-      "sha256": "813c61d5adff98117ba83a8dd15997d7ffc8a0767745667018ddde5a1a8314e3",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/cd456bb506f1b0b06a2eb645ca018d367185ca84725ec00d524e35ce431f4a8c.js"
-    },
-    {
-      "bytes": 35191,
-      "sha256": "1922f8c9576e639de440078b82b61038d88422a77a3058af119fcd25b8d8e419",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/ce873710ec7c0cda17bc44d1e84f2c90757445b8ac6763966da3cb2d232579fe.js"
-    },
-    {
-      "bytes": 35191,
-      "sha256": "1922f8c9576e639de440078b82b61038d88422a77a3058af119fcd25b8d8e419",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/ce873710ec7c0cda17bc44d1e84f2c90757445b8ac6763966da3cb2d232579fe.js"
     },
     {
       "bytes": 14421,
@@ -1100,10 +1088,16 @@
       "sourceUrl": "https://js.rbxcdn.com/d2103009f17303199e698315acec635d3ebd96fb6072fa9804cd14c6fef0914d.js"
     },
     {
-      "bytes": 4271,
-      "sha256": "8de697e34b070889212387ee4065f7ea15043c09a3ca76b4c07a772f26c28e73",
+      "bytes": 24878,
+      "sha256": "d765bfd28a288c551503c335ebb1ccf379be9544b708f01426865d646ace715a",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/d69011c70820c037f8de5d5035367bc7e3daa0e014a014e9342c2fba567701d7.js"
+      "sourceUrl": "https://js.rbxcdn.com/d47d0920605774f2a80eee4eaf50bb85a62f6b94dffbc628b539cdd036d134d0.js"
+    },
+    {
+      "bytes": 24878,
+      "sha256": "d765bfd28a288c551503c335ebb1ccf379be9544b708f01426865d646ace715a",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/d47d0920605774f2a80eee4eaf50bb85a62f6b94dffbc628b539cdd036d134d0.js"
     },
     {
       "bytes": 4271,
@@ -1112,16 +1106,10 @@
       "sourceUrl": "https://js.rbxcdn.com/d69011c70820c037f8de5d5035367bc7e3daa0e014a014e9342c2fba567701d7.js"
     },
     {
-      "bytes": 23866,
-      "sha256": "1a7a200b30e1d8e74cf9b2b6a20dc33e18760d4088cd2d6bd4fec7a0506d2776",
+      "bytes": 4271,
+      "sha256": "8de697e34b070889212387ee4065f7ea15043c09a3ca76b4c07a772f26c28e73",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/d73752a7787317b81a27f5b6fefebcc89d5b264925d57147d72abc4c84b80c5e.js"
-    },
-    {
-      "bytes": 23866,
-      "sha256": "1a7a200b30e1d8e74cf9b2b6a20dc33e18760d4088cd2d6bd4fec7a0506d2776",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/d73752a7787317b81a27f5b6fefebcc89d5b264925d57147d72abc4c84b80c5e.js"
+      "sourceUrl": "https://js.rbxcdn.com/d69011c70820c037f8de5d5035367bc7e3daa0e014a014e9342c2fba567701d7.js"
     },
     {
       "bytes": 1814,
@@ -1160,18 +1148,6 @@
       "sourceUrl": "https://js.rbxcdn.com/ddf71f4bf086237706507ee77fae4381d9213ff637c663a5613da97ef27d1e8a-EnvironmentUrls.js"
     },
     {
-      "bytes": 15325,
-      "sha256": "2e2a163b26a5cbbbd3987f82d01766ba340ccf5e9cb20fd409ff64f5f8212276",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/e2bf41b9b72c275c556241dd5fc804cb29f5183e6255a49509d535e672b08091.js"
-    },
-    {
-      "bytes": 15325,
-      "sha256": "2e2a163b26a5cbbbd3987f82d01766ba340ccf5e9cb20fd409ff64f5f8212276",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/e2bf41b9b72c275c556241dd5fc804cb29f5183e6255a49509d535e672b08091.js"
-    },
-    {
       "bytes": 530748,
       "sha256": "32414b03b80d0af1a255dd2a983d0bee31e81b82440eba10251d76ec6b55771b",
       "sourceType": "official",
@@ -1194,30 +1170,6 @@
       "sha256": "6343b8107d42ad08d5a41b917b1f9c2f5274359fedde0fe3f61e4916278dd067",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/e3ee1d26df4ed304eedf103641f389dcfe507d24f0aa079d366824f187f14ffa-AngularJsUtilities.js"
-    },
-    {
-      "bytes": 6788,
-      "sha256": "1d436cdc9ff849b3411d4686a2910fefae285c79e0447cd2f35bc74dd42b87ad",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/e4d869b26529138558f87e96a10ee8822b2859a13b86bdd17e205879e1612be3-Experimentation.js"
-    },
-    {
-      "bytes": 6788,
-      "sha256": "1d436cdc9ff849b3411d4686a2910fefae285c79e0447cd2f35bc74dd42b87ad",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/e4d869b26529138558f87e96a10ee8822b2859a13b86bdd17e205879e1612be3-Experimentation.js"
-    },
-    {
-      "bytes": 13058,
-      "sha256": "a25c4ab2722748d37f98af044599347531109cdc11d3ea79fe03f40a905615ec",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/e5ef5817749239a77fdfb93a8e0a4ecef27207d24d32ac17dd789077beff530e-StyleGuide.js"
-    },
-    {
-      "bytes": 13058,
-      "sha256": "a25c4ab2722748d37f98af044599347531109cdc11d3ea79fe03f40a905615ec",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/e5ef5817749239a77fdfb93a8e0a4ecef27207d24d32ac17dd789077beff530e-StyleGuide.js"
     },
     {
       "bytes": 509,
@@ -1256,10 +1208,16 @@
       "sourceUrl": "https://js.rbxcdn.com/e92d027c197738388b36f7a8164dd7bdfc61a638ac1acaeb577a92fb77a98857.js"
     },
     {
-      "bytes": 181590,
-      "sha256": "eff11868710040b5e3dab18653759ab22d0a996cf76048490d79fd595216cf20",
+      "bytes": 5617,
+      "sha256": "b36a3ee336afafb6019664f908efc6515d6963db6a19fb7af911fad80219006a",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/ea02dd03dee8d01ac1d70c79d1a67cd19f1a2cee81b5796e32ae0102917d8992-VerificationUpsell.js"
+      "sourceUrl": "https://js.rbxcdn.com/e983e18532310b80e1e8f3fcf3677b64ab19f00bf78919bdd2bd307827099a82.js"
+    },
+    {
+      "bytes": 5617,
+      "sha256": "b36a3ee336afafb6019664f908efc6515d6963db6a19fb7af911fad80219006a",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/e983e18532310b80e1e8f3fcf3677b64ab19f00bf78919bdd2bd307827099a82.js"
     },
     {
       "bytes": 181590,
@@ -1268,16 +1226,28 @@
       "sourceUrl": "https://js.rbxcdn.com/ea02dd03dee8d01ac1d70c79d1a67cd19f1a2cee81b5796e32ae0102917d8992-VerificationUpsell.js"
     },
     {
-      "bytes": 1649680,
-      "sha256": "14615f2e244ac45c494f90a721be92f9aa843ac84a0f33273191bc7d0f19c36b",
+      "bytes": 181590,
+      "sha256": "eff11868710040b5e3dab18653759ab22d0a996cf76048490d79fd595216cf20",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/ec642ebdd92db1c08d2dfcf5d6219d8c7071f3243689370cf75d7d6ce34b2da1-Navigation.js"
+      "sourceUrl": "https://js.rbxcdn.com/ea02dd03dee8d01ac1d70c79d1a67cd19f1a2cee81b5796e32ae0102917d8992-VerificationUpsell.js"
     },
     {
-      "bytes": 1649680,
-      "sha256": "14615f2e244ac45c494f90a721be92f9aa843ac84a0f33273191bc7d0f19c36b",
+      "bytes": 198235,
+      "sha256": "333f78c97d8c43d5dce619f2e786b5fe55f66c64f43445142d5fc5cae3ead9e2",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/ec642ebdd92db1c08d2dfcf5d6219d8c7071f3243689370cf75d7d6ce34b2da1-Navigation.js"
+      "sourceUrl": "https://js.rbxcdn.com/ec253ebf10e996c22099ed4aa43b2150.js"
+    },
+    {
+      "bytes": 417047,
+      "sha256": "749fe1aba8db5869a8a4ddbb85f28d63455b057fd7c51c485fd7d3bebf50be38",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/edafe2a1d0192c224cbb8296422773c4e90cfa3964956be83c075c1135084079-GameLaunch.js"
+    },
+    {
+      "bytes": 417047,
+      "sha256": "749fe1aba8db5869a8a4ddbb85f28d63455b057fd7c51c485fd7d3bebf50be38",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/edafe2a1d0192c224cbb8296422773c4e90cfa3964956be83c075c1135084079-GameLaunch.js"
     },
     {
       "bytes": 5878,
@@ -1316,10 +1286,28 @@
       "sourceUrl": "https://js.rbxcdn.com/fc00826f9e0f8fd2f6bfe2152fb652d4f73e1a12e1ad50ad234d2f60854a311c-Polyfill.js"
     },
     {
-      "bytes": 198239,
-      "sha256": "cfd73c7a2aef434aea325a507a7ff580a4060bf4c17acb552fb113df178ac375",
+      "bytes": 5010,
+      "sha256": "0a37ef5c0f5069eac2ff7023425c937e28fe8c73b21f660aec3634b79a4b7e51",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/fdd140c909b64670cd15bdefe5a3691f.js"
+      "sourceUrl": "https://js.rbxcdn.com/fcdaacf1314e6a7ad298d4b506c5b610d10a839ccdb469e32e502e0b4b1f7b33.js"
+    },
+    {
+      "bytes": 5010,
+      "sha256": "0a37ef5c0f5069eac2ff7023425c937e28fe8c73b21f660aec3634b79a4b7e51",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/fcdaacf1314e6a7ad298d4b506c5b610d10a839ccdb469e32e502e0b4b1f7b33.js"
+    },
+    {
+      "bytes": 262985,
+      "sha256": "3b254397cb128b5711e4c7af3ff25ac6bcf5785354bc9ac68bf8629892829f16",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/ff88a0cc603b7e6bfe6e4979e613be18f6c606e866109d448922ddb17c63f98c-Footer.js"
+    },
+    {
+      "bytes": 262985,
+      "sha256": "3b254397cb128b5711e4c7af3ff25ac6bcf5785354bc9ac68bf8629892829f16",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/ff88a0cc603b7e6bfe6e4979e613be18f6c606e866109d448922ddb17c63f98c-Footer.js"
     },
     {
       "bytes": 252,
@@ -1348,7 +1336,7 @@
   ],
   "status": "available",
   "summary": {
-    "assets": 224,
+    "assets": 222,
     "engineRevision": 1,
     "errors": 0,
     "pages": [

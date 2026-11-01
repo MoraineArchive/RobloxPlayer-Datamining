@@ -2,30 +2,30 @@
   "observationMode": "live",
   "provenance": [
     {
-      "buildGuid": "version-11f155f3450f4c8e",
-      "bytes": 137303366,
+      "buildGuid": "version-5a21b87bbc2641cf",
+      "bytes": 137795773,
       "derivedFrom": "RobloxPlayerBeta.exe",
-      "sha256": "14d56568198bb791addf91ffdf3350180b1d07b673216bf7eacaa59dce889d47",
+      "sha256": "ecc7097723111f34724b194e2c7bfb63928317884bd16f95d7a13e39026f7d87",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-RobloxApp.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-5a21b87bbc2641cf-RobloxApp.zip"
     }
   ],
   "status": "available",
   "summary": {
-    "ascii": 1511281,
+    "ascii": 1511055,
     "demangleStatus": "Windows DbgHelp offline undecoration; no Roblox process",
-    "demangled": 14,
+    "demangled": 7,
     "engineRevision": 1,
     "executable": "RobloxPlayerBeta.exe",
     "fastVariableMethod": "Explicit prefixed identifier strings only; unclassified registration candidates stored separately without guessed prefixes.",
-    "fastVariables": 27,
-    "guid": "version-11f155f3450f4c8e",
-    "identifiers": 97991,
-    "sha256": "a9641e548298e9582f20c1007d7f4d684b57eb36a884376eb8481d1c62af32f7",
-    "symbols": 22877,
+    "fastVariables": 29,
+    "guid": "version-5a21b87bbc2641cf",
+    "identifiers": 92316,
+    "sha256": "a5a13a9e4f578fce0675e0dfc3edcdaad639dcb3e306badeb9df597010ca6229",
+    "symbols": 21679,
     "unclassifiedRegistrationCandidates": 0,
-    "utf16": 126776,
-    "utf8": 665
+    "utf16": 124399,
+    "utf8": 346
   },
   "target": "WindowsPlayer"
 }

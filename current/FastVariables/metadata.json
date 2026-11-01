@@ -2,85 +2,85 @@
   "observationMode": "live",
   "provenance": [
     {
-      "buildGuid": "version-11f155f3450f4c8e",
-      "bytes": 137303366,
+      "buildGuid": "version-5a21b87bbc2641cf",
+      "bytes": 137795773,
       "derivedFrom": "RobloxPlayerBeta.exe",
-      "sha256": "14d56568198bb791addf91ffdf3350180b1d07b673216bf7eacaa59dce889d47",
+      "sha256": "ecc7097723111f34724b194e2c7bfb63928317884bd16f95d7a13e39026f7d87",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-RobloxApp.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-5a21b87bbc2641cf-RobloxApp.zip"
     },
     {
-      "bytes": 42779,
+      "bytes": 42863,
       "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
-      "sha256": "de543f36575c4159901a6527685a4549bbda816bd768c493b6d8046cdd4b724f",
+      "sha256": "6809e5cf240f6529e8e28fa9f058bcbc1cacc7c9a55656d8860c304df0cbc8f8",
       "sourceType": "official",
-      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.742.0.7421053&tag=Release&name=app-patch-in-experience"
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.745.0.7451137&tag=Release&name=app-patch-in-experience"
     },
     {
-      "bytes": 14062096,
+      "bytes": 14775964,
       "derivedFrom": "InExperience.rbxm",
-      "sha256": "a0c5b94fb6517704e0c2c8ac50f5db7aedc045a993e343210f69c963672b3b5e",
+      "sha256": "0de4e6b876ab6389738f6252ad1973945fe9cada4e33d318a9767620e3f00de9",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=15261"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=16377"
     },
     {
-      "bytes": 42780,
+      "bytes": 42864,
       "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
-      "sha256": "0c7d9047addf2887d8dceeb323a9d36d2e04ec8c99b956e4a1287a6e225ddd67",
+      "sha256": "bb2d9cee2236fb8b92289e55bf65c75c8f37ee2c7d6bae8c01169770c4213ae2",
       "sourceType": "official",
-      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.742.0.7421053&tag=Release&name=app-patch-universal-app"
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.745.0.7451137&tag=Release&name=app-patch-universal-app"
     },
     {
-      "bytes": 13060185,
+      "bytes": 13573512,
       "derivedFrom": "UniversalApp.rbxm",
-      "sha256": "85c3d2595266b82551eee9334eda6d81ac64a304f62d947e979f289970b712ee",
+      "sha256": "ab198e1ab96c4f2cf2036dc71c1605d544cf4d6fbd6ac0bd1081a9a7b1163035",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=15353"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=16470"
     },
     {
-      "buildGuid": "version-11f155f3450f4c8e",
-      "bytes": 306511,
+      "buildGuid": "version-5a21b87bbc2641cf",
+      "bytes": 307051,
       "derivedFrom": "content-configs.zip",
-      "sha256": "05cba50015de1924108c8cb1bdbbe5e4e2d65f09f2c83977f59e1781a2498d8a",
+      "sha256": "27dd55beae5f689783a17d9f94c1c568b28e714f87193c74ce1ce62649ff2bae",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-content-configs.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-5a21b87bbc2641cf-content-configs.zip"
     },
     {
-      "buildGuid": "version-11f155f3450f4c8e",
+      "buildGuid": "version-5a21b87bbc2641cf",
       "bytes": 620166,
       "derivedFrom": "content-models.zip",
       "sha256": "bd9d84b18399042e0478ccdc989081d48a82279a498b36efaa197a317e01df76",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-content-models.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-5a21b87bbc2641cf-content-models.zip"
     },
     {
-      "buildGuid": "version-11f155f3450f4c8e",
-      "bytes": 2825687,
+      "buildGuid": "version-5a21b87bbc2641cf",
+      "bytes": 2772800,
       "derivedFrom": "extracontent-luapackages.zip",
-      "sha256": "fcd44e8a02fa69e93d280d8ec2cecc88651d0095a22902593b28b88a7e2438b2",
+      "sha256": "31fec773051d3c8f7f4ce8607c95552387b2cc744e646ec5a9f3d85d30b011b3",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-extracontent-luapackages.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-5a21b87bbc2641cf-extracontent-luapackages.zip"
     },
     {
-      "buildGuid": "version-11f155f3450f4c8e",
-      "bytes": 27224382,
+      "buildGuid": "version-5a21b87bbc2641cf",
+      "bytes": 28009336,
       "derivedFrom": "extracontent-models.zip",
-      "sha256": "5c0e7ee2251b36321c0fc452ecd11f9db50fb4ea6e1f99694583f53903c69112",
+      "sha256": "68b6b1e597ac488289fb33f08ef516ef60ac12baf32b28ce32466fe93add8d34",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-extracontent-models.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-5a21b87bbc2641cf-extracontent-models.zip"
     },
     {
-      "buildGuid": "version-11f155f3450f4c8e",
+      "buildGuid": "version-5a21b87bbc2641cf",
       "bytes": 610717,
       "derivedFrom": "extracontent-translations.zip",
       "sha256": "16cd03787910fec0340c58cd4efd4ba47d1f00d61395c76693cd5db695db58a4",
       "sourceType": "derived-official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-11f155f3450f4c8e-extracontent-translations.zip"
+      "sourceUrl": "https://setup.rbxcdn.com/version-5a21b87bbc2641cf-extracontent-translations.zip"
     }
   ],
   "status": "available",
   "summary": {
-    "cpp": 27,
+    "cpp": 29,
     "engineRevision": 1,
     "lua": 0,
     "method": "C++: explicitly prefixed native strings. Lua: explicit names and DefineFast/GetFast literals. These are observations, not a complete executable registration table. LIVE values are separate."

@@ -1,6 +1,6 @@
 {
   "hashes": {
-    "PatchRoot/CoreScripts/Assets.txt": "99530fef420bdf4643dd59a6c41dddabc52cb56a1d6ff8c98a769dbb1e86c2b6",
+    "PatchRoot/CoreScripts/Assets.txt": "fd4d74ebec801d58182684ce7226463ce6da3bb7b1b9828532f8293c72f893d4",
     "PatchRoot/CoreScripts/CoreScriptLocalization.json": "2cc84a6a872e1d34c1ef06d4424bd238b9c40828bcca62f82cd848cb82c50b81",
     "PatchRoot/CoreScripts/CoreScriptLocalizationTrimmed.json": "c1cf0c578093019fad01b906b2190d43a915babf504d9eb0afa2813c873591a7",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Resources/Resources/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
@@ -8,41 +8,41 @@
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsExperimental/SignalsExperimental/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsReact/SignalsReact/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "instances.json": "ff3c89ab032842e496ab035f17ff0c0e515970002d82a99676da56da59c7e95d",
-    "latest-asset.json": "166db52e0036d5f4923040930c9be0fa5a53daa6c19c91a1b7024ed4dcfc1e83",
-    "metadata.json": "617bd8d27f6ea6643c719faad4f7deb9a7a87701747ddd8b846ec7d7b2ffd1f1",
-    "ota-config.json": "1549b62ceedc61c5295c6166d471899457550455a95415637d04d8e29c3936b5"
+    "instances.json": "e6cf3779fc8c4ceaf9b211247c31aeb62f319e5552de1c5891c1a7f4c55d8243",
+    "latest-asset.json": "7e4d34aee073b8b2dbd75c55c08f5c3704696848d81f7974db1a5552cd5690ac",
+    "metadata.json": "62d14a533d9a23cc1fbfa22c4235c5a6e2e7cd0ff5afab8a75f784dbcdcad85f",
+    "ota-config.json": "419a0640dcbc60cd86e7796bee430b5e607f7c20f9792841423a1112eb1527cf"
   },
-  "id": "ee9d9ae4fbffb4f85c33e8f66397f36813315be07573a18fcf9c486f10360a8c",
+  "id": "bffc65e11a9d4f6e005cbccd7a15821eccb046e8da6499fb6fc27ad7e9cb6c91",
   "observationMode": "live",
-  "observedAt": "2026-10-13T21:11:03.729Z",
+  "observedAt": "2026-11-01T01:30:39.841Z",
   "provenance": [
     {
-      "bytes": 42779,
+      "bytes": 42863,
       "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
-      "sha256": "de543f36575c4159901a6527685a4549bbda816bd768c493b6d8046cdd4b724f",
+      "sha256": "6809e5cf240f6529e8e28fa9f058bcbc1cacc7c9a55656d8860c304df0cbc8f8",
       "sourceType": "official",
-      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.742.0.7421053&tag=Release&name=app-patch-in-experience"
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.745.0.7451137&tag=Release&name=app-patch-in-experience"
     },
     {
-      "bytes": 14062096,
+      "bytes": 14775964,
       "derivedFrom": "InExperience.rbxm",
-      "sha256": "a0c5b94fb6517704e0c2c8ac50f5db7aedc045a993e343210f69c963672b3b5e",
+      "sha256": "0de4e6b876ab6389738f6252ad1973945fe9cada4e33d318a9767620e3f00de9",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=15261"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=16377"
     }
   ],
-  "sequence": 90,
+  "sequence": 91,
   "status": "partial",
   "summary": {
     "assetId": "80471914653504",
-    "assetVersion": "15261",
-    "configuredAssetVersion": "15080",
+    "assetVersion": "16377",
+    "configuredAssetVersion": "16075",
     "engineRevision": 1,
-    "instances": 34817,
+    "instances": 38279,
     "localizationFiles": 2,
     "sources": 0,
-    "unreadableScripts": 32153
+    "unreadableScripts": 35478
   },
   "surface": "InExperience",
   "target": "WindowsPlayer"
