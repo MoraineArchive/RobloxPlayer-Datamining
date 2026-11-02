@@ -1,0 +1,70 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-5a21b87bbc2641cf",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.745.0.7451137"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "68626d502d6912751e5d2894daece59ed284d438a4ac1ec0c6e999c719563c5d",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "861f136a8c898dfae3e92301bf81a2f898093016617981193ca8016681573676",
+      "semantic": {
+        "added": [
+          "DFFlagRbxTransportWasmFixConnOwnership_Staged",
+          "FFlagBuyRobuxLatencyIxpEnabled_Staged",
+          "FFlagCollectionInRadiusSynchronousConvergence2_Staged",
+          "FFlagCollectionSharedWatcher2_Staged",
+          "FFlagCollectionStaleInstanceSafety_Staged",
+          "FFlagEnableBuyRobuxNextJS_Staged",
+          "FFlagEnableBuyRobuxSdui_Staged",
+          "FFlagEnableHeadlessSubscriptionNativePurchaseCancelCallback_Staged",
+          "FFlagFixRegionSetsClumpOccupancyLeak_Staged",
+          "FFlagFontFaceAbuseReporting_Staged",
+          "FFlagLuauCodegenIntegerCompare_Staged",
+          "FFlagProfilePlatformExperiencesGamesLabel_Staged",
+          "FFlagSduiAccordionComponent_Staged",
+          "FFlagSduiBuyRobuxHydration_Staged",
+          "FFlagSimWaterContactDragEnergyClamp_Staged",
+          "FFlagStreamingSetExtentsAllocationFree_Staged",
+          "FFlagTTranscoderRemoveOldFormats_Staged"
+        ],
+        "changed": [
+          {
+            "after": "51d7f6b3da1e5fa04f31a3c42b6f905d38b9072e",
+            "before": "40f11c3b3f4f8d2fb0c6ad33d3855fa18169dd57",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-02T17:25:25.505Z",
+            "before": "2026-10-31T06:02:40.763Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "51d7f6b3da1e5fa04f31a3c42b6f905d38b9072e",
+            "before": "40f11c3b3f4f8d2fb0c6ad33d3855fa18169dd57",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-02T17:25:25.505Z",
+            "before": "2026-10-31T06:02:40.763Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 24393
+      }
+    }
+  },
+  "schemaVersion": 1
+}
