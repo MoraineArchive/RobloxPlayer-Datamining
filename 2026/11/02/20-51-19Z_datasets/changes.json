@@ -1,0 +1,293 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-5a21b87bbc2641cf",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.745.0.7451137"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "c286da2fbed46c53f77682a8d6afe8c7a8180d2cb3c00b5fd669ade8a6dc6fe3",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "6d186006a76ac17e2a82e8be9020858925881203ddf6300140b596767d6809a0",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "a3e5f02eea421e130535a4f2d7f583cb467bc874ab8f859ca890cba3a8312bf9",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "7fe6aae174ab1cfa48e558eb77ef9d00e55317d08bd9a7eded690a7bd4b33806",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "444c3d74b2e431bd63bc220f5abe7fd98fcf9863613aca9f0cfa19301db59f40",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "d4d1653ebff16a0ca74687fd8e1ff60ec163a3c1ed440027a287ce66d3918982",
+      "semantic": {
+        "added": [
+          "DFFlagCLI224327Fix_Staged",
+          "DFFlagCloudClientRankedPopLatencyReport",
+          "DFFlagFileMeshDataLayeredClothingHardening",
+          "DFFlagIXPExposureSignalAddPlaySessionId",
+          "DFFlagInExpImagePublishOpenUse",
+          "DFFlagInstanceNullEngineContextSimCrashReportSeverity",
+          "DFFlagNullEngineContextPart4",
+          "DFFlagRbxTransportRtcioCreditChannelHeader",
+          "DFFlagRbxTransportWasmFixConnOwnership",
+          "DFFlagRealtimeMediaReportVideoCodec",
+          "DFFlagRemoveUnsafeLoadAndMigrate",
+          "DFFlagStratusPopLatencyRegionSelect_Staged",
+          "DFIntCloudClientPopLatencyMaxRttMs",
+          "DFIntPhysicsStepLimitDutyPercent",
+          "FFlagAccessCodeV2Teleports4",
+          "FFlagAppChatBindingFacePileUserTileParity_Staged",
+          "FFlagAppChatDerivedConversationLatestActivity_Staged",
+          "FFlagAppChatMigrateChatEventReceiver",
+          "FFlagAppChatMigrateChatExternalEventReceiver",
+          "FFlagAppChatReadConversationListFromSignalsStore_Staged",
+          "FFlagAppChatRemoveDynamicRequires",
+          "FFlagAppChatUseBindingConversationFacePile_Staged",
+          "FFlagAppChatUseBindingViewRecyclerConversationRow_Staged",
+          "FFlagAppChatUseViewRecyclerConversationList_Staged",
+          "FFlagAutomaticDRS5",
+          "FFlagAutomaticDRSDisableHighDPIFramebufferHalving5",
+          "FFlagBootcampCLI233395",
+          "FFlagBuildExperienceInGameCaptureToChat_Staged",
+          "FFlagBuildExperienceInGameShell_Staged",
+          "FFlagBuildExperienceInstanceSelection_Staged",
+          "FFlagBuildShareSheetFriendsSortAll_Staged",
+          "FFlagBuyRobuxLatencyIxpEnabled",
+          "FFlagCinReportUploadedAssetIds",
+          "FFlagCloudClientReserve",
+          "FFlagCloudClientSessionApi",
+          "FFlagCloudClientSetGir",
+          "FFlagCollectionInRadiusSynchronousConvergence2",
+          "FFlagCollectionSharedWatcher2",
+          "FFlagCollectionStaleInstanceSafety",
+          "FFlagColor3ContrastMethods_Staged",
+          "FFlagCreateEditorSourceService2_Staged",
+          "FFlagDMCTMigratePartOperationMedium_Staged",
+          "FFlagDisableEventIngestLegacyTelemetry",
+          "FFlagDisableRobloxExplorerWidgetLegacyTelemetry",
+          "FFlagDisableXboxPlatformLegacyTelemetry",
+          "FFlagEnableBuyRobuxNextJS",
+          "FFlagEnableBuyRobuxSdui",
+          "FFlagEnableEarlyTesting",
+          "FFlagEnableEarlyTestingJoinIOS",
+          "FFlagEnableHeadlessSubscriptionNativePurchaseCancelCallback",
+          "FFlagEnableLegacyLoginExternalIdentityOtherSignInOptions_Staged",
+          "FFlagEnableVoiceRewarmReArmV2_Staged",
+          "FFlagExperienceAgeRatingBadge2",
+          "FFlagFixGlyphProviderLineGapScaling_Staged",
+          "FFlagFixRegionSetsClumpOccupancyLeak",
+          "FFlagFmodWebAndroidOverrideDspBufferSize",
+          "FFlagFontFaceAbuseReporting",
+          "FFlagFoundationStatusIndicatorDesignUpdate",
+          "FFlagLuaAppBootcampIntroUABOOTCAMP214",
+          "FFlagLuaAppPlayButtonPrivatePTEnableDualButton_Staged",
+          "FFlagMomentsFixDeleteToastCopy",
+          "FFlagNetAssetGatherDeletedHandles_Staged",
+          "FFlagPresetChatUseExpressionTrayOptionsEndpoint2_Staged",
+          "FFlagProfilePlatformExperiencesGamesLabel",
+          "FFlagPymkCarouselPresenceStoreMigration_v2_Staged",
+          "FFlagRealtimeMediaConnectionStatus",
+          "FFlagRenderMeshLodFeedbackAllInstances2",
+          "FFlagRenderTestResetSSAOTemporalAtCountdown_Staged",
+          "FFlagSchoolsWaitlistInviteList",
+          "FFlagSduiAccordionComponent",
+          "FFlagSduiBuyRobuxHydration",
+          "FFlagSduiExtendedCapabilitiesPrompts_Staged",
+          "FFlagSignupFoundationTelemetry_Staged",
+          "FFlagSimCheckWorldInsteadOfContactManager_Staged",
+          "FFlagSimDataModelContentInPlaySolo",
+          "FFlagSimWaterContactDragEnergyClamp",
+          "FFlagSimWaterContactWaveDamping_Staged",
+          "FFlagSimWorldTouchAndNoCollideCommands_Staged",
+          "FFlagSoundShimAmbientReverb2",
+          "FFlagStreamingSetExtentsAllocationFree",
+          "FFlagStreamingSetRemoveNonSpatial_Staged",
+          "FFlagStudioFixContentPropertyRejectsLocalAssetUri",
+          "FFlagTTranscoderRemoveOldFormats",
+          "FFlagTerrainSdfQuantizationClamp",
+          "FFlagUserListInviteCta",
+          "FFlagUserPSUseBindToAnimation_Staged",
+          "FFlagVoiceRewarmGrafanaMetricsV2_Staged",
+          "FFlagVoxelGridFixMixedMaterialDownsampleOverflow",
+          "FFlagWindowsUpdateControllerPassVersionGuidToInstaller",
+          "FLogCrashpadInitializationTelemetry",
+          "FStringTextureTranscodeRollout_Staged"
+        ],
+        "changed": [
+          {
+            "after": "0dd49a6fb8b64f88365672a31499713f500595e5",
+            "before": "0d804964f38e4e86f31545cdae5e4a594346f672",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-02T20:50:46.041Z",
+            "before": "2026-11-02T18:08:15.065Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-02T20:06:51",
+            "before": "True;SteadyState;10;30;Revert;2026-11-02T18:05:28",
+            "name": "FFlagGraphicsShadingLanguageEnum_Staged"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagLuauCodegenIntegerCompare"
+          },
+          {
+            "after": "0dd49a6fb8b64f88365672a31499713f500595e5",
+            "before": "0d804964f38e4e86f31545cdae5e4a594346f672",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-02T20:50:46.041Z",
+            "before": "2026-11-02T18:08:15.065Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagIXPExposureSignalAddPlaySessionId_Staged",
+          "DFFlagInstanceNullEngineContextSimCrashReportSeverity_Staged",
+          "DFFlagNullEngineContextPart4_Staged",
+          "DFFlagRbxTransportRtcioCreditChannelHeader_Staged",
+          "DFFlagRbxTransportWasmFixConnOwnership_Staged",
+          "DFFlagRealtimeMediaReportVideoCodec_Staged",
+          "DFFlagTelemetryAdditionalProfilerScopes_Staged",
+          "FFlagAppChatMigrateChatExternalEventReceiver_Staged",
+          "FFlagAutomaticDRS5_Staged",
+          "FFlagAutomaticDRSDisableHighDPIFramebufferHalving5_Staged",
+          "FFlagBootcampCLI233395_Staged",
+          "FFlagBuyRobuxLatencyIxpEnabled_Staged",
+          "FFlagCinReportUploadedAssetIds_Staged",
+          "FFlagCloudClientReserve_Staged",
+          "FFlagCloudClientSessionApi_Staged",
+          "FFlagCloudClientSetGir_Staged",
+          "FFlagCollectionInRadiusSynchronousConvergence2_Staged",
+          "FFlagCollectionSharedWatcher2_Staged",
+          "FFlagCollectionStaleInstanceSafety_Staged",
+          "FFlagDisableEventIngestLegacyTelemetry_Staged",
+          "FFlagDisableRobloxExplorerWidgetLegacyTelemetry_Staged",
+          "FFlagDisableXboxPlatformLegacyTelemetry_Staged",
+          "FFlagEnableBuyRobuxNextJS_Staged",
+          "FFlagEnableBuyRobuxSdui_Staged",
+          "FFlagEnableEarlyTesting_Staged",
+          "FFlagEnableHeadlessSubscriptionNativePurchaseCancelCallback_Staged",
+          "FFlagExperienceAgeRatingBadge2_Staged",
+          "FFlagFixRegionSetsClumpOccupancyLeak_Staged",
+          "FFlagFmodWebAndroidOverrideDspBufferSize_Staged",
+          "FFlagFontFaceAbuseReporting_Staged",
+          "FFlagFoundationStatusIndicatorDesignUpdate_Staged",
+          "FFlagLuaAppBootcampIntroUABOOTCAMP214_Staged",
+          "FFlagLuauCodegenIntegerCompare_Staged",
+          "FFlagMomentsFixDeleteToastCopy_Staged",
+          "FFlagProfilePlatformExperiencesGamesLabel_Staged",
+          "FFlagRealtimeMediaConnectionStatus_Staged",
+          "FFlagRenderMeshLodFeedbackAllInstances2_Staged",
+          "FFlagRenderWaterDemoteSHQ_Staged",
+          "FFlagSchoolsWaitlistInviteList_Staged",
+          "FFlagSduiAccordionComponent_Staged",
+          "FFlagSduiBuyRobuxHydration_Staged",
+          "FFlagSimDataModelContentInPlaySolo_Staged",
+          "FFlagSimWaterContactDragEnergyClamp_Staged",
+          "FFlagSoundShimAmbientReverb2_Staged",
+          "FFlagStreamingSetExtentsAllocationFree_Staged",
+          "FFlagStudioFixContentPropertyRejectsLocalAssetUri_Staged",
+          "FFlagTTranscoderRemoveOldFormats_Staged",
+          "FFlagTerrainSdfQuantizationClamp_Staged",
+          "FFlagUserListInviteCta_Staged",
+          "FFlagVoxelGridFixMixedMaterialDownsampleOverflow_Staged",
+          "FFlagWindowsUpdateControllerPassVersionGuidToInstaller_Staged",
+          "FLogCrashpadInitializationTelemetry_Staged"
+        ],
+        "unchanged": 24389
+      }
+    },
+    "UniversalApp": {
+      "current": "6bf3180eee3aaa4b6c428da6b9fc305b76199c09dc289484259048bc436ba051",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "b12322eafac6184a859e72bfe3d75cdc6ff4bf0f99e02a8dfd8079afd628c130",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "4201a515ba60ed950cc692f3316feb7e583888b40e02933e451634a7ee4e988c",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/CoreUtilities.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js",
+          "js.rbxcdn.com/page-1/CoreUtilities.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 216
+      },
+      "previous": "90ff25ad7d0d6acd3c681e1242b32ffb9321968e91f21dd29130a4d1f966f7f3",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
