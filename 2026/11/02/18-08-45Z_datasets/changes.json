@@ -1,0 +1,175 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-5a21b87bbc2641cf",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.745.0.7451137"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "6d186006a76ac17e2a82e8be9020858925881203ddf6300140b596767d6809a0",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "a7137ac048be9af15aaf0fb1a73d307de303480e800f1de859bf30a6334aae39",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "7fe6aae174ab1cfa48e558eb77ef9d00e55317d08bd9a7eded690a7bd4b33806",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "ca398cca625378ac85b3c535ec8490d7c4eaf0f0d7f7dd9b4edb6aeed594d05e",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "d4d1653ebff16a0ca74687fd8e1ff60ec163a3c1ed440027a287ce66d3918982",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "68626d502d6912751e5d2894daece59ed284d438a4ac1ec0c6e999c719563c5d",
+      "semantic": {
+        "added": [
+          "DFFlagIXPExposureSignalAddPlaySessionId_Staged",
+          "DFFlagInstanceNullEngineContextSimCrashReportSeverity_Staged",
+          "DFFlagNullEngineContextPart4_Staged",
+          "DFFlagRbxTransportRtcioCreditChannelHeader_Staged",
+          "DFFlagRealtimeMediaReportVideoCodec_Staged",
+          "DFFlagTelemetryAdditionalProfilerScopes_Staged",
+          "FFlagAppChatMigrateChatExternalEventReceiver_Staged",
+          "FFlagAutomaticDRS5_Staged",
+          "FFlagAutomaticDRSDisableHighDPIFramebufferHalving5_Staged",
+          "FFlagBootcampCLI233395_Staged",
+          "FFlagCinReportUploadedAssetIds_Staged",
+          "FFlagCloudClientReserve_Staged",
+          "FFlagCloudClientSessionApi_Staged",
+          "FFlagCloudClientSetGir_Staged",
+          "FFlagDisableEventIngestLegacyTelemetry_Staged",
+          "FFlagDisableRobloxExplorerWidgetLegacyTelemetry_Staged",
+          "FFlagDisableXboxPlatformLegacyTelemetry_Staged",
+          "FFlagEnableEarlyTesting_Staged",
+          "FFlagExperienceAgeRatingBadge2_Staged",
+          "FFlagFmodWebAndroidOverrideDspBufferSize_Staged",
+          "FFlagFoundationStatusIndicatorDesignUpdate_Staged",
+          "FFlagGraphicsShadingLanguageEnum_Staged",
+          "FFlagLuaAppBootcampIntroUABOOTCAMP214_Staged",
+          "FFlagMomentsFixDeleteToastCopy_Staged",
+          "FFlagRealtimeMediaConnectionStatus_Staged",
+          "FFlagRenderMeshLodFeedbackAllInstances2_Staged",
+          "FFlagRenderWaterDemoteSHQ_Staged",
+          "FFlagSchoolsWaitlistInviteList_Staged",
+          "FFlagSimDataModelContentInPlaySolo_Staged",
+          "FFlagSoundShimAmbientReverb2_Staged",
+          "FFlagStudioFixContentPropertyRejectsLocalAssetUri_Staged",
+          "FFlagTerrainSdfQuantizationClamp_Staged",
+          "FFlagUserListInviteCta_Staged",
+          "FFlagVoxelGridFixMixedMaterialDownsampleOverflow_Staged",
+          "FFlagWindowsUpdateControllerPassVersionGuidToInstaller_Staged",
+          "FLogCrashpadInitializationTelemetry_Staged"
+        ],
+        "changed": [
+          {
+            "after": "0d804964f38e4e86f31545cdae5e4a594346f672",
+            "before": "51d7f6b3da1e5fa04f31a3c42b6f905d38b9072e",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-02T18:08:15.065Z",
+            "before": "2026-11-02T17:25:25.505Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "0d804964f38e4e86f31545cdae5e4a594346f672",
+            "before": "51d7f6b3da1e5fa04f31a3c42b6f905d38b9072e",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-02T18:08:15.065Z",
+            "before": "2026-11-02T17:25:25.505Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagBuyRobuxLatencyIxpEnabled_IXP",
+          "FFlagEnableBuyRobuxNextJS_IXP",
+          "FFlagEnableBuyRobuxSdui_IXP"
+        ],
+        "unchanged": 24407
+      }
+    },
+    "UniversalApp": {
+      "current": "b12322eafac6184a859e72bfe3d75cdc6ff4bf0f99e02a8dfd8079afd628c130",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "0e4ca381c8becd5a967a77e0d807950f55efc50599feea959608cf8405de155e",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "90ff25ad7d0d6acd3c681e1242b32ffb9321968e91f21dd29130a4d1f966f7f3",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "032dae6e8b70c7f78010a41e5fd9c08c439b806af3627cd2b6b49d7445abed87",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}

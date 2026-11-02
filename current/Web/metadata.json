@@ -536,10 +536,16 @@
       "sourceUrl": "https://js.rbxcdn.com/5b3170c956b0c87ade14d298bcf45d0bae3991c1b427b7e1624bf94e488792c0-EmailVerifyCodeModal.js"
     },
     {
-      "bytes": 4136,
-      "sha256": "0860ee21dce36d864a507616c877d84552825a4599b5ad5bacc54febc01e74a3",
+      "bytes": 189967,
+      "sha256": "8b4d8c9f8e13749413734064f9d6201a476117bfa022d13d2b4ab987dd3e54d2",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/5c7d73b31182161484106be3dd2a04b74eba15dc051cc19a327dfb4cfb679cda.js"
+      "sourceUrl": "https://js.rbxcdn.com/5b6a215f732c3c5bd93b28594882e81fe767e573ef3835c8916588fb7c4b8a5a.js"
+    },
+    {
+      "bytes": 189967,
+      "sha256": "8b4d8c9f8e13749413734064f9d6201a476117bfa022d13d2b4ab987dd3e54d2",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/5b6a215f732c3c5bd93b28594882e81fe767e573ef3835c8916588fb7c4b8a5a.js"
     },
     {
       "bytes": 4136,
@@ -548,16 +554,10 @@
       "sourceUrl": "https://js.rbxcdn.com/5c7d73b31182161484106be3dd2a04b74eba15dc051cc19a327dfb4cfb679cda.js"
     },
     {
-      "bytes": 189786,
-      "sha256": "a07cc763a66fc097c78079cd279f1dbf015c26f23ca3f971937dfc0fdb96fd9c",
+      "bytes": 4136,
+      "sha256": "0860ee21dce36d864a507616c877d84552825a4599b5ad5bacc54febc01e74a3",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/5e2ba278953d10459859a83e350ae022d6c39323878322dcc11a16c1d5013ad5.js"
-    },
-    {
-      "bytes": 189786,
-      "sha256": "a07cc763a66fc097c78079cd279f1dbf015c26f23ca3f971937dfc0fdb96fd9c",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/5e2ba278953d10459859a83e350ae022d6c39323878322dcc11a16c1d5013ad5.js"
+      "sourceUrl": "https://js.rbxcdn.com/5c7d73b31182161484106be3dd2a04b74eba15dc051cc19a327dfb4cfb679cda.js"
     },
     {
       "bytes": 1246,
