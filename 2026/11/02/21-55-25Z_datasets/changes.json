@@ -1,0 +1,188 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-5a21b87bbc2641cf",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.745.0.7451137"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "7c3062ed80ec17b2fbfb78f7bea9466060d04708a3b596f10b2dbae4e03b44a0",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "c286da2fbed46c53f77682a8d6afe8c7a8180d2cb3c00b5fd669ade8a6dc6fe3",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "3db56805903c85fc5fc2b78507e099cba2d95530df1cf9c067533f556a9eae97",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "a3e5f02eea421e130535a4f2d7f583cb467bc874ab8f859ca890cba3a8312bf9",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "1e70766c93381db7e30bb5460965174b62cedba433a66a9950f8d252d1656f85",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "444c3d74b2e431bd63bc220f5abe7fd98fcf9863613aca9f0cfa19301db59f40",
+      "semantic": {
+        "added": [
+          "DFFlagCLI56775D_Staged",
+          "DFFlagCLI56775_Staged",
+          "DFFlagLcCacheOptDefaultEnabled3_Staged",
+          "DFFlagLogUnusedMessages_Staged",
+          "DFFlagLuauGcHeapShrinkFix_Staged",
+          "DFFlagStratusPopLatencyRegionSelect",
+          "FFlagAXItemDetails3DPreviewEnabledForAll_Staged",
+          "FFlagAssistantUseNewDMNetworking_Staged",
+          "FFlagColor3ContrastMethods",
+          "FFlagEnableLegacyLoginExternalIdentityOtherSignInOptions",
+          "FFlagFixEmotesMenuAvailability_Staged",
+          "FFlagFixGlyphProviderLineGapScaling",
+          "FFlagFlyoutLogOutUseConsoleDisconnect_Staged",
+          "FFlagLuaAppGameEventsTelemetryServiceShadowTraffic_Staged",
+          "FFlagLuauMemoryCageAutoScaling_Staged",
+          "FFlagLuauSharedBufferCage_Staged",
+          "FFlagMigrateTeamCreateWidgetPublishToPublishSM_Staged",
+          "FFlagNetAssetGatherDeletedHandles",
+          "FFlagNetworkPerfTestClientAnalysis5_Staged",
+          "FFlagPresetChatUseExpressionTrayOptionsEndpoint2",
+          "FFlagPymkCarouselPresenceStoreMigration_v2",
+          "FFlagRemoveReplicationFociById3_Staged",
+          "FFlagRenderTestResetSSAOTemporalAtCountdown",
+          "FFlagSceneAnalysisBetaFeature_Staged",
+          "FFlagSduiExtendedCapabilitiesPrompts",
+          "FFlagSignupFoundationTelemetry",
+          "FFlagSimCheckWorldInsteadOfContactManager",
+          "FFlagSimWaterContactWaveDamping",
+          "FFlagSimWorldTouchAndNoCollideCommands",
+          "FFlagStreamingSetRemoveNonSpatial",
+          "FFlagUIBoundsTracking3_Staged",
+          "FFlagVoiceRewarmGrafanaMetricsV2",
+          "FIntLuauMemoryCageIOSSizeMiB_Staged",
+          "FStringBuildChatIXPLayer_Staged"
+        ],
+        "changed": [
+          {
+            "after": "e1f7f0409bbc913eea6ff77e9bc6cd56f90fddc3",
+            "before": "0dd49a6fb8b64f88365672a31499713f500595e5",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-02T21:54:11.084Z",
+            "before": "2026-11-02T20:50:46.041Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "e1f7f0409bbc913eea6ff77e9bc6cd56f90fddc3",
+            "before": "0dd49a6fb8b64f88365672a31499713f500595e5",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-02T21:54:11.084Z",
+            "before": "2026-11-02T20:50:46.041Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagStratusPopLatencyRegionSelect_Staged",
+          "FFlagBuildExperienceInGameCaptureToChat_Staged",
+          "FFlagBuildExperienceInGameShell_Staged",
+          "FFlagBuildExperienceInstanceSelection_Staged",
+          "FFlagColor3ContrastMethods_Staged",
+          "FFlagDMCTMigratePartOperationMedium_Staged",
+          "FFlagEnableLegacyLoginExternalIdentityOtherSignInOptions_Staged",
+          "FFlagFixGlyphProviderLineGapScaling_Staged",
+          "FFlagNetAssetGatherDeletedHandles_Staged",
+          "FFlagPresetChatUseExpressionTrayOptionsEndpoint2_Staged",
+          "FFlagPymkCarouselPresenceStoreMigration_v2_Staged",
+          "FFlagRenderTestResetSSAOTemporalAtCountdown_Staged",
+          "FFlagSduiExtendedCapabilitiesPrompts_Staged",
+          "FFlagSignupFoundationTelemetry_Staged",
+          "FFlagSimCheckWorldInsteadOfContactManager_Staged",
+          "FFlagSimWaterContactWaveDamping_Staged",
+          "FFlagSimWorldTouchAndNoCollideCommands_Staged",
+          "FFlagStreamingSetRemoveNonSpatial_Staged",
+          "FFlagVoiceRewarmGrafanaMetricsV2_Staged"
+        ],
+        "unchanged": 24463
+      }
+    },
+    "UniversalApp": {
+      "current": "a3d532a9e332a9dbe25a8cf015ee72c29360865c1eecf0c00fa42d88da60a232",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "6bf3180eee3aaa4b6c428da6b9fc305b76199c09dc289484259048bc436ba051",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "b68109d06b3140df7e60b0f40e17ccd829319316f9ad0598f64e848b74ee8768",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 221
+      },
+      "previous": "4201a515ba60ed950cc692f3316feb7e583888b40e02933e451634a7ee4e988c",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}

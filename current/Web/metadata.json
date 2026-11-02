@@ -716,12 +716,6 @@
       "sourceUrl": "https://js.rbxcdn.com/7f4c2753c55dc89d4c9bf2dbfbf34e224194f6255457c0bd8c8c1ed0e6350f3a.js"
     },
     {
-      "bytes": 1930911,
-      "sha256": "a2f78aba6dc77312c4f949b13872b5a7c2639b2295ead90a0a1e550ea9af5468",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/802bfa16a78961e688b508f439ad2fd35f88ca6e7a4d9408c8d18dcace91b35f-SduiLandingPage.js"
-    },
-    {
       "bytes": 1483,
       "sha256": "d7f20612efff7fc0769c65582dcc51142364a23994f95b5f50c5c30c8e321fdd",
       "sourceType": "official",
@@ -1038,6 +1032,12 @@
       "sha256": "fa7bec1efb24aa5c766a876ab6d31a412f124b767beca7948162cce6b5e0800c",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/bab7ed7c74326edc4fe3a1b57d774c63b6fbc095be21cb98dbd3122fe02ee996-GameCarousel.js"
+    },
+    {
+      "bytes": 1947173,
+      "sha256": "2466c58c85c3ccda93caf57f9d3fe774e6c419b827752aa3ae9be9af1103888e",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/bc1aca0a2b8d5ed29a7f9d052c7186d5250abddf4e33535bd0065d0bd5961e67-SduiLandingPage.js"
     },
     {
       "bytes": 2049739,

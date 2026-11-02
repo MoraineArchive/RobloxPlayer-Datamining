@@ -1,6 +1,6 @@
 {
   "hashes": {
-    "assets.json": "52b645a757c9e3b36055b089fb63f8440bfd4f0ba23d5d1a7f621e1dfbd48379",
+    "assets.json": "04779406aa1f6963b0fe101cc50b18f0fc6bec6ce3d1a4e8bc6733f93c1c7efc",
     "js.rbxcdn.com/page-0/AccessManagementUpsell.js": "7a2795cd4a6595d6cdf824a5ec6518b89b887fdd09bab1186d84e315628e35e7",
     "js.rbxcdn.com/page-0/AccessManagementUpsellV2.js": "2ac678bc233ed329c49d9584eef273bb87d6d9a61b3167044e208e89c8d69d44",
     "js.rbxcdn.com/page-0/AccountSwitcher.js": "9c6c77ae499bacb2cc2df4f9432fb7a767041594db6345045d110ebab0514f2f",
@@ -90,7 +90,7 @@
     "js.rbxcdn.com/page-0/ReactUtilities.js": "e8165413ea0714b8146b5a11f926ab1ac9a929c71c759adb39d5c6eca5a4e49f",
     "js.rbxcdn.com/page-0/RealTime.js": "cf8441642abf41c8523657bc3b50b92d37f695bc44d92ad401c448e04a986463",
     "js.rbxcdn.com/page-0/RobloxBadges.js": "5e68095358a6caef7a9b6295b45d11979390289f39a15959355362e9d91f8faa",
-    "js.rbxcdn.com/page-0/SduiLandingPage.js": "a2f78aba6dc77312c4f949b13872b5a7c2639b2295ead90a0a1e550ea9af5468",
+    "js.rbxcdn.com/page-0/SduiLandingPage.js": "2466c58c85c3ccda93caf57f9d3fe774e6c419b827752aa3ae9be9af1103888e",
     "js.rbxcdn.com/page-0/SearchLandingPage.js": "462c19aa00964f0c50e87a0f2d0ee4184dc4f44cb4de6667494d8dda27a920d2",
     "js.rbxcdn.com/page-0/Sentry.js": "ba28d4e01c6c47e529261b3a81be80910232b9879498e4be8414a08f92ed9e74",
     "js.rbxcdn.com/page-0/StyleGuide.js": "49a1aa236eb333d5762c8ac33a8dd5f29ab133623139ad2ad90266df0f3aa893",
@@ -219,15 +219,15 @@
     "js.rbxcdn.com/page-1/leanbase.js": "968a20eab1449bae7485d20d20a614f2a33b0515f27f143792b10cf4d700711e",
     "js.rbxcdn.com/page-1/page.js": "432095ee2a25a586d05e62c1917b10003e21c76a094c065faf79ba5259461c1c",
     "js.rbxcdn.com/page-1/pageEnd.js": "e71df9e59a78a1dca5912a72b354c58fbbed77f7f52094c4f18ce805be9f0295",
-    "metadata.json": "a288933d68507e89ef1b9a5036791a70cd9ec1fabdc4594a7bcae92d559addda",
+    "metadata.json": "2003eabf376bf71b955fe4cf386dac2f88d24fa9bfa177de25257ef197c6d146",
     "roblox.com/page-0/script-007.js": "a406bd97fed4ceb8954133f97a6d5c225b2f673606c5d439de4a910c83b4ecad",
     "roblox.com/page-1/script-007.js": "a406bd97fed4ceb8954133f97a6d5c225b2f673606c5d439de4a910c83b4ecad",
     "www.roblox.com/page-0/script-000.js": "f5641e111fbcbc519c8b140eed0015e4e6d0346d9a1b6e57959e3268de21653c",
     "www.roblox.com/page-1/script-000.js": "f5641e111fbcbc519c8b140eed0015e4e6d0346d9a1b6e57959e3268de21653c"
   },
-  "id": "4201a515ba60ed950cc692f3316feb7e583888b40e02933e451634a7ee4e988c",
+  "id": "b68109d06b3140df7e60b0f40e17ccd829319316f9ad0598f64e848b74ee8768",
   "observationMode": "live",
-  "observedAt": "2026-11-02T20:51:19.002Z",
+  "observedAt": "2026-11-02T21:55:25.501Z",
   "provenance": [
     {
       "bytes": 7972,
@@ -944,12 +944,6 @@
       "sourceUrl": "https://js.rbxcdn.com/7f4c2753c55dc89d4c9bf2dbfbf34e224194f6255457c0bd8c8c1ed0e6350f3a.js"
     },
     {
-      "bytes": 1930911,
-      "sha256": "a2f78aba6dc77312c4f949b13872b5a7c2639b2295ead90a0a1e550ea9af5468",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/802bfa16a78961e688b508f439ad2fd35f88ca6e7a4d9408c8d18dcace91b35f-SduiLandingPage.js"
-    },
-    {
       "bytes": 1483,
       "sha256": "d7f20612efff7fc0769c65582dcc51142364a23994f95b5f50c5c30c8e321fdd",
       "sourceType": "official",
@@ -1268,6 +1262,12 @@
       "sourceUrl": "https://js.rbxcdn.com/bab7ed7c74326edc4fe3a1b57d774c63b6fbc095be21cb98dbd3122fe02ee996-GameCarousel.js"
     },
     {
+      "bytes": 1947173,
+      "sha256": "2466c58c85c3ccda93caf57f9d3fe774e6c419b827752aa3ae9be9af1103888e",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/bc1aca0a2b8d5ed29a7f9d052c7186d5250abddf4e33535bd0065d0bd5961e67-SduiLandingPage.js"
+    },
+    {
       "bytes": 2049739,
       "sha256": "1f6601cdb4e31ae8d0d32f1ee87842aa977ee6f5d8c237c8bd83c099b807c1b5",
       "sourceType": "official",
@@ -1562,7 +1562,7 @@
       "sourceUrl": "https://www.roblox.com/js/utilities/bundleVerifier.js?v=d8be7ec8aee81a9acf17014aae64dd2e"
     }
   ],
-  "sequence": 196,
+  "sequence": 197,
   "status": "available",
   "summary": {
     "assets": 222,
