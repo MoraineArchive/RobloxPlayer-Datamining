@@ -1,7 +1,7 @@
 {
   "appStorageResetId": "0",
   "assetId": "118593852151835",
-  "assetVersion": "16168",
+  "assetVersion": "16427",
   "assetsManifest": {
     "100119004605329": "content/textures/ui/LuaChat/graphic/gr-indicator-ingame-14x14@3x.png",
     "100348805600292": "content/textures/ui/LuaChat/icons/ic-close-gray2@3x.png",
@@ -46,7 +46,6 @@
     "106130388589509": "content/textures/ui/LuaChat/icons/ic-createchat1-24x24@2x.png",
     "106137999559200": "content/textures/ui/LuaChat/icons/ic-checkbox-on copy@3x.png",
     "106312295323681": "content/textures/ui/LuaChat/graphic/gr-game-border-24x24@2x.png",
-    "106552654909360": "content/LuaPackages/Packages/_Index/BuilderIcons/BuilderIcons/Font/BuilderIcons-Regular.ttf",
     "106612899471758": "content/textures/ui/LuaApp/icons/ic-more-about.png",
     "106934320029656": "content/textures/ui/LuaChat/icons/ic-viewdetails-20x20@3x.png",
     "107054990926375": "content/textures/ui/LuaApp/icons/ic-more-help.png",
@@ -118,6 +117,7 @@
     "116089694683660": "content/textures/ui/LuaChat/icons/ic-resend@2x.png",
     "116254585770316": "content/textures/ui/LuaChat/icons/ic-alert@2x.png",
     "116635103426964": "content/textures/ui/ImageSet/AE/img_set_2x_1.png",
+    "116761895340178": "content/LuaPackages/Packages/_Index/BuilderIcons/BuilderIcons/Font/BuilderIcons-Filled.ttf",
     "116810894081527": "content/textures/ui/LuaApp/graphic/gradient_0_100.png",
     "116999605177890": "content/textures/ui/LuaApp/icons/GameDetails/contentRating/igrs-15.png",
     "117165689055843": "content/textures/ui/LuaChat/icons/ic-checkbox-on copy.png",
@@ -288,6 +288,7 @@
     "5410419190": "content/textures/ui/LuaApp/icons/GameDetails/social/Discord_large@2x.png",
     "5410527998": "content/textures/ui/LuaApp/icons/GameDetails/social/Discord_large.png",
     "5410528143": "content/textures/ui/LuaApp/icons/GameDetails/social/Discord_large@3x.png",
+    "70443132726538": "content/LuaPackages/Packages/_Index/BuilderIcons/BuilderIcons/Font/BuilderIcons-Regular.ttf",
     "70494977525163": "content/textures/ui/LuaChat/icons/ic-check.png",
     "70767617299924": "content/textures/ui/LuaApp/graphic/album_art_fallback_magenta.png",
     "70872475042291": "content/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_8.png",
@@ -382,7 +383,6 @@
     "82055987325919": "content/textures/ui/LuaApp/graphic/Auth/wechatlogo.png",
     "82578883316167": "content/textures/ui/LuaChat/icons/ic-remove.png",
     "82597153959026": "content/textures/ui/LuaChat/graphic/gr-indicator-online-12x12@3x.png",
-    "82602470709809": "content/LuaPackages/Packages/_Index/BuilderIcons/BuilderIcons/Font/BuilderIcons-Filled.ttf",
     "82976611076525": "content/textures/ui/LuaApp/icons/GameDetails/contentRating/igrs-18.png",
     "82982386375023": "content/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_18.png",
     "83074343404009": "content/textures/ui/LuaChat/graphic/gr-indicator-instudio-8x8@3x.png",
@@ -532,6 +532,6 @@
   "maxAppVersion": "746",
   "name": "UniversalApp",
   "tryoutName": null,
-  "version": "16168",
-  "versionV2": 26455
+  "version": "16427",
+  "versionV2": 26699
 }

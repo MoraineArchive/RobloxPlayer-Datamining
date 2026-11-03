@@ -1,0 +1,277 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-5a21b87bbc2641cf",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.745.0.7451137"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "ae1dfb6b79dc6e588d3100cbce975351f4b3eab91fcb03acf5133b19962d35fa",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "7c3062ed80ec17b2fbfb78f7bea9466060d04708a3b596f10b2dbae4e03b44a0",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "816f6132f134337629a90c7433aaae3424648ac6a957489c7a816864f39c9e29",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json",
+          "ota-config.json"
+        ],
+        "removed": [],
+        "unchanged": 8
+      },
+      "previous": "3db56805903c85fc5fc2b78507e099cba2d95530df1cf9c067533f556a9eae97",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "55ca2b500925d3ca0104837ecaad002e3aa143fc17bc7ddaea635df2265dfde0",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "1e70766c93381db7e30bb5460965174b62cedba433a66a9950f8d252d1656f85",
+      "semantic": {
+        "added": [
+          "DFFlagCLI224327Fix",
+          "DFFlagCLI56775D",
+          "DFFlagLcCacheOptDefaultEnabled3",
+          "DFFlagLogUnusedMessages",
+          "DFFlagLuauGcHeapShrinkFix",
+          "DFFlagRbxTransportNgtcp2ValidateLostPacketState",
+          "DFFlagStratusSingleCallConnect",
+          "DFFlagVideoUniversalAppExcludeStudio_Staged",
+          "DFFlagVideoUsageContext_Staged",
+          "DFFlagVideoUseAssetRequest_Staged",
+          "DFIntNetPermEventReportPerMyriad_Staged",
+          "FFlagAXFixCatalogSearchBarSafeArea_Staged",
+          "FFlagAXItemDetails3DPreviewEnabledForAll",
+          "FFlagAccountUpgradeDialogDarkTheme_Staged",
+          "FFlagAccountUpgradeMarketingConsent_Staged",
+          "FFlagAddIxpLayerUniverseChatPresetChatBadgePresetFTUX_Staged",
+          "FFlagAppChatReadConversationListFromSignalsStore",
+          "FFlagAppChatUseBindingConversationFacePile",
+          "FFlagAppChatUseBindingViewRecyclerConversationRow",
+          "FFlagAppChatUseViewRecyclerConversationList",
+          "FFlagAssetProviderSupportAssetDeliveryUsageContext3_Staged",
+          "FFlagAssistantUseNewDMNetworking",
+          "FFlagAttributeTeamCreateViewerCollaborator_Staged",
+          "FFlagBuildEnableFTUXChips_IXP",
+          "FFlagBuildExperienceInGameCaptureToChat_Staged",
+          "FFlagBuildExperienceInGameShell_Staged",
+          "FFlagBuildExperienceInstanceSelection_Staged",
+          "FFlagBuildRequestPromptChipsOnEdit_IXP",
+          "FFlagBuildShareSheetFriendsSortAll",
+          "FFlagCOLLAB11633_LikelyCollaboratorsFromFriendsApi_Staged",
+          "FFlagCreateEditorSourceService2",
+          "FFlagEnableVoiceRewarmReArmV2",
+          "FFlagEnableWebRtcOnDemandPathLoad_Staged",
+          "FFlagExpChatEmojiDropdownShowAnalytics_Staged",
+          "FFlagExpChatPresetChatEmojiEffectExperimentEnabled_Staged",
+          "FFlagExpChatPresetChatEmojiTabExperimentEnabled_Staged",
+          "FFlagExpChatPresetTrayDismissAnalytics_Staged",
+          "FFlagFixEmotesMenuAvailability",
+          "FFlagFlyoutLogOutUseConsoleDisconnect",
+          "FFlagFontFaceAX_Staged",
+          "FFlagFontFaceChallengeDialog_Staged",
+          "FFlagFontFaceConsoleOverscan_Staged",
+          "FFlagFontFacePlayerList_Staged",
+          "FFlagFontFaceSocialFriends_Staged",
+          "FFlagGraphicsShadingLanguageEnum",
+          "FFlagLuaAppPlayButtonPrivatePTEnableDualButton",
+          "FFlagLuauSharedBufferCage",
+          "FFlagMemoryStoreHashMapPagesOnDataModel_Staged",
+          "FFlagMigrateTeamCreateWidgetPublishToPublishSM",
+          "FFlagNetworkPerfTestClientAnalysis5",
+          "FFlagOffersPerKeyExpiryRefetch_Staged",
+          "FFlagRemoveReplicationFociById3",
+          "FFlagRenderTestBeamScrollFollowsVFXClock_Staged",
+          "FFlagRenderTestResetPostFXTemporalAtCountdown_Staged",
+          "FFlagRenderTestSunRaysFixedNoise_Staged",
+          "FFlagSceneAnalysisBetaFeature",
+          "FFlagSduiReleaseSearchResultsPageState_IXP",
+          "FFlagSduiReleaseSearchResultsPageState_Staged",
+          "FFlagSduiSearchResultsPageEnabled_Staged",
+          "FFlagSearchAllRegistryEntriesForAutoFocus_Staged",
+          "FFlagSmoothClusterGetChunkWithoutOctree_Staged",
+          "FFlagTexturePackUploadRemoveOpenUseErrorAdvice_Staged",
+          "FFlagUIBoundsTracking3",
+          "FFlagUserPSUseBindToAnimation",
+          "FFlagUserSearchPresenceStoreMigration_v2_Staged",
+          "FIntAutomaticDRSHundredthPercent_Staged",
+          "FIntLuauMemoryCageIOSSizeMiB",
+          "FStringBuildChatIXPLayer",
+          "FStringExpChatPresetChatBadgeFTUXExperimentLayer_Staged"
+        ],
+        "changed": [
+          {
+            "after": "True",
+            "before": "False",
+            "name": "DFFlagCLI56775"
+          },
+          {
+            "after": "100",
+            "before": "1000",
+            "name": "DFIntAssetResolutionWorkflowStatsHundredthsPercent"
+          },
+          {
+            "after": "10000",
+            "before": "1000",
+            "name": "DFIntReportReplicateDestroySettingInfluxHundredthsPercentage"
+          },
+          {
+            "after": "4134e1d515769de96db260887100e560c9f85f0e",
+            "before": "e1f7f0409bbc913eea6ff77e9bc6cd56f90fddc3",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-02T23:58:20.610Z",
+            "before": "2026-11-02T21:54:11.084Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagLuaAppGameEventsTelemetryServiceShadowTraffic"
+          },
+          {
+            "after": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-02T22:20:35",
+            "before": "True;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+            "name": "FFlagLuauMemoryCageAutoScaling_Staged"
+          },
+          {
+            "after": "4134e1d515769de96db260887100e560c9f85f0e",
+            "before": "e1f7f0409bbc913eea6ff77e9bc6cd56f90fddc3",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-02T23:58:20.610Z",
+            "before": "2026-11-02T21:54:11.084Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "1000,[(8,ktx2),(7rdo,ktx2)],[(7rdo,ktx2)]",
+            "before": "[(7rdo,ktx2,/////Ck=)]",
+            "name": "FStringTextureTranscodeRollout"
+          },
+          {
+            "after": "5000,[(8,ktx2),(7rdo,ktx2)],[(7rdo,ktx2)];SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-02T23:42:01",
+            "before": "1000,[(8,ktx2),(7rdo,ktx2)],[(7rdo,ktx2)];SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-02T19:55:28",
+            "name": "FStringTextureTranscodeRollout_Staged"
+          }
+        ],
+        "removed": [
+          "DFFlagCLI224327Fix_Staged",
+          "DFFlagCLI56775D_Staged",
+          "DFFlagCLI56775_Staged",
+          "DFFlagLcCacheOptDefaultEnabled3_Staged",
+          "DFFlagLogUnusedMessages_Staged",
+          "DFFlagLuauGcHeapShrinkFix_Staged",
+          "DFFlagSoundCacheUseBudgetUtilizationEstimator_IXP",
+          "FFlagAXItemDetails3DPreviewEnabledForAll_Staged",
+          "FFlagAppChatBindingFacePileUserTileParity_Staged",
+          "FFlagAppChatDerivedConversationLatestActivity_Staged",
+          "FFlagAppChatReadConversationListFromSignalsStore_Staged",
+          "FFlagAppChatUseBindingConversationFacePile_Staged",
+          "FFlagAppChatUseBindingViewRecyclerConversationRow_Staged",
+          "FFlagAppChatUseViewRecyclerConversationList_Staged",
+          "FFlagAssistantUseNewDMNetworking_Staged",
+          "FFlagBuildShareSheetFriendsSortAll_Staged",
+          "FFlagCreateEditorSourceService2_Staged",
+          "FFlagEnableVoiceRewarmReArmV2_Staged",
+          "FFlagFixEmotesMenuAvailability_Staged",
+          "FFlagFlyoutLogOutUseConsoleDisconnect_Staged",
+          "FFlagGraphicsShadingLanguageEnum_Staged",
+          "FFlagLuaAppGameEventsTelemetryServiceShadowTraffic_Staged",
+          "FFlagLuaAppPlayButtonPrivatePTEnableDualButton_Staged",
+          "FFlagLuauSharedBufferCage_Staged",
+          "FFlagMigrateTeamCreateWidgetPublishToPublishSM_Staged",
+          "FFlagNetworkPerfTestClientAnalysis5_Staged",
+          "FFlagRemoveReplicationFociById3_Staged",
+          "FFlagSceneAnalysisBetaFeature_Staged",
+          "FFlagUIBoundsTracking3_Staged",
+          "FFlagUserPSUseBindToAnimation_Staged",
+          "FIntLuauMemoryCageIOSSizeMiB_Staged",
+          "FStringBuildChatIXPLayer_Staged",
+          "FStringPerformanceControlIncludedTunables_IXP"
+        ],
+        "unchanged": 24457
+      }
+    },
+    "UniversalApp": {
+      "current": "fc9a5fb41b8c064b7b2acead67ece1b132b0ea4b01d71d2957826be7125f306d",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json",
+          "ota-config.json"
+        ],
+        "removed": [],
+        "unchanged": 6
+      },
+      "previous": "a3d532a9e332a9dbe25a8cf015ee72c29360865c1eecf0c00fa42d88da60a232",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "1878d2eeacf30552eddb4ac576a6b71e552840c46f826ad8a9388c7144b385ea",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/CoreUtilities.js",
+          "js.rbxcdn.com/page-0/GameLaunch.js",
+          "js.rbxcdn.com/page-1/CoreUtilities.js",
+          "js.rbxcdn.com/page-1/GameLaunch.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 218
+      },
+      "previous": "b68109d06b3140df7e60b0f40e17ccd829319316f9ad0598f64e848b74ee8768",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
