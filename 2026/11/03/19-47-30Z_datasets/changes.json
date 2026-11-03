@@ -1,0 +1,199 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-5a21b87bbc2641cf",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.745.0.7451137"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "bc3000cbd3481ca4dac5704df17f9e0e9747d87da2a92a82b2684566c5a5b3f3",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "69162488a3eb8db768ed3ea5030dc789f3ff1991eb5d9fa4c4b10eb5b12c7639",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "9344c6704ff6708d06bc72efddd19f99d49d9e41cf96f1a2f021461637e9da81",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "acb8bd4e3a81c45d1263d68b09bb74026d0ae85cc1e1062984ca4e1ad6fdf0f0",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "4c4dcfa81b25b423822a6448d26a912581f93fd5482e1acba19476a9ad947863",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "da13766f4adaa5661a1ff8d994323d1364650c5458368bc6bd758124a191b150",
+      "semantic": {
+        "added": [
+          "DFFlagEditableMeshSerialV1Write3",
+          "DFFlagFixStreamingReplicationFocusAutoComputedPrimaryPart_Staged",
+          "DFFlagHSRGenerationFaster",
+          "DFFlagPerformanceControlAddUniverseIdToHitchRate",
+          "DFFlagRbxTransportWebTransportDraft07Settings_Staged",
+          "DFFlagRbxTransportWebTransportResetConnectionError_Staged",
+          "DFFlagTelemetryAdditionalProfilerScopes_Staged",
+          "DFIntServerTimeClockTelemetryPointsHundredthsPercentage",
+          "FFlagAppIconResetToDefault",
+          "FFlagAssistantTextureGenAutoSelectView",
+          "FFlagBuildChatIXPExposure",
+          "FFlagEnableLegacyDependencyInjectorIOS",
+          "FFlagFixInGameMenuMoreButtonIcon_Staged",
+          "FFlagFixPreferredBindingActiveInputOnly",
+          "FFlagFixUsernameValidationBackendCriteria_Staged",
+          "FFlagIGMDialogButtonsUseUIBloxButton_Staged",
+          "FFlagLiveScriptingServerTextDocument2_Staged",
+          "FFlagLuaAppMigrateItemEventsTelemetryService_Staged",
+          "FFlagLuaAppPrivatePlaytestWithoutBuildMode_Staged",
+          "FFlagLuaAppSduiEdpFallbackAttributionFromCache2_IXP",
+          "FFlagLuauCodegenA64ReloadLargeConstOffset_Staged",
+          "FFlagLuauMemoryCagePlatformScaling",
+          "FFlagPCLRefactorFixR6MissingHumanoid_Staged",
+          "FFlagSimBodyFromConstraintSleepCache_Staged",
+          "FIntAutomaticDRSHundredthPercent_Staged",
+          "FIntLuauMemoryMidTierThresholdMiB_Staged"
+        ],
+        "changed": [
+          {
+            "after": "False;8165174590;3619342762;10379662529;8240500522",
+            "before": "False;7205641391;8571687919;2746687316;8954262994;10379662529;10676281527;10734933421;2218671952;8165174590;10562769589;10807350651;10865468352;10909307903;104716347;758601306;3275089863;4220865742;4663480962;5597122238;6351924732;6362318115;6816418175;6925925820;8219996444;8661730058;9264872568;9938145680;10789754271;10842089756;10865531559;10905003484;10909309419;10914127905;4058502097;4733293091;10463659236;4562517313;10790881402;5390300927;8917641854;7371801772;8090420118;1034082235;9381162676;10825345072;3099893649;3619342762;8240500522;10733604175;2118896573;5774689625;7446783555;9678216286;14289276212;15384815512",
+            "name": "DFFlagHideDestroySetting_PlaceFilter"
+          },
+          {
+            "after": "ca62e5c511b1a45f88a3c9daa469e4a3c07acc64",
+            "before": "0477269ced34d74493d5f9806a215daae28e87f4",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-03T19:46:53.867Z",
+            "before": "2026-11-03T18:25:09.098Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagAppThemeClassicNativeApi"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagBuildExperienceInGameShell"
+          },
+          {
+            "after": "ca62e5c511b1a45f88a3c9daa469e4a3c07acc64",
+            "before": "0477269ced34d74493d5f9806a215daae28e87f4",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-03T19:46:53.867Z",
+            "before": "2026-11-03T18:25:09.098Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagEditableMeshSerialV1Write3_Staged",
+          "DFFlagHSRGenerationFaster_Staged",
+          "DFFlagPerformanceControlAddUniverseIdToHitchRate_Staged",
+          "DFIntServerTimeClockTelemetryPointsHundredthsPercentage_Staged",
+          "FFlagAppIconResetToDefault_Staged",
+          "FFlagAppThemeClassicNativeApi_Staged",
+          "FFlagAssistantTextureGenAutoSelectView_Staged",
+          "FFlagBuildChatIXPExposure_Staged",
+          "FFlagBuildExperienceInGameShell_Staged",
+          "FFlagCustomTitleBarM1Enabled9_IXP",
+          "FFlagCustomTitleBarM1WebviewThreadSafety_IXP",
+          "FFlagCustomTitleBarM1WindowsWebviewDialogFix_IXP",
+          "FFlagCustomTitleBarM1WindowsWebviewResizeFix1_IXP",
+          "FFlagCustomTitleBarTelemetryEnabled_IXP",
+          "FFlagDoNotCacheCaptionButtonBounds_IXP",
+          "FFlagEnableLegacyDependencyInjectorIOS_Staged",
+          "FFlagFixPreferredBindingActiveInputOnly_Staged",
+          "FFlagLuauMemoryCagePlatformScaling_Staged",
+          "FFlagMacWindowProtocolCacheWindowMetrics_IXP",
+          "FFlagWindowsCustomTitleBarFixMinimize_IXP",
+          "FFlagWindowsRawInputBroker_Staged",
+          "FIntCustomTitleBarTelemetryThrottleHundredthsPercent_IXP"
+        ],
+        "unchanged": 24536
+      }
+    },
+    "UniversalApp": {
+      "current": "c3b40a9a8ffffb0c0c73288bc2d800741d5207afe0a641c686e8bb091029ab6f",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "487c99fe83b88dcd5c04e8e933487d2de38c422ff928a7db4f66b033f18ffaa9",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "dee2fccebadc9375fc6465dee0d82b52514b511fb00ed5b605d2d4e9d3619534",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.DownloadLanding.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.DownloadLanding.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "1878d2eeacf30552eddb4ac576a6b71e552840c46f826ad8a9388c7144b385ea",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
