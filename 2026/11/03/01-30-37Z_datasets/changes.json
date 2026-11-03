@@ -1,0 +1,204 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-5a21b87bbc2641cf",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.745.0.7451137"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "a12e8c48088298618aaf6db3d8105fda82b1dbd3cc05ff63162930508e5b4f6a",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "ae1dfb6b79dc6e588d3100cbce975351f4b3eab91fcb03acf5133b19962d35fa",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "ed35fb69f7911d6f6074fb8b493cb37f4dd3e1e125e271f7306be49a729ee639",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "816f6132f134337629a90c7433aaae3424648ac6a957489c7a816864f39c9e29",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "5f652c26a8a1e0478e9b0bde44defbf978f902ff5fb43af6d3d2ebf5aef7ed84",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "55ca2b500925d3ca0104837ecaad002e3aa143fc17bc7ddaea635df2265dfde0",
+      "semantic": {
+        "added": [
+          "DFFlagPopLatencyUseAllRegionsTurnFromVoiceService_Staged",
+          "DFFlagVideoUniversalAppExcludeStudio",
+          "DFFlagVideoUsageContext",
+          "DFFlagVideoUseAssetRequest",
+          "FFlagAXFixCatalogSearchBarSafeArea",
+          "FFlagAddIxpLayerUniverseChatPresetChatBadgePresetFTUX",
+          "FFlagAssetProviderSupportAssetDeliveryUsageContext3",
+          "FFlagAttributeTeamCreateViewerCollaborator",
+          "FFlagBuildExperienceInGameCaptureToChat",
+          "FFlagBuildExperienceInGameShell",
+          "FFlagBuildExperienceInstanceSelection",
+          "FFlagCOLLAB11633_LikelyCollaboratorsFromFriendsApi",
+          "FFlagEnableWebRtcOnDemandPathLoad",
+          "FFlagExpChatPresetChatEmojiEffectExperimentEnabled",
+          "FFlagExpChatPresetChatEmojiTabExperimentEnabled",
+          "FFlagFontFaceAX",
+          "FFlagFontFaceChallengeDialog",
+          "FFlagFontFaceConsoleOverscan",
+          "FFlagFontFacePlayerList",
+          "FFlagFontFaceSocialFriends",
+          "FFlagLuauMemoryCageAutoScaling",
+          "FFlagMemoryStoreHashMapPagesOnDataModel",
+          "FFlagOffersPerKeyExpiryRefetch",
+          "FFlagRakNetPerConnectionHandshakePassword_Staged",
+          "FFlagRenderTestBeamScrollFollowsVFXClock",
+          "FFlagRenderTestResetPostFXTemporalAtCountdown",
+          "FFlagRenderTestSunRaysFixedNoise",
+          "FFlagSduiSearchResultsPageEnabled",
+          "FFlagSmoothClusterGetChunkWithoutOctree",
+          "FFlagStudioStreamingLimitedRadiusGC_Staged",
+          "FFlagTeamCreateViewerConnection_Staged",
+          "FFlagTeamCreateViewerJoin_Staged",
+          "FFlagTeamCreateViewerLaunchParams_Staged",
+          "FFlagTeamCreateViewerStreaming_Staged",
+          "FFlagTexturePackUploadRemoveOpenUseErrorAdvice",
+          "FFlagUserSearchPresenceStoreMigration_v2",
+          "FStringExpChatPresetChatBadgeFTUXExperimentLayer"
+        ],
+        "changed": [
+          {
+            "after": "10000",
+            "before": "1",
+            "name": "DFIntNetPermEventReportPerMyriad"
+          },
+          {
+            "after": "b664b3d70c888aff16d261b191b91850e82baad9",
+            "before": "4134e1d515769de96db260887100e560c9f85f0e",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-03T01:27:42.608Z",
+            "before": "2026-11-02T23:58:20.610Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "10000",
+            "before": "0",
+            "name": "FIntAutomaticDRSHundredthPercent"
+          },
+          {
+            "after": "b664b3d70c888aff16d261b191b91850e82baad9",
+            "before": "4134e1d515769de96db260887100e560c9f85f0e",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-03T01:27:42.608Z",
+            "before": "2026-11-02T23:58:20.610Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "[(7rdo,ktx2,/////Ck=)];SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-03T01:00:59",
+            "before": "5000,[(8,ktx2),(7rdo,ktx2)],[(7rdo,ktx2)];SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-02T23:42:01",
+            "name": "FStringTextureTranscodeRollout_Staged"
+          }
+        ],
+        "removed": [
+          "DFFlagVideoUniversalAppExcludeStudio_Staged",
+          "DFFlagVideoUsageContext_Staged",
+          "DFFlagVideoUseAssetRequest_Staged",
+          "DFIntNetPermEventReportPerMyriad_Staged",
+          "FFlagAXFixCatalogSearchBarSafeArea_Staged",
+          "FFlagAddIxpLayerUniverseChatPresetChatBadgePresetFTUX_Staged",
+          "FFlagAssetProviderSupportAssetDeliveryUsageContext3_Staged",
+          "FFlagAttributeTeamCreateViewerCollaborator_Staged",
+          "FFlagBuildExperienceInGameCaptureToChat_Staged",
+          "FFlagBuildExperienceInGameShell_Staged",
+          "FFlagBuildExperienceInstanceSelection_Staged",
+          "FFlagCOLLAB11633_LikelyCollaboratorsFromFriendsApi_Staged",
+          "FFlagEnableWebRtcOnDemandPathLoad_Staged",
+          "FFlagExpChatPresetChatEmojiEffectExperimentEnabled_Staged",
+          "FFlagExpChatPresetChatEmojiTabExperimentEnabled_Staged",
+          "FFlagFontFaceAX_Staged",
+          "FFlagFontFaceChallengeDialog_Staged",
+          "FFlagFontFaceConsoleOverscan_Staged",
+          "FFlagFontFacePlayerList_Staged",
+          "FFlagFontFaceSocialFriends_Staged",
+          "FFlagLuauMemoryCageAutoScaling_Staged",
+          "FFlagMemoryStoreHashMapPagesOnDataModel_Staged",
+          "FFlagOffersPerKeyExpiryRefetch_Staged",
+          "FFlagRenderTestBeamScrollFollowsVFXClock_Staged",
+          "FFlagRenderTestResetPostFXTemporalAtCountdown_Staged",
+          "FFlagRenderTestSunRaysFixedNoise_Staged",
+          "FFlagSduiSearchResultsPageEnabled_Staged",
+          "FFlagSmoothClusterGetChunkWithoutOctree_Staged",
+          "FFlagTexturePackUploadRemoveOpenUseErrorAdvice_Staged",
+          "FFlagUserSearchPresenceStoreMigration_v2_Staged",
+          "FIntAutomaticDRSHundredthPercent_Staged",
+          "FStringExpChatPresetChatBadgeFTUXExperimentLayer_Staged"
+        ],
+        "unchanged": 24498
+      }
+    },
+    "UniversalApp": {
+      "current": "e56b37b97d59878e5316c4cc897851d6ee6d79912f2080b49e552eba9d8d6cd6",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "fc9a5fb41b8c064b7b2acead67ece1b132b0ea4b01d71d2957826be7125f306d",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
