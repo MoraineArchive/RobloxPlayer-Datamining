@@ -1,0 +1,140 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-5a21b87bbc2641cf",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.745.0.7451137"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "def51843919803fef0f7c86cb01b47853cc3953871ada75346f0943177ff32e6",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "a12e8c48088298618aaf6db3d8105fda82b1dbd3cc05ff63162930508e5b4f6a",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "d77d5613556ed55107692632e3ff90ae9e53746001ecc4a8b64504e493135b78",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "ed35fb69f7911d6f6074fb8b493cb37f4dd3e1e125e271f7306be49a729ee639",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "c4464f98007609ff62b836a505a939acccd1373fe776e2ae909831574157f6dd",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "5f652c26a8a1e0478e9b0bde44defbf978f902ff5fb43af6d3d2ebf5aef7ed84",
+      "semantic": {
+        "added": [
+          "DFFlagPopLatencyUseAllRegionsTurnFromVoiceService",
+          "FFlagAccountUpgradeDialogDarkTheme",
+          "FFlagAccountUpgradeMarketingConsent",
+          "FFlagExpChatEmojiDropdownShowAnalytics",
+          "FFlagExpChatPresetTrayDismissAnalytics",
+          "FFlagSduiReleaseSearchResultsPageState",
+          "FFlagTeamCreateViewerLaunchParams"
+        ],
+        "changed": [
+          {
+            "after": "0e346c92fdefb88619b0baac331fa7899d7f9090",
+            "before": "b664b3d70c888aff16d261b191b91850e82baad9",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-03T02:52:29.283Z",
+            "before": "2026-11-03T01:27:42.608Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagSearchAllRegistryEntriesForAutoFocus"
+          },
+          {
+            "after": "0e346c92fdefb88619b0baac331fa7899d7f9090",
+            "before": "b664b3d70c888aff16d261b191b91850e82baad9",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-03T02:52:29.283Z",
+            "before": "2026-11-03T01:27:42.608Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagPopLatencyUseAllRegionsTurnFromVoiceService_Staged",
+          "FFlagAccountUpgradeDialogDarkTheme_Staged",
+          "FFlagAccountUpgradeMarketingConsent_Staged",
+          "FFlagExpChatEmojiDropdownShowAnalytics_Staged",
+          "FFlagExpChatPresetTrayDismissAnalytics_Staged",
+          "FFlagSduiReleaseSearchResultsPageState_Staged",
+          "FFlagSearchAllRegistryEntriesForAutoFocus_Staged",
+          "FFlagTeamCreateViewerLaunchParams_Staged"
+        ],
+        "unchanged": 24529
+      }
+    },
+    "UniversalApp": {
+      "current": "65a71e1a87c7aa9107d09afc23df6e3e87d2569d4f8a04e9697ac2626f276566",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "e56b37b97d59878e5316c4cc897851d6ee6d79912f2080b49e552eba9d8d6cd6",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
