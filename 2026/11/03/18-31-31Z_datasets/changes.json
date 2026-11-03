@@ -1,0 +1,137 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-5a21b87bbc2641cf",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.745.0.7451137"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "69162488a3eb8db768ed3ea5030dc789f3ff1991eb5d9fa4c4b10eb5b12c7639",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "36e29cbacb30f319fa51c7abc9e33f9ba853b52846835e3be0d7efd8c81bee28",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "acb8bd4e3a81c45d1263d68b09bb74026d0ae85cc1e1062984ca4e1ad6fdf0f0",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "7e0fe2dc0c4741e82fbc2ae9818b880a779bb020f579ffa4fb3cfe8cc2e227a1",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "da13766f4adaa5661a1ff8d994323d1364650c5458368bc6bd758124a191b150",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "122131ceb9bd53ad4fbd2954cbdf98b7486de76dec01cbb0747160af8ca6c0df",
+      "semantic": {
+        "added": [
+          "DFFlagHSRGenerationFaster_Staged",
+          "DFFlagLogJourneyEventEnabled",
+          "DFFlagPerformanceControlAddUniverseIdToHitchRate_Staged",
+          "DFIntServerTimeClockTelemetryPointsHundredthsPercentage_Staged",
+          "FFlagCloudClientEligibilityReserve_Staged",
+          "FFlagDMCTMigrateScrollingFrame_Staged",
+          "FFlagFixPromptGameInviteUIMissingDisplayName_Staged",
+          "FFlagFoundationBottomSheetOverlayShadow_Staged",
+          "FFlagFoundationCenterSheetOverlayShadow_Staged",
+          "FFlagFoundationDialogOverlayShadow_Staged",
+          "FFlagFoundationPopoverOverlayShadow_Staged",
+          "FFlagHomePromptsHandlerRestrictPromptStyles_Staged",
+          "FFlagRenderWaterDemoteSHQ_Staged",
+          "FFlagServerTimeClockTelemetry_Staged",
+          "FFlagWindowsRawInputBroker_Staged",
+          "FStringAutomaticDRSFramebufferTiers_Staged"
+        ],
+        "changed": [
+          {
+            "after": "0477269ced34d74493d5f9806a215daae28e87f4",
+            "before": "a34036ebbe65cfe7dd681ec5f30d74d07009c696",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-03T18:25:09.098Z",
+            "before": "2026-11-03T17:39:39.351Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "0477269ced34d74493d5f9806a215daae28e87f4",
+            "before": "a34036ebbe65cfe7dd681ec5f30d74d07009c696",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-03T18:25:09.098Z",
+            "before": "2026-11-03T17:39:39.351Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagLogJourneyEventEnabled_Staged"
+        ],
+        "unchanged": 24545
+      }
+    },
+    "UniversalApp": {
+      "current": "487c99fe83b88dcd5c04e8e933487d2de38c422ff928a7db4f66b033f18ffaa9",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "2c31c76ebae77ae3653c20b4b2ec09a20ee6c8b1b8474dbb471b656ec5c59717",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
