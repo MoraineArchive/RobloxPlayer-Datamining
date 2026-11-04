@@ -1,0 +1,132 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-5a21b87bbc2641cf",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.745.0.7451137"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "3883eb66e45f2f5a392096d92315ebe341b2dac8c37d17ed9fd6ca1bb779bead",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "48a5b6f05e3b360e37e1595e0bcee210e8e375851a3bae1b1f68e53831cdafbf",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "439e152e9613c244c712e548a918e4eef3940b6637d23326fdfcfae4fe98e419",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "a0d4ff1d8a07d0cbb42e392c4470020098ef166066bf5fecd2496ca4c9d1402f",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "9bc6bc2c4ca16d9e0a261f870f487db4cbd386e312c4422b2691dc71eacacfe4",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "4cf057bacbf6a9708da0984680becc45fa59073deba1a473062abae2275615ef",
+      "semantic": {
+        "added": [
+          "FFlagAXFixBodyColorButtonStaleRanges",
+          "FFlagLuaAppPrivatePlaytestEarlyTesting",
+          "FIntLuauMemoryCageFixedSizeMiB"
+        ],
+        "changed": [
+          {
+            "after": "de9133d95cafb6f4a9ff7d5dcbe465db06102af3",
+            "before": "707f2daf6f26e379afbbc427af634814de61b84b",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-04T04:02:11.062Z",
+            "before": "2026-11-04T01:37:22.696Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagNetworkPerfTestClientAnalysis5"
+          },
+          {
+            "after": "de9133d95cafb6f4a9ff7d5dcbe465db06102af3",
+            "before": "707f2daf6f26e379afbbc427af634814de61b84b",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-04T04:02:11.062Z",
+            "before": "2026-11-04T01:37:22.696Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAXFixBodyColorButtonStaleRanges_Staged",
+          "FFlagLuaAppPrivatePlaytestEarlyTesting_Staged",
+          "FFlagNetworkPerfTestClientAnalysis5_Staged",
+          "FIntLuauMemoryCageFixedSizeMiB_Staged"
+        ],
+        "unchanged": 24621
+      }
+    },
+    "UniversalApp": {
+      "current": "b71462cff7bc6d99e9060a4f258f3ed437fb26cbb866f698823a795d5b16354a",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "4806173b8b14daaf459e4d59e08be9841ecfffee5892080a47d1de96c644ff02",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
