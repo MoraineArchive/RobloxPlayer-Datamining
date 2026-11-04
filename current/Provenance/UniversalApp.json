@@ -1,18 +1,19 @@
 {
   "hashes": {
+    "PatchRoot/CoreScripts/Assets.txt": "b81eb3d334c84778e97de5c144cb8b0d8784ddde5e3d3aecdc34fbeb1c27ebe7",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Resources/Resources/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals/Signals/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsExperimental/SignalsExperimental/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsReact/SignalsReact/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "instances.json": "ad83cb7e2bef6667a56a8d106fec506be0fe74bfa0d7aeed71fb0cdbb86927a3",
-    "latest-asset.json": "2d8f8ef60836c4a21d8e9d5690e9a560039bb12d67d5df24990f25f8326c0b67",
-    "metadata.json": "df0e3d70fc91589ad6b878b4f390121096e30342920a4c4e36de3d7a55e735bc",
+    "instances.json": "1eb8eed10ae9496647335df5a4da9ca4031bf41e7ce9709360255e8295402dec",
+    "latest-asset.json": "938113d132b62994d3c9c063fb7a38e633b9e8fee06537c4473fe0bb8cccb0ed",
+    "metadata.json": "ccbb6afc96637b2438a7443e392f3439a0ff7ade4cb2ef017c341fb764240b9c",
     "ota-config.json": "860b92fe6623ff23b37576e773cf3f7bbc2a61b0ce62df4e30bd071985bfd294"
   },
-  "id": "a654f5a88d7905deaf4e04d5537bfe41ec2cacb56913a8ed5d1e288556a77dd9",
+  "id": "136ab97f0747b0ed78aeaa5fb6351c1fe04b3a1650c0dc843231906aa94336a6",
   "observationMode": "live",
-  "observedAt": "2026-11-04T00:01:09.605Z",
+  "observedAt": "2026-11-04T00:51:39.521Z",
   "provenance": [
     {
       "bytes": 42864,
@@ -22,24 +23,24 @@
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.745.0.7451137&tag=Release&name=app-patch-universal-app"
     },
     {
-      "bytes": 4927899,
+      "bytes": 12647323,
       "derivedFrom": "UniversalApp.rbxm",
-      "sha256": "439faae4853b4aa37d098a5db155fab26ee6b12ce2541cae0c9bb15a216e4369",
+      "sha256": "78ac44074268b7497fd740bc7426fde939f0c395b3989f4ed51592971e43b065",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=16598"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=16603"
     }
   ],
-  "sequence": 109,
+  "sequence": 110,
   "status": "partial",
   "summary": {
     "assetId": "118593852151835",
-    "assetVersion": "16598",
+    "assetVersion": "16603",
     "configuredAssetVersion": "16427",
     "engineRevision": 1,
-    "instances": 6331,
+    "instances": 5150,
     "localizationFiles": 0,
     "sources": 0,
-    "unreadableScripts": 5640
+    "unreadableScripts": 4527
   },
   "surface": "UniversalApp",
   "target": "WindowsPlayer"
