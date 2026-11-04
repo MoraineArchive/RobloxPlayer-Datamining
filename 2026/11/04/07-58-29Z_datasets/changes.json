@@ -1,0 +1,80 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-5a21b87bbc2641cf",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.745.0.7451137"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "0364df0f0d62d96fd88c42535741db0812eb36a1efba01c4cd54545c2cfd99e1",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "3883eb66e45f2f5a392096d92315ebe341b2dac8c37d17ed9fd6ca1bb779bead",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "9ad5615a383a14c9386f5523b6acd92c6f24eb1bf06b7456754e81e70c423731",
+      "files": {
+        "added": [],
+        "changed": [
+          "PatchRoot/CoreScripts/Assets.txt",
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 8
+      },
+      "previous": "439e152e9613c244c712e548a918e4eef3940b6637d23326fdfcfae4fe98e419",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "UniversalApp": {
+      "current": "fa4f87259c935551d327bd7ccc463006491332dd475f0cc1573df628a8dfdac0",
+      "files": {
+        "added": [],
+        "changed": [
+          "PatchRoot/CoreScripts/Assets.txt",
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 6
+      },
+      "previous": "b71462cff7bc6d99e9060a4f258f3ed437fb26cbb866f698823a795d5b16354a",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
