@@ -1,0 +1,136 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-5a21b87bbc2641cf",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.745.0.7451137"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "31bc1e4167a085f8cce096bc7805cdcf67d50090d4174f6995d2663c536250c2",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "7aed5be7214c1976f228b1a54e8187a8a4229d0d1589ec6c1138408defbecd6d",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "22f810b5befd3f0a7c6782d848e6cc61225549aa9c416c53d0f6c468fd92cce9",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "8d3dbda1be98d44b3f54fb95c013f3d2974a8df4b5f4b072eec6e233096b5fcc",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "1826e12f37e76b7fdacc05ea8c95fc4c6080c4380afdc1daf676738e6edd21c9",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "c0876a2cb8a79d047cb26ca3ea74346947887d30430fc307c7bf3c3885f8e045",
+      "semantic": {
+        "added": [
+          "FFlagDebugEncodeTransitiveDependencies_Staged",
+          "FFlagEnableV2MetricFilter",
+          "FFlagFlyoutSidePanelUseSharedProfileCard",
+          "FFlagSduiBannerComponent",
+          "SFFlagUserServerAuthorityDontSetAutoRotate_Staged"
+        ],
+        "changed": [
+          {
+            "after": "50",
+            "before": "25",
+            "name": "DFIntBadgeSlpInsightsRolloutPercentage"
+          },
+          {
+            "after": "e4f3e56ca344a7b23bf291810e8985b749597f48",
+            "before": "ce1f7b7e43e2bdf30b7f08897062126fedb83b41",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-04T22:08:43.676Z",
+            "before": "2026-11-04T21:57:24.650Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "e4f3e56ca344a7b23bf291810e8985b749597f48",
+            "before": "ce1f7b7e43e2bdf30b7f08897062126fedb83b41",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-04T22:08:43.676Z",
+            "before": "2026-11-04T21:57:24.650Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFIntBadgeSlpInsightsRolloutPercentage_Staged",
+          "FFlagAXSduiCatalogItemGroupNilIdGuard_Staged",
+          "FFlagActorPoolWithChangingConcurrency_Staged",
+          "FFlagEnableV2MetricFilter_Staged",
+          "FFlagFlyoutSidePanelUseSharedProfileCard_Staged",
+          "FFlagSduiBannerComponent_Staged"
+        ],
+        "unchanged": 24690
+      }
+    },
+    "UniversalApp": {
+      "current": "c555ae7c04358ec0270f2006844b6c124085825fa2b788ff8a9f84c1bdf9b3b9",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "2f777b3a79424229315f06dd75c5a2f31af1696ad92ea356853e064ad5af48f9",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
