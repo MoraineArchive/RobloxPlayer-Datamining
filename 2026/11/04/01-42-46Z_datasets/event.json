@@ -1,0 +1,27 @@
+{
+  "archivePath": "2026/11/04/01-42-46Z_datasets",
+  "commit": {
+    "body": "InExperience files +0 ~3 -0\nUniversalApp files +0 ~3 -0\nFastVariables files +0 ~0 -0\nLiveSettings files +0 ~1 -0\nWeb files          +0 ~3 -0\nInExperience sources +0 ~0 -0\nUniversalApp sources +0 ~0 -0\nFastVariables      +0 ~0 -0\nLiveSettings       +9 ~5 -9",
+    "subject": "4 November 2026 - Datamining update"
+  },
+  "findings": {
+    "new": 0,
+    "updated": 0
+  },
+  "guid": "version-5a21b87bbc2641cf",
+  "id": "ceb5aa551b1c0cc034dde53144241f2b03d5f331306fdb7cd605af2816083890",
+  "observedAt": "2026-11-04T01:42:46.970Z",
+  "product": "Player",
+  "schemaVersion": 1,
+  "surfaces": [
+    "InExperience",
+    "UniversalApp",
+    "FastVariables",
+    "LiveSettings",
+    "Web"
+  ],
+  "target": "WindowsPlayer",
+  "type": "datasets.changed",
+  "upstreamChange": true,
+  "version": "0.745.0.7451137"
+}

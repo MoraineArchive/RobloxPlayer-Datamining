@@ -1,0 +1,161 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-5a21b87bbc2641cf",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.745.0.7451137"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "48a5b6f05e3b360e37e1595e0bcee210e8e375851a3bae1b1f68e53831cdafbf",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "50d41873e6cb6e8c481e012ba2faf9823bfa755f969289fa8dca6ca8bc3a2370",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "a0d4ff1d8a07d0cbb42e392c4470020098ef166066bf5fecd2496ca4c9d1402f",
+      "files": {
+        "added": [],
+        "changed": [
+          "PatchRoot/CoreScripts/Assets.txt",
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 8
+      },
+      "previous": "b02c127b18f87cc3459badab1e2f8e649cb8cfd7355f5557cd5404a7603877d7",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "4cf057bacbf6a9708da0984680becc45fa59073deba1a473062abae2275615ef",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "dda1983c3f56dc7107efaeb8fd6bf05196ef90613ec85229c944ffddfd201ba4",
+      "semantic": {
+        "added": [
+          "FFlagAXFixBodyColorButtonStaleRanges_Staged",
+          "FFlagAXFixBodyShapePortraitSliderFreeze",
+          "FFlagAXUseSignalsForLayeredClothingCurrentSort",
+          "FFlagDesktopExternalIdentityReportTimeoutAndLateCallback",
+          "FFlagDifferentiateJoinMetricsForChannelSend",
+          "FFlagFixBulkPurchaseInExperienceBuyRobux",
+          "FFlagFixNavigationInsetsOnHiddenTabBar",
+          "FFlagIASDeadzone",
+          "FFlagSimCsgFixEmptyMeshPartColor"
+        ],
+        "changed": [
+          {
+            "after": "707f2daf6f26e379afbbc427af634814de61b84b",
+            "before": "939ed61900a079be3c1e29974bd1d3d470d55ab5",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-04T01:37:22.696Z",
+            "before": "2026-11-04T00:48:07.318Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "707f2daf6f26e379afbbc427af634814de61b84b",
+            "before": "939ed61900a079be3c1e29974bd1d3d470d55ab5",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-04T01:37:22.696Z",
+            "before": "2026-11-04T00:48:07.318Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "Texture quality, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure, WHAM1707 memory pressure, Physics Compute Tunable, StreamingCompute, Sound Cache",
+            "before": "Texture quality, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure, WHAM1707 memory pressure, Physics Compute Tunable, StreamingCompute",
+            "name": "FStringPerformanceControlIncludedTunables"
+          }
+        ],
+        "removed": [
+          "FFlagAXFixBodyShapePortraitSliderFreeze_Staged",
+          "FFlagAXUseSignalsForLayeredClothingCurrentSort_Staged",
+          "FFlagDesktopExternalIdentityReportTimeoutAndLateCallback_Staged",
+          "FFlagDifferentiateJoinMetricsForChannelSend_Staged",
+          "FFlagFixBulkPurchaseInExperienceBuyRobux_Staged",
+          "FFlagFixNavigationInsetsOnHiddenTabBar_Staged",
+          "FFlagIASDeadzone_Staged",
+          "FFlagSimCsgFixEmptyMeshPartColor_Staged",
+          "FStringPerformanceControlIncludedTunables_Staged"
+        ],
+        "unchanged": 24616
+      }
+    },
+    "UniversalApp": {
+      "current": "4806173b8b14daaf459e4d59e08be9841ecfffee5892080a47d1de96c644ff02",
+      "files": {
+        "added": [],
+        "changed": [
+          "PatchRoot/CoreScripts/Assets.txt",
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 6
+      },
+      "previous": "136ab97f0747b0ed78aeaa5fb6351c1fe04b3a1650c0dc843231906aa94336a6",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "4bbe66f3318ee18bb83f2c084a484a7db17c472c5e848eb7216e7310c529e02c",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.NotApproved.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.NotApproved.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "988e28c59eee65a398e98e36bb54269f6e829e3c8e629d6c6a10821c0158ad59",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
