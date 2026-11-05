@@ -588,11 +588,87 @@
             "rbx",
             "uri"
           ]
+        },
+        {
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/11/05/23-53-07Z_datasets",
+          "evidencePath": "2026/11/05/23-53-07Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "3808a6640c82c043228bf1db62309d7912054a461f37380e54d4c91f918a8abe",
+          "key": "DFStringRbxAvatarAbilitiesStudioBeta2ContentUri_Staged",
+          "kind": "LiveSettings",
+          "observedAt": "2026-11-05T23:53:07.085Z",
+          "operation": "removed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "avatar",
+            "beta2",
+            "content",
+            "rbx",
+            "uri"
+          ]
+        },
+        {
+          "after": "rbxassetid://90046778086349",
+          "before": "rbxassetid://134298046760445",
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/11/05/23-53-07Z_datasets",
+          "evidencePath": "2026/11/05/23-53-07Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "9cfaa4f6f841f0595ced93eff2b6d963d93c15d9aa297391393ed04104504c04",
+          "key": "DFStringRbxAvatarAbilitiesStudioBeta2ContentUri",
+          "kind": "LiveSettings",
+          "observedAt": "2026-11-05T23:53:07.085Z",
+          "operation": "changed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "avatar",
+            "beta2",
+            "content",
+            "rbx",
+            "uri"
+          ]
+        },
+        {
+          "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10774805165;10768492546;10761698214",
+          "before": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10768492546;10761698214",
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/11/05/23-53-07Z_datasets",
+          "evidencePath": "2026/11/05/23-53-07Z_datasets/changes.json",
+          "family": "LiveSettings",
+          "id": "fe942cb6a4b4351824ab9f35199ce1eefa6e625bc84b25586ad31001efb29ebd",
+          "key": "DFFlagAvatarAbilitiesUseStudioBeta2Asset_UniverseFilter",
+          "kind": "LiveSettings",
+          "observedAt": "2026-11-05T23:53:07.085Z",
+          "operation": "changed",
+          "surface": "LiveSettings",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "asset",
+            "avatar",
+            "beta2",
+            "filter",
+            "universe"
+          ]
         }
       ],
       "firstObservedAt": "2026-09-08T23:42:52.368Z",
       "id": "avatar-abilities",
-      "lastObservedAt": "2026-11-05T18:57:13.085Z",
+      "lastObservedAt": "2026-11-05T23:53:07.085Z",
       "lifecycle": [
         {
           "observedAt": "2026-09-09T01:37:12.973Z",
@@ -607,6 +683,14 @@
           "signalIds": [
             "84374a7389de6ac5647d5edd964bba3ac81849156c6f7c85cdf0c2ba53d4227f",
             "a3a20cc11ca4970f664f107dcf645f6831fcbb2c8659fc0c0bd3b8cc46de190e"
+          ],
+          "type": "staged-to-non-staged"
+        },
+        {
+          "observedAt": "2026-11-05T23:53:07.085Z",
+          "signalIds": [
+            "9cfaa4f6f841f0595ced93eff2b6d963d93c15d9aa297391393ed04104504c04",
+            "c029b48d295f2e80586f159e4a2dc214b412016a7e738bc24e35a157eed11a3c"
           ],
           "type": "staged-to-non-staged"
         }

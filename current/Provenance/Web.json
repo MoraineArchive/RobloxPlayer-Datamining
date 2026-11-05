@@ -1,13 +1,13 @@
 {
   "hashes": {
-    "assets.json": "ce0af8a6100379410c422bec7c9872de0de59ffcf115011d85365ad9644f03b7",
+    "assets.json": "913b95a10912cbbf788b6fc5fbd98ca68a8f077ab2482e2cff6fdb60d279e64b",
     "js.rbxcdn.com/page-0/AccessManagementUpsell.js": "7a2795cd4a6595d6cdf824a5ec6518b89b887fdd09bab1186d84e315628e35e7",
     "js.rbxcdn.com/page-0/AccessManagementUpsellV2.js": "2ac678bc233ed329c49d9584eef273bb87d6d9a61b3167044e208e89c8d69d44",
     "js.rbxcdn.com/page-0/AccountSwitcher.js": "9c6c77ae499bacb2cc2df4f9432fb7a767041594db6345045d110ebab0514f2f",
     "js.rbxcdn.com/page-0/AngularJsUtilities.js": "6343b8107d42ad08d5a41b917b1f9c2f5274359fedde0fe3f61e4916278dd067",
     "js.rbxcdn.com/page-0/Builder.js": "c3c46045ff3e74bf527133f31c509eb3617e8e75d4a056a43fdb56363ddaeab9",
     "js.rbxcdn.com/page-0/CaptchaCore.js": "c5b3958c8f4bed86ea5626d83337e7edbb0ac96743e2f8d23772924d2e1a20ad",
-    "js.rbxcdn.com/page-0/Challenge.js": "8e108021026e9a71c940581acf4d832ae73eccb61bd10fe952099b064134363a",
+    "js.rbxcdn.com/page-0/Challenge.js": "007e6b2742110ca444df5dea94a56db26660f08e3b8d6492cfacfa7bdc7d3055",
     "js.rbxcdn.com/page-0/CookieBannerV3.js": "2d93743724ff049ef790bd3af0d5cf4d03880c52a65d6854739f69d5e4ea824e",
     "js.rbxcdn.com/page-0/CoreUtilities.js": "0224179df597feba98a5a6a25b33333bb8dfaa1b172e2456edf31c6cba943704",
     "js.rbxcdn.com/page-0/CrossTabCommunication.js": "3807bbe8eb8b880ef1d43f2958ff957ee205c0326a5f25785e6f9d027c17eef3",
@@ -68,7 +68,7 @@
     "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Purchasing.PurchaseDialog.js": "34d0c6593fc67027fd04bd62b579b776e12b2967497b020cfe4ac1f6b33c9e22",
     "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Purchasing.RedeemGameCard.js": "3002cd1bbfcc3e9cc6cf9d9bf0946a24a3f8c32df935ce1fb58811cc12ac9d42",
     "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Verification.Identity.js": "ed97562bd6f03ac933dde44a6c6bad7704fe38fb5f2478c1c23356bab95b6805",
-    "js.rbxcdn.com/page-0/EmailVerifyCodeModal.js": "1e0cd2c16c8f74a553c3d3634f9220afd60fbb901e4ab7d9d1583118012f04a2",
+    "js.rbxcdn.com/page-0/EmailVerifyCodeModal.js": "11daa8fc8a245f8d907a5cba9cfdf6bea0ec444c9cdc9a144428eeb5d6aaf0f9",
     "js.rbxcdn.com/page-0/EnvironmentUrls.js": "ec50a087f542394039382104715628b8a7dc8878194ce46fb051a20e3aa67cbd",
     "js.rbxcdn.com/page-0/Experimentation.js": "7c94d710cc1494d08c4d0a9a0bf9fb7d7ffc3b35c704f6688b176d3784c44e99",
     "js.rbxcdn.com/page-0/Footer.js": "3b254397cb128b5711e4c7af3ff25ac6bcf5785354bc9ac68bf8629892829f16",
@@ -99,7 +99,7 @@
     "js.rbxcdn.com/page-0/TranslationResources.js": "64dbf4bf95e7c85673364eeaaeeeae62b8b498385f63742071459e372933cfde",
     "js.rbxcdn.com/page-0/UserAgreementsChecker.js": "1d25d13458238f0eae6e21cbd2f0adbc9621e26d6baca8291353c238fe8f8d67",
     "js.rbxcdn.com/page-0/UserProfiles.js": "5de374dbd57934c44ab3983efc9ed454af5e03214c7435230e1de976fd4ce0ae",
-    "js.rbxcdn.com/page-0/VerificationUpsell.js": "eff11868710040b5e3dab18653759ab22d0a996cf76048490d79fd595216cf20",
+    "js.rbxcdn.com/page-0/VerificationUpsell.js": "751b2909c455497f18a59698e89a739d09b703fc117839b6c6b7d42082f1aaac",
     "js.rbxcdn.com/page-0/WebBlox.js": "1f6601cdb4e31ae8d0d32f1ee87842aa977ee6f5d8c237c8bd83c099b807c1b5",
     "js.rbxcdn.com/page-0/XsrfProtection.js": "eed55cdcead61d0825909fba3ecca851b9f13c899168afc40569de7a3d3cfea8",
     "js.rbxcdn.com/page-0/angular.js": "153c7a2b2f87f9c0ff485fb263bd639d7c28f19bcc265af05517d12307d2f6f7",
@@ -107,14 +107,14 @@
     "js.rbxcdn.com/page-0/intl-polyfill.js": "a7dd794c75f85587f4ffbdf22698a934ea068cb1263d0585b38a6dd13a447eb9",
     "js.rbxcdn.com/page-0/leanbase.js": "f55ce107e3a2191086561efffccb8fa0b61d44f45ae677fab7de06e6ab6604e4",
     "js.rbxcdn.com/page-0/page.js": "84de2e282b246fba5df56719a89c706a053b0d437699a00320994912578b5b15",
-    "js.rbxcdn.com/page-0/pageEnd.js": "333f78c97d8c43d5dce619f2e786b5fe55f66c64f43445142d5fc5cae3ead9e2",
+    "js.rbxcdn.com/page-0/pageEnd.js": "bb79df4fefb2df5166ca23aafbc658b83871a6be54009f06ee18d5b79a994352",
     "js.rbxcdn.com/page-1/AccessManagementUpsell.js": "7a2795cd4a6595d6cdf824a5ec6518b89b887fdd09bab1186d84e315628e35e7",
     "js.rbxcdn.com/page-1/AccessManagementUpsellV2.js": "2ac678bc233ed329c49d9584eef273bb87d6d9a61b3167044e208e89c8d69d44",
     "js.rbxcdn.com/page-1/AccountSwitcher.js": "9c6c77ae499bacb2cc2df4f9432fb7a767041594db6345045d110ebab0514f2f",
     "js.rbxcdn.com/page-1/AngularJsUtilities.js": "6343b8107d42ad08d5a41b917b1f9c2f5274359fedde0fe3f61e4916278dd067",
     "js.rbxcdn.com/page-1/Builder.js": "c3c46045ff3e74bf527133f31c509eb3617e8e75d4a056a43fdb56363ddaeab9",
     "js.rbxcdn.com/page-1/CaptchaCore.js": "c5b3958c8f4bed86ea5626d83337e7edbb0ac96743e2f8d23772924d2e1a20ad",
-    "js.rbxcdn.com/page-1/Challenge.js": "8e108021026e9a71c940581acf4d832ae73eccb61bd10fe952099b064134363a",
+    "js.rbxcdn.com/page-1/Challenge.js": "007e6b2742110ca444df5dea94a56db26660f08e3b8d6492cfacfa7bdc7d3055",
     "js.rbxcdn.com/page-1/CookieBannerV3.js": "2d93743724ff049ef790bd3af0d5cf4d03880c52a65d6854739f69d5e4ea824e",
     "js.rbxcdn.com/page-1/CoreUtilities.js": "0224179df597feba98a5a6a25b33333bb8dfaa1b172e2456edf31c6cba943704",
     "js.rbxcdn.com/page-1/CrossTabCommunication.js": "3807bbe8eb8b880ef1d43f2958ff957ee205c0326a5f25785e6f9d027c17eef3",
@@ -177,7 +177,7 @@
     "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Purchasing.PurchaseDialog.js": "34d0c6593fc67027fd04bd62b579b776e12b2967497b020cfe4ac1f6b33c9e22",
     "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Purchasing.RedeemGameCard.js": "3002cd1bbfcc3e9cc6cf9d9bf0946a24a3f8c32df935ce1fb58811cc12ac9d42",
     "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Verification.Identity.js": "ed97562bd6f03ac933dde44a6c6bad7704fe38fb5f2478c1c23356bab95b6805",
-    "js.rbxcdn.com/page-1/EmailVerifyCodeModal.js": "1e0cd2c16c8f74a553c3d3634f9220afd60fbb901e4ab7d9d1583118012f04a2",
+    "js.rbxcdn.com/page-1/EmailVerifyCodeModal.js": "11daa8fc8a245f8d907a5cba9cfdf6bea0ec444c9cdc9a144428eeb5d6aaf0f9",
     "js.rbxcdn.com/page-1/EnvironmentUrls.js": "ec50a087f542394039382104715628b8a7dc8878194ce46fb051a20e3aa67cbd",
     "js.rbxcdn.com/page-1/Experimentation.js": "7c94d710cc1494d08c4d0a9a0bf9fb7d7ffc3b35c704f6688b176d3784c44e99",
     "js.rbxcdn.com/page-1/Footer.js": "3b254397cb128b5711e4c7af3ff25ac6bcf5785354bc9ac68bf8629892829f16",
@@ -209,7 +209,7 @@
     "js.rbxcdn.com/page-1/TranslationResources.js": "64dbf4bf95e7c85673364eeaaeeeae62b8b498385f63742071459e372933cfde",
     "js.rbxcdn.com/page-1/UserAgreementsChecker.js": "1d25d13458238f0eae6e21cbd2f0adbc9621e26d6baca8291353c238fe8f8d67",
     "js.rbxcdn.com/page-1/UserProfiles.js": "5de374dbd57934c44ab3983efc9ed454af5e03214c7435230e1de976fd4ce0ae",
-    "js.rbxcdn.com/page-1/VerificationUpsell.js": "eff11868710040b5e3dab18653759ab22d0a996cf76048490d79fd595216cf20",
+    "js.rbxcdn.com/page-1/VerificationUpsell.js": "751b2909c455497f18a59698e89a739d09b703fc117839b6c6b7d42082f1aaac",
     "js.rbxcdn.com/page-1/WebBlox.js": "1f6601cdb4e31ae8d0d32f1ee87842aa977ee6f5d8c237c8bd83c099b807c1b5",
     "js.rbxcdn.com/page-1/XsrfProtection.js": "eed55cdcead61d0825909fba3ecca851b9f13c899168afc40569de7a3d3cfea8",
     "js.rbxcdn.com/page-1/angular.js": "153c7a2b2f87f9c0ff485fb263bd639d7c28f19bcc265af05517d12307d2f6f7",
@@ -218,16 +218,16 @@
     "js.rbxcdn.com/page-1/intl-polyfill.js": "a7dd794c75f85587f4ffbdf22698a934ea068cb1263d0585b38a6dd13a447eb9",
     "js.rbxcdn.com/page-1/leanbase.js": "968a20eab1449bae7485d20d20a614f2a33b0515f27f143792b10cf4d700711e",
     "js.rbxcdn.com/page-1/page.js": "432095ee2a25a586d05e62c1917b10003e21c76a094c065faf79ba5259461c1c",
-    "js.rbxcdn.com/page-1/pageEnd.js": "e71df9e59a78a1dca5912a72b354c58fbbed77f7f52094c4f18ce805be9f0295",
-    "metadata.json": "0c252ed658a4e37b421670af6a48070a1550704cc42456209378373230313f05",
+    "js.rbxcdn.com/page-1/pageEnd.js": "27bbd0f85176debd571690870635cb8bb2e14d989d50f5d6a40e0e80b5502c4c",
+    "metadata.json": "d5b828e67a37c03bf46eecfd87b710e381f8f3cce990983ddac2f605df02b147",
     "roblox.com/page-0/script-007.js": "a406bd97fed4ceb8954133f97a6d5c225b2f673606c5d439de4a910c83b4ecad",
     "roblox.com/page-1/script-007.js": "a406bd97fed4ceb8954133f97a6d5c225b2f673606c5d439de4a910c83b4ecad",
     "www.roblox.com/page-0/script-000.js": "f5641e111fbcbc519c8b140eed0015e4e6d0346d9a1b6e57959e3268de21653c",
     "www.roblox.com/page-1/script-000.js": "f5641e111fbcbc519c8b140eed0015e4e6d0346d9a1b6e57959e3268de21653c"
   },
-  "id": "2e30c38365a7a0f834f85248120f0a036fdaed1da22d580712a612d1eb2f9950",
+  "id": "3be50df04ce220718a23f614621e86da3b30092560c00f2040c4bba3ed72f0d1",
   "observationMode": "live",
-  "observedAt": "2026-11-05T18:39:45.176Z",
+  "observedAt": "2026-11-05T23:53:07.085Z",
   "provenance": [
     {
       "bytes": 7972,
@@ -374,6 +374,18 @@
       "sourceUrl": "https://js.rbxcdn.com/13b3b0cf97cfb5da4538eb0c59f252188b4f724f9328c264a58d24a714e41fe5.js"
     },
     {
+      "bytes": 450740,
+      "sha256": "751b2909c455497f18a59698e89a739d09b703fc117839b6c6b7d42082f1aaac",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/19f3928bf9a30d9337452e9b282460e71a679459e774627bf76ac6fea1c8d4fb-VerificationUpsell.js"
+    },
+    {
+      "bytes": 450740,
+      "sha256": "751b2909c455497f18a59698e89a739d09b703fc117839b6c6b7d42082f1aaac",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/19f3928bf9a30d9337452e9b282460e71a679459e774627bf76ac6fea1c8d4fb-VerificationUpsell.js"
+    },
+    {
       "bytes": 3150,
       "sha256": "b30c20b3a8be968ab25a05f2969065a6573751cd7e49a54a6494a9f068eca8d1",
       "sourceType": "official",
@@ -396,6 +408,18 @@
       "sha256": "c5e7ba7dc5f85747c8f6974a97a0e86a63c1d486b950f6ad3a7d26155c2c91ca",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/1f5c50ba918a5773a2e4a0308683747225b446c67f5089282954865c0e0f76a6.js"
+    },
+    {
+      "bytes": 1297664,
+      "sha256": "007e6b2742110ca444df5dea94a56db26660f08e3b8d6492cfacfa7bdc7d3055",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/1fb0ecc3db4cf6d25bfbbc5d65ef9516575863a1a18c5330cf8273d901ca6df8-Challenge.js"
+    },
+    {
+      "bytes": 1297664,
+      "sha256": "007e6b2742110ca444df5dea94a56db26660f08e3b8d6492cfacfa7bdc7d3055",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/1fb0ecc3db4cf6d25bfbbc5d65ef9516575863a1a18c5330cf8273d901ca6df8-Challenge.js"
     },
     {
       "bytes": 1520,
@@ -764,18 +788,6 @@
       "sourceUrl": "https://js.rbxcdn.com/5b220b5a67a737eb342362cad0f4b9de482619f2d0bf2c2fdaacda58261b79cd.js"
     },
     {
-      "bytes": 24481,
-      "sha256": "1e0cd2c16c8f74a553c3d3634f9220afd60fbb901e4ab7d9d1583118012f04a2",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/5b3170c956b0c87ade14d298bcf45d0bae3991c1b427b7e1624bf94e488792c0-EmailVerifyCodeModal.js"
-    },
-    {
-      "bytes": 24481,
-      "sha256": "1e0cd2c16c8f74a553c3d3634f9220afd60fbb901e4ab7d9d1583118012f04a2",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/5b3170c956b0c87ade14d298bcf45d0bae3991c1b427b7e1624bf94e488792c0-EmailVerifyCodeModal.js"
-    },
-    {
       "bytes": 4136,
       "sha256": "0860ee21dce36d864a507616c877d84552825a4599b5ad5bacc54febc01e74a3",
       "sourceType": "official",
@@ -1088,16 +1100,28 @@
       "sourceUrl": "https://js.rbxcdn.com/95aad7f7b1cdec3dc13afca4629d0d47d8fb30a40e4210acaca32664fe47b9ba-RealTime.js"
     },
     {
+      "bytes": 198235,
+      "sha256": "bb79df4fefb2df5166ca23aafbc658b83871a6be54009f06ee18d5b79a994352",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/96d37660a08309b511e9983fe3844c84.js"
+    },
+    {
       "bytes": 130169,
       "sha256": "f55ce107e3a2191086561efffccb8fa0b61d44f45ae677fab7de06e6ab6604e4",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/9731c232fa99c58b0dafafc81cc7905b.js"
     },
     {
-      "bytes": 497,
-      "sha256": "dafed2ec2155d65eac7fc643ba9b3bca2fcc99dbb03e55f097cfafd81f658bfb",
+      "bytes": 266303,
+      "sha256": "11daa8fc8a245f8d907a5cba9cfdf6bea0ec444c9cdc9a144428eeb5d6aaf0f9",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/993eb6cb9b2ed18baadeca1088086e99ede5c9877cb7fe9700e0c6854bfeefe0.js"
+      "sourceUrl": "https://js.rbxcdn.com/9924a686bd1dc1a2f4f42ea04ea587397602739b7977c06a3a43bc90df38bc9e-EmailVerifyCodeModal.js"
+    },
+    {
+      "bytes": 266303,
+      "sha256": "11daa8fc8a245f8d907a5cba9cfdf6bea0ec444c9cdc9a144428eeb5d6aaf0f9",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/9924a686bd1dc1a2f4f42ea04ea587397602739b7977c06a3a43bc90df38bc9e-EmailVerifyCodeModal.js"
     },
     {
       "bytes": 497,
@@ -1106,34 +1130,28 @@
       "sourceUrl": "https://js.rbxcdn.com/993eb6cb9b2ed18baadeca1088086e99ede5c9877cb7fe9700e0c6854bfeefe0.js"
     },
     {
-      "bytes": 36151,
-      "sha256": "94280e610f922f7ae227a4fa8cea8e5e9c77350cf2756ceb0625e0e4e2082305",
+      "bytes": 497,
+      "sha256": "dafed2ec2155d65eac7fc643ba9b3bca2fcc99dbb03e55f097cfafd81f658bfb",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/a3b438d193ea01e1a7885196646241cb7df627fb703d2fd79be0860978a7bff5.js"
-    },
-    {
-      "bytes": 36151,
-      "sha256": "94280e610f922f7ae227a4fa8cea8e5e9c77350cf2756ceb0625e0e4e2082305",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/a3b438d193ea01e1a7885196646241cb7df627fb703d2fd79be0860978a7bff5.js"
-    },
-    {
-      "bytes": 1289732,
-      "sha256": "8e108021026e9a71c940581acf4d832ae73eccb61bd10fe952099b064134363a",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/a6afd84b9b1897db81dc5cd72f5fd745df3e0d9d5ae8c1f14e088d42804cf3f4-Challenge.js"
-    },
-    {
-      "bytes": 1289732,
-      "sha256": "8e108021026e9a71c940581acf4d832ae73eccb61bd10fe952099b064134363a",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/a6afd84b9b1897db81dc5cd72f5fd745df3e0d9d5ae8c1f14e088d42804cf3f4-Challenge.js"
+      "sourceUrl": "https://js.rbxcdn.com/993eb6cb9b2ed18baadeca1088086e99ede5c9877cb7fe9700e0c6854bfeefe0.js"
     },
     {
       "bytes": 206406,
-      "sha256": "e71df9e59a78a1dca5912a72b354c58fbbed77f7f52094c4f18ce805be9f0295",
+      "sha256": "27bbd0f85176debd571690870635cb8bb2e14d989d50f5d6a40e0e80b5502c4c",
       "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/a903ad9579b1ee6427c2212b193940c2.js"
+      "sourceUrl": "https://js.rbxcdn.com/9cbb17e45957a25fed49fbedf62f99c0.js"
+    },
+    {
+      "bytes": 36151,
+      "sha256": "94280e610f922f7ae227a4fa8cea8e5e9c77350cf2756ceb0625e0e4e2082305",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/a3b438d193ea01e1a7885196646241cb7df627fb703d2fd79be0860978a7bff5.js"
+    },
+    {
+      "bytes": 36151,
+      "sha256": "94280e610f922f7ae227a4fa8cea8e5e9c77350cf2756ceb0625e0e4e2082305",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/a3b438d193ea01e1a7885196646241cb7df627fb703d2fd79be0860978a7bff5.js"
     },
     {
       "bytes": 1665659,
@@ -1442,24 +1460,6 @@
       "sourceUrl": "https://js.rbxcdn.com/e983e18532310b80e1e8f3fcf3677b64ab19f00bf78919bdd2bd307827099a82.js"
     },
     {
-      "bytes": 181590,
-      "sha256": "eff11868710040b5e3dab18653759ab22d0a996cf76048490d79fd595216cf20",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/ea02dd03dee8d01ac1d70c79d1a67cd19f1a2cee81b5796e32ae0102917d8992-VerificationUpsell.js"
-    },
-    {
-      "bytes": 181590,
-      "sha256": "eff11868710040b5e3dab18653759ab22d0a996cf76048490d79fd595216cf20",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/ea02dd03dee8d01ac1d70c79d1a67cd19f1a2cee81b5796e32ae0102917d8992-VerificationUpsell.js"
-    },
-    {
-      "bytes": 198235,
-      "sha256": "333f78c97d8c43d5dce619f2e786b5fe55f66c64f43445142d5fc5cae3ead9e2",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/ec253ebf10e996c22099ed4aa43b2150.js"
-    },
-    {
       "bytes": 5878,
       "sha256": "50d99b89f6d7649bb410c4cf12a52cece115ae7a44f39ecf2c4692a53fe4f904",
       "sourceType": "official",
@@ -1562,7 +1562,7 @@
       "sourceUrl": "https://www.roblox.com/js/utilities/bundleVerifier.js?v=d8be7ec8aee81a9acf17014aae64dd2e"
     }
   ],
-  "sequence": 205,
+  "sequence": 206,
   "status": "available",
   "summary": {
     "assets": 222,

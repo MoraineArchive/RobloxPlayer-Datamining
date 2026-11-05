@@ -1,0 +1,472 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-5a21b87bbc2641cf",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.745.0.7451137"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "7b8057c15073d4ea1cc44d638c5747f92e032a66c132b91cc6f61e97a4eb024d",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "a87b01f847c965bcfd7453ea50f9e1db452bfe36ec8070b95396e90098da4d0d",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "1f623dd38b1475f6a69efd4c708bc972f92964857239f0ec7e47ca9b7be17e52",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "1abc08ed4e727f3eca3ea71201d7edda772ed7c959f6b7b0cb7f86ceab58252d",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "85932023906ad9e55d3a4cd07ec8e5297bfd62a9772d5962403f62d3bc1702ac",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "0909fa00d01520d635125f1a64c911475658b97f3c93504082e5285ee085dc47",
+      "semantic": {
+        "added": [
+          "DFFlagAudioSpeechToTextDiagnosticDownmixAtExtract_Staged",
+          "DFFlagRbxTransportWasmDatagramWritableCompat",
+          "DFFlagSatPolyPolyContactEnabled2_PlaceFilter",
+          "DFFlagSimRuntimeContentAllowTeamCreateImage_Staged",
+          "DFIntQuicPacketLostPacketAggregationCountThreshold",
+          "FFlagAACAssetPublishCommandsTelemetry_Staged",
+          "FFlagAACAssetPublishCommands_Staged",
+          "FFlagAXSduiCatalogItemGroupNilIdGuard",
+          "FFlagActorPoolWithChangingConcurrency",
+          "FFlagAddFriendsDeprecateUnusedReducers_Staged",
+          "FFlagAmrAssetDetailView",
+          "FFlagAmrPublishDraftAssetsOnInsert_Staged",
+          "FFlagAndroidWebViewInsetDrivenOffset",
+          "FFlagAppIaScrollAwayDisableChat_Staged",
+          "FFlagAssistantAvatarGenHumanoidRigDescription",
+          "FFlagAssistantGen3dAsyncAssetUpload",
+          "FFlagAvatarRulesBodyExtentsExcludeRootPart",
+          "FFlagAvatarSettingsPreviewStandardWalkAnimation",
+          "FFlagAvatarSettingsStandardPackClearRestoresStandardClip",
+          "FFlagAvatarSettingsWarnOnPlaceSave",
+          "FFlagBindToAnimationParallel",
+          "FFlagBindToSimulationParallel",
+          "FFlagCLI197983",
+          "FFlagCLI227568ReplicateStitchedAttributes",
+          "FFlagContactsListEmojiSortingIXP",
+          "FFlagEnableAndroidUnifiedSystemBarControl2",
+          "FFlagEnableEdgeToEdgeMigrationAndroid",
+          "FFlagEnableIncomingCallBottomInsetAndroid",
+          "FFlagEnableStudioTeleports",
+          "FFlagExpChatUnmountTranslationFTUX",
+          "FFlagFixBulkPurchaseTopBarObfuscation_IXP",
+          "FFlagFriendsChatServerSideConversationSearch4",
+          "FFlagGen3dTextureGenReapplyMeshInPlace_Staged",
+          "FFlagLuaAppEnableStratusStreamingTestOnly_IXP",
+          "FFlagLuauNonreentrantLookupTableProp",
+          "FFlagLuauOneBitAssumedConstraintTracking",
+          "FFlagMomentsActionRailNarrowWidth",
+          "FFlagMomentsCreatorAttributionIxpEnabled",
+          "FFlagMomentsImageWithSkeletonRetry",
+          "FFlagMomentsModeratedMomentPage",
+          "FFlagMomentsRecommendationContentType",
+          "FFlagMomentsRenderPostAssets2",
+          "FFlagMomentsServeEDPVideos4",
+          "FFlagMomentsSmartVideoFill",
+          "FFlagPerformanceControlFixMemoryBufferMedianAggregation",
+          "FFlagPerformanceControlFixZeroInitMemoryBufferFallback",
+          "FFlagPlayTestServerTeleports",
+          "FFlagPlayerListFixDropDownVerifiedBadgeSize",
+          "FFlagSQLiteMoveLog_Staged",
+          "FFlagShareSheetPeoplePickerEnabled2_Staged",
+          "FFlagSoftwareOcclusionPerVisualEngine2_Staged",
+          "FFlagSoftwareOcclusionPerVisualEngineFlaggingFix_Staged",
+          "FFlagSplitPaneEducationalTourTelemetry_IXP",
+          "FFlagStudioJoinConfigFetcherSharedFuture",
+          "FFlagStudioNederlandsLocale",
+          "FFlagTCShareLinkWrongRecipient",
+          "FFlagTextureGenAsyncAssetUpload",
+          "FFlagTextureGenStudioReplaceInPlace_Staged",
+          "FFlagUIShadowInset",
+          "FFlagUIShadowKnockout",
+          "FFlagUseStratusServer_IXP",
+          "FFlagUserProfileMergeCachedNames_Staged",
+          "FFlagVoiceVolumeControlsEnablePerUserVolumeInteractionTelemetry2_Staged",
+          "FStringMomentsCreatorAttributionIxpLayer",
+          "FStringPaymentsBuyRobuxLayer"
+        ],
+        "changed": [
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10774805165;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10768492546;10761698214",
+            "name": "DFFlagAvatarAbilitiesUseStudioBeta2Asset_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10774805165;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10768492546;10761698214",
+            "name": "DFFlagPlayerControlStateAcceptOldSchema_UniverseFilter"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "DFFlagTelemetryMultAsDouble"
+          },
+          {
+            "after": "100",
+            "before": "10",
+            "name": "DFIntInvalidTelemetryInputCounterThrottleHundredthsPercent"
+          },
+          {
+            "after": "0",
+            "before": "10000",
+            "name": "DFIntRewardedVideoAdServiceShowAdErrorEventThrottleHundrethsPercent"
+          },
+          {
+            "after": "100",
+            "before": "10",
+            "name": "DFIntRobloxTelemetryHttpMetricsThrottleHundredthsPercent"
+          },
+          {
+            "after": "0",
+            "before": "10000",
+            "name": "DFIntShowRewardedVideoAdResultEventThrottleHundrethsPercent"
+          },
+          {
+            "after": "f24faf7bf2f125a2e6d78aede5ed40f65848a04a",
+            "before": "4e6c5ca13f7fdeaca9a0a78d86d2184ff5e5e48a",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-05T23:51:00.635Z",
+            "before": "2026-11-05T18:56:20.887Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "rbxassetid://90046778086349",
+            "before": "rbxassetid://134298046760445",
+            "name": "DFStringRbxAvatarAbilitiesStudioBeta2ContentUri"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagAddCompressionInConnectionInternalSend5"
+          },
+          {
+            "after": "True;117393659852834;88860002459743;91455138542672;117221595697773;135314994634045;137435826278658;110732780487377;90541417837262;117549525000662;77732287635989;128835963011731;130776617911790;137238309924160;137292969206113;116067489537500",
+            "before": "True;117393659852834;88860002459743;91455138542672;117221595697773;135314994634045;137435826278658;110732780487377;90541417837262;117549525000662;77732287635989;128835963011731;130776617911790;137238309924160;137292969206113",
+            "name": "FFlagAnimGraphExpressionValueNode_PlaceFilter"
+          },
+          {
+            "after": "True;117393659852834;88860002459743;91455138542672;117221595697773;135314994634045;137435826278658;110732780487377;90541417837262;117549525000662;77732287635989;128835963011731;130776617911790;137238309924160;137292969206113;116067489537500",
+            "before": "True;117393659852834;88860002459743;91455138542672;117221595697773;135314994634045;137435826278658;110732780487377;90541417837262;117549525000662;77732287635989;128835963011731;130776617911790;137238309924160;137292969206113",
+            "name": "FFlagAnimGraphStateMachine2_PlaceFilter"
+          },
+          {
+            "after": "True;117393659852834;88860002459743;91455138542672;117221595697773;135314994634045;137435826278658;110732780487377;90541417837262;117549525000662;77732287635989;128835963011731;130776617911790;137238309924160;137292969206113;116067489537500",
+            "before": "True;117393659852834;88860002459743;91455138542672;117221595697773;135314994634045;137435826278658;110732780487377;90541417837262;117549525000662;77732287635989;128835963011731;130776617911790;137238309924160;137292969206113",
+            "name": "FFlagAnimGraphUIEnableExpressionNodes2_PlaceFilter"
+          },
+          {
+            "after": "True;117393659852834;88860002459743;91455138542672;117221595697773;135314994634045;137435826278658;110732780487377;90541417837262;117549525000662;77732287635989;128835963011731;130776617911790;137238309924160;137292969206113;116067489537500",
+            "before": "True;117393659852834;88860002459743;91455138542672;117221595697773;135314994634045;137435826278658;110732780487377;90541417837262;117549525000662;77732287635989;128835963011731;130776617911790;137238309924160;137292969206113",
+            "name": "FFlagAnimGraphUIEnableValueNodes_PlaceFilter"
+          },
+          {
+            "after": "True;117393659852834;88860002459743;91455138542672;117221595697773;135314994634045;137435826278658;110732780487377;90541417837262;117549525000662;77732287635989;128835963011731;130776617911790;137238309924160;137292969206113;116067489537500",
+            "before": "True;117393659852834;88860002459743;91455138542672;117221595697773;135314994634045;137435826278658;110732780487377;90541417837262;117549525000662;77732287635989;128835963011731;130776617911790;137238309924160;137292969206113",
+            "name": "FFlagAnimGraphUI_PoseStateMachineNode_PlaceFilter"
+          },
+          {
+            "after": "True;117393659852834;88860002459743;91455138542672;117221595697773;135314994634045;137435826278658;110732780487377;90541417837262;117549525000662;77732287635989;128835963011731;130776617911790;137238309924160;137292969206113;116067489537500",
+            "before": "True;117393659852834;88860002459743;91455138542672;117221595697773;135314994634045;137435826278658;110732780487377;90541417837262;117549525000662;77732287635989;128835963011731;130776617911790;137238309924160;137292969206113",
+            "name": "FFlagAnimGraphValueNodesUnsynced_PlaceFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10774805165;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10768492546;10761698214",
+            "name": "FFlagAvatarSettingsClientInitializeScriptType_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10774805165;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10768492546;10761698214",
+            "name": "FFlagAvatarSettingsCrouchSprintStrafe3_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10774805165;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10768492546;10761698214",
+            "name": "FFlagAvatarSettingsTurning_UniverseFilter"
+          },
+          {
+            "after": "1;Payments.BuyRobux.All.ExposureBased;Payments.BuyRobux.NextJS.V1;429797460;dev_controlled",
+            "before": "1;Payments.BuyRobux.All;Payments.BuyRobux.NextJS.V1;429797460;dev_controlled",
+            "name": "FFlagBuyRobuxLatencyIxpEnabled_IXP"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10774805165;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10768492546;10761698214",
+            "name": "FFlagCclClientInitializeFrom2026Jun03AbilityManagerRepo3_UniverseFilter"
+          },
+          {
+            "after": "1;ConsumerApps.Platforms.SplitPane.LowMemory;ConsumerApps.Platforms.SplitPaneLowMemoryBucket;2102945944;flagbank",
+            "before": "1;ConsumerApps.Platforms.SplitPane;ConsumerApps.Platforms.SplitPaneHighMemoryBucket;1721728432;flagbank",
+            "name": "FFlagDetailsPageLayoutUseMeasuredSizeForInitialScroll_IXP"
+          },
+          {
+            "after": "1;Payments.BuyRobux.All.ExposureBased;Payments.BuyRobux.NextJS.V1;429797460;dev_controlled",
+            "before": "1;Payments.BuyRobux.All;Payments.BuyRobux.NextJS.V1;429797460;dev_controlled",
+            "name": "FFlagEnableBuyRobuxNextJS_IXP"
+          },
+          {
+            "after": "1;ConsumerApps.Platforms.SplitPane.LowMemory;ConsumerApps.Platforms.SplitPaneLowMemoryBucket;2102945944;flagbank",
+            "before": "1;ConsumerApps.Platforms.SplitPane;ConsumerApps.Platforms.SplitPaneHighMemoryBucket;1721728432;flagbank",
+            "name": "FFlagEnableOnScreenAPIIntegration_IXP"
+          },
+          {
+            "after": "1;ConsumerApps.Platforms.SplitPane.LowMemory;ConsumerApps.Platforms.SplitPaneLowMemoryBucket;2102945944;flagbank",
+            "before": "1;ConsumerApps.Platforms.SplitPane;ConsumerApps.Platforms.SplitPaneHighMemoryBucket;1721728432;flagbank",
+            "name": "FFlagEnableSplitPaneAvatarOverlayV1_IXP"
+          },
+          {
+            "after": "1;ConsumerApps.Platforms.SplitPane.LowMemory;ConsumerApps.Platforms.SplitPaneLowMemoryBucket;2102945944;flagbank",
+            "before": "1;ConsumerApps.Platforms.SplitPane;ConsumerApps.Platforms.SplitPaneHighMemoryBucket;1721728432;flagbank",
+            "name": "FFlagEnableSplitPaneEDPFix_IXP"
+          },
+          {
+            "after": "1;ConsumerApps.Platforms.SplitPane.LowMemory;ConsumerApps.Platforms.SplitPaneLowMemoryBucket;2102945944;flagbank",
+            "before": "1;ConsumerApps.Platforms.SplitPane;ConsumerApps.Platforms.SplitPaneHighMemoryBucket;1721728432;flagbank",
+            "name": "FFlagEnableSplitPaneSessionL3_IXP"
+          },
+          {
+            "after": "1;ConsumerApps.Platforms.SplitPane.LowMemory;ConsumerApps.Platforms.SplitPaneLowMemoryBucket;2102945944;flagbank",
+            "before": "1;ConsumerApps.Platforms.SplitPane;ConsumerApps.Platforms.SplitPaneHighMemoryBucket;1721728432;flagbank",
+            "name": "FFlagEnableSplitPaneV1_IXP"
+          },
+          {
+            "after": "1;ConsumerApps.Platforms.SplitPane.LowMemory;ConsumerApps.Platforms.SplitPaneLowMemoryBucket;2102945944;flagbank",
+            "before": "1;ConsumerApps.Platforms.SplitPane;ConsumerApps.Platforms.SplitPaneHighMemoryBucket;1721728432;flagbank",
+            "name": "FFlagLuaAppEnableDeviceInsetBackground1_IXP"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10774805165;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10768492546;10761698214",
+            "name": "FFlagPlayerControlStateApplyInputOnClientNonSAuth2_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10774805165;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10768492546;10761698214",
+            "name": "FFlagPlayerControlStateEnabled_UniverseFilter"
+          },
+          {
+            "after": "1;ConsumerApps.Platforms.SplitPane.LowMemory;ConsumerApps.Platforms.SplitPaneLowMemoryBucket;2102945944;flagbank",
+            "before": "1;ConsumerApps.Platforms.SplitPane;ConsumerApps.Platforms.SplitPaneHighMemoryBucket;1721728432;flagbank",
+            "name": "FFlagSplitPaneEducationalTour_IXP"
+          },
+          {
+            "after": "1;ConsumerApps.Platforms.SplitPane.LowMemory;ConsumerApps.Platforms.SplitPaneLowMemoryBucket;2102945944;flagbank",
+            "before": "1;ConsumerApps.Platforms.SplitPane;ConsumerApps.Platforms.SplitPaneHighMemoryBucket;1721728432;flagbank",
+            "name": "FFlagSplitPaneExperimentVariants1_IXP"
+          },
+          {
+            "after": "1;ConsumerApps.Platforms.SplitPane.LowMemory;ConsumerApps.Platforms.SplitPaneLowMemoryBucket;2102945944;flagbank",
+            "before": "1;ConsumerApps.Platforms.SplitPane;ConsumerApps.Platforms.SplitPaneHighMemoryBucket;1721728432;flagbank",
+            "name": "FFlagSplitPaneFixClassicThemeHeader_IXP"
+          },
+          {
+            "after": "1;ConsumerApps.Platforms.SplitPane.LowMemory;ConsumerApps.Platforms.SplitPaneLowMemoryBucket;2102945944;flagbank",
+            "before": "1;ConsumerApps.Platforms.SplitPane;ConsumerApps.Platforms.SplitPaneHighMemoryBucket;1721728432;flagbank",
+            "name": "FFlagSplitPaneProfileMaxWidth_IXP"
+          },
+          {
+            "after": "1;ConsumerApps.Platforms.SplitPane.LowMemory;ConsumerApps.Platforms.SplitPaneLowMemoryBucket;2102945944;flagbank",
+            "before": "1;ConsumerApps.Platforms.SplitPane;ConsumerApps.Platforms.SplitPaneHighMemoryBucket;1721728432;flagbank",
+            "name": "FFlagSplitPaneVariantAvatarOnHomeOnly_IXP"
+          },
+          {
+            "after": "1;ConsumerApps.Platforms.SplitPane.LowMemory;ConsumerApps.Platforms.SplitPaneLowMemoryBucket;2102945944;flagbank",
+            "before": "1;ConsumerApps.Platforms.SplitPane;ConsumerApps.Platforms.SplitPaneHighMemoryBucket;1721728432;flagbank",
+            "name": "FFlagSplitPaneVariantCollapsedAutoOpen_IXP"
+          },
+          {
+            "after": "1;ConsumerApps.Platforms.SplitPane.LowMemory;ConsumerApps.Platforms.SplitPaneLowMemoryBucket;2102945944;flagbank",
+            "before": "1;ConsumerApps.Platforms.SplitPane;ConsumerApps.Platforms.SplitPaneHighMemoryBucket;1721728432;flagbank",
+            "name": "FFlagSplitPaneVariantDefaultCollapsed_IXP"
+          },
+          {
+            "after": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+            "before": "1;Experience.Menu.Console;Experience.Menu.TopBar.RefactorPhase2;344848757;flagbank",
+            "name": "FFlagTopBarRefactor2_IXP"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagUpgradedUIShadowsBetaFeature"
+          },
+          {
+            "after": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+            "before": "1;Experience.Menu.Console;Experience.Menu.TopBar.RefactorPhase2;344848757;flagbank",
+            "name": "FFlagUseNewHeadsetDisconnectDialog_IXP"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10774805165;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10768492546;10761698214",
+            "name": "FFlagUserAbilitiesUserInterfaceA_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10774805165;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10768492546;10761698214",
+            "name": "FFlagUserPlayerScriptsCCLIntegrationD_UniverseFilter"
+          },
+          {
+            "after": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10774805165;10768492546;10761698214",
+            "before": "True;10139630272;10770019413;10769634303;10769786660;10769920376;10769888690;10769922255;10769928435;10770723134;10770582633;10769909775;10769924064;10771975609;10768492546;10761698214",
+            "name": "FFlagUserPlayerScriptsPlayerControlState2_UniverseFilter"
+          },
+          {
+            "after": "2000",
+            "before": "500",
+            "name": "FIntTexturePackShadowUploadPropertySetsHundredthPercent"
+          },
+          {
+            "after": "f24faf7bf2f125a2e6d78aede5ed40f65848a04a",
+            "before": "4e6c5ca13f7fdeaca9a0a78d86d2184ff5e5e48a",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-05T23:51:00.635Z",
+            "before": "2026-11-05T18:56:20.887Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "True;117393659852834;88860002459743;91455138542672;117221595697773;135314994634045;137435826278658;110732780487377;90541417837262;117549525000662;77732287635989;128835963011731;130776617911790;137238309924160;137292969206113;116067489537500",
+            "before": "True;117393659852834;88860002459743;91455138542672;117221595697773;135314994634045;137435826278658;110732780487377;90541417837262;117549525000662;77732287635989;128835963011731;130776617911790;137238309924160;137292969206113",
+            "name": "SFFlagAnimGraphValueNodes2_PlaceFilter"
+          },
+          {
+            "after": "True;117393659852834;88860002459743;91455138542672;117221595697773;135314994634045;137435826278658;110732780487377;90541417837262;117549525000662;77732287635989;128835963011731;130776617911790;137238309924160;137292969206113;116067489537500",
+            "before": "True;117393659852834;88860002459743;91455138542672;117221595697773;135314994634045;137435826278658;110732780487377;90541417837262;117549525000662;77732287635989;128835963011731;130776617911790;137238309924160;137292969206113",
+            "name": "SFFlagAnimGraphValueNodes_PlaceFilter"
+          }
+        ],
+        "removed": [
+          "DFFlagEnableEmotePublish3_PlaceFilter",
+          "DFFlagRbxTransportWasmDatagramWritableCompat_Staged",
+          "DFStringRbxAvatarAbilitiesStudioBeta2ContentUri_Staged",
+          "FFlagActorPoolWithChangingConcurrency_Staged",
+          "FFlagAmrAssetDetailView_Staged",
+          "FFlagAssistantAvatarGenHumanoidRigDescription_Staged",
+          "FFlagAssistantGen3dAsyncAssetUpload_Staged",
+          "FFlagAvatarRulesBodyExtentsExcludeRootPart_Staged",
+          "FFlagAvatarSettingsPreviewStandardWalkAnimation_Staged",
+          "FFlagAvatarSettingsStandardPackClearRestoresStandardClip_Staged",
+          "FFlagAvatarSettingsWarnOnPlaceSave_Staged",
+          "FFlagBindToAnimationParallel_Staged",
+          "FFlagBindToSimulationParallel_Staged",
+          "FFlagCLI197983_Staged",
+          "FFlagCLI227568ReplicateStitchedAttributes_Staged",
+          "FFlagEnableStudioTeleports_Staged",
+          "FFlagExpChatUnmountTranslationFTUX_Staged",
+          "FFlagLuauNonreentrantLookupTableProp_Staged",
+          "FFlagMomentsActionRailNarrowWidth_Staged",
+          "FFlagMomentsCreatorAttributionIxpEnabled_Staged",
+          "FFlagMomentsModeratedMomentPage_Staged",
+          "FFlagMomentsRecommendationContentType_Staged",
+          "FFlagMomentsRenderPostAssets2_Staged",
+          "FFlagMomentsServeEDPVideos4_Staged",
+          "FFlagMomentsSmartVideoFill_Staged",
+          "FFlagPlayTestServerTeleports_Staged",
+          "FFlagStudioJoinConfigFetcherSharedFuture_Staged",
+          "FFlagStudioNederlandsLocale_Staged",
+          "FFlagTextureGenAsyncAssetUpload_Staged",
+          "FFlagUIShadowInset_Staged",
+          "FFlagUIShadowKnockout_Staged",
+          "FFlagUpgradedUIShadowsBetaFeature_Staged",
+          "FIntTexturePackShadowUploadPropertySetsHundredthPercent_Staged",
+          "FStringMomentsCreatorAttributionIxpLayer_Staged",
+          "FStringPaymentsBuyRobuxLayer_Staged"
+        ],
+        "unchanged": 24656
+      }
+    },
+    "UniversalApp": {
+      "current": "032edaf5031a132eaa2bcccc3a50050c42402abb6a965f5f4b4c0d9bcf1f3f77",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "598af348f38b12c0f353f8e887955d23e799bdfe23d39794c4bd580e445b9c7e",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "3be50df04ce220718a23f614621e86da3b30092560c00f2040c4bba3ed72f0d1",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/Challenge.js",
+          "js.rbxcdn.com/page-0/EmailVerifyCodeModal.js",
+          "js.rbxcdn.com/page-0/VerificationUpsell.js",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "js.rbxcdn.com/page-1/Challenge.js",
+          "js.rbxcdn.com/page-1/EmailVerifyCodeModal.js",
+          "js.rbxcdn.com/page-1/VerificationUpsell.js",
+          "js.rbxcdn.com/page-1/pageEnd.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 214
+      },
+      "previous": "2e30c38365a7a0f834f85248120f0a036fdaed1da22d580712a612d1eb2f9950",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
