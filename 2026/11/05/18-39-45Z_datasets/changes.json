@@ -1,0 +1,149 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-5a21b87bbc2641cf",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.745.0.7451137"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "707df754a508f9f6592eb3f45ab59e6604c593879ee50dd0b0df15d7530a57bc",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "5b57e7d38aff30c02f0b718a68186f7e434f6cc26e54277f67b12e724a1bbbe2",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "fcfab64c6f7776acacbbb3aa932783251e8ff8ac83c16e958127f0e1c9acefc1",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "174511267cfa03d53f14a9b00ac02cd721c16505aa8d7fb039e541f6dad1d02d",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "75b4c250057daa96973d06979ad452bbf867fd6e54afb93cb502d71678e715aa",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "38310567fb6cafdceef86e8cb5f9468e786d7b3749b1015aa1fadb8b7166f5e8",
+      "semantic": {
+        "added": [
+          "DFFlagHumanoidScaleTightWriteGate",
+          "DFFlagUIShadowTextMode4",
+          "DFFlagUIShadowWorksWithUIGradient",
+          "DFFlagValidateEditableMeshData",
+          "FFlagMomentsCreatorAttributionIxpEnabled_Staged",
+          "FFlagUIShadowInset_Staged",
+          "FFlagUIShadowKnockout_Staged",
+          "FFlagUpgradedUIShadowsBetaFeature_Staged",
+          "FIntTexturePackShadowUploadPropertySetsHundredthPercent_Staged",
+          "FStringMomentsCreatorAttributionIxpLayer_Staged"
+        ],
+        "changed": [
+          {
+            "after": "a924475b3e8cc153d586f4bde0a2d74190020b69",
+            "before": "6690d78d0f3865602212d04818a74d8f2670eb47",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-05T18:37:48.669Z",
+            "before": "2026-11-05T18:13:47.591Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "a924475b3e8cc153d586f4bde0a2d74190020b69",
+            "before": "6690d78d0f3865602212d04818a74d8f2670eb47",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-05T18:37:48.669Z",
+            "before": "2026-11-05T18:13:47.591Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagHumanoidScaleTightWriteGate_Staged",
+          "DFFlagUIShadowTextMode4_Staged",
+          "DFFlagUIShadowWorksWithUIGradient_Staged",
+          "DFFlagValidateEditableMeshData_Staged"
+        ],
+        "unchanged": 24719
+      }
+    },
+    "UniversalApp": {
+      "current": "ffc1fa571dbf704372eb454720a66b27fdfe35e5de8b17ded067e22ef2d54e03",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "4646884cb9ff2fbca67774136d1f54492eb523d7177c608750ea34113747a7f2",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "2e30c38365a7a0f834f85248120f0a036fdaed1da22d580712a612d1eb2f9950",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 221
+      },
+      "previous": "5312dca4c29e42767eda70be33d344a5248cd23f84bd73625101870074c9101a",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
