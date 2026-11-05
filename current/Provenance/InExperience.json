@@ -1,6 +1,6 @@
 {
   "hashes": {
-    "PatchRoot/CoreScripts/Assets.txt": "fd4d74ebec801d58182684ce7226463ce6da3bb7b1b9828532f8293c72f893d4",
+    "PatchRoot/CoreScripts/Assets.txt": "5b4428ba2fe64cc448f4c46e2904794d00f0597ebcd256e62a38c44a20a43013",
     "PatchRoot/CoreScripts/CoreScriptLocalization.json": "2cc84a6a872e1d34c1ef06d4424bd238b9c40828bcca62f82cd848cb82c50b81",
     "PatchRoot/CoreScripts/CoreScriptLocalizationTrimmed.json": "c1cf0c578093019fad01b906b2190d43a915babf504d9eb0afa2813c873591a7",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Resources/Resources/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
@@ -8,14 +8,14 @@
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsExperimental/SignalsExperimental/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsReact/SignalsReact/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "instances.json": "f813ed563f7481f228ab70fd35158420a915bce37f0687a99b090493e051fef3",
-    "latest-asset.json": "bf2b4dbb51db1e10f87115f08ed9bb5f59dfb9bc8d656325a38957625063c752",
-    "metadata.json": "e8dff807d16a6970697334dc662911ee9c2d9d2821c18a734670c1167d9f7a66",
+    "instances.json": "6edd84830b36c4f16ac0bc37912b394118512e763c3749ed847cd3ccdd86616e",
+    "latest-asset.json": "37c5dbb45609d2e2651f9907fcb8f36edc067a57e7892afc1ad557c9c0bc870d",
+    "metadata.json": "0fc388a5a7b6eef88865de2bde9ba1ae203de3848b37a5ba65e8ec41800c8caa",
     "ota-config.json": "5059b16aeebd9016b27bda50725f64f40f523ce8c5d1ef15856253974b3f343f"
   },
-  "id": "2ad4719fa0a0b06a66af526fe4396da4f29db518f3b1a01844937736c6f0f600",
+  "id": "ad4bad940aac2d6a397fa8f0b22067bcf85eadf39882941324f7b3f6b9acd257",
   "observationMode": "live",
-  "observedAt": "2026-11-05T02:51:55.711Z",
+  "observedAt": "2026-11-05T09:56:17.925Z",
   "provenance": [
     {
       "bytes": 42863,
@@ -25,24 +25,24 @@
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.745.0.7451137&tag=Release&name=app-patch-in-experience"
     },
     {
-      "bytes": 14468748,
+      "bytes": 14939993,
       "derivedFrom": "InExperience.rbxm",
-      "sha256": "bc693579c958c7683691aaa4f5d369da5f34865673e6eaf59d3dd3e2544a4392",
+      "sha256": "093a0e12eaed29038c43a939ae654a95dc11f897bcb5dd7e44920ad553201ace",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=16712"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=16721"
     }
   ],
-  "sequence": 121,
+  "sequence": 122,
   "status": "partial",
   "summary": {
     "assetId": "80471914653504",
-    "assetVersion": "16712",
+    "assetVersion": "16721",
     "configuredAssetVersion": "16334",
     "engineRevision": 1,
-    "instances": 38259,
+    "instances": 39378,
     "localizationFiles": 2,
     "sources": 0,
-    "unreadableScripts": 35457
+    "unreadableScripts": 36544
   },
   "surface": "InExperience",
   "target": "WindowsPlayer"
