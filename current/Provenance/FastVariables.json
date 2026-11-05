@@ -3,11 +3,11 @@
     "combined.json": "5573d191dce5a03ef879d01b832295b04690a102ab83f83c440bd1597adeaf71",
     "cpp.txt": "16b13566f87647c3bfbef571a84ecb601c0a212f2b51f41adb410f2143d41f37",
     "lua.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
-    "metadata.json": "a4889d248d71a247b8c46f2fe1030d8821674093aed18ee8b35a729051dfc20c"
+    "metadata.json": "dcda8c3ed3526adebe29a69d07f46da1f30debb6c75d5a830f999a65e4019751"
   },
-  "id": "c2960adb667cf77896f8784ba5465d625d2a614727ca4129525f76aace45bfcb",
+  "id": "f2e3a258cf611275538a4b79b69b6f725d72d1746c1f7786c87606addaf3afa6",
   "observationMode": "live",
-  "observedAt": "2026-11-05T02:33:12.353Z",
+  "observedAt": "2026-11-05T02:44:23.482Z",
   "provenance": [
     {
       "buildGuid": "version-5a21b87bbc2641cf",
@@ -25,11 +25,11 @@
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.745.0.7451137&tag=Release&name=app-patch-in-experience"
     },
     {
-      "bytes": 14933949,
+      "bytes": 14931557,
       "derivedFrom": "InExperience.rbxm",
-      "sha256": "a96a9cae384e03a8049634347bd49cbb49688fb8b3af880e3231ce053c14bf01",
+      "sha256": "1f675fdd141745f8fcb5192ddb0e6f0b9781b4a6fec98163727e740335062788",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=16708"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=16709"
     },
     {
       "bytes": 42864,
@@ -86,7 +86,7 @@
       "sourceUrl": "https://setup.rbxcdn.com/version-5a21b87bbc2641cf-extracontent-translations.zip"
     }
   ],
-  "sequence": 126,
+  "sequence": 127,
   "status": "available",
   "summary": {
     "cpp": 29,
