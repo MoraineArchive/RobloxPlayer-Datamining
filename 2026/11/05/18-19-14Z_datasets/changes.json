@@ -1,0 +1,145 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-5a21b87bbc2641cf",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.745.0.7451137"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "5b57e7d38aff30c02f0b718a68186f7e434f6cc26e54277f67b12e724a1bbbe2",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "dd978ff8b56a6db617b94bfc89f214e4fe4c6be2b19261c7b07a421ed7efb9f5",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "174511267cfa03d53f14a9b00ac02cd721c16505aa8d7fb039e541f6dad1d02d",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "ad4bad940aac2d6a397fa8f0b22067bcf85eadf39882941324f7b3f6b9acd257",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "38310567fb6cafdceef86e8cb5f9468e786d7b3749b1015aa1fadb8b7166f5e8",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "6b791edf7d9618fdc3179356bdeb1a742aae6bb148c57daac3f7b3df4bf0ddd7",
+      "semantic": {
+        "added": [
+          "DFFlagHumanoidScaleTightWriteGate_Staged",
+          "DFFlagUIShadowTextMode4_Staged",
+          "DFFlagUIShadowWorksWithUIGradient_Staged",
+          "DFFlagValidateEditableMeshData_Staged",
+          "FFlagActorPoolWithChangingConcurrency_Staged",
+          "FFlagAmrAssetDetailView_Staged",
+          "FFlagAssistantGen3dAsyncAssetUpload_Staged",
+          "FFlagAvatarRulesBodyExtentsExcludeRootPart_Staged",
+          "FFlagAvatarSettingsPreviewStandardWalkAnimation_Staged",
+          "FFlagAvatarSettingsStandardPackClearRestoresStandardClip_Staged",
+          "FFlagAvatarSettingsWarnOnPlaceSave_Staged",
+          "FFlagBindToAnimationParallel_Staged",
+          "FFlagBindToSimulationParallel_Staged",
+          "FFlagBuyRobuxLatencyIxpEnabled_IXP",
+          "FFlagCLI197983_Staged",
+          "FFlagCLI227568ReplicateStitchedAttributes_Staged",
+          "FFlagEnableBuyRobuxNextJS_IXP",
+          "FFlagLuauNonreentrantLookupTableProp_Staged",
+          "FFlagMomentsActionRailNarrowWidth_Staged",
+          "FFlagMomentsModeratedMomentPage_Staged",
+          "FFlagMomentsRecommendationContentType_Staged",
+          "FFlagMomentsServeEDPVideos4_Staged",
+          "FFlagMomentsSmartVideoFill_Staged",
+          "FFlagStudioNederlandsLocale_Staged",
+          "FFlagTextureGenAsyncAssetUpload_Staged",
+          "FStringPaymentsBuyRobuxLayer_Staged"
+        ],
+        "changed": [
+          {
+            "after": "6690d78d0f3865602212d04818a74d8f2670eb47",
+            "before": "b130089e91e3b0bd4ffa884f8b8367bc5fcb51ca",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-05T18:13:47.591Z",
+            "before": "2026-11-05T03:02:19.689Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "6690d78d0f3865602212d04818a74d8f2670eb47",
+            "before": "b130089e91e3b0bd4ffa884f8b8367bc5fcb51ca",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-05T18:13:47.591Z",
+            "before": "2026-11-05T03:02:19.689Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 24697
+      }
+    },
+    "UniversalApp": {
+      "current": "4646884cb9ff2fbca67774136d1f54492eb523d7177c608750ea34113747a7f2",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "e4ed5e14c2c0163d53dd5b8357364c766ed89e3d04a311261d549ac0e475ce8f",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
