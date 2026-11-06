@@ -1,0 +1,104 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-f0ea5da9412f4e35",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.746.0.7461267"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "d7e66b1b864bcb6b7b28de6eaf184e233e23bfc0d001eb26c2ae8346f8802949",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "afbe35a345a9ebd53ee068b81ad717c6725cdd9af5d005554d3da826ee13c401",
+      "semantic": {
+        "added": [
+          "DFFlagCLI237093",
+          "DFFlagCLI237093A",
+          "DFFlagCLI237093B",
+          "DFFlagCLI237093C",
+          "DFFlagCLI237093D",
+          "DFFlagCLI237093E",
+          "DFFlagStreamingUnsubscribeKeepsCoarserTerrainLods",
+          "FFlagAACAssetPublishCommandsTelemetry",
+          "FFlagAddFriendsDeprecateUnusedReducers",
+          "FFlagAmrPublishDraftAssetsOnInsert",
+          "FFlagAppChatDebounceConversationFocusActivation",
+          "FFlagAppIaScrollAwayDisableChat",
+          "FFlagExpChatTCWMemoizeChatWindowBody",
+          "FFlagSQLiteMoveLog",
+          "FFlagSduiInteractableTileWrapper",
+          "FFlagShareSheetPeoplePickerEnabled2",
+          "FFlagStudioDialogManagerTertiaryButtonVariant",
+          "FFlagUGCValidateTransitionMakeupBounds_PlaceFilter",
+          "FFlagVoiceVolumeControlsEnablePerUserVolumeInteractionTelemetry2",
+          "FIntUGCValidateMakeupMaxUBound_PlaceFilter",
+          "FIntUGCValidateMakeupMaxVBound_PlaceFilter",
+          "FIntUGCValidateMakeupMinUBound_PlaceFilter",
+          "FIntUGCValidateMakeupMinVBound_PlaceFilter"
+        ],
+        "changed": [
+          {
+            "after": "9730e5b702993c998b3b63409166de48254472ec",
+            "before": "bf2f3fa4e51d00d6d6ef3ae6bc9f8c842f31ab25",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-06T03:02:28.778Z",
+            "before": "2026-11-06T00:32:07.551Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "9730e5b702993c998b3b63409166de48254472ec",
+            "before": "bf2f3fa4e51d00d6d6ef3ae6bc9f8c842f31ab25",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-06T03:02:28.778Z",
+            "before": "2026-11-06T00:32:07.551Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "",
+            "before": "https://43bd00cc9b5cf2ece95b75b1bb788f27@sentry-relay.rbx.com/3",
+            "name": "FStringLuaAppSentryDsn"
+          },
+          {
+            "after": "Payments.BuyRobux.All.ExposureBased",
+            "before": "Payments.BuyRobux.All",
+            "name": "FStringPaymentsBuyRobuxLayer"
+          }
+        ],
+        "removed": [
+          "DFFlagCLI237093A_Staged",
+          "DFFlagCLI237093B_Staged",
+          "DFFlagCLI237093C_Staged",
+          "DFFlagCLI237093D_Staged",
+          "DFFlagCLI237093E_Staged",
+          "DFFlagCLI237093_Staged",
+          "FFlagAACAssetPublishCommandsTelemetry_Staged",
+          "FFlagAACAssetPublishCommands_Staged",
+          "FFlagAddFriendsDeprecateUnusedReducers_Staged",
+          "FFlagAmrPublishDraftAssetsOnInsert_Staged",
+          "FFlagAppIaScrollAwayDisableChat_Staged",
+          "FFlagExpChatTCWMemoizeChatWindowBody_Staged",
+          "FFlagSQLiteMoveLog_Staged",
+          "FFlagShareSheetPeoplePickerEnabled2_Staged",
+          "FFlagStudioDialogManagerTertiaryButtonVariant_Staged",
+          "FFlagVoiceVolumeControlsEnablePerUserVolumeInteractionTelemetry2_Staged",
+          "FStringPaymentsBuyRobuxLayer_Staged"
+        ],
+        "unchanged": 24755
+      }
+    }
+  },
+  "schemaVersion": 1
+}
