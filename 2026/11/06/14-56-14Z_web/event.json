@@ -1,0 +1,23 @@
+{
+  "archivePath": "2026/11/06/14-56-14Z_web",
+  "commit": {
+    "body": "Web files          +6 ~2 -3",
+    "subject": "6 November 2026 - Web update"
+  },
+  "findings": {
+    "new": 0,
+    "updated": 0
+  },
+  "guid": "version-f0ea5da9412f4e35",
+  "id": "a81c5248ec67a825d69419ee6f1ccb6bf06c878a36b1e16bd06536345980d437",
+  "observedAt": "2026-11-06T14:56:14.846Z",
+  "product": "Player",
+  "schemaVersion": 1,
+  "surfaces": [
+    "Web"
+  ],
+  "target": "WindowsPlayer",
+  "type": "web.changed",
+  "upstreamChange": true,
+  "version": "0.746.0.7461267"
+}
