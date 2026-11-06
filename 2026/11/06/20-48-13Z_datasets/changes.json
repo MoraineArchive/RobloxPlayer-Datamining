@@ -1,0 +1,145 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-f0ea5da9412f4e35",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.746.0.7461267"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "80584be53b304896fb2e0588de3f56724dc258657b9585112723f9bc93e19e8a",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "35879d28e06d23ccc52b37da7e2a5e3729591108a7f62a3f69ea5be1c6a8623e",
+      "semantic": {
+        "added": [
+          "DFFlagAssetServiceSearchAudioV2Enabled",
+          "DFFlagDataModelPatcherFixBackupPaths",
+          "DFFlagRbxTransportDetectRecvThreadOverloadByRate",
+          "DFFlagRbxTransportRtcIoUseMultipleEventLoopThreads",
+          "DFFlagResumeSingleContinue",
+          "DFFlagStreamingDeferOldGridTerrainStreamOut",
+          "DFFlagTelemetryAddWasmAppArch",
+          "FFlagAXMemoizeEquippedLayeredMakeupAssets",
+          "FFlagAXPauseSceneWhenSplitPaneCollapsed1",
+          "FFlagAXScrollTelemetryIntegration2_Staged",
+          "FFlagAppBloxConfirmationDialogBackCloses",
+          "FFlagCustomTitleBarM1ExtraTelemetryIgnoreInvalidArg",
+          "FFlagDisableAppInitializerLegacyTelemetry_Staged",
+          "FFlagDisableRCCJobProfilingInfoLegacyTelemetry_Staged",
+          "FFlagEnableBuyRobuxNewRouting2_Staged",
+          "FFlagEnableDeeplinkGamesListSplitPaneContent",
+          "FFlagEnableSplitPaneStackFallbackFix",
+          "FFlagFixSplitPaneGamepadLayoutJitter",
+          "FFlagFriendsChatMessageComposer_IXP",
+          "FFlagIntervalPerformanceTrackerPerIntervalSampleRate_Staged",
+          "FFlagLuaAppStableNavigateToGameDetails",
+          "FFlagLuauCodegenX64ConflictCheck2_Staged",
+          "FFlagLuauSkipDebugLocked",
+          "FFlagMigrateBaseRemoteEventLegacyTelemetry_Staged",
+          "FFlagMomentsCreationAudioSearchV2SortType",
+          "FFlagMomentsCreationMusicEditorRedesign_Staged",
+          "FFlagMomentsCreationMusicPickerV2_Staged",
+          "FFlagRbxTransportPeerClock",
+          "FFlagRbxTransportPeerClockTlsSeed",
+          "FFlagRbxTransportPhysicsClock",
+          "FFlagRbxTransportRtcIoAllowCertRotationInitFailure",
+          "FFlagSafetyResourceBannerTelemetry_Staged",
+          "FFlagSentryIxpEnrollmentsAsFeatureFlagsEnabled",
+          "FFlagSentryRolloutFlagsAsFeatureFlagsEnabled",
+          "FFlagSimWaterAwareAeroWake",
+          "FFlagSocialTabWrapperStableNavigationProps",
+          "FFlagSplitPaneAvatarOnlyAlwaysExpanded",
+          "FFlagSplitPaneIneligibleStackFallback",
+          "FFlagSplitPaneProfileEditFillPane",
+          "FFlagSplitPaneUnsavedDialogAlertStyle",
+          "FFlagTTranscoderDecalPixelated",
+          "FFlagUIGradientAtlasRenderTargetFlip_Staged",
+          "FFlagUIGradientDither_Staged",
+          "FFlagUIGradientUses16BitStorage_Staged",
+          "FIntMomentsInExperienceMinCaptureSeconds",
+          "FStringFRMLockstepProfileOverride_Staged"
+        ],
+        "changed": [
+          {
+            "after": "e9ac48b2ac6d2722e1a73e9cdf08d9a120453c23",
+            "before": "ff6615c76733b49c8547011fce4a8bc033181a35",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-06T20:42:40.920Z",
+            "before": "2026-11-06T18:29:04.447Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "True;9707042192;9671070925;8491889239;9164570436;9859999587;5824195619;9876947216;10004846655;9605987780;10036955953;10123702430;10241252491;10382950395;10390927281;10390930030;10390933265;10538358999;10538473450;7738776082;8005766508;10643104390;10631479676;10762769249;10765877033;10766493343;10766485671;4391533696;2564505263;10767763406;10768893031;10765530630;10357239521;10275212796;10770936218;887403347;5990940444;985731078;1235188606;5456952508",
+            "before": "True;9707042192;9671070925;8491889239;9164570436;9859999587;5824195619;9876947216;10004846655;9605987780;10036955953;10123702430;10241252491;10382950395;10390927281;10390930030;10390933265;10538358999;10538473450;7738776082;8005766508;10643104390;10631479676;10762769249;10765877033;10766493343;10766485671;4391533696;2564505263;10767763406;10768893031;10765530630;10357239521;10275212796;10770936218;887403347;5990940444;985731078",
+            "name": "FFlagLuaAppIsClickoutEnabledUniverse_UniverseFilter"
+          },
+          {
+            "after": "e9ac48b2ac6d2722e1a73e9cdf08d9a120453c23",
+            "before": "ff6615c76733b49c8547011fce4a8bc033181a35",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-06T20:42:40.920Z",
+            "before": "2026-11-06T18:29:04.447Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "https://43bd00cc9b5cf2ece95b75b1bb788f27@sentry-relay.rbxinfra.com/3",
+            "before": "",
+            "name": "FStringLuaAppSentryDsn"
+          }
+        ],
+        "removed": [
+          "DFFlagAssetServiceSearchAudioV2Enabled_IXP",
+          "DFFlagRbxTransportDetectRecvThreadOverloadByRate_Staged",
+          "DFFlagResumeSingleContinue_Staged",
+          "DFFlagStreamingDeferOldGridTerrainStreamOut_Staged",
+          "FFlagAXMemoizeEquippedLayeredMakeupAssets_Staged",
+          "FFlagCustomTitleBarM1ExtraTelemetryIgnoreInvalidArg_Staged",
+          "FFlagLuaAppStableNavigateToGameDetails_Staged",
+          "FFlagLuauSkipDebugLocked_Staged",
+          "FFlagMomentsCreationAudioSearchV2SortType_IXP",
+          "FFlagMomentsCreationMusicPickerV2_IXP",
+          "FFlagRbxTransportPeerClockTlsSeed_Staged",
+          "FFlagRbxTransportPeerClock_Staged",
+          "FFlagRbxTransportPhysicsClock_Staged",
+          "FFlagRbxTransportRtcIoAllowCertRotationInitFailure_Staged",
+          "FFlagSentryIxpEnrollmentsAsFeatureFlagsEnabled_Staged",
+          "FFlagSentryRolloutFlagsAsFeatureFlagsEnabled_Staged",
+          "FFlagSimWaterAwareAeroWake_Staged",
+          "FFlagSocialTabWrapperStableNavigationProps_Staged",
+          "FFlagTTranscoderDecalPixelated_Staged",
+          "FIntMomentsInExperienceMinCaptureSeconds_Staged"
+        ],
+        "unchanged": 24786
+      }
+    },
+    "Web": {
+      "current": "b078717fc2d61c6a5ce29d4623a544a3a064e7f2ec1776a8adfc6cf3526ee484",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 221
+      },
+      "previous": "a1ce265e19ca8e553223727ea1471c389274f29c0708b9345a95199b8f73183d",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
