@@ -236,12 +236,6 @@
       "sourceUrl": "https://js.rbxcdn.com/26b3d3395584f66a62ca7f937198998182ea528d51f8ea3b080f886ccf7fa2b8.js"
     },
     {
-      "bytes": 81531,
-      "sha256": "b6e9d91003afec4b404c67a22dff887c40a3c15ee52f06f9e73f415e7040e4a8",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/26b3d3395584f66a62ca7f937198998182ea528d51f8ea3b080f886ccf7fa2b8.js"
-    },
-    {
       "bytes": 10611,
       "sha256": "192c0db54782a997300e26c8e911037954c43bca3274531bd7d71951dbffd577",
       "sourceType": "official",
@@ -690,6 +684,12 @@
       "sha256": "69c8c5709067423fe4b645a0d9f7c371294204aa5bf7316028b5e99f0635855f",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/7900f41d7ecf81f51614b16658e0402590a077abde9aa1a55c59f810c50bbcfe.js"
+    },
+    {
+      "bytes": 82001,
+      "sha256": "31e3d45705ffa981db1454cdc47a3b1b3e8aa34e58f0f8d98dc72d759cceb8e9",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/796709161d086289a6b9ec55812438af59a275f5f6b7dc91dbb2c9c3896986ac.js"
     },
     {
       "bytes": 4693,

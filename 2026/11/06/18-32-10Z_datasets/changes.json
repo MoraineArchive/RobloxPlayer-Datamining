@@ -1,0 +1,111 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-f0ea5da9412f4e35",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.746.0.7461267"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "35879d28e06d23ccc52b37da7e2a5e3729591108a7f62a3f69ea5be1c6a8623e",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "ce3a9cc5c6a0dcc2fae707746be261176e0143013d8db00533e149309cef871b",
+      "semantic": {
+        "added": [
+          "DFFlagRbxTransportDetectRecvThreadOverloadByRate_Staged",
+          "DFFlagResumeSingleContinue_Staged",
+          "DFFlagStreamingDeferOldGridTerrainStreamOut_Staged",
+          "DFIntAutomaticAssetCaptureSenderClientToHttpMinHundrethsPercent",
+          "DFIntAutomaticAssetCaptureSenderClientToHttpOffset",
+          "DFIntAutomaticAssetCaptureSenderClientToHttpScale",
+          "DFIntAutomaticAssetCaptureSenderClientToHttpStaticRateHundrethsPercent",
+          "DFIntAutomaticAssetCaptureSenderClientToServerSampleRateHundrethsPercent",
+          "DFIntAutomaticAssetCaptureSenderMaxBytesPerSecondClient",
+          "DFIntAutomaticAssetCaptureSenderMaxBytesPerSecondServer",
+          "DFIntAutomaticAssetCaptureSenderMaxClientQueueSize",
+          "DFIntAutomaticAssetCaptureSenderMaxEntriesPerRemoteEvent",
+          "DFIntAutomaticAssetCaptureSenderMaxServerQueueSize",
+          "FFlagAXMemoizeEquippedLayeredMakeupAssets_Staged",
+          "FFlagCustomTitleBarM1ExtraTelemetryIgnoreInvalidArg_Staged",
+          "FFlagLuaAppStableNavigateToGameDetails_Staged",
+          "FFlagLuauSkipDebugLocked_Staged",
+          "FFlagRbxTransportPeerClockTlsSeed_Staged",
+          "FFlagRbxTransportPeerClock_Staged",
+          "FFlagRbxTransportPhysicsClock_Staged",
+          "FFlagRbxTransportRtcIoAllowCertRotationInitFailure_Staged",
+          "FFlagSentryIxpEnrollmentsAsFeatureFlagsEnabled_Staged",
+          "FFlagSentryRolloutFlagsAsFeatureFlagsEnabled_Staged",
+          "FFlagSimWaterAwareAeroWake_Staged",
+          "FFlagSocialTabWrapperStableNavigationProps_Staged",
+          "FFlagTTranscoderDecalPixelated_Staged",
+          "FIntMomentsInExperienceMinCaptureSeconds_Staged",
+          "FStringAssetProviderPrewarmEnabledPlaceIds_IXP"
+        ],
+        "changed": [
+          {
+            "after": "ff6615c76733b49c8547011fce4a8bc033181a35",
+            "before": "4670eb478e83c9ff221954f68bc647a9a3730ae0",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-06T18:29:04.447Z",
+            "before": "2026-11-06T11:06:13.531Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "1;Portal.Creator.CAI.AssetDeliveryCachePrewarming7-1793938073;Creator.CAI.AssetDeliveryCachePrewarming7;74315921;flagbank",
+            "before": "1;Portal.Creator.CAI.AssetDeliveryCachePrewarming6-1793042928;Creator.CAI.AssetDeliveryCachePrewarming6;437166678;flagbank",
+            "name": "FFlagAssetProviderPrewarmADCache_IXP"
+          },
+          {
+            "after": "1;Portal.Creator.CAI.AssetDeliveryCachePrewarming7-1793938073;Creator.CAI.AssetDeliveryCachePrewarming7;74315921;flagbank",
+            "before": "1;Portal.Creator.CAI.AssetDeliveryCachePrewarming6-1793042928;Creator.CAI.AssetDeliveryCachePrewarming6;437166678;flagbank",
+            "name": "FFlagAssetProviderUseAssetDeliveryV3_IXP"
+          },
+          {
+            "after": "1;Portal.Creator.CAI.AssetDeliveryCachePrewarming7-1793938073;Creator.CAI.AssetDeliveryCachePrewarming7;74315921;flagbank",
+            "before": "1;Portal.Creator.CAI.AssetDeliveryCachePrewarming6-1793042928;Creator.CAI.AssetDeliveryCachePrewarming6;437166678;flagbank",
+            "name": "FFlagUseADPrewarmForRefresh_IXP"
+          },
+          {
+            "after": "ff6615c76733b49c8547011fce4a8bc033181a35",
+            "before": "4670eb478e83c9ff221954f68bc647a9a3730ae0",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-06T18:29:04.447Z",
+            "before": "2026-11-06T11:06:13.531Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 24777
+      }
+    },
+    "Web": {
+      "current": "a1ce265e19ca8e553223727ea1471c389274f29c0708b9345a95199b8f73183d",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 221
+      },
+      "previous": "3be50df04ce220718a23f614621e86da3b30092560c00f2040c4bba3ed72f0d1",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
