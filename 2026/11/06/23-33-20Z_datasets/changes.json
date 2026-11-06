@@ -1,0 +1,77 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-f0ea5da9412f4e35",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.746.0.7461267"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "04070dcf2272d8f1edfe968657cab9cb9fb60da43751c6169b929b44d9c9e6d2",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "4359d69e7b9faff2a666e9373bb4f4a33d03f102a99e2ce13cd1c3a16584a4e9",
+      "semantic": {
+        "added": [
+          "FFlagUIGradientAtlasRenderTargetFlip",
+          "FFlagUIGradientDither",
+          "FFlagUIGradientUses16BitStorage"
+        ],
+        "changed": [
+          {
+            "after": "6ce76cd872685fe0886f39187c803369a7fc800e",
+            "before": "6223f3e1a96b7dbec871105cc4706f7c65aed880",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-06T21:57:51.197Z",
+            "before": "2026-11-06T21:32:59.025Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "6ce76cd872685fe0886f39187c803369a7fc800e",
+            "before": "6223f3e1a96b7dbec871105cc4706f7c65aed880",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-06T21:57:51.197Z",
+            "before": "2026-11-06T21:32:59.025Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagEnableBuyRobuxNewRouting2_Staged",
+          "FFlagUIGradientAtlasRenderTargetFlip_Staged",
+          "FFlagUIGradientDither_Staged",
+          "FFlagUIGradientUses16BitStorage_Staged"
+        ],
+        "unchanged": 24830
+      }
+    },
+    "Web": {
+      "current": "112917f7177fd674481fb9f8bff0ca8721cdf8edf398de09e1b154a8463d4750",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/Thumbnails.js",
+          "js.rbxcdn.com/page-1/Thumbnails.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "2716764f96040ff62011bc45db8935584d48593623b3854a115c32337e2760ad",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
