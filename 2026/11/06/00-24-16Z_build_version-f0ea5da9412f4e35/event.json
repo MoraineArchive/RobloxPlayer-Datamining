@@ -1,0 +1,27 @@
+{
+  "archivePath": "2026/11/06/00-24-16Z_build_version-f0ea5da9412f4e35",
+  "commit": {
+    "body": "Build files        +0 ~3 -0\nLuaPackages files  +0 ~8 -0\nNative files       +0 ~8 -0\nFastVariables files +0 ~2 -0\nLiveSettings files +0 ~1 -0\nPackages           +0 ~11 -0\nFiles              +1 ~19 -1\nLuaPackages sources +0 ~0 -0\nFastVariables      +2 ~29 -0\nLiveSettings       +11 ~6 -5",
+    "subject": "6 November 2026 - Build 0.746.0.7461267 (version-f0ea5da9412f4e35)"
+  },
+  "findings": {
+    "new": 0,
+    "updated": 0
+  },
+  "guid": "version-f0ea5da9412f4e35",
+  "id": "0b0adcaace6b873992c290d94fa864207c7c3ee09f39ba4531c4e193fcae9497",
+  "observedAt": "2026-11-06T00:24:16.141Z",
+  "product": "Player",
+  "schemaVersion": 1,
+  "surfaces": [
+    "Build",
+    "LuaPackages",
+    "Native",
+    "FastVariables",
+    "LiveSettings"
+  ],
+  "target": "WindowsPlayer",
+  "type": "build.changed",
+  "upstreamChange": true,
+  "version": "0.746.0.7461267"
+}

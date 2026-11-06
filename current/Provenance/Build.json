@@ -1,43 +1,43 @@
 {
   "hashes": {
-    "FileManifest.json": "2359e0a9f6bb86dcdde0d21f131dc030b0794dc9cc24ccd83435f5a0f0fbfc03",
-    "Packages.json": "7b75206398eb4f787e6fbffaf16faa31948472ce4e39f16ea0b318a76f27cc58",
-    "metadata.json": "f3d7cc4410eb63d03737fa1945715ab395430fd6931a540c97dc40077898ae0c",
-    "version.json": "1b9492fdea6d0efb0db6a4ed6e3e9b3dc28cba827df5b4ffee6265f93c29a584"
+    "FileManifest.json": "50f934842aec7abe801c93f0e89dad570d3edc564bb9ccc7f087b6d524576a90",
+    "Packages.json": "737c8e9fcdfa1cb8ab01fe91b4c105a09cee9bfef3e51170ec722fb68f3b8e6d",
+    "metadata.json": "e724e17f2ef3f3250ffc260ff393cc7bf57ba8e5381192507f0993820e978709",
+    "version.json": "3d699535cf2065f1e8cd1a26d705aa011e8b1e7fab23e0a38634d1e77f6feba2"
   },
-  "id": "9cadc2d4e16b27e229971053e21c225d6c44bc7ea7554f5781348f11c9e150c7",
+  "id": "d672bcc180c4471573b63b976d90248c9b8999b90702ddfba0bd24bf2a80fefa",
   "observationMode": "live",
-  "observedAt": "2026-11-01T01:30:30.743Z",
+  "observedAt": "2026-11-06T00:23:35.421Z",
   "provenance": [
     {
       "bytes": 103,
-      "sha256": "76ce1df1d2a281dbda46ff93e4ad5ae981240cf597d59bbeb06698957de27c10",
+      "sha256": "9d703d10a08157aaf02632c8091bcb7074eb884402acc6679c7b3f6ef7716ac7",
       "sourceType": "official",
       "sourceUrl": "https://clientsettings.roblox.com/v2/client-version/WindowsPlayer"
     },
     {
-      "buildGuid": "version-5a21b87bbc2641cf",
+      "buildGuid": "version-f0ea5da9412f4e35",
       "bytes": 1636,
-      "sha256": "5f067b6b3ab3487dd3ffaadbb7dc8a013e139536dc7c8328add61d6844f04034",
+      "sha256": "a283f46f5a422afb0ac3698184545f8e01499d26d92dbb128b192dc0ff34c076",
       "sourceType": "official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-5a21b87bbc2641cf-rbxPkgManifest.txt"
+      "sourceUrl": "https://setup.rbxcdn.com/version-f0ea5da9412f4e35-rbxPkgManifest.txt"
     },
     {
-      "buildGuid": "version-5a21b87bbc2641cf",
+      "buildGuid": "version-f0ea5da9412f4e35",
       "bytes": 253818,
-      "sha256": "faafea4ceb5336d625316686111ec4462c4354308a63aa2062c555ea4c4733a3",
+      "sha256": "6157b4b5430ad90246fc77bbecec40826ab085e96224ef86bf7c4b270825f786",
       "sourceType": "official",
-      "sourceUrl": "https://setup.rbxcdn.com/version-5a21b87bbc2641cf-rbxManifest.txt"
+      "sourceUrl": "https://setup.rbxcdn.com/version-f0ea5da9412f4e35-rbxManifest.txt"
     }
   ],
-  "sequence": 9,
+  "sequence": 10,
   "status": "available",
   "summary": {
     "engineRevision": 1,
-    "guid": "version-5a21b87bbc2641cf",
+    "guid": "version-f0ea5da9412f4e35",
     "manifestFiles": 2853,
     "packages": 22,
-    "version": "0.745.0.7451137"
+    "version": "0.746.0.7461267"
   },
   "surface": "Build",
   "target": "WindowsPlayer"

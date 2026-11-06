@@ -3,125 +3,125 @@
     "AmdPowerXpressRequestHighPerformance",
     "NvOptimusEnablement"
   ],
-  "fileBytes": 142680528,
-  "imageSize": 153264128,
+  "fileBytes": 144435664,
+  "imageSize": 155062272,
   "imports": [
     "RobloxPlayerBeta.dll"
   ],
   "machine": 34404,
-  "peTimestamp": 2286735957,
+  "peTimestamp": 81470209,
   "sections": [
     {
       "characteristics": 32,
       "name": ".text",
       "rawOffset": 1536,
-      "rawSize": 104741888,
+      "rawSize": 106307072,
       "virtualAddress": 4096,
-      "virtualSize": 104741772
+      "virtualSize": 106306588
     },
     {
       "characteristics": 1610612768,
       "name": ".rodata",
-      "rawOffset": 104743424,
+      "rawOffset": 106308608,
       "rawSize": 2560,
-      "virtualAddress": 104747008,
+      "virtualAddress": 106311680,
       "virtualSize": 2288
     },
     {
       "characteristics": 1073741888,
       "name": ".rdata",
-      "rawOffset": 104745984,
-      "rawSize": 29089792,
-      "virtualAddress": 104751104,
-      "virtualSize": 29089786
+      "rawOffset": 106311168,
+      "rawSize": 29230592,
+      "virtualAddress": 106315776,
+      "virtualSize": 29230490
     },
     {
       "characteristics": 3221225536,
       "name": ".data",
-      "rawOffset": 133835776,
-      "rawSize": 3729920,
-      "virtualAddress": 133840896,
-      "virtualSize": 14292416
+      "rawOffset": 135541760,
+      "rawSize": 3753984,
+      "virtualAddress": 135548928,
+      "virtualSize": 14354496
     },
     {
       "characteristics": 1073741888,
       "name": "",
-      "rawOffset": 137565696,
-      "rawSize": 3277824,
-      "virtualAddress": 148135936,
-      "virtualSize": 3277728
+      "rawOffset": 139295744,
+      "rawSize": 3298304,
+      "virtualAddress": 149905408,
+      "virtualSize": 3298152
     },
     {
       "characteristics": 3221225536,
       "name": ".didat",
-      "rawOffset": 140843520,
+      "rawOffset": 142594048,
       "rawSize": 512,
-      "virtualAddress": 151416832,
+      "virtualAddress": 153206784,
       "virtualSize": 376
     },
     {
       "characteristics": 3221225536,
       "name": "CPADinfo",
-      "rawOffset": 140844032,
+      "rawOffset": 142594560,
       "rawSize": 512,
-      "virtualAddress": 151420928,
+      "virtualAddress": 153210880,
       "virtualSize": 56
     },
     {
       "characteristics": 1073741888,
       "name": "_RDATA",
-      "rawOffset": 140844544,
+      "rawOffset": 142595072,
       "rawSize": 1024,
-      "virtualAddress": 151425024,
+      "virtualAddress": 153214976,
       "virtualSize": 560
     },
     {
       "characteristics": 3254779968,
       "name": ".xbld",
-      "rawOffset": 140845568,
+      "rawOffset": 142596096,
       "rawSize": 512,
-      "virtualAddress": 151429120,
+      "virtualAddress": 153219072,
       "virtualSize": 445
     },
     {
       "characteristics": 3221225536,
       "name": ".rsrc",
-      "rawOffset": 140846080,
+      "rawOffset": 142596608,
       "rawSize": 761344,
-      "virtualAddress": 151433216,
+      "virtualAddress": 153223168,
       "virtualSize": 761016
     },
     {
       "characteristics": 1107296320,
       "name": ".reloc",
-      "rawOffset": 141607424,
-      "rawSize": 1060864,
-      "virtualAddress": 152195072,
-      "virtualSize": 1060804
+      "rawOffset": 143357952,
+      "rawSize": 1065472,
+      "virtualAddress": 153985024,
+      "virtualSize": 1065396
     },
     {
       "characteristics": 3221225536,
       "name": "tempest",
-      "rawOffset": 142668288,
+      "rawOffset": 144423424,
       "rawSize": 512,
-      "virtualAddress": 153255936,
+      "virtualAddress": 155054080,
       "virtualSize": 20
     },
     {
       "characteristics": 3221225536,
       "name": ".byfron",
-      "rawOffset": 142668800,
+      "rawOffset": 144423936,
       "rawSize": 1024,
-      "virtualAddress": 153260032,
+      "virtualAddress": 155058176,
       "virtualSize": 594
     }
   ],
-  "sha256": "a5a13a9e4f578fce0675e0dfc3edcdaad639dcb3e306badeb9df597010ca6229",
+  "sha256": "f98b351febde8a4f89f8b25b8b07af62e6dd772cc3eee374a4f77f0dcf477713",
   "signing": {
     "certificates": [
       {
         "revision": 512,
-        "sha256": "8c61f009357202c29ae5179f5ecce5f678f252391fdd4e230b551f62ac6d7f45",
+        "sha256": "457ffec1ebecdb3d9cd248ec7b510920a359ea9790439452ad254007c762ce37",
         "size": 10704,
         "type": 2
       }
@@ -132,8 +132,8 @@
   "versionResource": {
     "fileFlags": 0,
     "fileType": 1,
-    "fileVersion": "0.745.0.45569",
-    "productVersion": "0.745.0.45569"
+    "fileVersion": "0.746.0.55699",
+    "productVersion": "0.746.0.55699"
   },
   "warnings": []
 }

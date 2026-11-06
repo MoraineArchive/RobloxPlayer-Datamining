@@ -23,7 +23,7 @@
       "LuaPackages",
       "UI"
     ],
-    "checksum": "dd3378b2065b492166b6f7d9160c051d",
+    "checksum": "23b5905d8639cedb6dbacf1827e057f5",
     "path": "ExtraContent/LuaPackages/Packages/_Index/BuilderIcons/BuilderIcons/Font/BuilderIcons-Filled.ttf"
   },
   {
@@ -33,7 +33,7 @@
       "LuaPackages",
       "UI"
     ],
-    "checksum": "629071020486d45636f0c0953715fadb",
+    "checksum": "2bd9a0f657b0ebd59640e244038707d9",
     "path": "ExtraContent/LuaPackages/Packages/_Index/BuilderIcons/BuilderIcons/Font/BuilderIcons-Regular.ttf"
   },
   {
@@ -572,7 +572,7 @@
       "ExtraContent",
       "voice"
     ],
-    "checksum": "1b38a29f1780527416181537fe4fdcb8",
+    "checksum": "6b87795e2e6b7f141e9c9dc75371fef5",
     "path": "ExtraContent/models/CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch.rbxm"
   },
   {
@@ -580,7 +580,7 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "a610edb12240654c887493d821ec9ddb",
+    "checksum": "6b46481b0313c9f7b2f111edd77fd74f",
     "path": "ExtraContent/models/InExperience/InExperience.rbxm"
   },
   {
@@ -588,7 +588,7 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "128362841d599984315dc41e5f8aae2c",
+    "checksum": "812cdcb27c9a168c89ff48e1b4427f4b",
     "path": "ExtraContent/models/InExperience/InExperience_checksum"
   },
   {
@@ -596,7 +596,7 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "e7997bfe348a53ac6f989328c5f80068",
+    "checksum": "f66b4bb5077d8f8565a216f0c9f5adf7",
     "path": "ExtraContent/models/Licenses/Licenses.rbxm"
   },
   {
@@ -604,7 +604,7 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "e9051f4df764d6d264e17243e35fb0bd",
+    "checksum": "089af095f087eae6867bf38b38e9f204",
     "path": "ExtraContent/models/UniversalApp/UniversalApp.rbxm"
   },
   {
@@ -612,7 +612,7 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "7a51bd2e0a5a0760eed4d2d0fec1125b",
+    "checksum": "db4a0f164ebfe69068ab6413f8b50997",
     "path": "ExtraContent/models/UniversalApp/UniversalApp_checksum"
   },
   {
@@ -7025,8 +7025,8 @@
     "categories": [
       "content"
     ],
-    "checksum": "d8699abaeb73773b5c13ecab22ecc212",
-    "path": "PlatformContent/pc/shared_compression_dictionaries/35659ed0421961bc16f9bd3955ac6b8e583db18147d4c97c4ad62dc9f9d48438.dict"
+    "checksum": "451bb26026dd5716cda61ca40082547b",
+    "path": "PlatformContent/pc/shared_compression_dictionaries/b80a8016163ae58891a14b51aec71f7e307963255b4ac92d955644daeda6bf85.dict"
   },
   {
     "categories": [
@@ -7378,21 +7378,21 @@
     "categories": [
       "other"
     ],
-    "checksum": "1a3dce1c7d8f0aaac1e46a4aab318bf2",
+    "checksum": "b260ab514ce5ef0e2158b610c9535720",
     "path": "RobloxCrashHandler.exe"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "980b49493bad518eef7e0c1ef65b031e",
+    "checksum": "63d020c87cd9a3489588cf5cac582034",
     "path": "RobloxPlayerBeta.dll"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "10fa2372e364779fc81a85a900bcb3e7",
+    "checksum": "aa8aff6cba11b7b076620251e38c3da1",
     "path": "RobloxPlayerBeta.exe"
   },
   {
@@ -7903,7 +7903,7 @@
       "content",
       "avatar"
     ],
-    "checksum": "37b280ebe69a1763db54e739c80a42ab",
+    "checksum": "acbe6b749a54067d41ca5209bcf757f1",
     "path": "content/avatar/scripts/humanoidAnimateR15.lua"
   },
   {
@@ -8194,7 +8194,7 @@
     "categories": [
       "content"
     ],
-    "checksum": "3f3e14288effd0cc1ed297a95ccd4f38",
+    "checksum": "a53f78d785c2000b0f4901f3fa6687b9",
     "path": "content/configs/InExperiencePatchConfig/InExperiencePatchConfig.json"
   },
   {
@@ -8243,7 +8243,7 @@
     "categories": [
       "content"
     ],
-    "checksum": "679a907d0617606bf10c251145da77cc",
+    "checksum": "01f1ee7959d8da44cce76383d2fbb492",
     "path": "content/configs/UniversalAppPatchConfig/UniversalAppPatchConfig.json"
   },
   {
@@ -24002,35 +24002,35 @@
     "categories": [
       "other"
     ],
-    "checksum": "23bf0e1dd7ae9adfc141cb6a8730f3b2",
+    "checksum": "72d9211f9b7a47115bb490cc20841787",
     "path": "shaders/shaders_d3d10.pack"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "917b0912fbf37bfc0c9ab4755fcef670",
+    "checksum": "3b75c71b1c7314cdca5125714159af91",
     "path": "shaders/shaders_d3d10_1.pack"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "76f8742c637e9ca9cdff30fdca2d4db1",
+    "checksum": "73a5e44a0b274455ab225b8771be96d3",
     "path": "shaders/shaders_d3d11.pack"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "b6e2da21c66b05ffc780d3f0b21e0776",
+    "checksum": "b5f4c2b2692f078312b35d06e3b1c385",
     "path": "shaders/shaders_glsl3.pack"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "e5956994655ff18c1e96ecb4da6b07ec",
+    "checksum": "5893ac86123499755dcb52f1d4a887c4",
     "path": "shaders/shaders_vulkan_desktop.pack"
   },
   {
