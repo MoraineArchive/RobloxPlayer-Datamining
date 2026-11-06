@@ -1,0 +1,86 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-f0ea5da9412f4e35",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.746.0.7461267"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "4359d69e7b9faff2a666e9373bb4f4a33d03f102a99e2ce13cd1c3a16584a4e9",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "3f436c16f38c581fbe0583d71e09ba491bef1976359ee6f83525db45c6a968b2",
+      "semantic": {
+        "added": [
+          "FFlagAXScrollTelemetryIntegration2",
+          "FFlagDisableAppInitializerLegacyTelemetry",
+          "FFlagDisableRCCJobProfilingInfoLegacyTelemetry",
+          "FFlagIntervalPerformanceTrackerPerIntervalSampleRate",
+          "FFlagLuauCodegenX64ConflictCheck2",
+          "FFlagMigrateBaseRemoteEventLegacyTelemetry",
+          "FFlagSafetyResourceBannerTelemetry",
+          "FStringFRMLockstepProfileOverride"
+        ],
+        "changed": [
+          {
+            "after": "6223f3e1a96b7dbec871105cc4706f7c65aed880",
+            "before": "e0dcb0019d314bb5d4c8f23dec1d845dd9603690",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-06T21:32:59.025Z",
+            "before": "2026-11-06T20:52:38.923Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "6223f3e1a96b7dbec871105cc4706f7c65aed880",
+            "before": "e0dcb0019d314bb5d4c8f23dec1d845dd9603690",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-06T21:32:59.025Z",
+            "before": "2026-11-06T20:52:38.923Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAXScrollTelemetryIntegration2_Staged",
+          "FFlagDisableAppInitializerLegacyTelemetry_Staged",
+          "FFlagDisableRCCJobProfilingInfoLegacyTelemetry_Staged",
+          "FFlagIntervalPerformanceTrackerPerIntervalSampleRate_Staged",
+          "FFlagLuauCodegenX64ConflictCheck2_Staged",
+          "FFlagMigrateBaseRemoteEventLegacyTelemetry_Staged",
+          "FFlagSafetyResourceBannerTelemetry_Staged",
+          "FStringFRMLockstepProfileOverride_Staged"
+        ],
+        "unchanged": 24826
+      }
+    },
+    "Web": {
+      "current": "2716764f96040ff62011bc45db8935584d48593623b3854a115c32337e2760ad",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "b078717fc2d61c6a5ce29d4623a544a3a064e7f2ec1776a8adfc6cf3526ee484",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
