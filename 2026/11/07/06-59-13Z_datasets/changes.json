@@ -1,0 +1,77 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-f0ea5da9412f4e35",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.746.0.7461267"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "51e9cf4346fa59c3a2e9f8a0ca5686c9cc622f2877f587e59b48751690315384",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "33d47fb06b7f7d1cab180a319fc6e53a4543fc9dedd1c934d962101f6c24c0e4",
+      "semantic": {
+        "added": [],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagFixAnimationMemoryOverhead"
+          },
+          {
+            "after": "6f53704d3cb693b18a11a109f5c568554714dc5b",
+            "before": "b97f9145717538a38d6ed634b7c9993d060803e5",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-07T05:02:26.154Z",
+            "before": "2026-11-07T02:24:27.675Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "6f53704d3cb693b18a11a109f5c568554714dc5b",
+            "before": "b97f9145717538a38d6ed634b7c9993d060803e5",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-07T05:02:26.154Z",
+            "before": "2026-11-07T02:24:27.675Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagFixAnimationMemoryOverhead_Staged"
+        ],
+        "unchanged": 24832
+      }
+    },
+    "Web": {
+      "current": "f2cfd6150f4dd3db4ac7d626601ba38ea5a3440ab5790b44ff4ced756047cdf0",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.DownloadLanding.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.DownloadLanding.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 218
+      },
+      "previous": "112917f7177fd674481fb9f8bff0ca8721cdf8edf398de09e1b154a8463d4750",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
