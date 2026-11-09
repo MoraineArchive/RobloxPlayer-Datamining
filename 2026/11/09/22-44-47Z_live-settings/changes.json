@@ -1,0 +1,64 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-f0ea5da9412f4e35",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.746.0.7461267"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "79996c4a617f70efac62f7154142f732f01e64ed86b8386b5a0344b3d75a9e00",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "1bc0c882121120fa1e22ebb78092bda40d66ffa0bc32953e33c5209b4bf3c1e7",
+      "semantic": {
+        "added": [
+          "DFFlagEnableNewRollingCategoryStats3_Staged",
+          "FFlagAudioSpeechToTextEnableStreaming_Staged",
+          "FFlagAudioSpeechToTextPlatformStreamingUseCustomParameters_Staged",
+          "FFlagEnableManualVad_Staged",
+          "FFlagExpChatDictationStreamingAudio_Staged",
+          "FFlagGameJoinCardOptionalActions_Staged",
+          "FFlagSimStoreMotor6DRotationAsQuaternion_Staged",
+          "FFlagSlimFixKeepSkinnedLevelStats_Staged",
+          "FFlagTaskThreadClearCallbackOnStop"
+        ],
+        "changed": [
+          {
+            "after": "8215d37f7688eaaa2123bbe5802f44a1e736e8a3",
+            "before": "5d251b333087d396e3f52d81b007217107e2d3ca",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-09T22:43:22.438Z",
+            "before": "2026-11-09T22:28:29.063Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "8215d37f7688eaaa2123bbe5802f44a1e736e8a3",
+            "before": "5d251b333087d396e3f52d81b007217107e2d3ca",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-09T22:43:22.438Z",
+            "before": "2026-11-09T22:28:29.063Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagTaskThreadClearCallbackOnStop_Staged"
+        ],
+        "unchanged": 24970
+      }
+    }
+  },
+  "schemaVersion": 1
+}
