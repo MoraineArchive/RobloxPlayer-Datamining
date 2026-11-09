@@ -1,0 +1,28 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-f0ea5da9412f4e35",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.746.0.7461267"
+  },
+  "datasets": {
+    "Web": {
+      "current": "537209bb1adc7d138c6648df2d159cf56194cc52eac63d09a49779d315be26a0",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "f2cfd6150f4dd3db4ac7d626601ba38ea5a3440ab5790b44ff4ced756047cdf0",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
