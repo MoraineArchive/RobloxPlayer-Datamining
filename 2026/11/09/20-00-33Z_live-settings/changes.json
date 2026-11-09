@@ -1,0 +1,146 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-f0ea5da9412f4e35",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.746.0.7461267"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "ccbf888d290fcb5708e4fd6f7206a8c4adfa3157a31035648dfcd457094addfe",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "1dc73a8e957d3ec87b0f5c8474b95fbe1d41d258d7330ad1b21d21528d92d734",
+      "semantic": {
+        "added": [
+          "DFFlagAANullRolloutTest",
+          "DFFlagAutomaticAssetCaptureReportLocalizedOnMappingLoad",
+          "DFFlagAutomaticAssetCaptureSenderEnabled3",
+          "DFFlagCountUIDrawCallCountCorrectly",
+          "DFFlagDecompressPacketNoThrowSizeRead_Staged",
+          "DFFlagEnableAutoLocalizeImageTranslation4",
+          "DFFlagEnableRobloxLabsCnDomain_Staged",
+          "DFFlagExpChatTelemetryHistoricalField",
+          "DFFlagHapticEffectGetWaveformKeys",
+          "DFFlagInputReplicatorSkipStaleControlStates_Staged",
+          "DFFlagKeepJoinPauseUntilCharacter_Staged",
+          "DFFlagRbxStorageFixCacheNameTelemetry",
+          "DFFlagRbxTransportQuicDeferConnectionClose",
+          "DFFlagRbxTransportQuicExtractConnectPriv",
+          "DFFlagRbxTransportRecvThreadOverloadReportMax_Staged",
+          "DFFlagRtcIoWatchDefaultInterface2_Staged",
+          "DFFlagSQLiteDontReportCacheName_Staged",
+          "DFFlagSatPolyPolyContactEnabled2_Staged",
+          "DFFlagSimDeferTerrainWeldRemoval",
+          "DFFlagTextChatHistoryReplayTelemetry",
+          "DFFlagVoiceChatInlineMuteMetadataState_Staged",
+          "DFIntCaptureGalleryPermissionPromptCooldownSeconds_Staged",
+          "FFlagAdditionalBandwidthReportingFixing_Staged",
+          "FFlagAmpV2WizardParentModeNavTheme_Staged",
+          "FFlagAppChatBatchConversationPageUpsert_Staged",
+          "FFlagAssistantGenerateSceneMeshGenToggle",
+          "FFlagBuildExperienceAnswerForm2_Staged",
+          "FFlagBuildExperienceChatCardEmphasis2_Staged",
+          "FFlagCaptureGalleryPermissionCooldownFromLastPrompt",
+          "FFlagCreatorConfigInitOnlyForRccAndStudioPlaytest2",
+          "FFlagEnableBuyRobuxNewRouting2",
+          "FFlagEnableFoundationSdui",
+          "FFlagEnableGooglePlayGamesIntegration9",
+          "FFlagEnableNotificationStyledTextUtf16Offsets",
+          "FFlagEnablePersistSplitPanePreference",
+          "FFlagEnablePioneerLandingPageLayout5",
+          "FFlagEnablePioneerPostAuthGameJoin6",
+          "FFlagEnableSendImageFeedbackToBackend3",
+          "FFlagEnableStreamingBitStreamStateFlags",
+          "FFlagExpChatPresetButtonGlobalTabFix_Staged",
+          "FFlagExpChatPresetFullWidthButtonFixes_Staged",
+          "FFlagGameLandingPageAuthLayout",
+          "FFlagInputReplicatorDedupRedundantFrames_Staged",
+          "FFlagLuaStartPageRefreshRecentsOnRegistryUpdate3_Staged",
+          "FFlagLuauInlinerNamecallSelfFromMove_Staged",
+          "FFlagMoveAdConsentReceiverToAccountManagement_Staged",
+          "FFlagPCGDKSystrayRespectSimplifiedUserModel",
+          "FFlagPurchasePromptSkipThirdPartyCheckForMissingCreator_Staged",
+          "FFlagReconcileUndoIgnoredPackageOverrides",
+          "FFlagRenderAPI979Property3",
+          "FFlagRenderIC2DeferredRebindNoStale_Staged",
+          "FFlagRenderSSAOFrameIndexWrapFix_Staged",
+          "FFlagRenderSSAOPerInstanceHbaoState_Staged",
+          "FFlagReportFRMQualityProfileTelemetry_Staged",
+          "FFlagSideSheetOpenPeoplePageRestoreChat_Staged",
+          "FFlagSimAdaptiveSkipArbiterForImpulseOnlySolve",
+          "FFlagStudioNederlandsLocale_Staged",
+          "FFlagUseRbxTransportClient3_Staged",
+          "FFlagVulkanDisableAfbcForSmallMipmappedRGBA8_Staged",
+          "FIntEnableDataModelChangeTrackingHundredthPercent_IXP",
+          "FIntFrameRateMSToReduceTouchEvents_Staged"
+        ],
+        "changed": [
+          {
+            "after": "100",
+            "before": "75",
+            "name": "DFIntBadgeSlpInsightsRolloutPercentage"
+          },
+          {
+            "after": "33d23d2ed62a447980333962206175dc4792c676",
+            "before": "2981ba9a9d270fc86015d9748b412c3fd77cf79a",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-09T19:58:08.928Z",
+            "before": "2026-11-09T18:26:46.366Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "33d23d2ed62a447980333962206175dc4792c676",
+            "before": "2981ba9a9d270fc86015d9748b412c3fd77cf79a",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-09T19:58:08.928Z",
+            "before": "2026-11-09T18:26:46.366Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagAANullRolloutTest_Staged",
+          "DFFlagAutomaticAssetCaptureReportLocalizedOnMappingLoad_Staged",
+          "DFFlagAutomaticAssetCaptureSenderEnabled3_Staged",
+          "DFFlagCountUIDrawCallCountCorrectly_Staged",
+          "DFFlagEnableAutoLocalizeImageTranslation4_Staged",
+          "DFFlagHapticEffectGetWaveformKeys_Staged",
+          "DFFlagRbxTransportQuicExtractConnectPriv_Staged",
+          "DFFlagSimDeferTerrainWeldRemoval_Staged",
+          "DFIntBadgeSlpInsightsRolloutPercentage_Staged",
+          "FFlagAssistantGenerateSceneMeshGenToggle_Staged",
+          "FFlagCaptureGalleryPermissionCooldownFromLastPrompt_Staged",
+          "FFlagCreatorConfigInitOnlyForRccAndStudioPlaytest2_Staged",
+          "FFlagEnableBuyRobuxNewRouting2_Staged",
+          "FFlagEnableFoundationSdui_Staged",
+          "FFlagEnableGooglePlayGamesIntegration9_Staged",
+          "FFlagEnableNotificationStyledTextUtf16Offsets_Staged",
+          "FFlagEnablePersistSplitPanePreference_Staged",
+          "FFlagEnablePioneerLandingPageLayout5_Staged",
+          "FFlagEnablePioneerPostAuthGameJoin6_Staged",
+          "FFlagEnableSendImageFeedbackToBackend3_Staged",
+          "FFlagEnableStreamingBitStreamStateFlags_Staged",
+          "FFlagGameLandingPageAuthLayout_Staged",
+          "FFlagPCGDKSystrayRespectSimplifiedUserModel_Staged",
+          "FFlagReconcileUndoIgnoredPackageOverrides_Staged",
+          "FFlagRenderAPI979Property3_Staged",
+          "FFlagSimAdaptiveSkipArbiterForImpulseOnlySolve_Staged"
+        ],
+        "unchanged": 24850
+      }
+    }
+  },
+  "schemaVersion": 1
+}
