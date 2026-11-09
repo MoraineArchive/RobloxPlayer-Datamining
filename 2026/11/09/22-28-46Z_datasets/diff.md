@@ -1,0 +1,207 @@
+[![Moraine Roblox Datamining](https://github.com/MoraineArchive/Moraine-asset/blob/main/roblox/banner_roblox.png?raw=true)](https://github.com/MoraineArchive/Moraine-asset/blob/main/roblox/banner_roblox.png)
+
+# Roblox Player Datamining Diff
+
+**Observed:** 09/11/2026, 23:28:46 CET (22:28:46 UTC)
+
+## LiveSettings
+
+**File changes:** +0 ~1 -0
+
+- **Changed:** [`current.json`](../../../../current/LiveSettings/current.json)
+
+### Values
+
+- **Added:** `DFFlagAndroidLowMemoryAsyncMarshal_Staged`
+- **Added:** `DFFlagCompressedPVUsePackedVector_Staged`
+- **Added:** `DFFlagDMChangeTrackerUsableBandwidthCheck_IXP`
+- **Added:** `DFFlagDecompressPacketNoThrowSizeRead`
+- **Added:** `DFFlagEnableChatAbuseReportTimestamp`
+- **Added:** `DFFlagEnableRobloxLabsCnDomain`
+- **Added:** `DFFlagInputReplicatorSkipStaleControlStates`
+- **Added:** `DFFlagKeepJoinPauseUntilCharacter`
+- **Added:** `DFFlagMMFDiscardAfterDecode_Staged`
+- **Added:** `DFFlagNetworkStatsItemReparentGuard`
+- **Added:** `DFFlagRbxTransportBaseClientBlockingEventWait`
+- **Added:** `DFFlagRbxTransportRecvThreadOverloadReportMax`
+- **Added:** `DFFlagRbxTransportSentinelWireChannelIdCheck`
+- **Added:** `DFFlagRbxTransportStatsPanel`
+- **Added:** `DFFlagRccEnableMultiplexing3`
+- **Added:** `DFFlagRtcIoWatchDefaultInterface2`
+- **Added:** `DFFlagSQLiteDontReportCacheName`
+- **Added:** `DFFlagSatPolyPolyContactEnabled2`
+- **Added:** `DFFlagTempMitigation230672_DeleteAfterClientRollout_Staged`
+- **Added:** `DFFlagVideoPlayerReleasePlaybackSlotOnEnd`
+- **Added:** `DFFlagVoiceChatInlineMuteMetadataState`
+- **Added:** `DFFlagWrapDecompInTryCatch`
+- **Added:** `DFIntDLICPointsThrottleHundredthsPercentage`
+- **Added:** `DFIntDMChangeTrackerMinBandwidthMbps_IXP`
+- **Added:** `DFIntDMRMaxSendsPerSecond_IXP`
+- **Added:** `DFIntQuicHandshakeTotalTimeStatAggregationTimeThresholdInSeconds_Staged`
+- **Added:** `FFlagAXAvatarEditorServiceTelemetryV2_Staged`
+- **Added:** `FFlagAddFriendsStableAnalyticsFields`
+- **Added:** `FFlagAdditionalBandwidthReportingFixing`
+- **Added:** `FFlagAmpV2WizardParentModeNavTheme`
+- **Added:** `FFlagAnimGraphUIDisallowParameterNodeDeletionOnNodeDelete_Staged`
+- **Added:** `FFlagAnimGraphUIRevertInputPanelParameterOverride2_Staged`
+- **Added:** `FFlagAnimationLodImGuiThreadSafe_Staged`
+- **Added:** `FFlagAnimationRigV22`
+- **Added:** `FFlagAppChatBatchConversationPageUpsert`
+- **Added:** `FFlagAppChatLandingModalTelemetry_Staged`
+- **Added:** `FFlagAppChatLandingNotifBtnTelemetry_Staged`
+- **Added:** `FFlagAppChatMessageListV2ScrollToStartOnOpen_Staged`
+- **Added:** `FFlagBuildExperienceAnswerForm2`
+- **Added:** `FFlagBuildExperienceDeveloperProductContext`
+- **Added:** `FFlagClearDescendantOfDataModelOnParentDestroy_Staged`
+- **Added:** `FFlagCollectionWatcherSelectorBacktracking_Staged`
+- **Added:** `FFlagDMCTMetadataChannelOverride2_IXP`
+- **Added:** `FFlagEnableAccountInfoDeeplinkPage_Staged`
+- **Added:** `FFlagEnableAchievementServiceIsAchievementAvailable_Staged`
+- **Added:** `FFlagEnablePioneerUX_Staged`
+- **Added:** `FFlagExpChatPresetButtonGlobalTabFix`
+- **Added:** `FFlagExpChatPresetFullWidthButtonFixes`
+- **Added:** `FFlagFixOneByTwoAndroidBackNavigation_Staged`
+- **Added:** `FFlagFixUIDragDetectorVirtualCursorDragOnSelectedObjects2_Staged`
+- **Added:** `FFlagGImageHeaderOnlySize`
+- **Added:** `FFlagGImageHeaderOnlySizeWebp_Staged`
+- **Added:** `FFlagGateLoginStreaksByAchievementAvailability_Staged`
+- **Added:** `FFlagGltfExportShapeNameFromReflection`
+- **Added:** `FFlagGraphicsMetalPrePassConstantUpload_Staged`
+- **Added:** `FFlagGraphicsMetalSynchronizedDebugReadback_Staged`
+- **Added:** `FFlagGraphicsTextureCopySourceMipDimensions_Staged`
+- **Added:** `FFlagISRSchemaReduceRedundantCode_Staged`
+- **Added:** `FFlagInputReplicatorDedupRedundantFrames`
+- **Added:** `FFlagLDP1117FixCrossPluginEditing`
+- **Added:** `FFlagLoadPlaceForScriptPopulateContextInfo_Staged`
+- **Added:** `FFlagLogTelemetrySinkSkipReportOnDestroy_Staged`
+- **Added:** `FFlagLuaAppBootcampIntroUABOOTCAMP199`
+- **Added:** `FFlagLuaAppSponsoredTileBadgeContentPadding_Staged`
+- **Added:** `FFlagLuaStartPageRefreshRecentsOnRegistryUpdate3`
+- **Added:** `FFlagLuauBufferSweep`
+- **Added:** `FFlagLuauInlinerNamecallSelfFromMove`
+- **Added:** `FFlagLuauLoadExplicitGcDisable`
+- **Added:** `FFlagLuauSandboxFreezesVectorMetatable_Staged`
+- **Added:** `FFlagMergeMeshesRootUploadConditionally_Staged`
+- **Added:** `FFlagMomentsHideOfficialContentLabel`
+- **Added:** `FFlagMomentsTextOverlayChipGrowWidth_Staged`
+- **Added:** `FFlagMomentsTextOverlayDragToDeleteRefinement_Staged`
+- **Added:** `FFlagMomentsTextOverlayToolbarWhileTyping_Staged`
+- **Added:** `FFlagMoveAdConsentReceiverToAccountManagement`
+- **Added:** `FFlagMoveSduiUpdateUserSettingsToAccountManagement`
+- **Added:** `FFlagPgsRolloutEnabled4_Staged`
+- **Added:** `FFlagPioneerLeaveOnInExpFaeDownAge2_Staged`
+- **Added:** `FFlagPlaytestModeTooltipOncePerWeek`
+- **Added:** `FFlagPlaytestModeTooltipOnlyPrivateTesters`
+- **Added:** `FFlagPurchasePromptSkipThirdPartyCheckForMissingCreator`
+- **Added:** `FFlagRbxTransportCacheTlsKeyingMaterial_Staged`
+- **Added:** `FFlagRbxTransportUseStateReasonDirectly_Staged`
+- **Added:** `FFlagRecorderSendToCaptureService_IXP`
+- **Added:** `FFlagRenderIC2DeferredRebindNoStale`
+- **Added:** `FFlagRenderSSAOFrameIndexWrapFix`
+- **Added:** `FFlagRenderSSAOPerInstanceHbaoState`
+- **Added:** `FFlagSDUIContentRowSelectable_Staged`
+- **Added:** `FFlagSduiSettingsFocusRef_Staged`
+- **Added:** `FFlagSlimAnimatorEligibility`
+- **Added:** `FFlagSlimDeriveBakedSkeletonInstanceHashes_Staged`
+- **Added:** `FFlagSocialCarouselUpdateVerticalSpacing_v2`
+- **Added:** `FFlagStudioArchiveSiblingRecoveryFilesOnCloudSave`
+- **Added:** `FFlagTaskThreadClearCallbackOnStop_Staged`
+- **Added:** `FFlagUFRDialogContentCutoffFix_Staged`
+- **Added:** `FFlagUserListDefaultCtaWidths_Staged`
+- **Added:** `FFlagUserListSurfacePresenceWins_Staged`
+- **Added:** `FFlagVoiceChatBanDurationUseServerTime`
+- **Added:** `FFlagVoiceChatFixTaggedEventAllocation`
+- **Added:** `FFlagVulkanDisableAfbcForSmallMipmappedRGBA8`
+- **Added:** `FIntFrameRateMSToReduceTouchEvents`
+- **Added:** `FIntTexturePackUsePropertySetAddressesHundredthPercent_Staged`
+- **Added:** `FStringDMCTMetadataChannelOverrideValue_IXP`
+- **Added:** `FStringPlaytestModeTooltipLearnMoreUrl`
+- **Changed:** `DFIntCaptureGalleryPermissionPromptCooldownSeconds`
+  - Before: `10`
+  - After: `60`
+- **Changed:** `DFStringFlagRepoGitHashDynamicString`
+  - Before: `33d23d2ed62a447980333962206175dc4792c676`
+  - After: `5d251b333087d396e3f52d81b007217107e2d3ca`
+- **Changed:** `DFStringFlipTimeStampDynamicString`
+  - Before: `2026-11-09T19:58:08.928Z`
+  - After: `2026-11-09T22:28:29.063Z`
+- **Changed:** `FFlagBuildExperienceChatCardEmphasis2_Staged`
+  - Before: `True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-09T19:10:19`
+  - After: `True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-09T21:01:55`
+- **Changed:** `FFlagLuaAppIsClickoutEnabledUniverse_UniverseFilter`
+  - Before: `True;9707042192;9671070925;8491889239;9164570436;9859999587;5824195619;9876947216;10004846655;9605987780;10036955953;10123702430;10241252491;10382950395;10390927281;10390930030;10390933265;10538358999;10538473450;7738776082;8005766508;10643104390;10631479676;10762769249;10765877033;10766493343;10766485671;4391533696;2564505263;10767763406;10768893031;10765530630;10357239521;10275212796;10770936218;887403347;5990940444;985731078;1235188606;5456952508;1299885893;4832841559;7681040001;4256727482`
+  - After: `True;9707042192;9671070925;8491889239;9164570436;9859999587;5824195619;9876947216;10004846655;9605987780;10036955953;10123702430;10241252491;10382950395;10390927281;10390930030;10390933265;10538358999;10538473450;7738776082;8005766508;10643104390;10631479676;10762769249;10765877033;10766493343;10766485671;4391533696;2564505263;10767763406;10768893031;10765530630;10357239521;10275212796;10770936218;887403347;5990940444;985731078;1235188606;5456952508;1299885893;4832841559;7681040001;4256727482...`
+- **Changed:** `FFlagReportFRMQualityProfileTelemetry`
+  - Before: `True`
+  - After: `False`
+- **Changed:** `FFlagSideSheetOpenPeoplePageRestoreChat`
+  - Before: `True`
+  - After: `False`
+- **Changed:** `FFlagSlimSupportAvatarSettingsRules`
+  - Before: `False`
+  - After: `True`
+- **Changed:** `FFlagStableIdempotencyKeyForProductAndGamePass`
+  - Before: `False`
+  - After: `True`
+- **Changed:** `FFlagUseRbxTransportClient3`
+  - Before: `False`
+  - After: `True`
+- **Changed:** `FStringFlagRepoGitHashFastString`
+  - Before: `33d23d2ed62a447980333962206175dc4792c676`
+  - After: `5d251b333087d396e3f52d81b007217107e2d3ca`
+- **Changed:** `FStringFlipTimeStampFastString`
+  - Before: `2026-11-09T19:58:08.928Z`
+  - After: `2026-11-09T22:28:29.063Z`
+- **Removed:** `DFFlagDecompressPacketNoThrowSizeRead_Staged`
+- **Removed:** `DFFlagEnableRobloxLabsCnDomain_Staged`
+- **Removed:** `DFFlagInputReplicatorSkipStaleControlStates_Staged`
+- **Removed:** `DFFlagKeepJoinPauseUntilCharacter_Staged`
+- **Removed:** `DFFlagRbxTransportRecvThreadOverloadReportMax_Staged`
+- **Removed:** `DFFlagRtcIoWatchDefaultInterface2_Staged`
+- **Removed:** `DFFlagSQLiteDontReportCacheName_Staged`
+- **Removed:** `DFFlagSatPolyPolyContactEnabled2_Staged`
+- **Removed:** `DFFlagVoiceChatInlineMuteMetadataState_Staged`
+- **Removed:** `DFIntCaptureGalleryPermissionPromptCooldownSeconds_Staged`
+- **Removed:** `FFlagAddFriendsStableAnalyticsFields_Staged`
+- **Removed:** `FFlagAdditionalBandwidthReportingFixing_Staged`
+- **Removed:** `FFlagAmpV2WizardParentModeNavTheme_Staged`
+- **Removed:** `FFlagAppChatBatchConversationPageUpsert_Staged`
+- **Removed:** `FFlagBuildExperienceAnswerForm2_Staged`
+- **Removed:** `FFlagExpChatPresetButtonGlobalTabFix_Staged`
+- **Removed:** `FFlagExpChatPresetFullWidthButtonFixes_Staged`
+- **Removed:** `FFlagFriendsPageUserListEnabled_v2_IXP`
+- **Removed:** `FFlagGImageHeaderOnlySize_Staged`
+- **Removed:** `FFlagInputReplicatorDedupRedundantFrames_Staged`
+- **Removed:** `FFlagLDP1117FixCrossPluginEditing_Staged`
+- **Removed:** `FFlagLuaAppBootcampIntroUABOOTCAMP199_Staged`
+- **Removed:** `FFlagLuaStartPageRefreshRecentsOnRegistryUpdate3_Staged`
+- **Removed:** `FFlagLuauInlinerNamecallSelfFromMove_Staged`
+- **Removed:** `FFlagMomentsHideOfficialContentLabel_Staged`
+- **Removed:** `FFlagMoveAdConsentReceiverToAccountManagement_Staged`
+- **Removed:** `FFlagPlaytestModeTooltipOncePerWeek_Staged`
+- **Removed:** `FFlagPlaytestModeTooltipOnlyPrivateTesters_Staged`
+- **Removed:** `FFlagPurchasePromptSkipThirdPartyCheckForMissingCreator_Staged`
+- **Removed:** `FFlagRenderIC2DeferredRebindNoStale_Staged`
+- **Removed:** `FFlagRenderSSAOFrameIndexWrapFix_Staged`
+- **Removed:** `FFlagRenderSSAOPerInstanceHbaoState_Staged`
+- **Removed:** `FFlagReportFRMQualityProfileTelemetry_Staged`
+- **Removed:** `FFlagSideSheetOpenPeoplePageRestoreChat_Staged`
+- **Removed:** `FFlagSlimAnimatorEligibility_Staged`
+- **Removed:** `FFlagSlimSupportAvatarSettingsRules_Staged`
+- **Removed:** `FFlagSocialCarouselUpdateVerticalSpacing_v2_Staged`
+- **Removed:** `FFlagStableIdempotencyKeyForProductAndGamePass_Staged`
+- **Removed:** `FFlagStudioArchiveSiblingRecoveryFilesOnCloudSave_Staged`
+- **Removed:** `FFlagStudioNederlandsLocale_Staged`
+- **Removed:** `FFlagUseRbxTransportClient3_Staged`
+- **Removed:** `FFlagVoiceChatBanDurationUseServerTime_Staged`
+- **Removed:** `FFlagVulkanDisableAfbcForSmallMipmappedRGBA8_Staged`
+- **Removed:** `FIntFrameRateMSToReduceTouchEvents_Staged`
+- **Removed:** `FStringPlaytestModeTooltipLearnMoreUrl_Staged`
+
+## Web
+
+**File changes:** +0 ~2 -0
+
+- **Changed:** [`assets.json`](../../../../current/Web/assets.json)
+- **Changed:** [`js.rbxcdn.com/page-0/SduiLandingPage.js`](../../../../current/Web/js.rbxcdn.com/page-0/SduiLandingPage.js)
+
