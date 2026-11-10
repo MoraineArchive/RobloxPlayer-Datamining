@@ -1,0 +1,154 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-f0ea5da9412f4e35",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.746.0.7461267"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "01a574c6bdb013ce97c3eb7f6356f7841114531404bc02105ff0630d25038495",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "aff35d5cbc4817acd9016b51bdd02a53a7aa4e2ca4706ec3dd0f10d52fb9decf",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 31
+        }
+      }
+    },
+    "InExperience": {
+      "current": "40e9412909ec798ed7df9df55ec53bbc453c326cc25bbe99e815b5f6407d5d94",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "6fa531c6ca16094997fb84f8ef767ab929a0286e6f6ac3e7016ccf5569edb7ce",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "866d76ce3a8d3a16c7ed1a4041c833cf84be446048956f8962a89a19b57de0dd",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "88175a72b10cf4b6eed47a0e6f1e295801e6fe9617b775909f96c1352aef1219",
+      "semantic": {
+        "added": [
+          "DFFlagAudioSpeechToTextPlatformStreamingWebrtcUseStandaloneVad",
+          "DFIntAudioSpeechToTextPlatformLowerThresholdDb",
+          "DFIntAudioSpeechToTextPlatformStreamingMaxLengthSx1k",
+          "DFIntAudioSpeechToTextPlatformStreamingMinEncodeLengthMs",
+          "DFIntAudioSpeechToTextPlatformStreamingVadAudioLookbackDurationMs",
+          "DFIntAudioSpeechToTextPlatformStreamingVadGainx1000",
+          "DFIntAudioSpeechToTextPlatformUpperThresholdDb",
+          "DFIntAudioSpeechToTextPlatformVadHoldMs",
+          "DFIntAudioSpeechToTextSpeechPlatformProbabilityThresholdx1000",
+          "FFlagAppChatGetDeepValuePreserveFalse",
+          "FFlagAppChatGuardOsaScrollToIndex",
+          "FFlagAppChatGuiVisibleUsesStyledTransparency",
+          "FFlagAppChatMessageListV2StableRowCallbacks",
+          "FFlagFixNavRailForDeviceSafeInsets"
+        ],
+        "changed": [
+          {
+            "after": "39f2d032febb232beff2443a9be16fe4e41c448c",
+            "before": "5663b13e8e4fd46556dea80c1af7bda284b96fd3",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-10T02:52:15.219Z",
+            "before": "2026-11-10T01:52:33.868Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagSlimAnimatorEligibility"
+          },
+          {
+            "after": "39f2d032febb232beff2443a9be16fe4e41c448c",
+            "before": "5663b13e8e4fd46556dea80c1af7bda284b96fd3",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-10T02:52:15.219Z",
+            "before": "2026-11-10T01:52:33.868Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagAudioSpeechToTextPlatformStreamingWebrtcUseStandaloneVad_Staged",
+          "DFIntAudioSpeechToTextPlatformLowerThresholdDb_Staged",
+          "DFIntAudioSpeechToTextPlatformStreamingMaxLengthSx1k_Staged",
+          "DFIntAudioSpeechToTextPlatformStreamingMinEncodeLengthMs_Staged",
+          "DFIntAudioSpeechToTextPlatformStreamingVadAudioLookbackDurationMs_Staged",
+          "DFIntAudioSpeechToTextPlatformStreamingVadGainx1000_Staged",
+          "DFIntAudioSpeechToTextPlatformUpperThresholdDb_Staged",
+          "DFIntAudioSpeechToTextPlatformVadHoldMs_Staged",
+          "DFIntAudioSpeechToTextSpeechPlatformProbabilityThresholdx1000_Staged",
+          "FFlagAppChatGetDeepValuePreserveFalse_Staged",
+          "FFlagAppChatGuardOsaScrollToIndex_Staged",
+          "FFlagAppChatGuiVisibleUsesStyledTransparency_Staged",
+          "FFlagAppChatMessageListV2StableRowCallbacks_Staged",
+          "FFlagFixNavRailForDeviceSafeInsets_Staged",
+          "FFlagSlimAnimatorEligibility_Staged"
+        ],
+        "unchanged": 25008
+      }
+    },
+    "UniversalApp": {
+      "current": "e3987bbd222e7a506970696b8ff5ac8e58be825465deb2ec72b463387517a4a7",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "191a5fcece6d7347597b63ecbceac509a47ba7a985f3a59c4eebfb27d5cd29bb",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
