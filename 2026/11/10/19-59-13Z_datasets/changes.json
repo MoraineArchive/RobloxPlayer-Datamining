@@ -1,0 +1,180 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "0d901eaa2f171ada60a83ba4c1910932fa5e5de706fd82bde01073cd16b5a470",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "f3c670180ad15dc59f4d2137cc95fcc4e68e101d2e3bad17d1bb9aebf60d88c2",
+      "semantic": {
+        "added": [
+          "DFFlagAuroraStopPredictionForDirtyMechanisms",
+          "DFFlagDMCTMigrateHumanoidMoveDirection_Staged",
+          "DFFlagLuauOptimizeStringSplit_Staged",
+          "DFFlagNetworkStreamingBufferShrinkEnabled_Staged",
+          "DFFlagPublishImageSnapshotAtPrompt_Staged",
+          "DFFlagRbxTransportDetectRecvThreadOverload2",
+          "DFFlagSurfaceGuiUseVisualSizeForRayCast",
+          "DFIntAudioSpeechToTextPlatformStreamingVadHoldMs_Staged",
+          "FFlagAXMoreBulkPurchaseCounters_Staged",
+          "FFlagAmrHeaderDividerHoverThicken_Staged",
+          "FFlagAnimGraphUIKeepParameterNoodlesOnDrag_Staged",
+          "FFlagAnimGraphUIScrollableParameterPane_Staged",
+          "FFlagAnimGraphUITimestampFrames_Staged",
+          "FFlagAnimGraphUI_Localization2_Staged",
+          "FFlagAnimGraphUI_ReloadPublishedClips_Staged",
+          "FFlagAnimGraphUI_ToolbarAvoidParameterPane_Staged",
+          "FFlagAnimationSAuthHighSlotNotifications",
+          "FFlagAppChatFixMessageItemListStaleRefs_Staged",
+          "FFlagAppChatMessageListV2ScrollParity_Staged",
+          "FFlagAppChatRemoveAliasesSlice_Staged",
+          "FFlagAppChatSignalsActionHandlers_Staged",
+          "FFlagAppChatSignalsReplyStore_Staged",
+          "FFlagAppChatUseDataHydrationForPlaceInfos_Staged",
+          "FFlagAppChatUseSignalsForLastEntryPoint_Staged",
+          "FFlagAuroraRollbackAttributeChangedSignals_Staged",
+          "FFlagCapturesInExpMomentsEligibilityRetry_IXP",
+          "FFlagCapturesInExpMomentsToastDownloadButton_IXP",
+          "FFlagCinUploadSessionInstanceApi_Staged",
+          "FFlagCollectionDebugRequiresRobloxScript",
+          "FFlagCreateMomentsToast_v4_IXP",
+          "FFlagCustomTitleBarM1Enabled9_IXP",
+          "FFlagCustomTitleBarM1WebviewThreadSafety_IXP",
+          "FFlagCustomTitleBarM1WindowsWebviewDialogFix_IXP",
+          "FFlagCustomTitleBarM1WindowsWebviewResizeFix1_IXP",
+          "FFlagCustomTitleBarRoundReservedHeight_IXP",
+          "FFlagCustomTitleBarTelemetryEnabled_IXP",
+          "FFlagDMCTMigrateHumanoidSkipLockProperties_Staged",
+          "FFlagDMCTMigrateSoundTimePosition_Staged",
+          "FFlagDMCTMigrateWorkspaceAuthorityForced_Staged",
+          "FFlagDoNotCacheCaptionButtonBounds_IXP",
+          "FFlagEDPTTIParityDefinitions_Staged",
+          "FFlagEnableRenderNativeChallenge_Staged",
+          "FFlagEnableRoCaptchaChallenge_Staged",
+          "FFlagExpChatHistoricalMessagesUnibarUnread_IXP",
+          "FFlagExpChatRenderHistoricalMessages_IXP",
+          "FFlagExpChatVirtualizeSystemMessages_Staged",
+          "FFlagFixFastClusterMeshDecalUVs",
+          "FFlagFixR15RigLabelParentMatch_Staged",
+          "FFlagFlyoutProfileEntryExposureLogging_IXP",
+          "FFlagHeapProfilerShutdownFix_Staged",
+          "FFlagLuauIsYieldableSimplify_Staged",
+          "FFlagLuauRefactorAutocompleteAncestry_Staged",
+          "FFlagMacWindowProtocolCacheWindowMetrics_IXP",
+          "FFlagMomentsCaptureEndIxpEnabled_IXP",
+          "FFlagNetworkPerfTestAnalysis5_Staged",
+          "FFlagNotifyAnimationPublished_Staged",
+          "FFlagPerformanceControlUseWeakSubsystemRefs_Staged",
+          "FFlagPromptsHandlerFetchOncePerSession_Staged",
+          "FFlagSduiLeaderboardComponent_Staged",
+          "FFlagSduiSetPageScopeFieldAction_Staged",
+          "FFlagSduiSettingsRootPage2_Staged",
+          "FFlagShutdownDurationTelemetryProtocol2_Staged",
+          "FFlagSlimLoaderRetryUnknownFailures_Staged",
+          "FFlagSocialTabsPageIxpEnabled",
+          "FFlagSocialTabsPageSplitPaneLayout",
+          "FFlagSocialTabsSelfRowViewCta_Staged",
+          "FFlagSocialTabsViewOnlyRowCta",
+          "FFlagStudioPreserveAssetVersionFromUrls",
+          "FFlagStudioScreenshotCaptureDockPanels",
+          "FFlagTTranscoderNewIoInterface",
+          "FFlagTextureCompositorEagerRebake",
+          "FFlagVoxelGridV2ValidateChunkHeader_Staged",
+          "FFlagVoxelJobManagerPersistentJobPool_Staged",
+          "FFlagWindowsCustomTitleBarCacheCaptionButtonsBounds_IXP",
+          "FFlagWindowsCustomTitleBarFixMinimize_IXP",
+          "FFlagWindowsCustomTitleBarFixRoundedCornersMaximized_IXP",
+          "FFlagWindowsCustomTitleBarPreserveSideFrames_IXP",
+          "FIntAssetAccessControllerGetAssetPublishStatesBatchSize",
+          "FIntCustomTitleBarTelemetryThrottleHundredthsPercent_IXP"
+        ],
+        "changed": [
+          {
+            "after": "f4443f78688cec3752639aacce3f7c9a5a888897",
+            "before": "3ff4f40dc5761f46bcd6572c44867838d93b46b8",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-10T19:58:53.309Z",
+            "before": "2026-11-10T17:37:26.146Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "1;Universality.MorePage.Exposure;Social.Profile.FlyoutProfileEntryToMeTab;522204785;dev_controlled",
+            "before": "1;Roblox.ProjectArgo;Social.Profile.FlyoutProfileEntryToMeTab;522204785;flagbank",
+            "name": "FFlagFlyoutProfileEntryGoesToMeTab_IXP"
+          },
+          {
+            "after": "1;Social.FriendsLanding;Social.FriendsLanding.FriendsListCTAs-1;1450509448;dev_controlled",
+            "before": "1;Social.FriendsLanding;Social.FriendsLanding.FriendsListCTAs;150509493;dev_controlled",
+            "name": "FFlagFriendsPageUserListCtaEnabled_IXP"
+          },
+          {
+            "after": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-10T18:33:32",
+            "before": "True;SteadyState;10;30;Revert;2026-11-10T17:10:43",
+            "name": "FFlagReleaseAdaptiveConfigClientOnShutdown_Staged"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagRenderAPI979Property3"
+          },
+          {
+            "after": "f4443f78688cec3752639aacce3f7c9a5a888897",
+            "before": "3ff4f40dc5761f46bcd6572c44867838d93b46b8",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-10T19:58:53.309Z",
+            "before": "2026-11-10T17:37:26.146Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagEnableNewRollingCategoryStats3_Staged",
+          "DFIntTextChatServiceMaxMessageLength_UniverseFilter",
+          "FFlagCollectionDebugRequiresRobloxScript_Staged",
+          "FFlagFixFastClusterMeshDecalUVs_Staged",
+          "FFlagRenderAPI979Property3_Staged",
+          "FFlagSocialTabsPageIxpEnabled_Staged",
+          "FFlagSocialTabsViewOnlyRowCta_Staged",
+          "FFlagStudioPreserveAssetVersionFromUrls_Staged",
+          "FFlagTTranscoderNewIoInterface_Staged",
+          "FFlagTextureCompositorEagerRebake_Staged",
+          "FIntAssetAccessControllerGetAssetPublishStatesBatchSize_Staged"
+        ],
+        "unchanged": 25018
+      }
+    },
+    "Web": {
+      "current": "baadcb8d22dcfd980ec5beb3cc6f30781f0c0eb4cc898f49f4c3525f89d0dab6",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_CommonUI.Features.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_CommonUI.Features.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "fb2bc133478ec437c5be911ac0f9b4b4c6cf8ff6fbbbbc07fd70c4492489b503",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
