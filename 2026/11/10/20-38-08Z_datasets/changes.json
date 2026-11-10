@@ -1,0 +1,146 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "f8f39dae8dc169ab0d50f2082263de31d08f86d07b3c64cd3e1ff6148695fc69",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "0d901eaa2f171ada60a83ba4c1910932fa5e5de706fd82bde01073cd16b5a470",
+      "semantic": {
+        "added": [
+          "DFFlagDMCTMigrateHumanoidMoveDirection",
+          "DFFlagNetworkStreamingBufferShrinkEnabled",
+          "DFFlagSimAdaptiveRemoveVelocityCriteriaHistoryDependence_Staged",
+          "DFIntAudioSpeechToTextPlatformStreamingVadHoldMs",
+          "FFlagAXCatalogDeepLinkSearchProps_Staged",
+          "FFlagAXCatalogSearchKeepFilters_Staged",
+          "FFlagAXItemDetailsDescriptionLinks_Staged",
+          "FFlagAXMoreBulkPurchaseCounters",
+          "FFlagAmrHeaderDividerHoverThicken",
+          "FFlagAnimGraphUIKeepParameterNoodlesOnDrag",
+          "FFlagAnimGraphUIScrollableParameterPane",
+          "FFlagAnimGraphUITimestampFrames",
+          "FFlagAnimGraphUI_Localization2",
+          "FFlagAnimGraphUI_ReloadPublishedClips",
+          "FFlagAnimGraphUI_ToolbarAvoidParameterPane",
+          "FFlagAppChatIncrementalMessageItemList_Staged",
+          "FFlagAppChatMessageListV2FollowIncoming_Staged",
+          "FFlagAppChatRemoveAliasesSlice",
+          "FFlagAppChatSignalsActionHandlers",
+          "FFlagAppChatSignalsReplyStore",
+          "FFlagAppChatUseDataHydrationForPlaceInfos",
+          "FFlagAppChatUseSignalsForLastEntryPoint",
+          "FFlagAuroraRollbackAttributeChangedSignals",
+          "FFlagCinUploadSessionInstanceApi",
+          "FFlagDMCTMigrateSoundTimePosition",
+          "FFlagDMCTMigrateWorkspaceAuthorityForced",
+          "FFlagDevFrameworkUsePluginDesign_Staged",
+          "FFlagEnableRenderNativeChallenge",
+          "FFlagEnableRoCaptchaChallenge",
+          "FFlagExpChatVirtualizeSystemMessages",
+          "FFlagFixR15RigLabelParentMatch",
+          "FFlagLuaAppAllowNilHookDepsCleanup_Staged",
+          "FFlagNotifyAnimationPublished",
+          "FFlagReleaseAdaptiveConfigClientOnShutdown",
+          "FFlagScriptEditorReadOnlyApi2_Staged",
+          "FFlagSduiLeaderboardComponent",
+          "FFlagSduiSetPageScopeFieldAction",
+          "FFlagSduiSettingsRootPage2",
+          "FFlagShutdownDurationTelemetryProtocol2",
+          "FFlagSocialTabsSelfRowViewCta",
+          "FFlagVoxelGridV2ValidateChunkHeader",
+          "FFlagVoxelJobManagerPersistentJobPool"
+        ],
+        "changed": [
+          {
+            "after": "0d8df6a412e2215d7ebd770cff0e96d20ae9ba43",
+            "before": "f4443f78688cec3752639aacce3f7c9a5a888897",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-10T20:37:44.536Z",
+            "before": "2026-11-10T19:58:53.309Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "0d8df6a412e2215d7ebd770cff0e96d20ae9ba43",
+            "before": "f4443f78688cec3752639aacce3f7c9a5a888897",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-10T20:37:44.536Z",
+            "before": "2026-11-10T19:58:53.309Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagDMCTMigrateHumanoidMoveDirection_Staged",
+          "DFFlagNetworkStreamingBufferShrinkEnabled_Staged",
+          "DFIntAudioSpeechToTextPlatformStreamingVadHoldMs_Staged",
+          "FFlagAXMoreBulkPurchaseCounters_Staged",
+          "FFlagAmrHeaderDividerHoverThicken_Staged",
+          "FFlagAnimGraphUIKeepParameterNoodlesOnDrag_Staged",
+          "FFlagAnimGraphUIScrollableParameterPane_Staged",
+          "FFlagAnimGraphUITimestampFrames_Staged",
+          "FFlagAnimGraphUI_Localization2_Staged",
+          "FFlagAnimGraphUI_ReloadPublishedClips_Staged",
+          "FFlagAnimGraphUI_ToolbarAvoidParameterPane_Staged",
+          "FFlagAppChatRemoveAliasesSlice_Staged",
+          "FFlagAppChatSignalsActionHandlers_Staged",
+          "FFlagAppChatSignalsReplyStore_Staged",
+          "FFlagAppChatUseDataHydrationForPlaceInfos_Staged",
+          "FFlagAppChatUseSignalsForLastEntryPoint_Staged",
+          "FFlagAuroraRollbackAttributeChangedSignals_Staged",
+          "FFlagCinUploadSessionInstanceApi_Staged",
+          "FFlagDMCTMigrateSoundTimePosition_Staged",
+          "FFlagDMCTMigrateWorkspaceAuthorityForced_Staged",
+          "FFlagEnableRenderNativeChallenge_Staged",
+          "FFlagEnableRoCaptchaChallenge_Staged",
+          "FFlagExpChatVirtualizeSystemMessages_Staged",
+          "FFlagFixR15RigLabelParentMatch_Staged",
+          "FFlagNetworkPerfTestAnalysis5_Staged",
+          "FFlagNotifyAnimationPublished_Staged",
+          "FFlagReleaseAdaptiveConfigClientOnShutdown_Staged",
+          "FFlagSduiLeaderboardComponent_Staged",
+          "FFlagSduiSetPageScopeFieldAction_Staged",
+          "FFlagSduiSettingsRootPage2_Staged",
+          "FFlagShutdownDurationTelemetryProtocol2_Staged",
+          "FFlagSocialTabsSelfRowViewCta_Staged",
+          "FFlagVoxelGridV2ValidateChunkHeader_Staged",
+          "FFlagVoxelJobManagerPersistentJobPool_Staged"
+        ],
+        "unchanged": 25067
+      }
+    },
+    "Web": {
+      "current": "b260a03d98d871c58825e4de18cd240050b5b6504bd87e836724a36787cf6f04",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "baadcb8d22dcfd980ec5beb3cc6f30781f0c0eb4cc898f49f4c3525f89d0dab6",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
