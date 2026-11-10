@@ -1,7 +1,7 @@
 {
   "appStorageResetId": "0",
   "assetId": "118593852151835",
-  "assetVersion": "17009",
+  "assetVersion": "17151",
   "assetsManifest": {
     "100119004605329": "content/textures/ui/LuaChat/graphic/gr-indicator-ingame-14x14@3x.png",
     "100348805600292": "content/textures/ui/LuaChat/icons/ic-close-gray2@3x.png",
@@ -532,9 +532,9 @@
   "isForcedUpdate": false,
   "isStandalone": null,
   "localAssetURI": "rbxasset://models/UniversalApp/UniversalApp.rbxm",
-  "maxAppVersion": "747",
+  "maxAppVersion": "748",
   "name": "UniversalApp",
   "tryoutName": null,
-  "version": "17009",
-  "versionV2": 27676
+  "version": "17151",
+  "versionV2": 27840
 }
