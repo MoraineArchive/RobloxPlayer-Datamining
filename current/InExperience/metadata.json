@@ -9,24 +9,24 @@
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.746.0.7461267&tag=Release&name=app-patch-in-experience"
     },
     {
-      "bytes": 15219745,
+      "bytes": 15220780,
       "derivedFrom": "InExperience.rbxm",
-      "sha256": "66619c87e5b36766e73b80e472477254b124e74608ccfc77ded40acfd0708ae3",
+      "sha256": "e9a430ae371d2c2b4d52f4ae45dcd0c55cb2189c7066537191e2293d2e3a51ff",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17046"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17051"
     }
   ],
   "reason": "The live model stores compiled Source fields (type 0x1d); original Luau text is not publicly present in this artifact. No reconstructed source is presented as original.",
   "status": "partial",
   "summary": {
     "assetId": "80471914653504",
-    "assetVersion": "17046",
+    "assetVersion": "17051",
     "configuredAssetVersion": "16916",
     "engineRevision": 1,
-    "instances": 40278,
+    "instances": 40277,
     "localizationFiles": 2,
     "sources": 0,
-    "unreadableScripts": 37419
+    "unreadableScripts": 37418
   },
   "target": "WindowsPlayer"
 }

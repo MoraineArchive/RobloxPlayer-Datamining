@@ -1,0 +1,146 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-f0ea5da9412f4e35",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.746.0.7461267"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "7341fed4cb56a5dd31989f4d11462cc78676b7a02b6fb67fcf6b14b9ec668f21",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "01a574c6bdb013ce97c3eb7f6356f7841114531404bc02105ff0630d25038495",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 31
+        }
+      }
+    },
+    "InExperience": {
+      "current": "ed4a31c3c1c23f35e2c37d7a7e2b90522ad9449fca221e3436000e23b8f0c9da",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "40e9412909ec798ed7df9df55ec53bbc453c326cc25bbe99e815b5f6407d5d94",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "94d3c3b3ff9348fe74a680130acc5f4fe02310b9d756de9c1cbb491099c27954",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "866d76ce3a8d3a16c7ed1a4041c833cf84be446048956f8962a89a19b57de0dd",
+      "semantic": {
+        "added": [
+          "FFlagAppChatCoalesceSendMessageWrites",
+          "FFlagAppChatConversationListViewRecyclerConsoleProps",
+          "FFlagAppChatGroupedVariantNeighbourIds",
+          "FFlagAppChatMessageModelOnDemand",
+          "FFlagAppChatParseMessageTimestampsOnce",
+          "FFlagAudioSpeechToTextPlatformEnableVolumeCheck",
+          "FFlagAudioSpeechToTextPlatformStreamingDisableSpeechToTextVAD",
+          "FFlagAudioSpeechToTextPlatformStreamingEnableVolumeCheck",
+          "FFlagGuiObjectDragEndKeepAlive",
+          "FIntDebugAuthEntryVariantOverride"
+        ],
+        "changed": [
+          {
+            "after": "55c831ebc702231c23f1c4fb2c5aefbcb7488305",
+            "before": "39f2d032febb232beff2443a9be16fe4e41c448c",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-10T04:02:43.662Z",
+            "before": "2026-11-10T02:52:15.219Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagTexturePackGameServerPropertySets"
+          },
+          {
+            "after": "55c831ebc702231c23f1c4fb2c5aefbcb7488305",
+            "before": "39f2d032febb232beff2443a9be16fe4e41c448c",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-10T04:02:43.662Z",
+            "before": "2026-11-10T02:52:15.219Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAppChatCoalesceSendMessageWrites_Staged",
+          "FFlagAppChatConversationListViewRecyclerConsoleProps_Staged",
+          "FFlagAppChatGroupedVariantNeighbourIds_Staged",
+          "FFlagAppChatMessageModelOnDemand_Staged",
+          "FFlagAppChatParseMessageTimestampsOnce_Staged",
+          "FFlagAudioSpeechToTextPlatformEnableVolumeCheck_Staged",
+          "FFlagAudioSpeechToTextPlatformStreamingDisableSpeechToTextVAD_Staged",
+          "FFlagAudioSpeechToTextPlatformStreamingEnableVolumeCheck_Staged",
+          "FFlagGuiObjectDragEndKeepAlive_Staged",
+          "FFlagTexturePackGameServerPropertySets_Staged",
+          "FIntDebugAuthEntryVariantOverride_Staged"
+        ],
+        "unchanged": 25011
+      }
+    },
+    "UniversalApp": {
+      "current": "eba73fb98c1c543c55a6d7c4e2c820dd218142df9eac3a7eaf82dca8781862cb",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "e3987bbd222e7a506970696b8ff5ac8e58be825465deb2ec72b463387517a4a7",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
