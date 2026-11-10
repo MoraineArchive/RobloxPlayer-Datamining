@@ -6,41 +6,41 @@
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsExperimental/SignalsExperimental/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsReact/SignalsReact/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "instances.json": "8902357a980c3d217c622b6810c0a1fef802a3cc6ca8da1967cb1f0597e84f9e",
-    "latest-asset.json": "c6c0d23bd811e4051438eb8a3bffac7cdd9280b77c8c296d983ffddc909a5dfd",
-    "metadata.json": "67d873dae4d1ea609df6f1ffe19bb81c2c260b2c9087850b6bc01692c8c9be54",
-    "ota-config.json": "860b92fe6623ff23b37576e773cf3f7bbc2a61b0ce62df4e30bd071985bfd294"
+    "instances.json": "da4501476e35c5631463cbe41ec5183bf2be4f6306821bf4ba5e10c31b819bfd",
+    "latest-asset.json": "8646211185856c0c41135954862b2cc279ab4beab015d269273f0074e3cd1171",
+    "metadata.json": "63ae317729a7d1bd2f68a358e790504463e031fc42baf7eb6754b3672934f152",
+    "ota-config.json": "b0915508176a361a34616272844450e747dc4df13d9e3b46605b6483e4cc76fa"
   },
-  "id": "032edaf5031a132eaa2bcccc3a50050c42402abb6a965f5f4b4c0d9bcf1f3f77",
+  "id": "191a5fcece6d7347597b63ecbceac509a47ba7a985f3a59c4eebfb27d5cd29bb",
   "observationMode": "live",
-  "observedAt": "2026-11-05T23:53:02.084Z",
+  "observedAt": "2026-11-10T01:57:57.261Z",
   "provenance": [
     {
-      "bytes": 42864,
+      "bytes": 43096,
       "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
-      "sha256": "0cff3633f4ce20f3534fc2dafb0014c492652dfa8d089a9810789e0b55066ffa",
+      "sha256": "628dffbea086fda77c44f802986e683f77ab9aa78fbafbbebd0e2a5d4d71c8eb",
       "sourceType": "official",
-      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.745.0.7451137&tag=Release&name=app-patch-universal-app"
+      "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.746.0.7461267&tag=Release&name=app-patch-universal-app"
     },
     {
-      "bytes": 13793051,
+      "bytes": 13858556,
       "derivedFrom": "UniversalApp.rbxm",
-      "sha256": "195a7617cbaf305acc7ceb6bf0c2a616cb22d5d2aa88cd9be6029efd79e9a259",
+      "sha256": "67d6aeda6fa04bc78d55aaeee7c4a88552093524e7845192bd7a93a3039d10ac",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=16952"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=17137"
     }
   ],
-  "sequence": 125,
+  "sequence": 126,
   "status": "partial",
   "summary": {
     "assetId": "118593852151835",
-    "assetVersion": "16952",
-    "configuredAssetVersion": "16427",
+    "assetVersion": "17137",
+    "configuredAssetVersion": "17009",
     "engineRevision": 1,
-    "instances": 5391,
+    "instances": 5440,
     "localizationFiles": 0,
     "sources": 0,
-    "unreadableScripts": 4741
+    "unreadableScripts": 4792
   },
   "surface": "UniversalApp",
   "target": "WindowsPlayer"

@@ -1,7 +1,7 @@
 {
   "appStorageResetId": "0",
   "assetId": "118593852151835",
-  "assetVersion": "16427",
+  "assetVersion": "17009",
   "assetsManifest": {
     "100119004605329": "content/textures/ui/LuaChat/graphic/gr-indicator-ingame-14x14@3x.png",
     "100348805600292": "content/textures/ui/LuaChat/icons/ic-close-gray2@3x.png",
@@ -69,6 +69,7 @@
     "111100657715536": "content/textures/ui/LuaChat/graphic/gr-indicator-online-12x12@2x.png",
     "111206137439204": "content/textures/ui/LuaApp/icons/ic-more-blog@2x.png",
     "111213466835422": "content/textures/ui/LuaChat/graphic/gr-indicator-online-8x8@3x.png",
+    "111432639747519": "content/textures/ui/LuaApp/graphic/app_icon_Default.png",
     "111598124187196": "content/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_3x_14.png",
     "111644426607329": "content/textures/ui/LuaChat/icons/ic-remove@2x.png",
     "111677918270802": "content/textures/ui/ImageSet/AE/img_set_2x_4.png",
@@ -326,6 +327,7 @@
     "75359033786680": "content/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_3.png",
     "75422305077633": "content/textures/ui/LuaChat/icons/ic-leave@3x.png",
     "75562672652455": "content/textures/ui/ImageSet/LuaApp/img_set_3x_2.png",
+    "75769329245198": "content/textures/ui/LuaApp/graphic/app_icon_Classic.png",
     "75940257096999": "content/textures/ui/ImageSet/AE/img_set_3x_1.png",
     "76035224041657": "content/textures/ui/LuaChat/graphic/gr-indicator-instudio-10x10@3x.png",
     "76191950618657": "content/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_7.png",
@@ -378,6 +380,7 @@
     "81538139749898": "content/textures/ui/LuaApp/graphic/profilemask@2x.png",
     "81592027303151": "content/LuaPackages/Packages/_Index/FoundationImages/FoundationImages/SpriteSheets/img_set_2x_14.png",
     "81596157160154": "content/textures/ui/AvatarExperience/SelectionRing.png",
+    "81646089408168": "content/textures/ui/LuaApp/graphic/app_icon_Halloween2026.png",
     "81822743920814": "content/textures/ui/ImageSet/InGameMenu/img_set_2x_1.png",
     "81917934585365": "content/textures/ui/LuaChat/graphic/gr-game-border-60x60.png",
     "82055987325919": "content/textures/ui/LuaApp/graphic/Auth/wechatlogo.png",
@@ -529,9 +532,9 @@
   "isForcedUpdate": false,
   "isStandalone": null,
   "localAssetURI": "rbxasset://models/UniversalApp/UniversalApp.rbxm",
-  "maxAppVersion": "746",
+  "maxAppVersion": "747",
   "name": "UniversalApp",
   "tryoutName": null,
-  "version": "16427",
-  "versionV2": 26699
+  "version": "17009",
+  "versionV2": 27676
 }

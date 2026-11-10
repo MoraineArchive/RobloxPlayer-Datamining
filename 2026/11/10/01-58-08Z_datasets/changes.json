@@ -1,0 +1,375 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-f0ea5da9412f4e35",
+    "manifestFiles": 2853,
+    "packages": 22,
+    "version": "0.746.0.7461267"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "aff35d5cbc4817acd9016b51bdd02a53a7aa4e2ca4706ec3dd0f10d52fb9decf",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "b328b1c7b64772d6c186ee1718c1c5af1dc5033db64feb104f44e248002e61fc",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 31
+        }
+      }
+    },
+    "InExperience": {
+      "current": "6fa531c6ca16094997fb84f8ef767ab929a0286e6f6ac3e7016ccf5569edb7ce",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json",
+          "ota-config.json"
+        ],
+        "removed": [],
+        "unchanged": 8
+      },
+      "previous": "1f623dd38b1475f6a69efd4c708bc972f92964857239f0ec7e47ca9b7be17e52",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "88175a72b10cf4b6eed47a0e6f1e295801e6fe9617b775909f96c1352aef1219",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "79996c4a617f70efac62f7154142f732f01e64ed86b8386b5a0344b3d75a9e00",
+      "semantic": {
+        "added": [
+          "DFFlagAndroidLowMemoryAsyncMarshal",
+          "DFFlagAudioSpeechToTextPlatformStreamingWebrtcUseStandaloneVad_Staged",
+          "DFFlagCompressedPVUsePackedVector",
+          "DFFlagMMFDiscardAfterDecode",
+          "DFFlagPerformanceControlCutComputeBudgetInLowPower_IXP",
+          "DFFlagPerformanceControlCutMemoryBudgetInLowPower_IXP",
+          "DFFlagPerformanceControlForceComputeThrottleInLowPower_IXP",
+          "DFFlagTempMitigation230672_DeleteAfterClientRollout",
+          "DFFlagWebrtcUseStandaloneVad",
+          "DFIntAudioSpeechToTextMinEncodeLengthMs",
+          "DFIntAudioSpeechToTextPlatformLowerThresholdDb_Staged",
+          "DFIntAudioSpeechToTextPlatformMaxLengthSx1k",
+          "DFIntAudioSpeechToTextPlatformStreamingMaxLengthSx1k_Staged",
+          "DFIntAudioSpeechToTextPlatformStreamingMinEncodeLengthMs_Staged",
+          "DFIntAudioSpeechToTextPlatformStreamingVadAudioLookbackDurationMs_Staged",
+          "DFIntAudioSpeechToTextPlatformStreamingVadGainx1000_Staged",
+          "DFIntAudioSpeechToTextPlatformUpperThresholdDb_Staged",
+          "DFIntAudioSpeechToTextPlatformVadAudioLookbackDurationMs",
+          "DFIntAudioSpeechToTextPlatformVadHoldMs_Staged",
+          "DFIntAudioSpeechToTextSpeechPlatformProbabilityThresholdx1000_Staged",
+          "DFIntAudioSpeechToTextVadGainx1000",
+          "DFIntPerformanceControlLowPowerComputeBudgetPercent_IXP",
+          "DFIntPerformanceControlLowPowerMemoryBudgetPercent_IXP",
+          "DFIntQuicHandshakeTotalTimeStatAggregationTimeThresholdInSeconds",
+          "FFlagAACPublishOnPropertyGrant",
+          "FFlagAXAvatarEditorServiceTelemetryV2",
+          "FFlagAnimGraphUIDisallowParameterNodeDeletionOnNodeDelete",
+          "FFlagAnimGraphUIRevertInputPanelParameterOverride2",
+          "FFlagAnimationLodImGuiThreadSafe",
+          "FFlagAppChatCoalesceSendMessageWrites_Staged",
+          "FFlagAppChatConversationListViewRecyclerConsoleProps_Staged",
+          "FFlagAppChatGetDeepValuePreserveFalse_Staged",
+          "FFlagAppChatGroupedVariantNeighbourIds_Staged",
+          "FFlagAppChatGuardOsaScrollToIndex_Staged",
+          "FFlagAppChatGuiVisibleUsesStyledTransparency_Staged",
+          "FFlagAppChatLandingModalTelemetry",
+          "FFlagAppChatLandingNotifBtnTelemetry",
+          "FFlagAppChatMessageListV2ScrollToStartOnOpen",
+          "FFlagAppChatMessageListV2StableRowCallbacks_Staged",
+          "FFlagAppChatMessageModelOnDemand_Staged",
+          "FFlagAppChatParseMessageTimestampsOnce_Staged",
+          "FFlagAudioSpeechToTextEnableStreaming",
+          "FFlagAudioSpeechToTextFixMaxLengthSplit",
+          "FFlagAudioSpeechToTextPlatformDisableSpeechToTextVAD",
+          "FFlagAudioSpeechToTextPlatformEnableVolumeCheck_Staged",
+          "FFlagAudioSpeechToTextPlatformStreamingDisableSpeechToTextVAD_Staged",
+          "FFlagAudioSpeechToTextPlatformStreamingEnableVolumeCheck_Staged",
+          "FFlagAudioSpeechToTextPlatformStreamingUseCustomParameters",
+          "FFlagBuildExperienceChatCardEmphasis2",
+          "FFlagClearDescendantOfDataModelOnParentDestroy",
+          "FFlagCloudClientEligibilityReserve_IXP",
+          "FFlagCollectionWatcherSelectorBacktracking",
+          "FFlagEnableAccountInfoDeeplinkPage",
+          "FFlagEnableAchievementServiceIsAchievementAvailable",
+          "FFlagEnableManualVad",
+          "FFlagEnablePioneerUX",
+          "FFlagEnableShopExposureLogging2",
+          "FFlagEngineUseAssetDeliveryV3FixAssetName",
+          "FFlagExpChatDictationStreamingAudio",
+          "FFlagFixNavRailForDeviceSafeInsets_Staged",
+          "FFlagFixOneByTwoAndroidBackNavigation",
+          "FFlagFixUIDragDetectorVirtualCursorDragOnSelectedObjects2",
+          "FFlagGImageHeaderOnlySizeWebp",
+          "FFlagGameJoinCardOptionalActions",
+          "FFlagGateLoginStreaksByAchievementAvailability",
+          "FFlagGraphicsMetalPrePassConstantUpload",
+          "FFlagGraphicsMetalSynchronizedDebugReadback",
+          "FFlagGraphicsTextureCopySourceMipDimensions",
+          "FFlagGuiObjectDragEndKeepAlive_Staged",
+          "FFlagISRSchemaReduceRedundantCode",
+          "FFlagLoadPlaceForScriptPopulateContextInfo",
+          "FFlagLogTelemetrySinkSkipReportOnDestroy",
+          "FFlagLuaAppSponsoredTileBadgeContentPadding",
+          "FFlagLuauCageSplitData",
+          "FFlagLuauSandboxFreezesVectorMetatable",
+          "FFlagMomentsTextOverlayChipGrowWidth",
+          "FFlagMomentsTextOverlayDragToDeleteRefinement",
+          "FFlagMomentsTextOverlayToolbarWhileTyping",
+          "FFlagPerformanceControlSupportsZeroPriority",
+          "FFlagPgsRolloutEnabled4",
+          "FFlagPioneerLeaveOnInExpFaeDownAge2",
+          "FFlagPublishPlaceAsAudiencesReplacement",
+          "FFlagRbxTransportCacheTlsKeyingMaterial",
+          "FFlagRbxTransportUseStateReasonDirectly",
+          "FFlagSDUIContentRowSelectable",
+          "FFlagSduiSettingsFocusRef",
+          "FFlagSimStoreMotor6DRotationAsQuaternion",
+          "FFlagSlimAnimatorEligibility_Staged",
+          "FFlagSlimDeriveBakedSkeletonInstanceHashes",
+          "FFlagSlimFixKeepSkinnedLevelStats",
+          "FFlagTexturePackGameServerPropertySets_Staged",
+          "FFlagToolboxPublishDraftAssetsOnInsert",
+          "FFlagUFRDialogContentCutoffFix",
+          "FFlagUserListDefaultCtaWidths",
+          "FFlagUserListSurfacePresenceWins",
+          "FIntDebugAuthEntryVariantOverride_Staged",
+          "FIntTexturePackUsePropertySetAddressesHundredthPercent",
+          "FStringToolboxPublishDraftAssetTypesCSV"
+        ],
+        "changed": [
+          {
+            "after": "100000",
+            "before": "500000",
+            "name": "DFIntAutomaticAssetCaptureSenderClientToHttpScale"
+          },
+          {
+            "after": "5663b13e8e4fd46556dea80c1af7bda284b96fd3",
+            "before": "8215d37f7688eaaa2123bbe5802f44a1e736e8a3",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-10T01:52:33.868Z",
+            "before": "2026-11-09T22:43:22.438Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagAssetProviderUseAssetDeliveryV3"
+          },
+          {
+            "after": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.PreRollout.1;1737467643;flagbank",
+            "before": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank",
+            "name": "FFlagEnableAndroidUnlockOrientationTabletOnly_IXP"
+          },
+          {
+            "after": "1;PlayerApp.GameDetailsPage.Mobile.Exposure;Discovery.App.ExperienceDetails.SDUI.Mobile.EDPSheet;798801888;flagbank",
+            "before": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.SDUI.Mobile.V6;831733136;dev_controlled",
+            "name": "FFlagEnableExperienceDetailsBottomSheet2_IXP"
+          },
+          {
+            "after": "1;PlayerApp.GameDetailsPage.Mobile.Exposure;Discovery.App.ExperienceDetails.SDUI.Mobile.EDPSheet;798801888;flagbank",
+            "before": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.SDUI.Mobile.V6;831733136;dev_controlled",
+            "name": "FFlagEnableExperienceDetailsBottomSheetTopBar_IXP"
+          },
+          {
+            "after": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.PreRollout.1;1737467643;flagbank",
+            "before": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank",
+            "name": "FFlagIosUnlockOrientationTabletOnly_IXP"
+          },
+          {
+            "after": "1;HarmonyExposure;HarmonyLPMTest2;1632253563;flagbank",
+            "before": "1;HarmonyExposure;StreamingSimulationRadiusEffectBattery2;892024764;flagbank",
+            "name": "FFlagPerformanceControlComputePrimaryTunablesEnabled3_IXP"
+          },
+          {
+            "after": "1;HarmonyExposure;HarmonyLPMTest2;1632253563;flagbank",
+            "before": "1;HarmonyExposure;StreamingSimulationRadiusEffectBattery2;892024764;flagbank",
+            "name": "FFlagPerformanceControlManageComputeEnabled10_IXP"
+          },
+          {
+            "after": "1;HarmonyExposure;HarmonyLPMTest2;1632253563;flagbank",
+            "before": "1;HarmonyExposure;StreamingSimulationRadiusEffectBattery2;892024764;flagbank",
+            "name": "FFlagPerformanceControlObserveLowPowerMode_IXP"
+          },
+          {
+            "after": "True;99152327248780;92921802220793",
+            "before": "True;99152327248780",
+            "name": "FFlagUGCValidateTransitionMakeupBounds_PlaceFilter"
+          },
+          {
+            "after": "10000",
+            "before": "2000",
+            "name": "FIntTexturePackShadowUploadPropertySetsHundredthPercent"
+          },
+          {
+            "after": "3759770;99152327248780;92921802220793",
+            "before": "3759770;99152327248780",
+            "name": "FIntUGCValidateMakeupMaxUBound_PlaceFilter"
+          },
+          {
+            "after": "867187;99152327248780;92921802220793",
+            "before": "867187;99152327248780",
+            "name": "FIntUGCValidateMakeupMaxVBound_PlaceFilter"
+          },
+          {
+            "after": "3238280;99152327248780;92921802220793",
+            "before": "3238280;99152327248780",
+            "name": "FIntUGCValidateMakeupMinUBound_PlaceFilter"
+          },
+          {
+            "after": "190429;99152327248780;92921802220793",
+            "before": "190429;99152327248780",
+            "name": "FIntUGCValidateMakeupMinVBound_PlaceFilter"
+          },
+          {
+            "after": "5663b13e8e4fd46556dea80c1af7bda284b96fd3",
+            "before": "8215d37f7688eaaa2123bbe5802f44a1e736e8a3",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-10T01:52:33.868Z",
+            "before": "2026-11-09T22:43:22.438Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "1628829780,2067243959,3280509951,4687549151,7174205022,2019102623,1062804083,10067664364,2599596967,3843067818,2582554444,505306092,4643512175,7715672989,3617978804,4133982699,1952015525,2834440085,11009846505,10841243710,10651120443,10790642201,8701752815,1084451707,9051314586,2539415890,4317977297,10378728341,10721965329,10881619547,10881625733,10872034609,11045762650,11079552711,10811481253,11122864167,7329014419,7328963867,4339800076,8810552972,11640991817",
+            "before": "1628829780,2067243959,3280509951,4687549151,7174205022,2019102623,1062804083,10067664364,2599596967,3843067818,2582554444,505306092,4643512175,7715672989,3617978804,4133982699,1952015525,2834440085,11009846505,10841243710,10651120443,10790642201,8701752815,1084451707,9051314586,2539415890,4317977297,10378728341,10721965329,10881619547,10881625733,10872034609,11045762650,11079552711,10811481253,11122864167,7329014419,7328963867,4339800076,8810552972",
+            "name": "FStringMomentsDebugModeAllowList"
+          }
+        ],
+        "removed": [
+          "DFFlagAndroidLowMemoryAsyncMarshal_Staged",
+          "DFFlagCompressedPVUsePackedVector_Staged",
+          "DFFlagEnableNewRollingCategoryStats3_Staged",
+          "DFFlagMMFDiscardAfterDecode_Staged",
+          "DFFlagTempMitigation230672_DeleteAfterClientRollout_Staged",
+          "DFIntQuicHandshakeTotalTimeStatAggregationTimeThresholdInSeconds_Staged",
+          "FFlagAXAvatarEditorServiceTelemetryV2_Staged",
+          "FFlagAnimGraphUIDisallowParameterNodeDeletionOnNodeDelete_Staged",
+          "FFlagAnimGraphUIRevertInputPanelParameterOverride2_Staged",
+          "FFlagAnimationLodImGuiThreadSafe_Staged",
+          "FFlagAppChatLandingModalTelemetry_Staged",
+          "FFlagAppChatLandingNotifBtnTelemetry_Staged",
+          "FFlagAppChatMessageListV2ScrollToStartOnOpen_Staged",
+          "FFlagAudioSpeechToTextEnableStreaming_Staged",
+          "FFlagAudioSpeechToTextPlatformStreamingUseCustomParameters_Staged",
+          "FFlagBuildExperienceChatCardEmphasis2_Staged",
+          "FFlagClearDescendantOfDataModelOnParentDestroy_Staged",
+          "FFlagCollectionWatcherSelectorBacktracking_Staged",
+          "FFlagEnableAccountInfoDeeplinkPage_Staged",
+          "FFlagEnableAchievementServiceIsAchievementAvailable_Staged",
+          "FFlagEnableManualVad_Staged",
+          "FFlagEnablePioneerUX_Staged",
+          "FFlagExpChatDictationStreamingAudio_Staged",
+          "FFlagFixOneByTwoAndroidBackNavigation_Staged",
+          "FFlagFixUIDragDetectorVirtualCursorDragOnSelectedObjects2_Staged",
+          "FFlagGImageHeaderOnlySizeWebp_Staged",
+          "FFlagGameJoinCardOptionalActions_Staged",
+          "FFlagGateLoginStreaksByAchievementAvailability_Staged",
+          "FFlagGraphicsMetalPrePassConstantUpload_Staged",
+          "FFlagGraphicsMetalSynchronizedDebugReadback_Staged",
+          "FFlagGraphicsTextureCopySourceMipDimensions_Staged",
+          "FFlagISRSchemaReduceRedundantCode_Staged",
+          "FFlagLoadPlaceForScriptPopulateContextInfo_Staged",
+          "FFlagLogTelemetrySinkSkipReportOnDestroy_Staged",
+          "FFlagLuaAppSponsoredTileBadgeContentPadding_Staged",
+          "FFlagLuauSandboxFreezesVectorMetatable_Staged",
+          "FFlagMergeMeshesRootUploadConditionally_Staged",
+          "FFlagMomentsTextOverlayChipGrowWidth_Staged",
+          "FFlagMomentsTextOverlayDragToDeleteRefinement_Staged",
+          "FFlagMomentsTextOverlayToolbarWhileTyping_Staged",
+          "FFlagPgsRolloutEnabled4_Staged",
+          "FFlagPioneerLeaveOnInExpFaeDownAge2_Staged",
+          "FFlagRbxTransportCacheTlsKeyingMaterial_Staged",
+          "FFlagRbxTransportUseStateReasonDirectly_Staged",
+          "FFlagSDUIContentRowSelectable_Staged",
+          "FFlagSduiSettingsFocusRef_Staged",
+          "FFlagSimStoreMotor6DRotationAsQuaternion_Staged",
+          "FFlagSlimDeriveBakedSkeletonInstanceHashes_Staged",
+          "FFlagSlimFixKeepSkinnedLevelStats_Staged",
+          "FFlagUFRDialogContentCutoffFix_Staged",
+          "FFlagUserListDefaultCtaWidths_Staged",
+          "FFlagUserListSurfacePresenceWins_Staged",
+          "FIntTexturePackUsePropertySetAddressesHundredthPercent_Staged"
+        ],
+        "unchanged": 24910
+      }
+    },
+    "UniversalApp": {
+      "current": "191a5fcece6d7347597b63ecbceac509a47ba7a985f3a59c4eebfb27d5cd29bb",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json",
+          "ota-config.json"
+        ],
+        "removed": [],
+        "unchanged": 6
+      },
+      "previous": "032edaf5031a132eaa2bcccc3a50050c42402abb6a965f5f4b4c0d9bcf1f3f77",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "718cff86cc176115164637c43301fbe5b18552f772c26dbfbd69492cdb6428d8",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/Challenge.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-0/Thumbnails.js",
+          "js.rbxcdn.com/page-1/Challenge.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-1/Thumbnails.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 214
+      },
+      "previous": "857ba18c56f4dd305f90f17fd2f1adab5895a5220b36785f6cb83f3bbeb612e4",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
