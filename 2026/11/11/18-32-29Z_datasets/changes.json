@@ -1,0 +1,172 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "abf96230546cd2a1f6287cfa992c2b6f5e2b046378b869d7c99481e0c29b7de6",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "e02f2b4f17019e0fea6f71cedc1b023d49a26627c9c14534ba58a2ceef8aef48",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "314af4d13174d566accd3c4d2291991b2ffc48022656d05bbadf02b0feb1c324",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "8c393799855d5083ac34eb30b6aef1412285e01609eb2b2b888177e291effb21",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "8d8eeeda45eb9bd254faca17e4829d880d3196c838b43d0d3ff5de7371844815",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "65a567a3980a123048bf14ce189b9a116af1ab64720ec3881b1969b82b338739",
+      "semantic": {
+        "added": [
+          "DFFlagDRSUseAreaScaleDirectly_Staged",
+          "DFFlagDestroyCharacterClientToo_Staged",
+          "DFFlagGetLatestVersionUriAsyncUseAssetsApi",
+          "DFFlagPlayerCharacterDestroyBehaviorDefaultEnabled_Staged",
+          "DFFlagVoiceChatPlatformMuteBlockUntilLoaded_Staged",
+          "DFIntTransportParamsParserResultPointsThrottleHundredthsPercent",
+          "FFlagAppIaHomeSubTabUnderlineFix_Staged",
+          "FFlagAppThemeBackgroundLayerSplitPaneClip_Staged",
+          "FFlagAppThemeHalloween2026BuildBackground_Staged",
+          "FFlagAppThemeHalloween2026ChatBackground_Staged",
+          "FFlagAppThemeHalloween2026FriendsBackground_Staged",
+          "FFlagAppThemeHalloween2026SettingsBackground_Staged",
+          "FFlagAutomaticDRSPlaceDenyListEnabled_Staged",
+          "FFlagBuildExperienceAnswerFormStableInput_Staged",
+          "FFlagBuildExperienceFoundationTabs2_Staged",
+          "FFlagCLI221489Fix_Staged",
+          "FFlagCloudClientMediaCodecFlexibleYuv_Staged",
+          "FFlagCloudClientWebrtcNonBlockingHandoff_Staged",
+          "FFlagContentAllowSerialization_Migration_Staged",
+          "FFlagEnableAutomaticDRS_Staged",
+          "FFlagExpChatPresetTrayPresetOnlyDisclaimer_Staged",
+          "FFlagISRTrackClientAuthorityPropertyChangesBeforeOwnership_Staged",
+          "FFlagLuaAppCloudClientStreamSurvivesRemount_Staged",
+          "FFlagMediaSelectorErrorLogging_Staged",
+          "FFlagReplicatorStatsRbxTransportBandwidth_Staged",
+          "FFlagSlimFixShadowUploadMissingPartCrash_Staged",
+          "FFlagSpecialShapeReverse_Staged",
+          "FFlagTextureCompositorInvalidateAllJobHumanoids_Staged",
+          "FFlagUIBackdropOcclusionCulling_Staged",
+          "FFlagUseTransportParamsParser_Staged",
+          "FFlagVideo2AudioOutputBufferFix_Staged",
+          "FFlagVideo2FixEmptyPlaylistSeekCrash_Staged",
+          "FFlagVideo2FramePreservePlaying_Staged",
+          "FFlagVideo2YcbcrSamplerFallback_Staged",
+          "FFlagWrapDeformerDropSolvedContextOnUnregister_Staged"
+        ],
+        "changed": [
+          {
+            "after": "8ee4af190da2ec34ceea898e8577084a224af651",
+            "before": "58aef34dbcafe0bf8ffde8581d0824e2d444f5ab",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-11T18:29:10.053Z",
+            "before": "2026-11-11T03:02:20.631Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "8ee4af190da2ec34ceea898e8577084a224af651",
+            "before": "58aef34dbcafe0bf8ffde8581d0824e2d444f5ab",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-11T18:29:10.053Z",
+            "before": "2026-11-11T03:02:20.631Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 25161
+      }
+    },
+    "UniversalApp": {
+      "current": "aeeceb6eaf2f6a39bbe8c5354a3b3a42bc4f000a9d67020a418fc63bf0a88b4a",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "b1393bc80555149701d3435c9af4554772652556c3614d3afe8a73dc5550982a",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "2b5e216806d324a09346b2f799a72b9e0e2f8f6561c810c83a5c8562bd85577d",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-0/GameLaunch.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/GameLaunch.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 218
+      },
+      "previous": "05df512eb89a50462c898870b2fb16df12aeb9abe67cd9a59c6826ce97ea19d4",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}

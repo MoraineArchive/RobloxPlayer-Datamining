@@ -308,6 +308,30 @@
       "sourceUrl": "https://js.rbxcdn.com/38746654b5d7ed5fd1ff195f42751a2dd85a0a3f461c1a4f51a5c8123e16aebc-CookieBannerV3.js"
     },
     {
+      "bytes": 290120,
+      "sha256": "e9422deab07b2a77f5048f5a2e4471b4636dcdd2c7a1c6e16f3ca45cf9858a3f",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/38c7a9217a7b002abced1bba061df7355c2c773e32e2596f9b957c537b1791ab-GameLaunch.js"
+    },
+    {
+      "bytes": 290120,
+      "sha256": "e9422deab07b2a77f5048f5a2e4471b4636dcdd2c7a1c6e16f3ca45cf9858a3f",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/38c7a9217a7b002abced1bba061df7355c2c773e32e2596f9b957c537b1791ab-GameLaunch.js"
+    },
+    {
+      "bytes": 194866,
+      "sha256": "8a077a607c3138c1094ecef731b175a8b3f60d5dfd662c500461038172c441cd",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/39331133ca4c3fda2f368bfdb8a426321c2ccfa71c98cbc788dc20029a765b00.js"
+    },
+    {
+      "bytes": 194866,
+      "sha256": "8a077a607c3138c1094ecef731b175a8b3f60d5dfd662c500461038172c441cd",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/39331133ca4c3fda2f368bfdb8a426321c2ccfa71c98cbc788dc20029a765b00.js"
+    },
+    {
       "bytes": 538,
       "sha256": "fa423a385dc9549730f7ffca211fb6559b988756aa58dc4507ae368b9ae06b94",
       "sourceType": "official",
@@ -366,18 +390,6 @@
       "sha256": "eba221b3b8d6d02b69d88cf291630a988f051d13c16706f10480f26f94409d82",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/413c8c9ef8cde5e5c473b1a022235f21f63f9dba6b6e7164658241eb80dc3892-IdVerification.js"
-    },
-    {
-      "bytes": 193905,
-      "sha256": "12346dbd71fe8f72e5e06b610b6ff9ed0b6ec9f240c5aeeeafc08ee800997816",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/426d28f3d80c8ab63282563f08bb17359ebba381851cb2f45dbb3b5645b57dd3.js"
-    },
-    {
-      "bytes": 193905,
-      "sha256": "12346dbd71fe8f72e5e06b610b6ff9ed0b6ec9f240c5aeeeafc08ee800997816",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/426d28f3d80c8ab63282563f08bb17359ebba381851cb2f45dbb3b5645b57dd3.js"
     },
     {
       "bytes": 686,
@@ -1272,18 +1284,6 @@
       "sha256": "dc7162351df3dbaa8c2068e0f1f9b2aa2c57c15820925a3008268fcbcca848f7",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/f3a217cc73f72b82894dc26c4057369ae7a26d8b60e579dc807fc1963ff91598-InternationalCore.js"
-    },
-    {
-      "bytes": 426621,
-      "sha256": "6ca36f72d89610aa5dcb05c2d4bea006d3943993bf51062791951d37cea6e0f8",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/fbc5876baa8e6a2361d0d1f20bcb3a62c3dbc831dd7a187c165170016def6dda-GameLaunch.js"
-    },
-    {
-      "bytes": 426621,
-      "sha256": "6ca36f72d89610aa5dcb05c2d4bea006d3943993bf51062791951d37cea6e0f8",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/fbc5876baa8e6a2361d0d1f20bcb3a62c3dbc831dd7a187c165170016def6dda-GameLaunch.js"
     },
     {
       "bytes": 215942,
