@@ -1,0 +1,58 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "a4837d8c434a187141675e4e1f6caa05eafa0a08b0b0f5deef67e5803241293b",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "972513b953d8088cdf4617570350bc15f2cc29047dac42a4632387501f869917",
+      "semantic": {
+        "added": [
+          "DFFlagDebugAudioInputPlatformStreamingOverrideGainControl",
+          "DFFlagDebugAudioInputPlatformStreamingOverrideNoiseSuppression"
+        ],
+        "changed": [
+          {
+            "after": "2182d8a2febca8679964828626311c3c4998c2b3",
+            "before": "2d65c1f1d4234efcefa1bd85c2b6917e8abd17ee",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-11T23:06:10.337Z",
+            "before": "2026-11-11T22:54:38.619Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "2182d8a2febca8679964828626311c3c4998c2b3",
+            "before": "2d65c1f1d4234efcefa1bd85c2b6917e8abd17ee",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-11T23:06:10.337Z",
+            "before": "2026-11-11T22:54:38.619Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagDebugAudioInputPlatformStreamingOverrideGainControl_Staged",
+          "DFFlagDebugAudioInputPlatformStreamingOverrideNoiseSuppression_Staged"
+        ],
+        "unchanged": 25234
+      }
+    }
+  },
+  "schemaVersion": 1
+}
