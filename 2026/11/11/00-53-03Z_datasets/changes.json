@@ -1,0 +1,231 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "8c2a61455c219e17701df72c82aab4ebc9d91465360819ca77eee5e08c71636a",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "c4561db689cbd738aff2b07a4bbced9654a0859aeaf871db87ca4f0c55e2c8aa",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "22ec2ddfd1c13cd94376c0677c80297470862a78100c12fa39728be1d985710c",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "74e37d6989342b42a474cc8ceeb1ab882d52671aa4e4c637bd7d5bc0eb20af9f",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "e660471bc3a5ca831925a4110e41a4328e0fd57815bd0a5f95727f9d194a5358",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "382cf9f4430fe3a38a4461da19ca469cab5a8c4347f5ce7319157017f601fa5e",
+      "semantic": {
+        "added": [
+          "DFFlagCLI214028HardBlockError",
+          "DFFlagCreatorConfigPerRepositoryJobs",
+          "DFFlagNetworkPerfTestServerAnalysisStatus",
+          "DFFlagRbxTransportQuicClientPmtudFix",
+          "DFFlagValidateEditableMeshDataDeserialize",
+          "DFIntCollectionsLifetimeEventThrottleHundredthsPercent",
+          "DFIntTextChatHistoricalMessageReceivedSamplePermyriad",
+          "FFlagAimKnownAssetCacheVersioning",
+          "FFlagAnimGraphUI_ValueNodeInputProperties_Staged",
+          "FFlagAppChatUseDataHydrationForChatTimeouts",
+          "FFlagAppChatUseSignalsForAppLoaded",
+          "FFlagAppChatUseSignalsForExternalNavigationRequest",
+          "FFlagAppThemeBackgroundLayer2",
+          "FFlagBuildTabUsesCanViewBuild",
+          "FFlagCLI214028HardBlock_Staged",
+          "FFlagCLI214028_Staged",
+          "FFlagCLI214030EnforceDataHard_Staged",
+          "FFlagCLI214030EnforceData_Staged",
+          "FFlagCLI214030EnforceSettingsHard_Staged",
+          "FFlagCLI214030EnforceSettings_Staged",
+          "FFlagDisableModelingServiceRegisterLegacyTelemetry",
+          "FFlagEdpConsoleUseAbuseReportRevampFlow",
+          "FFlagEnablePGSAnalytics3",
+          "FFlagEnableSocialTabsPage_IXP",
+          "FFlagExpChatMEUpdatedSystemMessage_Staged",
+          "FFlagExpChatMessageHistoryExperiment",
+          "FFlagExpChatOpenExpressionTrayExposure_Staged",
+          "FFlagFixUninitializedStatsForRbxTransport",
+          "FFlagGameJoinCardContent",
+          "FFlagHSRPublishAwaitGeneration",
+          "FFlagLuauBufferCageCrashDetection",
+          "FFlagMomentsCommentsAttachSheetScroller",
+          "FFlagMomentsFeedErrorStateRedesign",
+          "FFlagOffersShopScopedNotification",
+          "FFlagPresenceLocationType",
+          "FFlagProfilePlatformPresenceStoreMigration_v1",
+          "FFlagSduiApiStoreUpdateInputData",
+          "FFlagSduiContentRowTrailingHoverPointerOnly",
+          "FFlagSimEditableMeshQuads14",
+          "FFlagSocialExperienceJoinPresenceStoreMigration_v1",
+          "FFlagUserAbilitiesUserInterfaceA_Staged",
+          "FFlagUserListRowViewCta",
+          "FFlagUsesPgsModuleForCountryEligibility3",
+          "FFlagVoiceChatDeprecateRejoin",
+          "FFlagVoxelGridRejectOutOfTreeCodes_Staged",
+          "FIntPushNotificationsUpsellPromptsClientAttributesTimeoutMs_Staged"
+        ],
+        "changed": [
+          {
+            "after": "8e103124dee2662e07f2e6d5e976ee1008479b26",
+            "before": "6371ef544805b5cdcf1b8f7092b592262fba7559",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-11T00:48:26.970Z",
+            "before": "2026-11-10T23:03:34.470Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagFixR15RigLabelParentMatch"
+          },
+          {
+            "after": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-10T23:30:21",
+            "before": "True;SteadyState;10;30;Revert;2026-11-10T22:56:15",
+            "name": "FFlagTextChatReceivePolicy2_Staged"
+          },
+          {
+            "after": "8e103124dee2662e07f2e6d5e976ee1008479b26",
+            "before": "6371ef544805b5cdcf1b8f7092b592262fba7559",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-11T00:48:26.970Z",
+            "before": "2026-11-10T23:03:34.470Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagCLI214028HardBlockError_Staged",
+          "DFFlagRbxTransportQuicClientPmtudFix_Staged",
+          "DFFlagValidateEditableMeshDataDeserialize_Staged",
+          "DFIntCollectionsLifetimeEventThrottleHundredthsPercent_Staged",
+          "FFlagAXInspectAndBuyAvatarBackground_Staged",
+          "FFlagAimKnownAssetCacheVersioning_Staged",
+          "FFlagAppChatUseDataHydrationForChatTimeouts_Staged",
+          "FFlagAppChatUseSignalsForAppLoaded_Staged",
+          "FFlagAppChatUseSignalsForExternalNavigationRequest_Staged",
+          "FFlagAppThemeBackgroundLayer2_Staged",
+          "FFlagBuildTabUsesCanViewBuild_Staged",
+          "FFlagCLI214028HardBlock_UniverseFilter",
+          "FFlagCLI214028_UniverseFilter",
+          "FFlagCLI214030EnforceData_UniverseFilter",
+          "FFlagCLI214030EnforceSettings_UniverseFilter",
+          "FFlagDisableModelingServiceRegisterLegacyTelemetry_Staged",
+          "FFlagEdpConsoleUseAbuseReportRevampFlow_Staged",
+          "FFlagEnablePGSAnalytics3_Staged",
+          "FFlagExpChatMessageHistoryExperiment_Staged",
+          "FFlagFixR15RigLabelParentMatch_Staged",
+          "FFlagFixUninitializedStatsForRbxTransport_Staged",
+          "FFlagGameJoinCardContent_Staged",
+          "FFlagHSRPublishAwaitGeneration_Staged",
+          "FFlagLuauBufferCageCrashDetection_Staged",
+          "FFlagMomentsCommentsAttachSheetScroller_Staged",
+          "FFlagMomentsFeedErrorStateRedesign_Staged",
+          "FFlagOffersShopScopedNotification_Staged",
+          "FFlagPeoplePageAvatarBackground_Staged",
+          "FFlagPresenceLocationType_Staged",
+          "FFlagProfilePlatformPresenceStoreMigration_v1_Staged",
+          "FFlagSduiApiStoreUpdateInputData_Staged",
+          "FFlagSduiContentRowTrailingHoverPointerOnly_Staged",
+          "FFlagSimEditableMeshQuads14_Staged",
+          "FFlagSocialExperienceJoinPresenceStoreMigration_v1_Staged",
+          "FFlagStudioClassIconCustomFolder_Staged",
+          "FFlagTagEditorVersionedUris_Staged",
+          "FFlagUserListRowViewCta_Staged",
+          "FFlagUsesPgsModuleForCountryEligibility3_Staged",
+          "FFlagVoiceChatDeprecateRejoin_Staged"
+        ],
+        "unchanged": 25112
+      }
+    },
+    "UniversalApp": {
+      "current": "ede9f8260e657f5ba2485c0a1f838a3ee0e846239e18de581dddbe148b3c02a9",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "ce4941107acd7213887f9b3a21ae47b1f5a64c07247e016266979bdafd3bcdd7",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "05df512eb89a50462c898870b2fb16df12aeb9abe67cd9a59c6826ce97ea19d4",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/CoreUtilities.js",
+          "js.rbxcdn.com/page-1/CoreUtilities.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "531d3f477d3592f7f49949c13ea68fb551c18bb0959e92c1e9df0f2362eb0281",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
