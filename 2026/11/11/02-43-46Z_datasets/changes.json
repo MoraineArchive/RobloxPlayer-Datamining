@@ -1,0 +1,136 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "25ce7e42f8c05cb19be0865c9066df20f032fa8167657bd54548de95188033a2",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "a1ffb34f63fb251f562fe84edcb0c95240260a8d9a5094a86d183ed54710c204",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "a550b9255fbcf59228ee924df155a4ec272fbf4b9dd03f3543a5ff231fe29cfb",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "0e8139dad88cbdc80d981951bbd8da9ca8bc5a04e4fb964a5399f895e452fea9",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "ae11f10096a87ccd015c49c2c4756d3bef0325fd8e1b6c4276d8474134d9ce82",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "c17ed80427d5bdbaa5e25bac42c59eec617d056d1cd70eb8e795aa6acd574c9c",
+      "semantic": {
+        "added": [
+          "DFFlagConnectionClosedServerIpDiagnostics",
+          "FFlagAnimGraphUI_ValueNodeInputProperties",
+          "FFlagExpChatMEUpdatedSystemMessage",
+          "FFlagExpChatOpenExpressionTrayExposure",
+          "FFlagTextChatReceivePolicy2",
+          "FFlagUserAbilitiesUserInterfaceA",
+          "FFlagVoxelGridRejectOutOfTreeCodes",
+          "FIntPushNotificationsUpsellPromptsClientAttributesTimeoutMs"
+        ],
+        "changed": [
+          {
+            "after": "012805cb5ddad7a8601532b1d6a5d42516cf09ac",
+            "before": "f33a9cb23d5f562b805da8e93486b4162ceb8427",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-11T02:22:55.373Z",
+            "before": "2026-11-11T01:14:20.100Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "012805cb5ddad7a8601532b1d6a5d42516cf09ac",
+            "before": "f33a9cb23d5f562b805da8e93486b4162ceb8427",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-11T02:22:55.373Z",
+            "before": "2026-11-11T01:14:20.100Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagConnectionClosedServerIpDiagnostics_Staged",
+          "FFlagAnimGraphUI_ValueNodeInputProperties_Staged",
+          "FFlagExpChatMEUpdatedSystemMessage_Staged",
+          "FFlagExpChatOpenExpressionTrayExposure_Staged",
+          "FFlagTextChatReceivePolicy2_Staged",
+          "FFlagUserAbilitiesUserInterfaceA_Staged",
+          "FFlagVoxelGridRejectOutOfTreeCodes_Staged",
+          "FIntPushNotificationsUpsellPromptsClientAttributesTimeoutMs_Staged"
+        ],
+        "unchanged": 25153
+      }
+    },
+    "UniversalApp": {
+      "current": "3c35c6cf9a4a4d4ec39dc909209ca6fe8e32070ea53861b637227da8187e3e79",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "cf08a965cb3e2d4ecf6af639b94861b7ec08ade3d9e6a1728b7286a8878cb360",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
