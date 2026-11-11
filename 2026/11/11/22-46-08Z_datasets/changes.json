@@ -1,0 +1,284 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "fc87f968ac3941ea92aae50a3d081a5ecc89fc96bbf7be6d731c214b9c9af51e",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "abf96230546cd2a1f6287cfa992c2b6f5e2b046378b869d7c99481e0c29b7de6",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "56778568c88e75e677ae626256633b322fd7d96f148fb53616c825c4809c665f",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "314af4d13174d566accd3c4d2291991b2ffc48022656d05bbadf02b0feb1c324",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "77bce20471f5db5c33e8bd92f1d76bfaa781aafe2d64b3967377a479a0436be5",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "8d8eeeda45eb9bd254faca17e4829d880d3196c838b43d0d3ff5de7371844815",
+      "semantic": {
+        "added": [
+          "DFFlagDRSUseAreaScaleDirectly",
+          "DFFlagDebugAudioInputPlatformStreamingOverrideGainControl_Staged",
+          "DFFlagDebugAudioInputPlatformStreamingOverrideNoiseSuppression_Staged",
+          "DFFlagDebugDictationEchoCancellation",
+          "DFFlagDebugDictationGainControl",
+          "DFFlagDebugDictationNoiseSuppression",
+          "DFFlagDebugDictationOverrideEchoCancellation",
+          "DFFlagDebugDictationOverrideGainControl",
+          "DFFlagDebugDictationOverrideNoiseSuppression",
+          "DFFlagDebugEnableAudioInputProcessingOverrides",
+          "DFFlagDestroyCharacterClientToo",
+          "DFFlagNormalizeDefaultRedirectCacheReadPolicy_Staged",
+          "DFFlagPlayerCharacterDestroyBehaviorDefaultEnabled",
+          "DFFlagRbxTransportWasmHandshakeTelemetry",
+          "DFFlagTextChatDeliverHistoryReplay_PlaceFilter",
+          "DFFlagValidateEditableMeshDataSpatialQuery",
+          "DFFlagVoiceChatPlatformMuteBlockUntilLoaded",
+          "DFIntCharacterDestroyDelaySeconds",
+          "FFlagAmpWizardRetryKeepsNameSpace",
+          "FFlagAmrAddToExperience",
+          "FFlagAmrStudioToastsIntegration",
+          "FFlagAppIaHomeSubTabUnderlineFix",
+          "FFlagAppThemeBackgroundLayerSplitPaneClip",
+          "FFlagAppThemeHalloween2026BuildBackground",
+          "FFlagAppThemeHalloween2026ChatBackground",
+          "FFlagAppThemeHalloween2026FriendsBackground",
+          "FFlagAppThemeHalloween2026GamesListBackground",
+          "FFlagAppThemeHalloween2026HomeBackgroundLayer",
+          "FFlagAppThemeHalloween2026SettingsBackground",
+          "FFlagAudioSpeechToTextCancelRequestErase",
+          "FFlagAutomaticDRSPlaceDenyListEnabled",
+          "FFlagBuildExperienceAnswerFormStableInput",
+          "FFlagBuildExperienceFoundationTabs2",
+          "FFlagCLI221489Fix",
+          "FFlagCloudClientDecodeFrameRateCeiling",
+          "FFlagCloudClientLibWebrtcRequestKeyFrame",
+          "FFlagCloudClientMediaCodecFlexibleYuv",
+          "FFlagCloudClientWebrtcNonBlockingHandoff",
+          "FFlagContentAllowSerialization_Migration",
+          "FFlagEnableAutomaticDRS",
+          "FFlagEnableFmodRVideoOpusMp4Container",
+          "FFlagEnableFmodRVideoOpusOggContainer",
+          "FFlagEnableFmodRVideoOpusWebmContainer",
+          "FFlagEnableNativeOmniPrefetch4",
+          "FFlagEnableRecreatePinShortcutCoroutine",
+          "FFlagExpChatPresetTrayPresetOnlyDisclaimer",
+          "FFlagFlyoutEnableSwitchAccountTooltip_Staged",
+          "FFlagFmodAAudioAlwaysJoinMixer",
+          "FFlagFmodAAudioMixerRingGuard",
+          "FFlagFmodUseOpenSlOnApi28And29",
+          "FFlagHiddenFriendsSortHeaderRemoveFlyoutDependency_Staged",
+          "FFlagISRTrackClientAuthorityPropertyChangesBeforeOwnership",
+          "FFlagLuaAppCloudClientStreamSurvivesRemount",
+          "FFlagMediaSelectorErrorLogging",
+          "FFlagOptionalNavigation_Staged",
+          "FFlagPlayerContextualMenuFitToViewport",
+          "FFlagRVideoAudioTimingFixes",
+          "FFlagRVideoCheckContainerSignature",
+          "FFlagRbxTransportRnaLazyIoInit",
+          "FFlagReplicatorStatsRbxTransportBandwidth",
+          "FFlagSimTurbulenceReuseRandomSamples",
+          "FFlagSlimFixShadowUploadMissingPartCrash",
+          "FFlagSpecialShapeReverse",
+          "FFlagStudioPropertyCellVersionedAssetId",
+          "FFlagTextureCompositorInvalidateAllJobHumanoids",
+          "FFlagToolboxHideSpecialAttributeForNonAvatarItems_Staged",
+          "FFlagUIBackdropOcclusionCulling",
+          "FFlagUseTransportParamsParser",
+          "FFlagVideo2AudioOutputBufferFix",
+          "FFlagVideo2FixEmptyPlaylistSeekCrash",
+          "FFlagVideo2FramePreservePlaying",
+          "FFlagVideo2YcbcrSamplerFallback",
+          "FFlagVirtualCursorModularization6_Staged",
+          "FFlagWrapDeformerDropSolvedContextOnUnregister",
+          "FIntFlyoutAccountSwitcherTooltipMaxShows_Staged"
+        ],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagAuroraStopPredictionForDirtyMechanisms"
+          },
+          {
+            "after": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1514020001;2026-11-11T21:26:56",
+            "before": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-11T18:07:04",
+            "name": "DFFlagDestroyCharacterClientToo_Staged"
+          },
+          {
+            "after": "1;HarmonyExposure;HarmonyLPMTest3;912987079;flagbank",
+            "before": "1;HarmonyExposure;HarmonyLPMTest2-1794344711311;1267634743;flagbank",
+            "name": "DFFlagPerformanceControlCutMemoryBudgetInLowPower_IXP"
+          },
+          {
+            "after": "1;HarmonyExposure;HarmonyLPMTest3;912987079;flagbank",
+            "before": "1;HarmonyExposure;HarmonyLPMTest2-1794344711311;1267634743;flagbank",
+            "name": "DFFlagPerformanceControlForceComputeThrottleInLowPower_IXP"
+          },
+          {
+            "after": "1;HarmonyExposure;HarmonyLPMTest3;912987079;flagbank",
+            "before": "1;HarmonyExposure;HarmonyLPMTest2-1794344711311;1267634743;flagbank",
+            "name": "DFIntPerformanceControlLowPowerMemoryBudgetPercent_IXP"
+          },
+          {
+            "after": "5ad246dc1043bca6cfea5abd47aa5f00f025ba26",
+            "before": "8ee4af190da2ec34ceea898e8577084a224af651",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-11T22:44:20.577Z",
+            "before": "2026-11-11T18:29:10.053Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "Audio,Video,Mesh,Image,TexturePack,Animation,TextDocument",
+            "before": "Audio,Video,Mesh,Image,TexturePack,Animation",
+            "name": "FStringAssetAccessEligibleAssetTypesCSV"
+          },
+          {
+            "after": "5ad246dc1043bca6cfea5abd47aa5f00f025ba26",
+            "before": "8ee4af190da2ec34ceea898e8577084a224af651",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-11T22:44:20.577Z",
+            "before": "2026-11-11T18:29:10.053Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagDRSUseAreaScaleDirectly_Staged",
+          "DFFlagPerformanceControlCutComputeBudgetInLowPower_IXP",
+          "DFFlagPlayerCharacterDestroyBehaviorDefaultEnabled_Staged",
+          "DFFlagVoiceChatPlatformMuteBlockUntilLoaded_Staged",
+          "DFIntPerformanceControlLowPowerComputeBudgetPercent_IXP",
+          "FFlagAppIaHomeSubTabUnderlineFix_Staged",
+          "FFlagAppThemeBackgroundLayerSplitPaneClip_Staged",
+          "FFlagAppThemeHalloween2026BuildBackground_Staged",
+          "FFlagAppThemeHalloween2026ChatBackground_Staged",
+          "FFlagAppThemeHalloween2026FriendsBackground_Staged",
+          "FFlagAppThemeHalloween2026SettingsBackground_Staged",
+          "FFlagAutomaticDRSPlaceDenyListEnabled_Staged",
+          "FFlagBuildExperienceAnswerFormStableInput_Staged",
+          "FFlagBuildExperienceFoundationTabs2_Staged",
+          "FFlagCLI221489Fix_Staged",
+          "FFlagCloudClientMediaCodecFlexibleYuv_Staged",
+          "FFlagCloudClientWebrtcNonBlockingHandoff_Staged",
+          "FFlagContentAllowSerialization_Migration_Staged",
+          "FFlagEnableAutomaticDRS_Staged",
+          "FFlagExpChatPresetTrayPresetOnlyDisclaimer_Staged",
+          "FFlagISRTrackClientAuthorityPropertyChangesBeforeOwnership_Staged",
+          "FFlagLuaAppCloudClientStreamSurvivesRemount_Staged",
+          "FFlagMediaSelectorErrorLogging_Staged",
+          "FFlagPerformanceControlComputePrimaryTunablesEnabled3_IXP",
+          "FFlagPerformanceControlManageComputeEnabled10_IXP",
+          "FFlagPerformanceControlObserveLowPowerMode_IXP",
+          "FFlagReplicatorStatsRbxTransportBandwidth_Staged",
+          "FFlagSlimFixShadowUploadMissingPartCrash_Staged",
+          "FFlagSpecialShapeReverse_Staged",
+          "FFlagTextureCompositorInvalidateAllJobHumanoids_Staged",
+          "FFlagUIBackdropOcclusionCulling_Staged",
+          "FFlagUseTransportParamsParser_Staged",
+          "FFlagVideo2AudioOutputBufferFix_Staged",
+          "FFlagVideo2FixEmptyPlaylistSeekCrash_Staged",
+          "FFlagVideo2FramePreservePlaying_Staged",
+          "FFlagVideo2YcbcrSamplerFallback_Staged",
+          "FFlagWrapDeformerDropSolvedContextOnUnregister_Staged"
+        ],
+        "unchanged": 25153
+      }
+    },
+    "UniversalApp": {
+      "current": "e80c608f47e2ea17a1a36966b9cb269732c548b50026207103575c8aa98ba8ec",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "aeeceb6eaf2f6a39bbe8c5354a3b3a42bc4f000a9d67020a418fc63bf0a88b4a",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "4c625675d7d8d9021ea1d9ec04f7feab91d7790b33eb0dcb0ea6c5e82a3e07b7",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.DownloadLanding.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.ExperienceDetails.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Friends.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.NotApproved.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.DownloadLanding.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.ExperienceDetails.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Friends.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.NotApproved.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 214
+      },
+      "previous": "2b5e216806d324a09346b2f799a72b9e0e2f8f6561c810c83a5c8562bd85577d",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
