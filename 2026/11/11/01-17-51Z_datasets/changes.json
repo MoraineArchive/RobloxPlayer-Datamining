@@ -1,0 +1,137 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "a1ffb34f63fb251f562fe84edcb0c95240260a8d9a5094a86d183ed54710c204",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "8c2a61455c219e17701df72c82aab4ebc9d91465360819ca77eee5e08c71636a",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "0e8139dad88cbdc80d981951bbd8da9ca8bc5a04e4fb964a5399f895e452fea9",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "22ec2ddfd1c13cd94376c0677c80297470862a78100c12fa39728be1d985710c",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "c17ed80427d5bdbaa5e25bac42c59eec617d056d1cd70eb8e795aa6acd574c9c",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "c66095d2e5843b800c829f7719d8cbd901861b9d1cb53bd6f47d5483b65615ce",
+      "semantic": {
+        "added": [
+          "DFFlagConnectionClosedServerIpDiagnostics_Staged",
+          "FFlagNetPerfAnalysisAfterSync_Staged",
+          "FFlagSAuthRequirePropertyDependenciesToggled",
+          "FStringRenderMeshPerLodStreamingForceDisablePlaceIds"
+        ],
+        "changed": [
+          {
+            "after": "f33a9cb23d5f562b805da8e93486b4162ceb8427",
+            "before": "86c307ac850437671a2d58e19b3938902234a771",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-11T01:14:20.100Z",
+            "before": "2026-11-11T00:53:09.536Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagExpChatUseInternalTextChatAPIs"
+          },
+          {
+            "after": "f33a9cb23d5f562b805da8e93486b4162ceb8427",
+            "before": "86c307ac850437671a2d58e19b3938902234a771",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-11T01:14:20.100Z",
+            "before": "2026-11-11T00:53:09.536Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "",
+            "before": "4639625707",
+            "name": "FStringRenderMeshPerLodStreamingForceEnablePlaceIds"
+          }
+        ],
+        "removed": [
+          "FFlagSAuthRequirePropertyDependenciesToggled_Staged",
+          "FStringRenderMeshPerLodStreamingForceDisablePlaceIds_Staged",
+          "FStringRenderMeshPerLodStreamingForceEnablePlaceIds_Staged"
+        ],
+        "unchanged": 25155
+      }
+    },
+    "UniversalApp": {
+      "current": "cf08a965cb3e2d4ecf6af639b94861b7ec08ade3d9e6a1728b7286a8878cb360",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "ede9f8260e657f5ba2485c0a1f838a3ee0e846239e18de581dddbe148b3c02a9",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
