@@ -1,0 +1,148 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "940803b928d852787878d4a5a96a3d8c8e1ed387f2ef3900d2f6d24eff5dcaa4",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "3d8ffff893226c194a44a376ba15e0e7ce068fb15524807b63ade3eff20be22d",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "53cd87ba0cd6c5945da83503e26b2fb016765a5200c3ed31cdf2ce28400dd278",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "7dab804260a14a983c3cc8487279d902baa42a7f074c353752ba5b09275032b8",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "b50dc4a3f361636dc07b764b58333b4d05bc9f214c0dbd0fe9c91222bab06f9e",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "726889f418e123d331e75e44887fe83f4d6b9df6c6998993a95a886530ef50a7",
+      "semantic": {
+        "added": [
+          "DFFlagDLICAdmitSeedlessDetects_Staged",
+          "DFFlagRCCMonitoringActionReport_Staged",
+          "DFFlagRCCMonitoringIncludeRegionInSessionInfo_Staged",
+          "FFlagAppThemeHalloween2026GamesListBackground_Staged",
+          "FFlagEnableFlyoutUsernameAccountSwitcher_IXP",
+          "FFlagEnableGroupAnnouncementReporting_Staged",
+          "FFlagFixFlyoutAccountSwitcherTooltipEmptyString_IXP",
+          "FFlagFlyoutSidePanelIxpEnabled_IXP",
+          "FFlagSongDetailsPageDesignPass3_Staged",
+          "FFlagTM2FixDegenerateOBBDivByZero_Staged",
+          "FIntFlyoutUsernameAccountSwitcherVariant_IXP"
+        ],
+        "changed": [
+          {
+            "after": "6b03248c28f154c7694e3ac879dfd6e333ac5f10",
+            "before": "0d4211be3c1fbdaf2aa8550580f5ea23c000eae6",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-12T18:03:34.418Z",
+            "before": "2026-11-12T04:02:22.890Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "6b03248c28f154c7694e3ac879dfd6e333ac5f10",
+            "before": "0d4211be3c1fbdaf2aa8550580f5ea23c000eae6",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-12T18:03:34.418Z",
+            "before": "2026-11-12T04:02:22.890Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 25254
+      }
+    },
+    "UniversalApp": {
+      "current": "aaa7cf9794eb9f5c8e85d1d5288667d496596b38f61362015a888321d6345407",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "c072de0ae0849da591c5d20308f58982326a6736358c6f50fdfc72bcb7e69c60",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "0b9a66b9cb752c3cd4e8e38a3eb086026a14a00481f5f35b233fd512019c28f6",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-0/ItemPurchase.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/ItemPurchase.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 218
+      },
+      "previous": "051122a87704351dc203548bbe0d7619f14eb5ba8be9d6e652735db3d0308e9a",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
