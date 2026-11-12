@@ -3,23 +3,19 @@
     "PatchRoot/CoreScripts/Assets.txt": "5b4428ba2fe64cc448f4c46e2904794d00f0597ebcd256e62a38c44a20a43013",
     "PatchRoot/CoreScripts/CoreScriptLocalization.json": "2cc84a6a872e1d34c1ef06d4424bd238b9c40828bcca62f82cd848cb82c50b81",
     "PatchRoot/CoreScripts/CoreScriptLocalizationTrimmed.json": "c1cf0c578093019fad01b906b2190d43a915babf504d9eb0afa2813c873591a7",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/FoundationBlox/FoundationBlox/BloxComponents/.luaurc.txt": "c24e6547e0498f072ebeaa030a16680cdc2bbe5b6bf58605d3e1561f6b66ef67",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Resources/Resources/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-2c6549f3-b2eb785e/Signals/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-b8523d96-f281715e/Signals/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
+    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals/Signals/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsExperimental/SignalsExperimental/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsFlags/SignalsFlags/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsReact/SignalsReact/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-2c6549f3-b2eb785e/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-b8523d96-f281715e/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "instances.json": "039f727c2290a095dd5ecb36e6faa8aac0a3beea32df1f18e36f60811d570b58",
-    "latest-asset.json": "0a57b4dc4ef56b4ac1e38affa30c05e86610b3b849fe764f552d1424fc560f73",
-    "metadata.json": "c8c5ab28dacb9d1f78beeb1d5a47b7515900c294210d28bcdd523cd345882465",
+    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
+    "instances.json": "834de1e2c98bb8557db61e233f51ede21458bec20e949eb31fb9c5155d6fb809",
+    "latest-asset.json": "98f1c3b9416f06d2875efee973261b8296c22021d2b0825caeb654efbf157e02",
+    "metadata.json": "b823b07d58fb92503252b957664dd3fce1c504b0d51b7968ec9c99f2c43a067a",
     "ota-config.json": "06e08cf2ac336acac998480549bcf99b2a046a86c3c3b7bf401db63b33d9baf5"
   },
-  "id": "64ace7bcb93007785e625f71e2d6c912984fe924a559a217d3c8819f44e47066",
+  "id": "483ecee1eb89b1dc629b7a6dd1db7fee4b5fc6d59381e3f30ec649ce16f24638",
   "observationMode": "live",
-  "observedAt": "2026-11-12T21:08:53.134Z",
+  "observedAt": "2026-11-12T23:30:01.073Z",
   "provenance": [
     {
       "bytes": 43095,
@@ -29,24 +25,24 @@
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.747.0.7471481&tag=Release&name=app-patch-in-experience"
     },
     {
-      "bytes": 16352774,
+      "bytes": 15959163,
       "derivedFrom": "InExperience.rbxm",
-      "sha256": "ddd8015e54a92ddf1b6d0a1dd3cd9f1cbdb4249fd31a7f8522bd296d933ea8ba",
+      "sha256": "93153202c6232617e88989ec12f756ee93120a76c9e08735d526df9a14ce94bc",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17357"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17379"
     }
   ],
-  "sequence": 149,
+  "sequence": 150,
   "status": "partial",
   "summary": {
     "assetId": "80471914653504",
-    "assetVersion": "17357",
+    "assetVersion": "17379",
     "configuredAssetVersion": "17057",
     "engineRevision": 1,
-    "instances": 41684,
+    "instances": 41153,
     "localizationFiles": 2,
     "sources": 0,
-    "unreadableScripts": 38723
+    "unreadableScripts": 38271
   },
   "surface": "InExperience",
   "target": "WindowsPlayer"

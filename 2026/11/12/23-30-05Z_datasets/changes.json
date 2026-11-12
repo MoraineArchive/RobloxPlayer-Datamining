@@ -1,0 +1,244 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "1b6e62443b83d3f1aa862c4204f3b914b5b23172e1a3f4e44a3725034f47c01c",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "84e1dfbb5d4b319e58d3dd242c6e5c393ed61587325ca9df46281cf2e5654685",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "483ecee1eb89b1dc629b7a6dd1db7fee4b5fc6d59381e3f30ec649ce16f24638",
+      "files": {
+        "added": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt"
+        ],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/FoundationBlox/FoundationBlox/BloxComponents/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-2c6549f3-b2eb785e/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-b8523d96-f281715e/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsFlags/SignalsFlags/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-2c6549f3-b2eb785e/SignalsScheduler/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-b8523d96-f281715e/SignalsScheduler/.luaurc.txt"
+        ],
+        "unchanged": 7
+      },
+      "previous": "64ace7bcb93007785e625f71e2d6c912984fe924a559a217d3c8819f44e47066",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "2db4d1f0a38e289cff20b87b36a0ec0602eb846fe00ffca0be80b02a083fc430",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "7f7361f158e6711933b00fd39778e6450ca96aa779e997c9b86ee04b2561fa49",
+      "semantic": {
+        "added": [
+          "DFFlagAssetProviderPrewarmReduceTelemetryCost",
+          "DFFlagCLI229089_Staged",
+          "DFFlagCharacterAppearanceApplyHoldsParent_Staged",
+          "DFFlagDebugDictationOverrideHighPassFilter",
+          "DFFlagEnableSendItemLimit_Staged",
+          "DFFlagIECAddVaaSTelemetry",
+          "DFFlagSimAeroIncreaseStateMachineCoverage_Staged",
+          "DFFlagSimResimSkipExcludedContacts",
+          "DFFlagUGCValidationAllowUnpublishedEditablesForIEC",
+          "DFIntAssetProviderPrewarmLookupTelemetryHundredthsPercent",
+          "DFIntNetPermEventReportPerMyriad_Staged",
+          "FFlagAXCloneLCSortOrderingTable",
+          "FFlagAXFixSelectUserRobloxSubscriptionNil",
+          "FFlagAXFixVirtualizedFeedUpdateDepth_Staged",
+          "FFlagAXGuardParticleEmitterFolderAccess",
+          "FFlagAXIgnoreNaNBodyColorSliderValue",
+          "FFlagAnimationPlayerApplyRestartFrameOnReset",
+          "FFlagAppChatFullPlaintextBeforeGameCards",
+          "FFlagAppChatMessageItemListCurrentOnSwitch",
+          "FFlagAppChatUseSignalsForChatSettings",
+          "FFlagApplyAvatarRulesRequireRootPart_Staged",
+          "FFlagAssetImportServicePickAnimatedImageFileWithPrompt",
+          "FFlagAssetProviderPrewarmParseOnFibers_Staged",
+          "FFlagAssetQualityValidationRawFromModels",
+          "FFlagAudioDeviceInputReplaceAudioNodes2_Staged",
+          "FFlagAvatarRulesBodyExtentsIgnoreInnerBox_Staged",
+          "FFlagAvatarSettingsApplyRulesKeepExplicitRules_Staged",
+          "FFlagAvatarSettingsCollidersOwnAccessories_Staged",
+          "FFlagAvatarSettingsIgnoreNonPositiveCustomWorldHeight_Staged",
+          "FFlagEnableAndroidOpenNotificationSettings",
+          "FFlagEnableDLICInternalIngressSeeding4",
+          "FFlagEnableTestServiceRegistrationAPI7_Staged",
+          "FFlagExpChatDictationExplicitFinish2",
+          "FFlagFoundationAnimatedHighlightSettling",
+          "FFlagFoundationBaseMenuAccessorySizing_Staged",
+          "FFlagKidsNotApprovedPageTreatment2",
+          "FFlagLibMpHttpCountersOnlyNoScopesOne",
+          "FFlagLibMpRemoteCaptureCompleteFramesOne",
+          "FFlagLuaAppFeatureTileAdPlayerAdClickoutEvent",
+          "FFlagLuaAppSetCachedUserInLaunchThread",
+          "FFlagLuaAppStableStyleProviderElements",
+          "FFlagMarketplaceAssetStoreKeepOnAccountReset_Staged",
+          "FFlagNetworkPerfTestClientAnalysis6",
+          "FFlagPlaceSettingsService_Staged",
+          "FFlagPushPermissionRequestOpensAndroidSettings",
+          "FFlagRealtimeOnDemandDurableReplay2",
+          "FFlagScriptEditorClampSelectRange",
+          "FFlagSduiGameTileEnableHoverInVR",
+          "FFlagSduiViewStateLayerAffordance",
+          "FFlagStudioAnimationPlayerParametersItem",
+          "FFlagTerrainUnparentedGridAccess_Staged",
+          "FFlagUseTeleportForLuaSwitchServerImpl_Staged",
+          "FFlagUserSearchRefreshPendingFriendshipStatus",
+          "FFlagViewRecyclerReact08",
+          "FFlagVoiceChatDeprecateRejoin_Staged",
+          "FFlagWrapDeformerAltMeshLifecycleFix_Staged",
+          "FIntDebugAuthEntryVariantOverride_Staged",
+          "FStringAXFetchCartPricingForLooksLayerName",
+          "FStringAndroidOpenNotificationSettingsMinVersion"
+        ],
+        "changed": [
+          {
+            "after": "6a09f14a55c6a63b356efaa99e5ebc33afb5fe00",
+            "before": "84779ff0564cd42316e55fe7fa9476af2592b037",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-12T23:28:18.059Z",
+            "before": "2026-11-12T21:08:23.066Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "1;Party.ConversationPage.Performance;AppChatSignalsMessageStoreReadsV3;1558392083;dev_controlled",
+            "before": "1;Party.ConversationPage.Performance;AppChatSignalsMessageStoreReadsV2;768691267;dev_controlled",
+            "name": "FFlagAppChatReadMessageListFromSignalsStore_IXP"
+          },
+          {
+            "after": "1;Party.ConversationPage.Performance;AppChatSignalsMessageStoreReadsV3;1558392083;dev_controlled",
+            "before": "1;Party.ConversationPage.Performance;AppChatSignalsMessageStoreReadsV2;768691267;dev_controlled",
+            "name": "FFlagAppChatUseViewRecyclerMessageList_IXP"
+          },
+          {
+            "after": "6a09f14a55c6a63b356efaa99e5ebc33afb5fe00",
+            "before": "84779ff0564cd42316e55fe7fa9476af2592b037",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-12T23:28:18.059Z",
+            "before": "2026-11-12T21:08:23.066Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagIECAddVaaSTelemetry_Staged",
+          "DFFlagUGCValidationAllowUnpublishedEditablesForIEC_Staged",
+          "FFlagAXCloneLCSortOrderingTable_Staged",
+          "FFlagAXFixSelectUserRobloxSubscriptionNil_Staged",
+          "FFlagAXGuardParticleEmitterFolderAccess_Staged",
+          "FFlagAXIgnoreNaNBodyColorSliderValue_Staged",
+          "FFlagAnimationPlayerApplyRestartFrameOnReset_Staged",
+          "FFlagAppChatFullPlaintextBeforeGameCards_Staged",
+          "FFlagAppChatMessageItemListCurrentOnSwitch_Staged",
+          "FFlagAppChatUseSignalsForChatSettings_Staged",
+          "FFlagAssetImportServicePickAnimatedImageFileWithPrompt_Staged",
+          "FFlagAssetQualityValidationRawFromModels_Staged",
+          "FFlagEnableAndroidOpenNotificationSettings_Staged",
+          "FFlagEnableDLICInternalIngressSeeding4_Staged",
+          "FFlagEnableGetFriendsInServer_Staged",
+          "FFlagEnableGetFriendsInUniverse_Staged",
+          "FFlagExpChatDictationExplicitFinish2_Staged",
+          "FFlagFoundationAnimatedHighlightSettling_Staged",
+          "FFlagKidsNotApprovedPageTreatment2_Staged",
+          "FFlagLibMpHttpCountersOnlyNoScopesOne_Staged",
+          "FFlagLibMpRemoteCaptureCompleteFramesOne_Staged",
+          "FFlagLuaAppFeatureTileAdPlayerAdClickoutEvent_Staged",
+          "FFlagLuaAppSetCachedUserInLaunchThread_Staged",
+          "FFlagLuaAppStableStyleProviderElements_Staged",
+          "FFlagNetworkPerfTestClientAnalysis6_Staged",
+          "FFlagPushPermissionRequestOpensAndroidSettings_Staged",
+          "FFlagRealtimeOnDemandDurableReplay2_Staged",
+          "FFlagScriptEditorClampSelectRange_Staged",
+          "FFlagSduiGameTileEnableHoverInVR_Staged",
+          "FFlagSduiViewStateLayerAffordance_Staged",
+          "FFlagStudioAnimationPlayerParametersItem_Staged",
+          "FFlagUserSearchRefreshPendingFriendshipStatus_Staged",
+          "FFlagViewRecyclerReact08_Staged",
+          "FStringAXFetchCartPricingForLooksLayerName_Staged",
+          "FStringAndroidOpenNotificationSettingsMinVersion_Staged"
+        ],
+        "unchanged": 25284
+      }
+    },
+    "UniversalApp": {
+      "current": "59f4041ddd9b8cf99beb3ec0445e88022040be6af44d558e48f6969d062bb560",
+      "files": {
+        "added": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt"
+        ],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Facet/Facet/Upstream/vendor/compose/roblox/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-2c6549f3-b2eb785e/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-b8523d96-f281715e/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsFlags/SignalsFlags/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-2c6549f3-b2eb785e/SignalsScheduler/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-b8523d96-f281715e/SignalsScheduler/.luaurc.txt"
+        ],
+        "unchanged": 5
+      },
+      "previous": "6e5b6d1d257397524c0a31daf1a1870f24a6cb9303fabf3bdcddf4b4fd2075fb",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}

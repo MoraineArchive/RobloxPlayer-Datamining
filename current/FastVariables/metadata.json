@@ -17,11 +17,11 @@
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.747.0.7471481&tag=Release&name=app-patch-in-experience"
     },
     {
-      "bytes": 16352774,
+      "bytes": 15959163,
       "derivedFrom": "InExperience.rbxm",
-      "sha256": "ddd8015e54a92ddf1b6d0a1dd3cd9f1cbdb4249fd31a7f8522bd296d933ea8ba",
+      "sha256": "93153202c6232617e88989ec12f756ee93120a76c9e08735d526df9a14ce94bc",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17357"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17379"
     },
     {
       "bytes": 43096,
@@ -31,11 +31,11 @@
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.747.0.7471481&tag=Release&name=app-patch-universal-app"
     },
     {
-      "bytes": 15970528,
+      "bytes": 14707604,
       "derivedFrom": "UniversalApp.rbxm",
-      "sha256": "54773e2fb22b1766ca45eb1a71e9a31688c641039a32e4079361ffbaceb91fb2",
+      "sha256": "348fa7af39c28ed9ec99263f9be185f57d7944cf4ea27f00837dce4f8aeaad0f",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=17454"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=17477"
     },
     {
       "buildGuid": "version-4ea8e85481e34f46",

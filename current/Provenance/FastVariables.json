@@ -3,11 +3,11 @@
     "combined.json": "75cdcc9a51f1cdadc6d2a156f70823cadbdb29be8380bafe756df13735d1f336",
     "cpp.txt": "2c18a422e46364b3f7792868c901255da9d1a8aa83e8f396ab6262a1467700a2",
     "lua.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
-    "metadata.json": "3071e12545fbd081f36ab6af1332bf9d09e0b2a842cd875226d08f3a41591536"
+    "metadata.json": "6303b7939c71b2ee997dcd70e708b6348fc56ae103be85d24fb7babf70abcaf2"
   },
-  "id": "84e1dfbb5d4b319e58d3dd242c6e5c393ed61587325ca9df46281cf2e5654685",
+  "id": "1b6e62443b83d3f1aa862c4204f3b914b5b23172e1a3f4e44a3725034f47c01c",
   "observationMode": "live",
-  "observedAt": "2026-11-12T21:08:57.956Z",
+  "observedAt": "2026-11-12T23:30:05.200Z",
   "provenance": [
     {
       "buildGuid": "version-4ea8e85481e34f46",
@@ -25,11 +25,11 @@
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.747.0.7471481&tag=Release&name=app-patch-in-experience"
     },
     {
-      "bytes": 16352774,
+      "bytes": 15959163,
       "derivedFrom": "InExperience.rbxm",
-      "sha256": "ddd8015e54a92ddf1b6d0a1dd3cd9f1cbdb4249fd31a7f8522bd296d933ea8ba",
+      "sha256": "93153202c6232617e88989ec12f756ee93120a76c9e08735d526df9a14ce94bc",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17357"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17379"
     },
     {
       "bytes": 43096,
@@ -39,11 +39,11 @@
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.747.0.7471481&tag=Release&name=app-patch-universal-app"
     },
     {
-      "bytes": 15970528,
+      "bytes": 14707604,
       "derivedFrom": "UniversalApp.rbxm",
-      "sha256": "54773e2fb22b1766ca45eb1a71e9a31688c641039a32e4079361ffbaceb91fb2",
+      "sha256": "348fa7af39c28ed9ec99263f9be185f57d7944cf4ea27f00837dce4f8aeaad0f",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=17454"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=17477"
     },
     {
       "buildGuid": "version-4ea8e85481e34f46",
@@ -86,7 +86,7 @@
       "sourceUrl": "https://setup.rbxcdn.com/version-4ea8e85481e34f46-extracontent-translations.zip"
     }
   ],
-  "sequence": 158,
+  "sequence": 159,
   "status": "available",
   "summary": {
     "cpp": 29,
