@@ -1,0 +1,210 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "a4f69a9071d9f78d95aa352ae4a671ff1d35bb15f002517b7a1cee3d924ee612",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "940803b928d852787878d4a5a96a3d8c8e1ed387f2ef3900d2f6d24eff5dcaa4",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "b28d500864287b9c664256efc806eaeb87f14c4be73eb4af6e7fdad6a9e86c50",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "53cd87ba0cd6c5945da83503e26b2fb016765a5200c3ed31cdf2ce28400dd278",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "69d5035cb4e80791f074b827e2f253c92384baf405672dcb27e39875bc16cf53",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "b50dc4a3f361636dc07b764b58333b4d05bc9f214c0dbd0fe9c91222bab06f9e",
+      "semantic": {
+        "added": [
+          "DFFlagDLICAdmitSeedlessDetects",
+          "DFFlagDebugAudioInputPlatformStreamingOverrideEchoCancellation",
+          "DFFlagDebugAudioInputPlatformStreamingOverrideHighPassFilter",
+          "DFFlagRCCMonitoringActionReport",
+          "DFFlagRCCMonitoringIncludeRegionInSessionInfo",
+          "DFFlagStyleTransitionColorSpace",
+          "DFIntAudioSpeechToTextPlatformStreamingLowerThresholdDb",
+          "DFIntAudioSpeechToTextPlatformStreamingSpeechProbabilityThresholdx1000",
+          "DFIntAudioSpeechToTextPlatformStreamingUpperThresholdDb",
+          "FFlagAXCatalogSpecialFeaturesFilter_IXP",
+          "FFlagAXCloneLCSortOrderingTable_Staged",
+          "FFlagAXFetchCartPricingForLooksExposure_IXP",
+          "FFlagAXFilterAndSortViewExposureLogging_IXP",
+          "FFlagAXFixSelectUserRobloxSubscriptionNil_Staged",
+          "FFlagAXGuardParticleEmitterFolderAccess_Staged",
+          "FFlagAXIgnoreNaNBodyColorSliderValue_Staged",
+          "FFlagAppChatFullPlaintextBeforeGameCards_Staged",
+          "FFlagAppChatMessageItemListCurrentOnSwitch_Staged",
+          "FFlagAppChatScrollToLatest_IXP",
+          "FFlagAppChatUseSignalsForChatSettings_Staged",
+          "FFlagAssetImportServicePickAnimatedImageFileWithPrompt_Staged",
+          "FFlagEnableAndroidOpenNotificationSettings_Staged",
+          "FFlagEnableDLICInternalIngressSeeding4_Staged",
+          "FFlagEnableGetFriendsInServer_Staged",
+          "FFlagEnableGetFriendsInUniverse_Staged",
+          "FFlagEnableGroupAnnouncementReporting",
+          "FFlagExpChatDictationExplicitFinish2_Staged",
+          "FFlagFixDeviceInsetBackgroundSplitPaneWidth",
+          "FFlagFoundationAnimatedHighlightSettling_Staged",
+          "FFlagLuaAppFeatureTileAdPlayerAdClickoutEvent_Staged",
+          "FFlagLuaAppSetCachedUserInLaunchThread_Staged",
+          "FFlagLuaAppStableStyleProviderElements_Staged",
+          "FFlagLuauSaltedInterningTable_Staged",
+          "FFlagNetworkPerfTestClientAnalysis6_Staged",
+          "FFlagPropertiesWidgetHideContentIds_Staged",
+          "FFlagPurchasePromptFetchCartPricingForLooks3_IXP",
+          "FFlagPushPermissionRequestOpensAndroidSettings_Staged",
+          "FFlagRealtimeOnDemandDurableReplay2_Staged",
+          "FFlagScriptEditorActiveDocumentApi",
+          "FFlagScriptEditorClampSelectRange_Staged",
+          "FFlagSduiGameTileEnableHoverInVR_Staged",
+          "FFlagSduiViewStateLayerAffordance_Staged",
+          "FFlagSimAeroValidateSerializedMesh",
+          "FFlagSimPhysicalConfigDataEngineAccessors",
+          "FFlagSimPrimalInitializeIslandSleepState",
+          "FFlagSongDetailsPageDesignPass3",
+          "FFlagSplitPaneBadgesSeeAllSupportRegion",
+          "FFlagSplitPaneDevStoreSeeAllSupportRegion",
+          "FFlagSplitPaneHostChromeYieldsInExpanded",
+          "FFlagSplitPaneProfileChipFixes",
+          "FFlagStudioAnimationPlayerParametersItem_Staged",
+          "FFlagUserSearchRefreshPendingFriendshipStatus_Staged",
+          "FFlagViewRecyclerReact08_Staged",
+          "FIntAppChatScrollToLatestThresholdPercent_IXP",
+          "FStringAXFetchCartPricingForLooksLayerName_Staged",
+          "FStringAXFilterAndSortViewExposureLayer_IXP",
+          "FStringAndroidOpenNotificationSettingsMinVersion_Staged"
+        ],
+        "changed": [
+          {
+            "after": "df7c7dce37ce832eb4d73dfa44d7020fb25dc8b4",
+            "before": "6b03248c28f154c7694e3ac879dfd6e333ac5f10",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-12T20:53:59.991Z",
+            "before": "2026-11-12T18:03:34.418Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagAppThemeHalloween2026GamesListBackground"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagUseTransportParamsParser"
+          },
+          {
+            "after": "df7c7dce37ce832eb4d73dfa44d7020fb25dc8b4",
+            "before": "6b03248c28f154c7694e3ac879dfd6e333ac5f10",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-12T20:53:59.991Z",
+            "before": "2026-11-12T18:03:34.418Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagDLICAdmitSeedlessDetects_Staged",
+          "DFFlagRCCMonitoringActionReport_Staged",
+          "DFFlagRCCMonitoringIncludeRegionInSessionInfo_Staged",
+          "FFlagAppThemeHalloween2026GamesListBackground_Staged",
+          "FFlagEnableGroupAnnouncementReporting_Staged",
+          "FFlagSongDetailsPageDesignPass3_Staged",
+          "FFlagTM2FixDegenerateOBBDivByZero_Staged"
+        ],
+        "unchanged": 25256
+      }
+    },
+    "UniversalApp": {
+      "current": "94f6b9e6959a0d9f2835d118ebe3e7639ddd62f9a05112aa94b363678fa14b92",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "aaa7cf9794eb9f5c8e85d1d5288667d496596b38f61362015a888321d6345407",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "a21a2ab236c81be5ad15d60f60693c08e1d6fec38c025564600622575238216d",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/CoreUtilities.js",
+          "js.rbxcdn.com/page-1/CoreUtilities.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "0b9a66b9cb752c3cd4e8e38a3eb086026a14a00481f5f35b233fd512019c28f6",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
