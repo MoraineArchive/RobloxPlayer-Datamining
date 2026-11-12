@@ -1,0 +1,171 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "0634e9bfb6cc23c2ff1464d77d7f15de90c20dd4185b70e8476e20a0b9d9a1ce",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "74dc4fa099c9ccc4bd8fb3553df74c744f2aa9854b60fe466d621cec69cf313b",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "3f1d8beadb20992b873104d683ee6af4ed4c21a8d69dfe5e4570c12e3dc6a636",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "0a349bd47420fb367e6f31fa533e1d222a513d9919ca725a0d076dd83bfd4915",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "44ae4f192f669ec1e399de698a8ef0e5ca54f8b44460b7d50366b9c5d6d53af5",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "1d86d60d07652c754065b78632aff8afe00a61cfff0746996184c23636f7279a",
+      "semantic": {
+        "added": [
+          "DFFlagServerAuthorityEraseSmoothStepOffsetsOnPlayerRemoving",
+          "DFFlagServerAuthorityPredictionStatusUseActualNetworkOwner",
+          "FFlagCloudClientDecodeFrameRateLadder",
+          "FFlagEnableGroupsSdui",
+          "FFlagGroupAnnouncementsSdui",
+          "FFlagGroupForumsDiscoverySdui",
+          "FFlagGroupPeekEngagementTelemetry",
+          "FFlagInputReplicatorMetrics",
+          "FFlagPluginImportUseAssetImporter",
+          "FFlagRbxStorageRemoveOldCache",
+          "FFlagSduiCustomFormEnabled",
+          "FFlagSduiMarkdownTextComponentEnabled",
+          "FFlagSduiReactionsComponent",
+          "FFlagShowLargerOfferBannerOnDesktop2",
+          "FFlagShowSchoolCollegeName",
+          "FFlagSkipVoiceInTeamCreateViewer",
+          "FFlagUserListSurfaceExtensions_v2"
+        ],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagDestroyCharacterClientToo"
+          },
+          {
+            "after": "adae00caa1bf1e83046e1dafa83493ced21b3081",
+            "before": "28b0cea778503cb0b727dd9508d50b45fd45b120",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-12T02:57:33.875Z",
+            "before": "2026-11-12T01:17:50.341Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagLegacyTextSubpixelRendering"
+          },
+          {
+            "after": "0",
+            "before": "10",
+            "name": "FIntRbxStorageDeleteOldCacheMB"
+          },
+          {
+            "after": "adae00caa1bf1e83046e1dafa83493ced21b3081",
+            "before": "28b0cea778503cb0b727dd9508d50b45fd45b120",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-12T02:57:33.875Z",
+            "before": "2026-11-12T01:17:50.341Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagDestroyCharacterClientToo_Staged",
+          "DFFlagServerAuthorityEraseSmoothStepOffsetsOnPlayerRemoving_Staged",
+          "DFFlagServerAuthorityPredictionStatusUseActualNetworkOwner_Staged",
+          "FFlagCloudClientDecodeFrameRateLadder_Staged",
+          "FFlagEnableGroupsSdui_Staged",
+          "FFlagGroupAnnouncementsSdui_Staged",
+          "FFlagGroupForumsDiscoverySdui_Staged",
+          "FFlagGroupPeekEngagementTelemetry_Staged",
+          "FFlagInputReplicatorMetrics_Staged",
+          "FFlagPluginImportUseAssetImporter_Staged",
+          "FFlagRbxStorageRemoveOldCache_Staged",
+          "FFlagSduiCustomFormEnabled_Staged",
+          "FFlagSduiMarkdownTextComponentEnabled_Staged",
+          "FFlagSduiReactionsComponent_Staged",
+          "FFlagShowLargerOfferBannerOnDesktop2_Staged",
+          "FFlagShowSchoolCollegeName_Staged",
+          "FFlagSkipVoiceInTeamCreateViewer_Staged",
+          "FFlagUserListSurfaceExtensions_v2_Staged",
+          "FIntRbxStorageDeleteOldCacheMB_Staged"
+        ],
+        "unchanged": 25234
+      }
+    },
+    "UniversalApp": {
+      "current": "b25da8b74706aed59276e1824cd780c18c1a54c4f26a34fab9710e7a491f5403",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "075dedd46f7166173c05c5ce747c0021281a4ab0cf2f62f335cebe80c661d9dd",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
