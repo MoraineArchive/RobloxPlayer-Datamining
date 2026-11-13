@@ -8,41 +8,41 @@
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsExperimental/SignalsExperimental/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsReact/SignalsReact/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "instances.json": "834de1e2c98bb8557db61e233f51ede21458bec20e949eb31fb9c5155d6fb809",
-    "latest-asset.json": "98f1c3b9416f06d2875efee973261b8296c22021d2b0825caeb654efbf157e02",
-    "metadata.json": "b823b07d58fb92503252b957664dd3fce1c504b0d51b7968ec9c99f2c43a067a",
-    "ota-config.json": "06e08cf2ac336acac998480549bcf99b2a046a86c3c3b7bf401db63b33d9baf5"
+    "instances.json": "94e89b3fa2f1d17829f5f02a48dcc86d7f734db8834d712cf0ed516da7ae1604",
+    "latest-asset.json": "f56e75930f09f7ac8e928ca42c20717a4a1613f387f535377f46fb4af473736e",
+    "metadata.json": "45bf32eddb245031ddb6b05b81366aa30a767cae4bfc771d6ef58e7784722d36",
+    "ota-config.json": "467b28203cabd75dfc3b6c7df99efedd6d57d5a6459aff3093b0af6a85c09761"
   },
-  "id": "483ecee1eb89b1dc629b7a6dd1db7fee4b5fc6d59381e3f30ec649ce16f24638",
+  "id": "c878879140aafedf7d4b168bafcd86c9dd8adfe7c328477651d0af746212732d",
   "observationMode": "live",
-  "observedAt": "2026-11-12T23:30:01.073Z",
+  "observedAt": "2026-11-13T01:54:43.246Z",
   "provenance": [
     {
       "bytes": 43095,
       "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
-      "sha256": "3b2936a9ca1271e41b455d1cb181f7b5f09738be9bb03923a59ce20ded12b2ab",
+      "sha256": "c04d56057548e8a8149ea6f1d9c035d78dd5cdf7dfe7e682eea6d04a95462d36",
       "sourceType": "official",
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.747.0.7471481&tag=Release&name=app-patch-in-experience"
     },
     {
-      "bytes": 15959163,
+      "bytes": 17432558,
       "derivedFrom": "InExperience.rbxm",
-      "sha256": "93153202c6232617e88989ec12f756ee93120a76c9e08735d526df9a14ce94bc",
+      "sha256": "2ecfc78140ec5ade847205d3905914f46094eb01c65c03b6260832289167ecb1",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17379"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17399"
     }
   ],
-  "sequence": 150,
+  "sequence": 151,
   "status": "partial",
   "summary": {
     "assetId": "80471914653504",
-    "assetVersion": "17379",
-    "configuredAssetVersion": "17057",
+    "assetVersion": "17399",
+    "configuredAssetVersion": "17095",
     "engineRevision": 1,
-    "instances": 41153,
+    "instances": 41189,
     "localizationFiles": 2,
     "sources": 0,
-    "unreadableScripts": 38271
+    "unreadableScripts": 38305
   },
   "surface": "InExperience",
   "target": "WindowsPlayer"

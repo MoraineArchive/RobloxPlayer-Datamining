@@ -1,0 +1,221 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "b9fb836a2ea16013240196c29124c4031310073c1923ee29ca50b4c2124da466",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "1b6e62443b83d3f1aa862c4204f3b914b5b23172e1a3f4e44a3725034f47c01c",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "c878879140aafedf7d4b168bafcd86c9dd8adfe7c328477651d0af746212732d",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json",
+          "ota-config.json"
+        ],
+        "removed": [],
+        "unchanged": 8
+      },
+      "previous": "483ecee1eb89b1dc629b7a6dd1db7fee4b5fc6d59381e3f30ec649ce16f24638",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "e40ef26c09e5be51416cfacd311a28097f35ba8e00a6a032fe2753921e198122",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "2db4d1f0a38e289cff20b87b36a0ec0602eb846fe00ffca0be80b02a083fc430",
+      "semantic": {
+        "added": [
+          "DFFlagCLI229089",
+          "DFFlagCharacterAppearanceApplyHoldsParent",
+          "DFFlagEnableSendItemLimit",
+          "DFFlagMicroProfilerHttpUseXHtmlDump",
+          "DFFlagPerformanceControlMemoryBudgetDebugPrint",
+          "DFFlagSimAeroIncreaseStateMachineCoverage",
+          "FFlagAXFixVirtualizedFeedUpdateDepth",
+          "FFlagApplyAvatarRulesRequireRootPart",
+          "FFlagAssetProviderPrewarmParseOnFibers",
+          "FFlagAudioDeviceInputReplaceAudioNodes2",
+          "FFlagAuthValidatorRebindTextBoxRef",
+          "FFlagAvatarSettingsApplyRulesKeepExplicitRules",
+          "FFlagAvatarSettingsCollidersOwnAccessories",
+          "FFlagAvatarSettingsIgnoreNonPositiveCustomWorldHeight",
+          "FFlagAvatarSettingsUnsavedDialogHoldResolution_Staged",
+          "FFlagEnableDestroyLuaAppV2Experiment2_Staged",
+          "FFlagEnableTestServiceRegistrationAPI7",
+          "FFlagFoundationBaseMenuAccessorySizing",
+          "FFlagLuaAppEdpFallbackPrimaryActivation_Staged",
+          "FFlagLuaAppPlayButtonCoalescePlayabilityFetch_Staged",
+          "FFlagLuaAppStratusDisableUAHotkeys_Staged",
+          "FFlagMarketplaceAssetStoreKeepOnAccountReset",
+          "FFlagReactCommitTraversalTrims_IXP",
+          "FFlagReactEnableAllocationTrims_IXP",
+          "FFlagReactEnableHookDoubleBuffering_IXP",
+          "FFlagReactFixEagerReducerError_IXP",
+          "FFlagReactFixGetInstanceFromNode_IXP",
+          "FFlagReactKeepSyncQueueOnError_IXP",
+          "FFlagReactReentrantSafeSignals_IXP",
+          "FFlagReactSkipHostSiblingLookup_IXP",
+          "FFlagReactWorkLoopTrims_IXP",
+          "FFlagRealtimeDurableReplaySeqNumLifetimeFix_Staged",
+          "FFlagSignupFoundationFields3_Staged",
+          "FFlagSquadLobbyActionBarFixMicLevelRerender2",
+          "FFlagTerrainUnparentedGridAccess",
+          "FFlagUseTeleportForLuaSwitchServerImpl",
+          "FFlagWrapDeformerAltMeshLifecycleFix",
+          "SFFlagUserAbilitiesUserInterfaceC",
+          "SFFlagUserAbilitiesUserInterfaceC_UniverseFilter"
+        ],
+        "changed": [
+          {
+            "after": "True",
+            "before": "False",
+            "name": "DFFlagRemoteProfilerCaptureAtFlipUseXHtmlDump"
+          },
+          {
+            "after": "100",
+            "before": "10",
+            "name": "DFIntNetPermEventReportPerMyriad"
+          },
+          {
+            "after": "b3096422aa898005e5a5aa820374bfa434a78c71",
+            "before": "6a09f14a55c6a63b356efaa99e5ebc33afb5fe00",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-13T01:52:34.450Z",
+            "before": "2026-11-12T23:28:18.059Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagVoiceChatDeprecateRejoin"
+          },
+          {
+            "after": "-1",
+            "before": "0",
+            "name": "FIntDebugAuthEntryVariantOverride"
+          },
+          {
+            "after": "b3096422aa898005e5a5aa820374bfa434a78c71",
+            "before": "6a09f14a55c6a63b356efaa99e5ebc33afb5fe00",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-13T01:52:34.450Z",
+            "before": "2026-11-12T23:28:18.059Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagCLI229089_Staged",
+          "DFFlagCharacterAppearanceApplyHoldsParent_Staged",
+          "DFFlagEnableSendItemLimit_Staged",
+          "DFFlagSimAeroIncreaseStateMachineCoverage_Staged",
+          "DFIntNetPermEventReportPerMyriad_Staged",
+          "FFlagAXFixVirtualizedFeedUpdateDepth_Staged",
+          "FFlagApplyAvatarRulesRequireRootPart_Staged",
+          "FFlagAssetProviderPrewarmParseOnFibers_Staged",
+          "FFlagAudioDeviceInputReplaceAudioNodes2_Staged",
+          "FFlagAvatarRulesBodyExtentsIgnoreInnerBox_Staged",
+          "FFlagAvatarSettingsApplyRulesKeepExplicitRules_Staged",
+          "FFlagAvatarSettingsCollidersOwnAccessories_Staged",
+          "FFlagAvatarSettingsIgnoreNonPositiveCustomWorldHeight_Staged",
+          "FFlagEnableTestServiceRegistrationAPI7_Staged",
+          "FFlagFoundationBaseMenuAccessorySizing_Staged",
+          "FFlagMarketplaceAssetStoreKeepOnAccountReset_Staged",
+          "FFlagPlaceSettingsService_Staged",
+          "FFlagTerrainUnparentedGridAccess_Staged",
+          "FFlagUseTeleportForLuaSwitchServerImpl_Staged",
+          "FFlagVoiceChatDeprecateRejoin_Staged",
+          "FFlagWrapDeformerAltMeshLifecycleFix_Staged",
+          "FIntDebugAuthEntryVariantOverride_Staged"
+        ],
+        "unchanged": 25319
+      }
+    },
+    "UniversalApp": {
+      "current": "b9f45e844e7cc18350dcfbff49a56655ed03b12c95374a16c44344465de6a89d",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json",
+          "ota-config.json"
+        ],
+        "removed": [],
+        "unchanged": 6
+      },
+      "previous": "59f4041ddd9b8cf99beb3ec0445e88022040be6af44d558e48f6969d062bb560",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "7038e15232fecbc2b4c3b3057f29487af6069c6aabc6301387c038be2e79cded",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/Builder.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-1/Builder.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 218
+      },
+      "previous": "a21a2ab236c81be5ad15d60f60693c08e1d6fec38c025564600622575238216d",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
