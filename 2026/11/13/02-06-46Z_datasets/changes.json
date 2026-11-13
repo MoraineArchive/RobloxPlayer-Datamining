@@ -1,0 +1,146 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "813bd2c009231cb361dff414d5d4bb74e4cc1dd18d8a3e847f21a0c54a8ee819",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "b9fb836a2ea16013240196c29124c4031310073c1923ee29ca50b4c2124da466",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "7bf114d637fa806aba636a30b08e2d82dc35ac777cd1a5078a23b7cd02699266",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "c878879140aafedf7d4b168bafcd86c9dd8adfe7c328477651d0af746212732d",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "045614f59583714f6ac85ad0c9d07fcdff05ad5d99d42c13b2072e3016d44728",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "e40ef26c09e5be51416cfacd311a28097f35ba8e00a6a032fe2753921e198122",
+      "semantic": {
+        "added": [
+          "FFlagLuaAppEdpFallbackPrimaryActivation",
+          "FFlagLuaAppPlayButtonCoalescePlayabilityFetch"
+        ],
+        "changed": [
+          {
+            "after": "d40a7946ab54db808b63c619fc80779cafefbe76",
+            "before": "b3096422aa898005e5a5aa820374bfa434a78c71",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-13T02:02:27.222Z",
+            "before": "2026-11-13T01:52:34.450Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagLuaAppStratusDisableUAHotkeys"
+          },
+          {
+            "after": "d40a7946ab54db808b63c619fc80779cafefbe76",
+            "before": "b3096422aa898005e5a5aa820374bfa434a78c71",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-13T02:02:27.222Z",
+            "before": "2026-11-13T01:52:34.450Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagLuaAppEdpFallbackPrimaryActivation_Staged",
+          "FFlagLuaAppPlayButtonCoalescePlayabilityFetch_Staged",
+          "FFlagLuaAppStratusDisableUAHotkeys_Staged"
+        ],
+        "unchanged": 25358
+      }
+    },
+    "UniversalApp": {
+      "current": "b5dd9ea0a27c0bb3eee8bd55b14be6b554fc434bf7c3f6138a7388d7e81edf14",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "b9f45e844e7cc18350dcfbff49a56655ed03b12c95374a16c44344465de6a89d",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "9d139e6e0e768d967ad15c8df2212199db6be344995d36cfc961fb6c1ec02b1a",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/Sentry.js",
+          "js.rbxcdn.com/page-1/Sentry.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "7038e15232fecbc2b4c3b3057f29487af6069c6aabc6301387c038be2e79cded",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
