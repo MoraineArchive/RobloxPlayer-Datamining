@@ -2,9 +2,9 @@
 
 # Latest Roblox Player Datamining
 
-**Observed:** 13/11/2026, 03:10:32 CET (02:10:32 UTC)
+**Observed:** 13/11/2026, 07:12:56 CET (06:12:56 UTC)
 
-**Event:** [`2026/11/13/02-10-32Z_live-settings/`](2026/11/13/02-10-32Z_live-settings/)
+**Event:** [`2026/11/13/06-12-56Z_datasets/`](2026/11/13/06-12-56Z_datasets/)
 
 **Build:** [`0.747.0.7471481`](current/Build/version.json)
 
@@ -13,8 +13,15 @@
 ## Summary
 
 ```text
+InExperience files +6 ~2 -2
+UniversalApp files +6 ~2 -2
+FastVariables files +0 ~0 -0
 LiveSettings files +0 ~1 -0
-LiveSettings       +1 ~4 -1
+Web files          +0 ~3 -0
+InExperience sources +0 ~0 -0
+UniversalApp sources +0 ~0 -0
+FastVariables      +0 ~0 -0
+LiveSettings       +2 ~4 -3
 ```
 
 File counts describe canonical files. Nested semantic rows describe values or API/source records inside those files.
@@ -23,4 +30,4 @@ File counts describe canonical files. Nested semantic rows describe values or AP
 
 No correlated findings for this event.
 
-See the [summary](2026/11/13/02-10-32Z_live-settings/summary.md), [diff](2026/11/13/02-10-32Z_live-settings/diff.md), [findings](2026/11/13/02-10-32Z_live-settings/findings.md), and [changes.json](2026/11/13/02-10-32Z_live-settings/changes.json).
+See the [summary](2026/11/13/06-12-56Z_datasets/summary.md), [diff](2026/11/13/06-12-56Z_datasets/diff.md), [findings](2026/11/13/06-12-56Z_datasets/findings.md), and [changes.json](2026/11/13/06-12-56Z_datasets/changes.json).

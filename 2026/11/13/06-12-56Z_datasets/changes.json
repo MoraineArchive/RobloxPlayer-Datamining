@@ -1,0 +1,161 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "75533d3e5d0f66a6eab2bea454d5dc772a7dca97a1a2a05669f130bb22cfec0d",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "813bd2c009231cb361dff414d5d4bb74e4cc1dd18d8a3e847f21a0c54a8ee819",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "140a64d385e710fb126e38173d5562b8f220167bc28be3adec5a7362908da2bd",
+      "files": {
+        "added": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Facet/Facet/Upstream/vendor/compose/roblox/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-2c6549f3-b2eb785e/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-b8523d96-f281715e/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsFlags/SignalsFlags/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-2c6549f3-b2eb785e/SignalsScheduler/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-b8523d96-f281715e/SignalsScheduler/.luaurc.txt"
+        ],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt"
+        ],
+        "unchanged": 7
+      },
+      "previous": "7bf114d637fa806aba636a30b08e2d82dc35ac777cd1a5078a23b7cd02699266",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "f3e2a4eb253c62447c85a56e016fcef22e5d41a83763df033045b0a859c86923",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "081a6a80e300e48d088878cf9590e39129e59c9fe10abcd0f37b6a3e14b2e07d",
+      "semantic": {
+        "added": [
+          "FFlagAvatarSettingsUnsavedDialogHoldResolution",
+          "FFlagRealtimeDurableReplaySeqNumLifetimeFix"
+        ],
+        "changed": [
+          {
+            "after": "197c438be3f2ecfec9eb2310ed838018a0342e1c",
+            "before": "c67cd3c3b7ad8b6904221d8b22d47f0604fa3f6c",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-13T04:02:20.585Z",
+            "before": "2026-11-13T02:07:35.362Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "197c438be3f2ecfec9eb2310ed838018a0342e1c",
+            "before": "c67cd3c3b7ad8b6904221d8b22d47f0604fa3f6c",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-13T04:02:20.585Z",
+            "before": "2026-11-13T02:07:35.362Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAvatarSettingsUnsavedDialogHoldResolution_Staged",
+          "FFlagEnableDestroyLuaAppV2Experiment2_Staged",
+          "FFlagRealtimeDurableReplaySeqNumLifetimeFix_Staged"
+        ],
+        "unchanged": 25358
+      }
+    },
+    "UniversalApp": {
+      "current": "18eae97b57a573d9e6714ed4a028508176d42cfc52dffa75ab76545cab8538e2",
+      "files": {
+        "added": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Facet/Facet/Upstream/vendor/compose/roblox/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-2c6549f3-b2eb785e/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-b8523d96-f281715e/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsFlags/SignalsFlags/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-2c6549f3-b2eb785e/SignalsScheduler/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-b8523d96-f281715e/SignalsScheduler/.luaurc.txt"
+        ],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt"
+        ],
+        "unchanged": 5
+      },
+      "previous": "b5dd9ea0a27c0bb3eee8bd55b14be6b554fc434bf7c3f6138a7388d7e81edf14",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "45914bc7b6cbf4ff0bd4bf61a58c7ce126733a63d3bfaaa4e73a71e5a4dae833",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Friends.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Friends.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 220
+      },
+      "previous": "9d139e6e0e768d967ad15c8df2212199db6be344995d36cfc961fb6c1ec02b1a",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
