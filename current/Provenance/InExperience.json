@@ -3,7 +3,6 @@
     "PatchRoot/CoreScripts/Assets.txt": "5b4428ba2fe64cc448f4c46e2904794d00f0597ebcd256e62a38c44a20a43013",
     "PatchRoot/CoreScripts/CoreScriptLocalization.json": "2cc84a6a872e1d34c1ef06d4424bd238b9c40828bcca62f82cd848cb82c50b81",
     "PatchRoot/CoreScripts/CoreScriptLocalizationTrimmed.json": "c1cf0c578093019fad01b906b2190d43a915babf504d9eb0afa2813c873591a7",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Facet/Facet/Upstream/vendor/compose/roblox/.luaurc.txt": "cc48087cfb78f2521c00a073ee5349eb0490f29995b985428d61f7ab64b8bb75",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Resources/Resources/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-2c6549f3-b2eb785e/Signals/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-b8523d96-f281715e/Signals/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
@@ -12,14 +11,14 @@
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsReact/SignalsReact/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-2c6549f3-b2eb785e/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-b8523d96-f281715e/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "instances.json": "ef03874405098130d0d318f5fdb8943f3706f9e042f4618b0ff1c45e5329abcb",
-    "latest-asset.json": "0bfbf47360b37c0fc21469e7f1cff057cf71d91deab1e59b6fee299ee55a48b8",
-    "metadata.json": "ddf7d19fdee74fa60b2d6f00c5edd8e3dedbba2da4dd5afff72ac6185dae480c",
+    "instances.json": "172cca3884e195b75fe55310d94382f88abdd4995c8a9f6254b421f30b3c74ce",
+    "latest-asset.json": "1c2b89ddbd5ff9ca1f95ce94d7becd479b14a9c4463191c7eb9d376c0ccef4b9",
+    "metadata.json": "fa526fb0a5b1367005d1a1b81a8cb33bd10e7e7398e2e7476164fb97f6011048",
     "ota-config.json": "467b28203cabd75dfc3b6c7df99efedd6d57d5a6459aff3093b0af6a85c09761"
   },
-  "id": "ace9a18154a50546fe6dd604399b915d28844947e431b0c96f485886d07b48f9",
+  "id": "44884e1105e81e4d1db53ee4dc76f9e23073e570bdaae338f651d6a1bbcb6a46",
   "observationMode": "live",
-  "observedAt": "2026-11-13T23:50:36.126Z",
+  "observedAt": "2026-11-13T23:56:28.596Z",
   "provenance": [
     {
       "bytes": 43095,
@@ -29,24 +28,24 @@
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.747.0.7471481&tag=Release&name=app-patch-in-experience"
     },
     {
-      "bytes": 19089900,
+      "bytes": 17476363,
       "derivedFrom": "InExperience.rbxm",
-      "sha256": "9940ae0c1510fba68570dae44637eadd5e4ce4e15940dd0c285fd12ff3199b6b",
+      "sha256": "b865e5a7b87a7e58a893857be6b29a0e0c44533ef8ca7d0c81d14f10f1290158",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17488"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17489"
     }
   ],
-  "sequence": 161,
+  "sequence": 162,
   "status": "partial",
   "summary": {
     "assetId": "80471914653504",
-    "assetVersion": "17488",
+    "assetVersion": "17489",
     "configuredAssetVersion": "17095",
     "engineRevision": 1,
-    "instances": 41747,
+    "instances": 41312,
     "localizationFiles": 2,
     "sources": 0,
-    "unreadableScripts": 38841
+    "unreadableScripts": 38417
   },
   "surface": "InExperience",
   "target": "WindowsPlayer"
