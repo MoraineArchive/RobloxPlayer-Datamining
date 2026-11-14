@@ -1,0 +1,97 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "45c755882f79ba09e188c139e82f83d751f7d30c41d8fb83abdbef34cae69281",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "6c514629bcac7257423e388579a236db064fcff368c5c113e263539c80444c6e",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "9b5b9fa53104313d0a4204561c278d3869b3abcb0a661eeb426bfcf4cffa5962",
+      "files": {
+        "added": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Facet/Facet/Upstream/vendor/compose/roblox/.luaurc.txt"
+        ],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 12
+      },
+      "previous": "44884e1105e81e4d1db53ee4dc76f9e23073e570bdaae338f651d6a1bbcb6a46",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "UniversalApp": {
+      "current": "3c85afe2d7142ba7bb69642cfb519c10192d0514ab65defe04db57c374156638",
+      "files": {
+        "added": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Facet/Facet/Upstream/vendor/compose/roblox/.luaurc.txt"
+        ],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 10
+      },
+      "previous": "eb28d9be5533bdf799f6562ad11861ec1734ac5bdc1e0a3505590ae56c6f7ecc",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "43911c35f13e40cbeeeddcb35853fd52979064c69fc558fbb7cbe00aa52da39c",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 223
+      },
+      "previous": "392174f2abf7b9b1f9cb954cbdf9c9a5958e72774e53e50218e02d568cee64c4",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
