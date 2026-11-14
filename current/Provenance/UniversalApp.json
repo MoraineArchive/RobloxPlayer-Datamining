@@ -1,23 +1,19 @@
 {
   "hashes": {
     "PatchRoot/CoreScripts/Assets.txt": "5b4428ba2fe64cc448f4c46e2904794d00f0597ebcd256e62a38c44a20a43013",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Facet/Facet/Upstream/vendor/compose/roblox/.luaurc.txt": "cc48087cfb78f2521c00a073ee5349eb0490f29995b985428d61f7ab64b8bb75",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Resources/Resources/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-2c6549f3-b2eb785e/Signals/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-b8523d96-f281715e/Signals/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
+    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals/Signals/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsExperimental/SignalsExperimental/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsFlags/SignalsFlags/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsReact/SignalsReact/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-2c6549f3-b2eb785e/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-b8523d96-f281715e/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "instances.json": "17b0e33b51474620413261cadcbdba17c92d0c27dfe314a19b633e587354723d",
-    "latest-asset.json": "4eb10a8fb9888426fbc60c50a4d5a487467a71b191f8cbf6126ba37cd2889181",
-    "metadata.json": "911e540ab725a9e87b0a25960f28e10cc7eab4ceaa2cd6edac4c02bbc00f754f",
+    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
+    "instances.json": "5b0cfba40c3dff494eacd56449fb37441c790e0f8440a160e967c9c626dd835e",
+    "latest-asset.json": "96eb9a8de33890db75710e1e1f540c503f09f1f6a09ab43c29a869de039df730",
+    "metadata.json": "e3e8a9abb8115a6503233af3a2338040eb5fcaddd0f421309e3b9afeecae93b1",
     "ota-config.json": "dc292be8fd96be6377a712a0a37398243fbe09d069b876107ba53ef3762a652d"
   },
-  "id": "3c85afe2d7142ba7bb69642cfb519c10192d0514ab65defe04db57c374156638",
+  "id": "298c8378cfe9f8c0c46c8e03ee869ee53a33340e3bca77830d8d0b2a516ac543",
   "observationMode": "live",
-  "observedAt": "2026-11-14T02:11:42.508Z",
+  "observedAt": "2026-11-14T06:38:20.216Z",
   "provenance": [
     {
       "bytes": 43096,
@@ -27,24 +23,24 @@
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.747.0.7471481&tag=Release&name=app-patch-universal-app"
     },
     {
-      "bytes": 18065996,
+      "bytes": 16398630,
       "derivedFrom": "UniversalApp.rbxm",
-      "sha256": "936806936e22a06ac51f7ce8054fd1ef33f0a1c989f453f70ee02ab03155f312",
+      "sha256": "e59000f4b34f84a4eb34af29d32135cc254ee6d1f5e3a197ed98097bbea27e18",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=17606"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=17612"
     }
   ],
-  "sequence": 162,
+  "sequence": 163,
   "status": "partial",
   "summary": {
     "assetId": "118593852151835",
-    "assetVersion": "17606",
+    "assetVersion": "17612",
     "configuredAssetVersion": "17189",
     "engineRevision": 1,
-    "instances": 5884,
+    "instances": 5418,
     "localizationFiles": 0,
     "sources": 0,
-    "unreadableScripts": 5217
+    "unreadableScripts": 4771
   },
   "surface": "UniversalApp",
   "target": "WindowsPlayer"

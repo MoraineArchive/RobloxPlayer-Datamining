@@ -1,0 +1,138 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "a11bdac877286c464eac90dc548d92c2fd9e6f252dc334d94f87a5b9c7a9a8af",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "45c755882f79ba09e188c139e82f83d751f7d30c41d8fb83abdbef34cae69281",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "25be5a4864cdaa6d8d54529e36cd4cc21a8216e0566a9187bf411a4f82e8af9f",
+      "files": {
+        "added": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt"
+        ],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Facet/Facet/Upstream/vendor/compose/roblox/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-2c6549f3-b2eb785e/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-b8523d96-f281715e/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsFlags/SignalsFlags/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-2c6549f3-b2eb785e/SignalsScheduler/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-b8523d96-f281715e/SignalsScheduler/.luaurc.txt"
+        ],
+        "unchanged": 7
+      },
+      "previous": "9b5b9fa53104313d0a4204561c278d3869b3abcb0a661eeb426bfcf4cffa5962",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "decab32fe07f5ed3c80829c6aff523d2c514cee325a83cf01b11d277c6414f03",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "0fc0665f548c93146f25ffa81d47b4ea1966fbc911e741a6dc53773431a70718",
+      "semantic": {
+        "added": [],
+        "changed": [
+          {
+            "after": "e65cd9564c01ff31ac81339110e2e24dc0fec45f",
+            "before": "ce03b7007500e1867b7cda60e147ee1676ae44ef",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-14T05:02:35.087Z",
+            "before": "2026-11-13T22:02:48.442Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "e65cd9564c01ff31ac81339110e2e24dc0fec45f",
+            "before": "ce03b7007500e1867b7cda60e147ee1676ae44ef",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-14T05:02:35.087Z",
+            "before": "2026-11-13T22:02:48.442Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [],
+        "unchanged": 25381
+      }
+    },
+    "UniversalApp": {
+      "current": "298c8378cfe9f8c0c46c8e03ee869ee53a33340e3bca77830d8d0b2a516ac543",
+      "files": {
+        "added": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt"
+        ],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Facet/Facet/Upstream/vendor/compose/roblox/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-2c6549f3-b2eb785e/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-b8523d96-f281715e/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsFlags/SignalsFlags/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-2c6549f3-b2eb785e/SignalsScheduler/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-b8523d96-f281715e/SignalsScheduler/.luaurc.txt"
+        ],
+        "unchanged": 5
+      },
+      "previous": "3c85afe2d7142ba7bb69642cfb519c10192d0514ab65defe04db57c374156638",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
