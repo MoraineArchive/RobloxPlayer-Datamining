@@ -1,0 +1,82 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "7b01f1dd73eaea5a6249fbcb249f11c2aeaa353452679c00adea5f81362509a2",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "643e0e8fb0368f7b66be6781dd9fd05a432deb642aa5b0ff2876954e55cd717b",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "85d5925ccfb7a7f818a2cd19b4b4ff94078422a7c8f4a77fe3e091a0e3612bac",
+      "files": {
+        "added": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Facet/Facet/Upstream/vendor/compose/roblox/.luaurc.txt"
+        ],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 12
+      },
+      "previous": "f3a923b0e646ca3df1f4312b6b9cd6c59f3d6cf4aad4fdaa37318206ad31ce0a",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "UniversalApp": {
+      "current": "364b61ab807cad1bc25073195978b5616a5e3a8c1fac9603868e5e399dd1e6cf",
+      "files": {
+        "added": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Facet/Facet/Upstream/vendor/compose/roblox/.luaurc.txt"
+        ],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 10
+      },
+      "previous": "8efbfe10b8a897a51412de884ad324e9359addcb282cf40b4a7f75e3ca85d26d",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
