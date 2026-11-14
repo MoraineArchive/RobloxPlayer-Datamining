@@ -4,18 +4,21 @@
     "PatchRoot/CoreScripts/CoreScriptLocalization.json": "2cc84a6a872e1d34c1ef06d4424bd238b9c40828bcca62f82cd848cb82c50b81",
     "PatchRoot/CoreScripts/CoreScriptLocalizationTrimmed.json": "c1cf0c578093019fad01b906b2190d43a915babf504d9eb0afa2813c873591a7",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Resources/Resources/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals/Signals/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
+    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-2c6549f3-b2eb785e/Signals/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
+    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-b8523d96-f281715e/Signals/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsExperimental/SignalsExperimental/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
+    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsFlags/SignalsFlags/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsReact/SignalsReact/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "instances.json": "2a257bc85e3cb3f0c69d0df2a1fc06c2dfe6bbc19011512336aa1bc26ed4c14a",
-    "latest-asset.json": "db0e45f1f337456f4478447b1cef8e222727f9738f70b7126b2b14226f0304de",
-    "metadata.json": "9c48e28922aae21ea53eeb6bfb8b1d4a531fcb9fe7e986c56341511416c98fec",
+    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-2c6549f3-b2eb785e/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
+    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-b8523d96-f281715e/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
+    "instances.json": "5950e7bf1c18e39f800eef6269bde304f9364eeb8f82f5a54523e73c1cb98469",
+    "latest-asset.json": "79347ef34e3b5192ee8b6a7f25198cf259a0bd3f01b8aadcea51ae9a4ca2fad7",
+    "metadata.json": "863f5b818f1e6a6c28dcae4a232779dde9363e35bd70fc2c51ed79af558ecf36",
     "ota-config.json": "467b28203cabd75dfc3b6c7df99efedd6d57d5a6459aff3093b0af6a85c09761"
   },
-  "id": "25be5a4864cdaa6d8d54529e36cd4cc21a8216e0566a9187bf411a4f82e8af9f",
+  "id": "50f25215b06c93effcc359efecd6e4861dbea384e23132d0855e36d64365157f",
   "observationMode": "live",
-  "observedAt": "2026-11-14T06:38:16.480Z",
+  "observedAt": "2026-11-14T10:02:22.016Z",
   "provenance": [
     {
       "bytes": 43095,
@@ -25,24 +28,24 @@
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.747.0.7471481&tag=Release&name=app-patch-in-experience"
     },
     {
-      "bytes": 17480817,
+      "bytes": 17476512,
       "derivedFrom": "InExperience.rbxm",
-      "sha256": "61ebc0aca15b84f0801ad7ec8767c92ec5184ee4f484097aa7bc2d98064f1abf",
+      "sha256": "34213258d56d24278bec72c05ed521eebb31778d34e3546812cb94c0eabdfbb5",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17513"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17515"
     }
   ],
-  "sequence": 164,
+  "sequence": 165,
   "status": "partial",
   "summary": {
     "assetId": "80471914653504",
-    "assetVersion": "17513",
+    "assetVersion": "17515",
     "configuredAssetVersion": "17095",
     "engineRevision": 1,
-    "instances": 41407,
+    "instances": 41312,
     "localizationFiles": 2,
     "sources": 0,
-    "unreadableScripts": 38517
+    "unreadableScripts": 38417
   },
   "surface": "InExperience",
   "target": "WindowsPlayer"

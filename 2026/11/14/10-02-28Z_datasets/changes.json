@@ -1,0 +1,96 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "86798b7383805673ef33370760dc0da16666b29d199afbceb7523f1442619dfd",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "a11bdac877286c464eac90dc548d92c2fd9e6f252dc334d94f87a5b9c7a9a8af",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "50f25215b06c93effcc359efecd6e4861dbea384e23132d0855e36d64365157f",
+      "files": {
+        "added": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-2c6549f3-b2eb785e/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-b8523d96-f281715e/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsFlags/SignalsFlags/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-2c6549f3-b2eb785e/SignalsScheduler/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-b8523d96-f281715e/SignalsScheduler/.luaurc.txt"
+        ],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt"
+        ],
+        "unchanged": 7
+      },
+      "previous": "25be5a4864cdaa6d8d54529e36cd4cc21a8216e0566a9187bf411a4f82e8af9f",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "UniversalApp": {
+      "current": "e7f6bc892b1ebc1b5f53dfe3783ab8d35a5b063f5350fd558a4353dc871c424d",
+      "files": {
+        "added": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-2c6549f3-b2eb785e/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-b8523d96-f281715e/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsFlags/SignalsFlags/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-2c6549f3-b2eb785e/SignalsScheduler/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-b8523d96-f281715e/SignalsScheduler/.luaurc.txt"
+        ],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals/Signals/.luaurc.txt",
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt"
+        ],
+        "unchanged": 5
+      },
+      "previous": "298c8378cfe9f8c0c46c8e03ee869ee53a33340e3bca77830d8d0b2a516ac543",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
