@@ -1,0 +1,3 @@
+{
+  "globals": ["Enum", "Font", "RaycastParams", "Instance", "game", "Vector2", "Vector3", "Color3", "UDim", "UDim2", "CFrame", "task"]
+}
