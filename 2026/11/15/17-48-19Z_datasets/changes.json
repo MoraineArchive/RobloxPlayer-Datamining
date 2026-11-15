@@ -1,0 +1,86 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "faf10ee456da9e7a5ccf605da572a213dac4efb436f8ed97157d97cd172cac77",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "7b01f1dd73eaea5a6249fbcb249f11c2aeaa353452679c00adea5f81362509a2",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "f4cc8b128e617265fef286378da25e17847ac69feca28b748d4230d2ca374883",
+      "files": {
+        "added": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/FoundationBlox/FoundationBlox/BloxComponents/.luaurc.txt"
+        ],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Facet/Facet/Upstream/vendor/compose/roblox/.luaurc.txt"
+        ],
+        "unchanged": 12
+      },
+      "previous": "85d5925ccfb7a7f818a2cd19b4b4ff94078422a7c8f4a77fe3e091a0e3612bac",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "UniversalApp": {
+      "current": "40a09b60b5bc323a0099e2452a8918adef731c88571b2d040e012247ea838e9e",
+      "files": {
+        "added": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/FoundationBlox/FoundationBlox/BloxComponents/.luaurc.txt"
+        ],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [
+          "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Facet/Facet/Upstream/vendor/compose/roblox/.luaurc.txt"
+        ],
+        "unchanged": 10
+      },
+      "previous": "364b61ab807cad1bc25073195978b5616a5e3a8c1fac9603868e5e399dd1e6cf",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
