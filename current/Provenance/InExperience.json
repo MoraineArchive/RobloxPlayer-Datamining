@@ -3,23 +3,19 @@
     "PatchRoot/CoreScripts/Assets.txt": "5b4428ba2fe64cc448f4c46e2904794d00f0597ebcd256e62a38c44a20a43013",
     "PatchRoot/CoreScripts/CoreScriptLocalization.json": "2cc84a6a872e1d34c1ef06d4424bd238b9c40828bcca62f82cd848cb82c50b81",
     "PatchRoot/CoreScripts/CoreScriptLocalizationTrimmed.json": "c1cf0c578093019fad01b906b2190d43a915babf504d9eb0afa2813c873591a7",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Facet/Facet/Upstream/vendor/compose/roblox/.luaurc.txt": "cc48087cfb78f2521c00a073ee5349eb0490f29995b985428d61f7ab64b8bb75",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Resources/Resources/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-2c6549f3-b2eb785e/Signals/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals-b8523d96-f281715e/Signals/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
+    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/Signals/Signals/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsExperimental/SignalsExperimental/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsFlags/SignalsFlags/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
     "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsReact/SignalsReact/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-2c6549f3-b2eb785e/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler-b8523d96-f281715e/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
-    "instances.json": "6619da299702df917103340dbc809d37308c4b28971ec25350f92346a0e3822a",
-    "latest-asset.json": "2edcad08eaa8ccef3457278392ec1ac3670efa911b58e2e1162bf49cbe6507e2",
-    "metadata.json": "58051399bbd0fff5b650d17b5f8546917d11ff15cd781f601158f4fff5812ab9",
+    "PatchRoot/DataModelInstances/CorePackages/Packages/_Index/SignalsScheduler/SignalsScheduler/.luaurc.txt": "f0b3dd3cd533e9cd2446ba7555c1e66335d853c322625a0de96bf366f368ab05",
+    "instances.json": "45b996db5426b32a66523402b94099d4c2fd485b261343dc0cde16de49b6847a",
+    "latest-asset.json": "246e745a50213ef4e0eee5c3fd8ad23bf6b0e3faf09a0ddb3a8216a3b1cbaf68",
+    "metadata.json": "7839d2fb6e4ba439eaa0bae31c7e0caa961c2a6e38686932f2ddb5acf9d4d89a",
     "ota-config.json": "467b28203cabd75dfc3b6c7df99efedd6d57d5a6459aff3093b0af6a85c09761"
   },
-  "id": "c275623b0c0e2845507dc7eb6323d43c5fddaae3756833ffcfa7666dd38a88ef",
+  "id": "c0148fb9d0acd88db3df6c6f12f50d83ef3399dd701cd4d3807093b4e167205f",
   "observationMode": "live",
-  "observedAt": "2026-11-15T17:58:15.726Z",
+  "observedAt": "2026-11-16T09:23:08.752Z",
   "provenance": [
     {
       "bytes": 43095,
@@ -29,24 +25,24 @@
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.747.0.7471481&tag=Release&name=app-patch-in-experience"
     },
     {
-      "bytes": 19101709,
+      "bytes": 17479898,
       "derivedFrom": "InExperience.rbxm",
-      "sha256": "b57ca7d9655ac8b88e69030f6113e2c0666d2a366a3aa48f547fb1378bcd8be4",
+      "sha256": "23454982b2317d28dd0a4cbb3c817655681906d1e2d5f2e45391b6a352d27036",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17521"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17523"
     }
   ],
-  "sequence": 169,
+  "sequence": 170,
   "status": "partial",
   "summary": {
     "assetId": "80471914653504",
-    "assetVersion": "17521",
+    "assetVersion": "17523",
     "configuredAssetVersion": "17095",
     "engineRevision": 1,
-    "instances": 41789,
+    "instances": 41407,
     "localizationFiles": 2,
     "sources": 0,
-    "unreadableScripts": 38880
+    "unreadableScripts": 38517
   },
   "surface": "InExperience",
   "target": "WindowsPlayer"

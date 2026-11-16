@@ -9,24 +9,24 @@
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.747.0.7471481&tag=Release&name=app-patch-universal-app"
     },
     {
-      "bytes": 18087525,
+      "bytes": 16398634,
       "derivedFrom": "UniversalApp.rbxm",
-      "sha256": "157fdb3b5305c547ce3f5dd4b23f088eb1f60214e87dda3810b1a223e8f0716b",
+      "sha256": "4fc8a5ce25053c610409cdd2419781408a33cc4ec6a9b1accaf0f83725c6f169",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=17620"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=17622"
     }
   ],
   "reason": "The live model stores compiled Source fields (type 0x1d); original Luau text is not publicly present in this artifact. No reconstructed source is presented as original.",
   "status": "partial",
   "summary": {
     "assetId": "118593852151835",
-    "assetVersion": "17620",
+    "assetVersion": "17622",
     "configuredAssetVersion": "17189",
     "engineRevision": 1,
-    "instances": 5926,
+    "instances": 5418,
     "localizationFiles": 0,
     "sources": 0,
-    "unreadableScripts": 5256
+    "unreadableScripts": 4771
   },
   "target": "WindowsPlayer"
 }
