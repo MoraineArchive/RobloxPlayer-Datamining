@@ -1,0 +1,137 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "927b5d8e1ec63356537c1a89f1c27e917090be147d90b340132bf4236468ec18",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "21859462566957f5950e7777e1c494b16b54b44f95396459a12d8c873260c75d",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "dc7f6ae8938996238150fb4bb15b0252bbf93af3bad261f08d3f3ff2050d63ee",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "02ae3dc4c36d2419fc05c405034d11b95325a76144e0518595bc8d58958518f9",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "70eebdfb57497f022ddceb76faaf1c4e62c7905880e65b3da508bcc1097f4273",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "08f7dc2564e5015abcd095fd25534fcb58998ed1d5ba55b2113b2eb57b0ca13d",
+      "semantic": {
+        "added": [
+          "FFlagAssistantCapturePluginGuiFocusPanel",
+          "FFlagCloudClientProtobufWebViewMessages",
+          "FFlagCloudClientWebViewForwardingParity",
+          "FFlagEnableDeeplinkCodeParamMergeBeforeSeedIOS_Staged",
+          "FFlagExpChatEmojiDropdownDismissAnalytics_Staged",
+          "FFlagLuaAppDevStoreSeeAllAdvertiseCapabilities",
+          "FFlagMacBrowserServiceExecuteJavaScript",
+          "FFlagSduiMilestoneCountActions",
+          "FFlagStudioPanelsResolveFullPluginGuiId"
+        ],
+        "changed": [
+          {
+            "after": "05f87c533a1be37825ec1f0b9bc5f6ede2b8c1e6",
+            "before": "a7f6a4aae5a9a6a6ee8aab884c1fcc7fdc248e81",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-16T22:28:23.249Z",
+            "before": "2026-11-16T22:15:56.712Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "05f87c533a1be37825ec1f0b9bc5f6ede2b8c1e6",
+            "before": "a7f6a4aae5a9a6a6ee8aab884c1fcc7fdc248e81",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-16T22:28:23.249Z",
+            "before": "2026-11-16T22:15:56.712Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAssistantCapturePluginGuiFocusPanel_Staged",
+          "FFlagCloudClientProtobufWebViewMessages_Staged",
+          "FFlagCloudClientWebViewForwardingParity_Staged",
+          "FFlagLuaAppDevStoreSeeAllAdvertiseCapabilities_Staged",
+          "FFlagMacBrowserServiceExecuteJavaScript_Staged",
+          "FFlagSduiChartsSortDetailGenreFilter_Staged",
+          "FFlagSduiMilestoneCountActions_Staged",
+          "FFlagStudioPanelsResolveFullPluginGuiId_Staged"
+        ],
+        "unchanged": 25492
+      }
+    },
+    "UniversalApp": {
+      "current": "be4fd615c88ae1541bb24754b052895398b8dbe99065e641435a6ae092ffb0b3",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "50d507990d4eaf50833d8ceba106dbaaea94049e6dbc44fdf9b4f97c486a9650",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    }
+  },
+  "schemaVersion": 1
+}
