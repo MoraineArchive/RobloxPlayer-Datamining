@@ -1,0 +1,249 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "92fb48b89925a022900a7e9e8c42aa8f99784f216e84c382985a7bf826294deb",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "e75e2a3a1cc6656af31338671dc38565f412c17970f808e55804aaea9760ef77",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "11d9f4ded423bd61a8b03e4160afe1b4512904d5ce37b804662f8fbe32236d44",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 9
+      },
+      "previous": "95447311c5d104e8734e6840da34a4146bf5d3aabb5f2267e4d1859e8e044203",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "fc106c215898a9872082d2c1b881ad71b21ab2951e12b2523057783d3fe753e4",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "58d29ddc98d68696779343bff4a8e7c26a68f7f339785dcab62602336b909ad6",
+      "semantic": {
+        "added": [
+          "DFFlagAccessCodeV2LegacyReserveResultGameCode_Staged",
+          "DFFlagCLI229090",
+          "DFFlagCLI229090Disconnect_Staged",
+          "DFFlagCanSupportTweenInfoWithCurveParamsNetworkSerialization",
+          "DFFlagCanSupportTweenInfoWithCurveParamsSerialization",
+          "DFFlagCheckPartOperationChangedForPIPS",
+          "DFFlagEmptyMeshPartBoxFidelitySyncFix",
+          "DFFlagFixTeleportToDisconnectedPlayer_Staged",
+          "DFFlagLcCacheOptDefaultEnabled4",
+          "DFFlagMpSkipOverflowLabelForUnnamedScopes",
+          "DFFlagNullEngineContextPart5",
+          "DFFlagRM3T0VFInvokeScreenshotTriggerOnTimerInit",
+          "DFFlagRM3Tier0VisualFilterMonitoringEnabled",
+          "DFFlagRbxTransportAuthGateOnJoinTicketV2",
+          "DFFlagRtcIoSharedConnSlotUseResourcesHelper",
+          "DFFlagStreamingLargeSetProfilerLabels",
+          "DFFlagSyncPCDRequestIdFromPCDFix",
+          "DFFlagWorkspacePreserveAuthoredViewportCameras_Staged",
+          "EnablePushNotificationSettingsMethodsForAndroid",
+          "FFlagAXEnableRefinementControlBarZIndex_Staged",
+          "FFlagAXFixLayeredClothingRefinementBarZIndex_Staged",
+          "FFlagAXItemDetailsSduiActions_Staged",
+          "FFlagAXItemDetailsSduiBodyActions4_Staged",
+          "FFlagAXSduiCatalogItemTypeIds_Staged",
+          "FFlagAnimGraphUI_TriggerParamButton",
+          "FFlagAnimationPlayerParameterAPI",
+          "FFlagApplicationFrameRatePolicy3_Staged",
+          "FFlagAssistantGameTreeYield",
+          "FFlagAssistantShorterCapturePluginGuiDescription",
+          "FFlagAssistantTextureGenMcpPreviewReference_Staged",
+          "FFlagBuildExperienceHistoryPollTelemetry",
+          "FFlagBuildExperienceLibrary5_Staged",
+          "FFlagCOLLAB11149_PreventSelfRemoval",
+          "FFlagCOLLAB11513_EarlyTesterEligibilityFilter",
+          "FFlagCOLLAB11513_EarlyTestersPolish",
+          "FFlagCOLLAB11513_EarlyTestersRoleAssigners",
+          "FFlagCOLLAB11558_EarlyTesterTelemetry",
+          "FFlagCOLLAB11605_PrefetchLikelyCollaboratorsOnce",
+          "FFlagDisablePhysicsGameSteppedPerNOUStat_Staged",
+          "FFlagEnableExperienceAssetCreatorTypeWrite_Staged",
+          "FFlagEnableFlyoutNavRailBumperNavigation_Staged",
+          "FFlagExhaustiveDataModelCreatorTypeChecks",
+          "FFlagExpChatReportHistoricalRenders_Staged",
+          "FFlagFFlagEnableFontStylisticAlternativesOnSocialScreens_Staged",
+          "FFlagFmodPlaybackSilenceNewRenderGroupInstantly",
+          "FFlagGameInviteInExpJoinCta3_IXP",
+          "FFlagGameInviteInExpJoinOrInviteLabel_IXP",
+          "FFlagGameInviteInExpLivePresence_IXP",
+          "FFlagGameInviteInExpRefetchOnPresenceEvent_IXP",
+          "FFlagGameInviteInExpUserListRenderer_v3_IXP",
+          "FFlagLuaAppExperienceLeaderboardSeeAllEnabled2_Staged",
+          "FFlagLuaEnableGenreLandingDeeplink",
+          "FFlagLuaStartPageGroupSelector3",
+          "FFlagLuauCodegenMetatableCache_Staged",
+          "FFlagLuauCodegenMultiLaneDot_Staged",
+          "FFlagLuauCodegenUseOptionBuilder_Staged",
+          "FFlagLuauCompileLoopUnrollNegativeZero_Staged",
+          "FFlagLuauFixNormalizeFunctionIntersections",
+          "FFlagMigrateAsyncComponentToAsyncBinding_Staged",
+          "FFlagMomentsUpdateExperienceActionLabelText_Staged",
+          "FFlagNetworkSchemaServerEngineNetConfigOnly_Staged",
+          "FFlagSduiAddCollectibleItemDataHydration",
+          "FFlagSduiCatalogItemCard_Staged",
+          "FFlagSduiLeaderboardComponent_Staged",
+          "FFlagSettingsSelectorStepOnPressOnly",
+          "FFlagSimApplyPoseAcceptsQuaternion_Staged",
+          "FFlagSocialFollowAttribution_Staged",
+          "FFlagStudioCapturePluginGuiById",
+          "FFlagStudioDataModelProxyIgnoreWriteOnlyProperties",
+          "FFlagStudioListPluginGuisVisibleOnly",
+          "FFlagStudioPluginCaptureFromOwnWindow_Staged",
+          "FFlagStudioPluginWindowCaptureAPI3",
+          "FFlagStudioScreenshotHotkeyDeferToScriptEditor",
+          "FFlagStylingTransitionsBezierSpringRead_Staged",
+          "FFlagTTranscoderImprovements",
+          "FFlagTextFilterEducationRecentCopyEnabled_Staged",
+          "FFlagTexturePackCustomMips",
+          "FFlagToolboxAssetConfigDeferFailureDialog_Staged",
+          "FFlagToolboxExperienceCreatorTypeAssetConfig_Staged",
+          "FFlagToolboxExperienceCreatorTypeLegacyTabs_Staged",
+          "FFlagToolboxExperienceCreatorTypeMarketplaceAssetConfig_Staged",
+          "FFlagUseFriendsListOrderedByIdPresenceImpressionEventsEnabled_Staged",
+          "FFlagUserProfileStoreSplitPlatformFields_Staged",
+          "FFlagUserTileAvatarOverlayIcon",
+          "FFlagVoxelPool2FixPageOverAllocation_Staged",
+          "FFlagWASMTextBoxUpdateInDMTask",
+          "FFlagWebKeyCodeDisplayStringFromLayout",
+          "FLogStudioCreatorTypeParsing"
+        ],
+        "changed": [
+          {
+            "after": "745",
+            "before": "743",
+            "name": "DFIntJoinLimitOsx"
+          },
+          {
+            "after": "745",
+            "before": "743",
+            "name": "DFIntJoinLimitWin32x64"
+          },
+          {
+            "after": "3dcd7efaad0e19af41e67850a642effa310c78c3",
+            "before": "d2327631cb1451cc16d7fa31bb0cd094f67abdb1",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-16T20:13:08.466Z",
+            "before": "2026-11-16T07:02:21.347Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "3dcd7efaad0e19af41e67850a642effa310c78c3",
+            "before": "d2327631cb1451cc16d7fa31bb0cd094f67abdb1",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-16T20:13:08.466Z",
+            "before": "2026-11-16T07:02:21.347Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagProfileCTAHydratePresenceFromMetadata_v2_IXP"
+        ],
+        "unchanged": 25378
+      }
+    },
+    "UniversalApp": {
+      "current": "dbba577de2293fca8af8efecc968be7b43bf7c3f40bbe308343226f122288e5f",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 7
+      },
+      "previous": "10232670c9f4bafcba3688124ca967085edb142dba4eb1f86ba5283c334b52cf",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "9d2a9d19525c48661ba8582ead65d8090159546da06ba2ff78568dc0ff42912c",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_CommonUI.Messages.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-0/pageEnd.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_CommonUI.Messages.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "metadata.json"
+        ],
+        "removed": [
+          "js.rbxcdn.com/page-0/AccountSwitcher.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.AccountSwitch.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.LogoutModal.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Authentication.Passkey.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Recommendations.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.ShopDialog.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Purchasing.RedeemGameCard.js",
+          "js.rbxcdn.com/page-0/Navigation.js",
+          "js.rbxcdn.com/page-0/SearchLandingPage.js",
+          "js.rbxcdn.com/page-0/UserProfiles.js"
+        ],
+        "unchanged": 209
+      },
+      "previous": "43911c35f13e40cbeeeddcb35853fd52979064c69fc558fbb7cbe00aa52da39c",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
