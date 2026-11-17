@@ -12,30 +12,30 @@
     {
       "bytes": 43095,
       "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
-      "sha256": "c04d56057548e8a8149ea6f1d9c035d78dd5cdf7dfe7e682eea6d04a95462d36",
+      "sha256": "9ea8209fc5634c496c275985d19c15bad1e17c795cd3ae978a58f6e13b45a749",
       "sourceType": "official",
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.747.0.7471481&tag=Release&name=app-patch-in-experience"
     },
     {
-      "bytes": 17528456,
+      "bytes": 17584320,
       "derivedFrom": "InExperience.rbxm",
-      "sha256": "f10d690bbac6dff1b7b06f39c10af714fc613607898ad112aa0994e1ba02dade",
+      "sha256": "93cdb24cdfdee6a90be0d28c8d25893f1f09aea5a9a136e2bc40c773b678aacb",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17569"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=80471914653504&version=17623"
     },
     {
       "bytes": 43096,
       "reference": "https://devforum.roblox.com/t/extreme-memory-leak-after-being-kicked-from-tower-of-hell/3978837",
-      "sha256": "4709984db565bc42f34d1a7cd9218a91f318ca751d274f50132a11046a696072",
+      "sha256": "cd1da71f7f4ff89fdb834b14daf41b7350604719fe922999fa3bf1e6a027efd0",
       "sourceType": "official",
       "sourceUrl": "https://clientsettingscdn.roblox.com/v2/ota-version/WindowsPlayer?version=0.747.0.7471481&tag=Release&name=app-patch-universal-app"
     },
     {
-      "bytes": 16443906,
+      "bytes": 16454111,
       "derivedFrom": "UniversalApp.rbxm",
-      "sha256": "424521cc71a7fffb0dc1022483a4467c769b25c7cbb107a853d6eeff76c319ad",
+      "sha256": "c7d6dc66e6e306a54cae361bd0e39594d67625f206cf66a2b3e94ccf17a65913",
       "sourceType": "derived-official",
-      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=17668"
+      "sourceUrl": "https://assetdelivery.roblox.com/v1/asset/?id=118593852151835&version=17722"
     },
     {
       "buildGuid": "version-4ea8e85481e34f46",

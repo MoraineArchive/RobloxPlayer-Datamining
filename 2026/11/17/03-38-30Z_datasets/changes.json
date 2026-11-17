@@ -1,0 +1,216 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-4ea8e85481e34f46",
+    "manifestFiles": 2857,
+    "packages": 22,
+    "version": "0.747.0.7471481"
+  },
+  "datasets": {
+    "FastVariables": {
+      "current": "cb001b0100837aa70f72201426b441227bc2521a40583469813994167e72b398",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 3
+      },
+      "previous": "5011814a10a03fa0302298ab0079e6f6018b366cd3244051f966d7d280a528e3",
+      "semantic": {
+        "variables": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 29
+        }
+      }
+    },
+    "InExperience": {
+      "current": "c8bcaafa5058147bd9bab9718ab3428d6f19532612f7fdec210864c631495da2",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json",
+          "ota-config.json"
+        ],
+        "removed": [],
+        "unchanged": 8
+      },
+      "previous": "79d87a8ff4a481a1328591da3c0dccf83bd66b706f8a1a3f694545840abf560b",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "60a9cd0970715c54279c1d9f5fe5583283b1ec24007f0f99a12d932c5792573a",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "ab74c8cce1ef2dd32dfd69ec972a20b68c0c10cda8321676afb6642a34f5de8d",
+      "semantic": {
+        "added": [
+          "DFFlagAssetProviderPrewarmSkipInvalidPlaceId",
+          "DFFlagDurangoGetNetworkTypeCatchWinRTException_Staged",
+          "DFFlagFixStreamingObserverSubsOOBWrite_Staged",
+          "DFFlagTelemetryFpsFromHeartbeat",
+          "FFlagAXItemDetailsSduiFavorite",
+          "FFlagAXItemDetailsSduiImpressionsAndExposure_Staged",
+          "FFlagAXItemDetailsSduiScrollSuppression",
+          "FFlagAXItemMediaHeaderDefaultAspectRatio_Staged",
+          "FFlagAdjustHorizontalUserListSizeForMobile_Staged",
+          "FFlagAmrFriendlyEnumNamesOnly",
+          "FFlagAssetManagerAssetVersionChanged",
+          "FFlagCleanupTenFootUiCursorEffect_Staged",
+          "FFlagCloudClientEligibilityReasonLogs_Staged",
+          "FFlagCloudClientForceEligibleAttachPopReport_Staged",
+          "FFlagCloudClientSessionHistoryInMemory_Staged",
+          "FFlagCloudClientSyncOfferEligibility_Staged",
+          "FFlagDMCTTrackSharedSetterSources2_Staged",
+          "FFlagEnableDeeplinkCodeParamMergeBeforeSeedAndroid_Staged",
+          "FFlagExpChatMessageListScrollParity_Staged",
+          "FFlagFetchFlagLinkedIxpOnLogin_Staged",
+          "FFlagFixMechanismInterpolationParentSpace_Staged",
+          "FFlagFriendsChatMessageListHeaderFade_Staged",
+          "FFlagGamepadDisconnectAutoFocusSuppression_Staged",
+          "FFlagLuauCageRealloc_Staged",
+          "FFlagLuauCodegenCFrameArithmetic",
+          "FFlagLuauCodegenForwardSplitStore",
+          "FFlagLuauCodegenUserdataDirect",
+          "FFlagLuauRuntimeFeedback2",
+          "FFlagMigrateTerrainEditorTelemetryToV2",
+          "FFlagMomentsCommentDeepLinks",
+          "FFlagMomentsCommentTranslation",
+          "FFlagMomentsUseSharedReactions_Staged",
+          "FFlagMoveForceThemeToThemeChangeEventReceiver_Staged",
+          "FFlagMoveGamepadDisconnectHandlerToUniversalApp_Staged",
+          "FFlagProfilePlatformAboutBeforeActionClient",
+          "FFlagRbxTransportQuicPrefixAddressDecisions_Staged",
+          "FFlagRealtimeMediaDisconnectReason_Staged",
+          "FFlagSduiAddMarketplaceItemFavoriteHydration",
+          "FFlagSduiFriendsOwnedChip",
+          "FFlagSduiLeaderboardCapability_Staged",
+          "FFlagStreamingTerrainRegionQuotaScaleEnabled",
+          "FFlagToolboxInventoryDeprecationBanner",
+          "FFlagVirtualInputWindowTargets_Staged",
+          "FFlagVoiceChatGrpcDrainOnTeardown",
+          "FFlagXboxMultiplayerHandlersHoldWeakSelf"
+        ],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagEmptyMeshPartBoxFidelitySyncFix"
+          },
+          {
+            "after": "501171eaa3058f8415265da3f0b80065bfa36bc3",
+            "before": "b1b444f50e7e8f41b05ccac2f6d14b5a5253ac59",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-17T02:37:58.729Z",
+            "before": "2026-11-16T22:30:02.256Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "501171eaa3058f8415265da3f0b80065bfa36bc3",
+            "before": "b1b444f50e7e8f41b05ccac2f6d14b5a5253ac59",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-17T02:37:58.729Z",
+            "before": "2026-11-16T22:30:02.256Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagEmptyMeshPartBoxFidelitySyncFix_Staged",
+          "DFFlagTelemetryFpsFromHeartbeat_Staged",
+          "FFlagAXItemDetailsSduiFavorite_Staged",
+          "FFlagAXItemDetailsSduiScrollSuppression_Staged",
+          "FFlagAmrFriendlyEnumNamesOnly_Staged",
+          "FFlagAssetManagerAssetVersionChanged_Staged",
+          "FFlagLuauCodegenCFrameArithmetic_Staged",
+          "FFlagLuauCodegenForwardSplitStore_Staged",
+          "FFlagLuauCodegenUserdataDirect_Staged",
+          "FFlagLuauRuntimeFeedback2_Staged",
+          "FFlagMigrateTerrainEditorTelemetryToV2_Staged",
+          "FFlagMomentsCommentDeepLinks_Staged",
+          "FFlagMomentsCommentTranslation_Staged",
+          "FFlagProfilePlatformAboutBeforeActionClient_Staged",
+          "FFlagSduiAddMarketplaceItemFavoriteHydration_Staged",
+          "FFlagSduiFriendsOwnedChip_Staged",
+          "FFlagStreamingTerrainRegionQuotaScaleEnabled_Staged",
+          "FFlagToolboxInventoryDeprecationBanner_Staged",
+          "FFlagVoiceChatGrpcDrainOnTeardown_Staged",
+          "FFlagXboxMultiplayerHandlersHoldWeakSelf_Staged"
+        ],
+        "unchanged": 25481
+      }
+    },
+    "UniversalApp": {
+      "current": "29eb6b04122360f1ac5e09c7311346061aa167cf9f6f5f2180ac207837b5bfdd",
+      "files": {
+        "added": [],
+        "changed": [
+          "instances.json",
+          "latest-asset.json",
+          "metadata.json",
+          "ota-config.json"
+        ],
+        "removed": [],
+        "unchanged": 6
+      },
+      "previous": "7cf42986a4c7d28fe5cf4591531ba4e841eb5820d6fc4bf811478d300182bdc6",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Web": {
+      "current": "e78cdc50cdb8b9dbd06618671a91db11152b6273ce9e4d2d79c3ca17606979f2",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/CoreUtilities.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-0/GameLaunch.js",
+          "js.rbxcdn.com/page-0/PresenceStatus.js",
+          "js.rbxcdn.com/page-1/CoreUtilities.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-1/GameLaunch.js",
+          "js.rbxcdn.com/page-1/PresenceStatus.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 204
+      },
+      "previous": "b72584bf4b0e325975a855d7f03750d1559a6bc48312bb7aa44c446528a1db50",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
