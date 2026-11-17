@@ -3,125 +3,133 @@
     "AmdPowerXpressRequestHighPerformance",
     "NvOptimusEnablement"
   ],
-  "fileBytes": 145312208,
-  "imageSize": 155983872,
+  "fileBytes": 143850960,
+  "imageSize": 154566656,
   "imports": [
     "RobloxPlayerBeta.dll"
   ],
   "machine": 34404,
-  "peTimestamp": 38619311,
+  "peTimestamp": 1327875843,
   "sections": [
     {
       "characteristics": 32,
       "name": ".text",
       "rawOffset": 1536,
-      "rawSize": 107046912,
+      "rawSize": 105075712,
       "virtualAddress": 4096,
-      "virtualSize": 107046876
+      "virtualSize": 105075596
     },
     {
       "characteristics": 1610612768,
       "name": ".rodata",
-      "rawOffset": 107048448,
+      "rawOffset": 105077248,
       "rawSize": 2560,
-      "virtualAddress": 107053056,
+      "virtualAddress": 105082880,
       "virtualSize": 2288
     },
     {
       "characteristics": 1073741888,
       "name": ".rdata",
-      "rawOffset": 107051008,
-      "rawSize": 29353984,
-      "virtualAddress": 107057152,
-      "virtualSize": 29353482
+      "rawOffset": 105079808,
+      "rawSize": 30011904,
+      "virtualAddress": 105086976,
+      "virtualSize": 30011466
     },
     {
       "characteristics": 3221225536,
       "name": ".data",
-      "rawOffset": 136404992,
-      "rawSize": 3732480,
-      "virtualAddress": 136413184,
-      "virtualSize": 14378944
+      "rawOffset": 135091712,
+      "rawSize": 3489280,
+      "virtualAddress": 135102464,
+      "virtualSize": 14178848
     },
     {
       "characteristics": 1073741888,
       "name": "",
-      "rawOffset": 140137472,
-      "rawSize": 3328000,
-      "virtualAddress": 150794240,
-      "virtualSize": 3327960
+      "rawOffset": 138580992,
+      "rawSize": 3213824,
+      "virtualAddress": 149282816,
+      "virtualSize": 3213804
     },
     {
       "characteristics": 3221225536,
       "name": ".didat",
-      "rawOffset": 143465472,
+      "rawOffset": 141794816,
       "rawSize": 512,
-      "virtualAddress": 154124288,
+      "virtualAddress": 152498176,
       "virtualSize": 376
     },
     {
       "characteristics": 3221225536,
       "name": "CPADinfo",
-      "rawOffset": 143465984,
+      "rawOffset": 141795328,
       "rawSize": 512,
-      "virtualAddress": 154128384,
+      "virtualAddress": 152502272,
       "virtualSize": 56
     },
     {
       "characteristics": 1073741888,
       "name": "_RDATA",
-      "rawOffset": 143466496,
+      "rawOffset": 141795840,
       "rawSize": 1024,
-      "virtualAddress": 154132480,
+      "virtualAddress": 152506368,
       "virtualSize": 560
+    },
+    {
+      "characteristics": 1073741888,
+      "name": "ls",
+      "rawOffset": 141796864,
+      "rawSize": 135168,
+      "virtualAddress": 152510464,
+      "virtualSize": 134704
     },
     {
       "characteristics": 3254779968,
       "name": ".xbld",
-      "rawOffset": 143467520,
+      "rawOffset": 141932032,
       "rawSize": 512,
-      "virtualAddress": 154136576,
+      "virtualAddress": 152645632,
       "virtualSize": 445
     },
     {
       "characteristics": 3221225536,
       "name": ".rsrc",
-      "rawOffset": 143468032,
+      "rawOffset": 141932544,
       "rawSize": 761344,
-      "virtualAddress": 154140672,
+      "virtualAddress": 152649728,
       "virtualSize": 761016
     },
     {
       "characteristics": 1107296320,
       "name": ".reloc",
-      "rawOffset": 144229376,
-      "rawSize": 1070592,
-      "virtualAddress": 154902528,
-      "virtualSize": 1070380
+      "rawOffset": 142693888,
+      "rawSize": 1144832,
+      "virtualAddress": 153411584,
+      "virtualSize": 1144740
     },
     {
       "characteristics": 3221225536,
       "name": "tempest",
-      "rawOffset": 145299968,
+      "rawOffset": 143838720,
       "rawSize": 512,
-      "virtualAddress": 155975680,
+      "virtualAddress": 154558464,
       "virtualSize": 20
     },
     {
       "characteristics": 3221225536,
       "name": ".byfron",
-      "rawOffset": 145300480,
+      "rawOffset": 143839232,
       "rawSize": 1024,
-      "virtualAddress": 155979776,
+      "virtualAddress": 154562560,
       "virtualSize": 594
     }
   ],
-  "sha256": "ef4ba64486bf8324638b790fc011b9a33f61ee08e4066ad7e02c46df094bae2a",
+  "sha256": "dfdae08055af124973b6605f756ef394520164fd381b7287af8612d350f418de",
   "signing": {
     "certificates": [
       {
         "revision": 512,
-        "sha256": "a544c513167fde97deb51337cafb33a9bce9c911b2d456f6e6f969bd0a02a42a",
+        "sha256": "6598dd0f2ac17332fdd58f692b51032f524d2fb0e6629e15709df4c11d1693a6",
         "size": 10704,
         "type": 2
       }
@@ -132,8 +140,8 @@
   "versionResource": {
     "fileFlags": 0,
     "fileType": 1,
-    "fileVersion": "0.747.0.377",
-    "productVersion": "0.747.0.377"
+    "fileVersion": "0.748.0.10422",
+    "productVersion": "0.748.0.10422"
   },
   "warnings": []
 }

@@ -572,7 +572,7 @@
       "ExtraContent",
       "voice"
     ],
-    "checksum": "cf8b6460f37a5054d5a3c50bd3ba6f5f",
+    "checksum": "8e39ac291f2b47ba2d6bf76f7d2cadf1",
     "path": "ExtraContent/models/CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch.rbxm"
   },
   {
@@ -580,7 +580,7 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "33045cbca04f26e313939ff948cee80c",
+    "checksum": "bd5984229a350d5341cc28076770e262",
     "path": "ExtraContent/models/InExperience/InExperience.rbxm"
   },
   {
@@ -588,7 +588,7 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "c21f0aac10fd48f5e134922c4e18de87",
+    "checksum": "2e3fa4fe4052f1003ac4d15dd52843e7",
     "path": "ExtraContent/models/InExperience/InExperience_checksum"
   },
   {
@@ -596,7 +596,7 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "1690a81b151c9ba1175ad9dc30be7de9",
+    "checksum": "bbeebba35b9353b75edc625b91740c80",
     "path": "ExtraContent/models/Licenses/Licenses.rbxm"
   },
   {
@@ -604,7 +604,7 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "dbbf913e43991a5ecc1de4ee585745e5",
+    "checksum": "e8d44a12829c752abef5a1b185460a02",
     "path": "ExtraContent/models/UniversalApp/UniversalApp.rbxm"
   },
   {
@@ -612,7 +612,7 @@
       "content",
       "ExtraContent"
     ],
-    "checksum": "919dcf8da1d7dd57e064d3d6af1d8d5e",
+    "checksum": "96fd27396a2af5be66855526d298fdf1",
     "path": "ExtraContent/models/UniversalApp/UniversalApp_checksum"
   },
   {
@@ -7052,8 +7052,8 @@
     "categories": [
       "content"
     ],
-    "checksum": "5241b6096daeb785c5738987e4855248",
-    "path": "PlatformContent/pc/shared_compression_dictionaries/c0101e39d0563e9590a0ab27f90e91ea36d6bcfdf99add6915870c306a286479.dict"
+    "checksum": "ae8daa48901266065a71c156b369c3ee",
+    "path": "PlatformContent/pc/shared_compression_dictionaries/06a11b9007aec583915468186bc3ce7251250c16a99abf9d626c481e046d3ff9.dict"
   },
   {
     "categories": [
@@ -7405,21 +7405,21 @@
     "categories": [
       "other"
     ],
-    "checksum": "8762ff651af09b307f89db2359533c76",
+    "checksum": "775ff87206747668c67988a6245ad37b",
     "path": "RobloxCrashHandler.exe"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "2ec1cac54eaab1b61cbc854697eaca44",
+    "checksum": "ee7de890641acd7e500520ec5832b44c",
     "path": "RobloxPlayerBeta.dll"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "1469a85008525e806f863824c775a806",
+    "checksum": "3d48baad8410b023cb3f6a762dfed866",
     "path": "RobloxPlayerBeta.exe"
   },
   {
@@ -7476,6 +7476,22 @@
     ],
     "checksum": "d9173cd1a84703fca8ff43226fcd974e",
     "path": "content/avatar/abilities/AbilityManagerActor_oldClientInitialize.rbxm"
+  },
+  {
+    "categories": [
+      "content",
+      "avatar"
+    ],
+    "checksum": "c472fae28c88125555570ecda57e2ddb",
+    "path": "content/avatar/abilities/AvatarAbilitiesCharacter_oneLine.rbxm"
+  },
+  {
+    "categories": [
+      "content",
+      "avatar"
+    ],
+    "checksum": "6df1c027e3e21d4e45fbcef9fb41b676",
+    "path": "content/avatar/abilities/AvatarAbilitiesPlayer_oneLine.rbxm"
   },
   {
     "categories": [
@@ -7978,6 +7994,22 @@
       "content",
       "avatar"
     ],
+    "checksum": "ef7d1548533c2b40c757788d86648192",
+    "path": "content/avatar/ugcValidation/CurveAnimTemplateRigClassicR15.rbxm"
+  },
+  {
+    "categories": [
+      "content",
+      "avatar"
+    ],
+    "checksum": "0254acebd3123718bfdb3f7b684d07ea",
+    "path": "content/avatar/ugcValidation/CurveAnimTemplateRigR15Plus.rbxm"
+  },
+  {
+    "categories": [
+      "content",
+      "avatar"
+    ],
     "checksum": "31d8dd4b006b6abe4fe347c1bc568a2f",
     "path": "content/avatar/unification/AdapterReference.rbxm"
   },
@@ -8229,7 +8261,7 @@
     "categories": [
       "content"
     ],
-    "checksum": "f22f53431baf98f3afd4f23d8c2a234f",
+    "checksum": "9ea8068a4f524bee3a7898c79a6ac168",
     "path": "content/configs/InExperiencePatchConfig/InExperiencePatchConfig.json"
   },
   {
@@ -8278,7 +8310,7 @@
     "categories": [
       "content"
     ],
-    "checksum": "b68a1d1ad7e7105c1b53e5a0d6ceef8e",
+    "checksum": "464e2388fb9e312ed1122a7497918c6c",
     "path": "content/configs/UniversalAppPatchConfig/UniversalAppPatchConfig.json"
   },
   {
@@ -24037,42 +24069,42 @@
     "categories": [
       "other"
     ],
-    "checksum": "8290e48974ec47b2a810c30d4e361b22",
+    "checksum": "46801ac48f636aec80b718bb4f8b8b6a",
     "path": "shaders/shaders_d3d10.pack"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "79c93f977039a8d8d7931ad8d3d32b90",
+    "checksum": "428ab6d27ea3d6ea9cd56cac0236fb2f",
     "path": "shaders/shaders_d3d10_1.pack"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "d3d64f9879114ac69d7594014e145076",
+    "checksum": "4988f5056180bf776a2663749fbc4739",
     "path": "shaders/shaders_d3d11.pack"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "55595fa21909811aac0b89be5c5cf081",
+    "checksum": "7eb0817ca24a317cab1ddd0441e2891e",
     "path": "shaders/shaders_glsl3.pack"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "74f64aa3a3dba52b5dc38b984a002e68",
+    "checksum": "7e2317b316fd3c202a59e28f14ee1809",
     "path": "shaders/shaders_vulkan_desktop.pack"
   },
   {
     "categories": [
       "other"
     ],
-    "checksum": "2ef00fa979161001a3a5cd5169a7de48",
+    "checksum": "2c83c7d0cfec719e6d16829146bc0697",
     "path": "ssl/cacert.pem"
   }
 ]

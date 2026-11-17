@@ -664,11 +664,58 @@
             "filter",
             "universe"
           ]
+        },
+        {
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/11/17/21-40-01Z_build_version-2c6fd5e09aaf4cfa",
+          "evidencePath": "2026/11/17/21-40-01Z_build_version-2c6fd5e09aaf4cfa/changes.json",
+          "family": "Distribution",
+          "id": "5017266450cc4e624a8965bac174825415f0a42c4bd41c645a124e97d7e9303a",
+          "key": "content/avatar/abilities/AvatarAbilitiesCharacter_oneLine.rbxm",
+          "kind": "files",
+          "observedAt": "2026-11-17T21:40:01.931Z",
+          "operation": "added",
+          "surface": "Build",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "avatar",
+            "character",
+            "content",
+            "line",
+            "one"
+          ]
+        },
+        {
+          "concepts": [
+            "avatar",
+            "abilities"
+          ],
+          "eventPath": "2026/11/17/21-40-01Z_build_version-2c6fd5e09aaf4cfa",
+          "evidencePath": "2026/11/17/21-40-01Z_build_version-2c6fd5e09aaf4cfa/changes.json",
+          "family": "Distribution",
+          "id": "a3748b0bae553d24216bdacea0aca2d670247cde7779349a3351f8a4dd3624ca",
+          "key": "content/avatar/abilities/AvatarAbilitiesPlayer_oneLine.rbxm",
+          "kind": "files",
+          "observedAt": "2026-11-17T21:40:01.931Z",
+          "operation": "added",
+          "surface": "Build",
+          "target": "WindowsPlayer",
+          "tokens": [
+            "abilities",
+            "avatar",
+            "content",
+            "line",
+            "one"
+          ]
         }
       ],
       "firstObservedAt": "2026-09-08T23:42:52.368Z",
       "id": "avatar-abilities",
-      "lastObservedAt": "2026-11-05T23:53:07.085Z",
+      "lastObservedAt": "2026-11-17T21:40:01.931Z",
       "lifecycle": [
         {
           "observedAt": "2026-09-09T01:37:12.973Z",

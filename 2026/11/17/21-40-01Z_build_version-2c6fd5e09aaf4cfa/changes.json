@@ -1,0 +1,519 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-2c6fd5e09aaf4cfa",
+    "manifestFiles": 2861,
+    "packages": 22,
+    "version": "0.748.0.7481526"
+  },
+  "datasets": {
+    "Build": {
+      "current": "7df3e2e71430da9fb54ba3299aa2bf9c04d1838ea9bb9b5ec20636dfc3866312",
+      "files": {
+        "added": [],
+        "changed": [
+          "FileManifest.json",
+          "Packages.json",
+          "metadata.json",
+          "version.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "7c99b847d4c78a06df77ab67e7c8bbb4d5d8bcf6afb297ba582dfba1b95f9a22",
+      "semantic": {
+        "files": {
+          "added": [
+            "PlatformContent/pc/shared_compression_dictionaries/06a11b9007aec583915468186bc3ce7251250c16a99abf9d626c481e046d3ff9.dict",
+            "content/avatar/abilities/AvatarAbilitiesCharacter_oneLine.rbxm",
+            "content/avatar/abilities/AvatarAbilitiesPlayer_oneLine.rbxm",
+            "content/avatar/ugcValidation/CurveAnimTemplateRigClassicR15.rbxm",
+            "content/avatar/ugcValidation/CurveAnimTemplateRigR15Plus.rbxm"
+          ],
+          "changed": [
+            "ExtraContent/models/CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch.rbxm",
+            "ExtraContent/models/InExperience/InExperience.rbxm",
+            "ExtraContent/models/InExperience/InExperience_checksum",
+            "ExtraContent/models/Licenses/Licenses.rbxm",
+            "ExtraContent/models/UniversalApp/UniversalApp.rbxm",
+            "ExtraContent/models/UniversalApp/UniversalApp_checksum",
+            "RobloxCrashHandler.exe",
+            "RobloxPlayerBeta.dll",
+            "RobloxPlayerBeta.exe",
+            "content/configs/InExperiencePatchConfig/InExperiencePatchConfig.json",
+            "content/configs/UniversalAppPatchConfig/UniversalAppPatchConfig.json",
+            "shaders/shaders_d3d10.pack",
+            "shaders/shaders_d3d10_1.pack",
+            "shaders/shaders_d3d11.pack",
+            "shaders/shaders_glsl3.pack",
+            "shaders/shaders_vulkan_desktop.pack",
+            "ssl/cacert.pem"
+          ],
+          "removed": [
+            "PlatformContent/pc/shared_compression_dictionaries/c0101e39d0563e9590a0ab27f90e91ea36d6bcfdf99add6915870c306a286479.dict"
+          ],
+          "unchanged": 2839
+        },
+        "packages": {
+          "added": [],
+          "changed": [
+            {
+              "after": {
+                "checksum": "60e244567d170679c8c497bc5ee888de",
+                "compressedSize": 138433382,
+                "name": "RobloxApp.zip",
+                "uncompressedSize": 175470635
+              },
+              "before": {
+                "checksum": "a765b9d75aceaab21a6446e2782f52c6",
+                "compressedSize": 140583122,
+                "name": "RobloxApp.zip",
+                "uncompressedSize": 177377323
+              },
+              "name": "RobloxApp.zip"
+            },
+            {
+              "after": {
+                "checksum": "a9664276346da3ba0e466cd9933b03b0",
+                "compressedSize": 13837264,
+                "name": "RobloxPlayerInstaller.exe",
+                "uncompressedSize": 13837264
+              },
+              "before": {
+                "checksum": "e3902320b144a76e915ea3f748c0751c",
+                "compressedSize": 13768656,
+                "name": "RobloxPlayerInstaller.exe",
+                "uncompressedSize": 13768656
+              },
+              "name": "RobloxPlayerInstaller.exe"
+            },
+            {
+              "after": {
+                "checksum": "f1ef9a10676b76e1aba1f62a5025f1d0",
+                "compressedSize": 83405,
+                "name": "WebView2.zip",
+                "uncompressedSize": 166000
+              },
+              "before": {
+                "checksum": "284dc97dbcdcbbd3a1daf381e3fe048b",
+                "compressedSize": 83405,
+                "name": "WebView2.zip",
+                "uncompressedSize": 166000
+              },
+              "name": "WebView2.zip"
+            },
+            {
+              "after": {
+                "checksum": "47b70a36f8518a65f415d26dc976f408",
+                "compressedSize": 334757,
+                "name": "content-avatar.zip",
+                "uncompressedSize": 1170746
+              },
+              "before": {
+                "checksum": "5d3f31cc8f8b95f95e7c3125e4689ffd",
+                "compressedSize": 311682,
+                "name": "content-avatar.zip",
+                "uncompressedSize": 1116435
+              },
+              "name": "content-avatar.zip"
+            },
+            {
+              "after": {
+                "checksum": "ad9001f9b837ae1a648548ad43e19aa7",
+                "compressedSize": 307051,
+                "name": "content-configs.zip",
+                "uncompressedSize": 1807046
+              },
+              "before": {
+                "checksum": "116cec6af1deadc1879fa054250c6f96",
+                "compressedSize": 307051,
+                "name": "content-configs.zip",
+                "uncompressedSize": 1807046
+              },
+              "name": "content-configs.zip"
+            },
+            {
+              "after": {
+                "checksum": "369df21c7d0cef3effd0b970965388af",
+                "compressedSize": 457888,
+                "name": "content-platform-dictionaries.zip",
+                "uncompressedSize": 1559106
+              },
+              "before": {
+                "checksum": "9fd6909e78afd9d3671814ba8f8de7f3",
+                "compressedSize": 458594,
+                "name": "content-platform-dictionaries.zip",
+                "uncompressedSize": 1548125
+              },
+              "name": "content-platform-dictionaries.zip"
+            },
+            {
+              "after": {
+                "checksum": "9cadb719ff9d047b3a7d19ceb1304a17",
+                "compressedSize": 29760128,
+                "name": "extracontent-models.zip",
+                "uncompressedSize": 29839245
+              },
+              "before": {
+                "checksum": "de69042e6c0da9806bc2cef07d544767",
+                "compressedSize": 28883198,
+                "name": "extracontent-models.zip",
+                "uncompressedSize": 28945250
+              },
+              "name": "extracontent-models.zip"
+            },
+            {
+              "after": {
+                "checksum": "d6b46648802e5373a8148387986da472",
+                "compressedSize": 14393776,
+                "name": "shaders.zip",
+                "uncompressedSize": 92161509
+              },
+              "before": {
+                "checksum": "b7e3d1f6341ab1b52ee827fce2938e2b",
+                "compressedSize": 13872230,
+                "name": "shaders.zip",
+                "uncompressedSize": 88157049
+              },
+              "name": "shaders.zip"
+            },
+            {
+              "after": {
+                "checksum": "ae80c2bdecc0c80a59f1da49893e0a10",
+                "compressedSize": 142498,
+                "name": "ssl.zip",
+                "uncompressedSize": 248842
+              },
+              "before": {
+                "checksum": "f56b7675c1ecc37be974547e91fe94e8",
+                "compressedSize": 130569,
+                "name": "ssl.zip",
+                "uncompressedSize": 228725
+              },
+              "name": "ssl.zip"
+            }
+          ],
+          "removed": [],
+          "unchanged": 13
+        }
+      }
+    },
+    "FastVariables": {
+      "current": "e1a14c246700dbfc19543b972947648b9f46ba3afd6b64e5a0b913f3ecc7c92c",
+      "files": {
+        "added": [],
+        "changed": [
+          "combined.json",
+          "cpp.txt",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 1
+      },
+      "previous": "11c366338b2aa9d862ce571b3db7efcd4afebb45402ef9b5f973a2f6a9926574",
+      "semantic": {
+        "variables": {
+          "added": [
+            "C++:FFlagUGCValidateCurveAnimationRenderedFrames"
+          ],
+          "changed": [
+            "C++:DFFlagSoundServiceMockOutputDevices",
+            "C++:DFIntGameNetLocalSpaceMaxSendIndex",
+            "C++:FFlagCollectionServiceTagAddedRemovedOnInstanceSignals",
+            "C++:FFlagDebugEnableLocalAppUpdateChecks",
+            "C++:FFlagDebugEnableTestCoordinatorService",
+            "C++:FFlagDebugEnableTestServiceDeterministicCapture",
+            "C++:FFlagDebugEnableTestServiceVideoCapture",
+            "C++:FFlagDebugUTPController",
+            "C++:FFlagDifferentiateStreamedOut",
+            "C++:FFlagFeatureMatchingEnabled",
+            "C++:FFlagFeatureMatchingSearchEnabled",
+            "C++:FFlagLCQualityValidation",
+            "C++:FFlagLuauExpressionReferencesMethod",
+            "C++:FFlagMigrateCameraCFrameDatamodel",
+            "C++:FFlagMigrateCameraFocusDatamodel",
+            "C++:FFlagMigrateCameraFovDatamodel",
+            "C++:FFlagSaveAndReloadDebuggablePluginVerb",
+            "C++:FFlagUGCValidateInstanceTreesEquivalent",
+            "C++:FFlagUGCValidatePropertiesSensible",
+            "C++:FFlagUGCValidateSerializeExcludeCollisionPhysics",
+            "C++:FFlagVideoCaptureServiceMockInput",
+            "C++:FFlagVoiceUseWebRTCSession",
+            "C++:FFlagWIPTrackPackagelinkOverrides",
+            "C++:FFlagWinInstallerWebBtidOverride",
+            "C++:FStringDebugRenderingTestVideoCapturePath",
+            "C++:FStringDebugUTPLauncherWebSocketUri",
+            "C++:FStringSlimTranscoderResourcePath",
+            "C++:FStringTextureTranscodeRollout"
+          ],
+          "removed": [
+            "C++:FFlagLuauExpressionServiceEnabled"
+          ],
+          "unchanged": 0
+        }
+      }
+    },
+    "LiveSettings": {
+      "current": "ade67c9aac61263c183f9b119d066b2bbc42eff4c20d9ed0d116289bb57aece6",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "60a9cd0970715c54279c1d9f5fe5583283b1ec24007f0f99a12d932c5792573a",
+      "semantic": {
+        "added": [
+          "DFFlagAccessCodeV2SendAccessCodeWithLinkCode",
+          "DFFlagCLI230370",
+          "DFFlagCapsNestedAccessOutsideWriteRelaxation",
+          "DFFlagCli232669",
+          "DFFlagConversionIsPartOfExecution",
+          "DFFlagDurangoGetNetworkTypeCatchWinRTException",
+          "DFFlagFixStreamingObserverSubsOOBWrite",
+          "DFFlagParallelTaskQueueRemoveFix",
+          "DFFlagRbxTransportUseQuicActiveConnectionIdLimit",
+          "DFFlagYieldResumeFiberAwareSpin",
+          "DFIntHttp2StatsHundredthsPercent_Staged",
+          "DFIntParticleEmitter2DStats_ReportHundredthsPercent_Staged",
+          "FFlagAXFixLayeredClothingRefinementBarZIndex",
+          "FFlagAXItemDetailsSduiImpressionsAndExposure",
+          "FFlagAXItemMediaHeaderDefaultAspectRatio",
+          "FFlagAdjustHorizontalUserListSizeForMobile",
+          "FFlagAnimGraphUI_ClipNameTooltip",
+          "FFlagAppChatSearchSendPlacement_Staged",
+          "FFlagAppChatUseSignalsForChatSettings_Staged",
+          "FFlagApplicationFrameRateClampToDisplay",
+          "FFlagAudioRestoreSharedRecordingTelemetry",
+          "FFlagAutomaticDRSUseStricterTickTargetForUserCap_Staged",
+          "FFlagCLI1842832_Staged",
+          "FFlagCLI235488TelemetryCleanup_Staged",
+          "FFlagCleanupTenFootUiCursorEffect",
+          "FFlagCloudClientEligibilityReasonLogs",
+          "FFlagCloudClientForceEligibleAttachPopReport",
+          "FFlagCloudClientLibWebrtcDataChannelClose",
+          "FFlagCloudClientSessionHistoryInMemory",
+          "FFlagCloudClientSyncOfferEligibility",
+          "FFlagControlStateApplyServerWritesPerStep_Staged",
+          "FFlagCoreScriptErrorCounterIgnoreReporterSampling_Staged",
+          "FFlagDMCTTrackSharedSetterSources2",
+          "FFlagDisablePublishPlatformContentWithoutName_Staged",
+          "FFlagEditableImageAlphaBlendTypeForMoreDrawingAPIs",
+          "FFlagEnableDeeplinkCodeParamMergeBeforeSeedAndroid",
+          "FFlagEnableDeeplinkCodeParamMergeBeforeSeedIOS",
+          "FFlagExpChatEmojiDropdownDismissAnalytics",
+          "FFlagExpChatMessageComposerDictation",
+          "FFlagExpChatMessageListScrollParity",
+          "FFlagExpChatPresetEntryPointClickAction",
+          "FFlagExpChatUseExpressionCatalogNormalizer_Staged",
+          "FFlagFetchFlagLinkedIxpOnLogin",
+          "FFlagFixMechanismInterpolationParentSpace",
+          "FFlagFixMinimalGamepadRemap",
+          "FFlagFixRenderingTestScissorViewport",
+          "FFlagFmodFixOggVorbisLengthCap",
+          "FFlagFoundationBadgeBetaUpdate4_Staged",
+          "FFlagFoundationNumberInputScrubEndedAlone",
+          "FFlagFriendsChatMessageListHeaderFade",
+          "FFlagGamepadDisconnectAutoFocusSuppression",
+          "FFlagLogFocusNavExitTriggerKey",
+          "FFlagLuaAppHeroUnitSecondaryLabelText",
+          "FFlagLuauCageRealloc",
+          "FFlagLuauCodegenRuntimeFeedback_Staged",
+          "FFlagLuauDisallowRedefiningBuiltinTypes",
+          "FFlagMomentsTextOverlayV2RedesignPhase1",
+          "FFlagMomentsUseSharedReactions",
+          "FFlagMoveForceThemeToThemeChangeEventReceiver",
+          "FFlagMoveGamepadDisconnectHandlerToUniversalApp",
+          "FFlagRbxTransportQuicPrefixAddressDecisions",
+          "FFlagRealtimeMediaDisconnectReason",
+          "FFlagRefactorPIPSAsyncMeshFetch",
+          "FFlagSduiLeaderboardCapability",
+          "FFlagSearchEmphasisViewportNonSdui",
+          "FFlagSelectionGainedLostParameter",
+          "FFlagShapeFitBoundArapScale",
+          "FFlagShapeFitPinUnweightedVerticesToRbfTarget",
+          "FFlagShowClassmatesOnPYMK_Staged",
+          "FFlagShutdownLuaAppDataModelTeardownTelemetry",
+          "FFlagSignalDisconnectAllClearsSlotOwners_Staged",
+          "FFlagSlowDownRenderingHonorEarlyRelease",
+          "FFlagSocialCarouselInGamePlayIcon_IXP",
+          "FFlagSocialCarouselInGameTextInstantJoin_IXP",
+          "FFlagSocialCarouselInGameTileInstantJoin_IXP",
+          "FFlagStratusOfferBrowserTrackerId",
+          "FFlagStudioGetPlaceFilePathAsync",
+          "FFlagStudioReleaseRefreshLockBeforeDroppingAuthTokenManager",
+          "FFlagStudioRetryRefreshWithRotatedToken_Staged",
+          "FFlagUIGradientFlushFreshBuffers_Staged",
+          "FFlagUIGradientLinearKeyBlend_Staged",
+          "FFlagVirtualInputWindowTargets",
+          "FFlagWindowsUpdateShutdownOnUIThread",
+          "FIntDeformationMapFetchRequestAttemptTimeoutSeconds_Staged",
+          "FIntDeformationMapFetchRequestFetchRetries_Staged"
+        ],
+        "changed": [
+          {
+            "after": "True",
+            "before": "False",
+            "name": "DFFlagOverlappedAddToFilter"
+          },
+          {
+            "after": "1639f6f200f6e93466a27b073ab194b9d7983a80",
+            "before": "501171eaa3058f8415265da3f0b80065bfa36bc3",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-17T21:35:08.005Z",
+            "before": "2026-11-17T02:37:58.729Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagSupportGcRegionQuotaSource"
+          },
+          {
+            "after": "2",
+            "before": "1",
+            "name": "FIntPresenceRefetchTelemetryExpectedComparisonsPerHour"
+          },
+          {
+            "after": "100",
+            "before": "1",
+            "name": "FIntPresenceRefetchTelemetryThrottleHundredthsPercent"
+          },
+          {
+            "after": "0",
+            "before": "10000",
+            "name": "FIntTexturePackShadowUploadPropertySetsHundredthPercent"
+          },
+          {
+            "after": "0",
+            "before": "500",
+            "name": "FIntTexturePackUsePropertySetAddressesHundredthPercent"
+          },
+          {
+            "after": "1639f6f200f6e93466a27b073ab194b9d7983a80",
+            "before": "501171eaa3058f8415265da3f0b80065bfa36bc3",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-17T21:35:08.005Z",
+            "before": "2026-11-17T02:37:58.729Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagDurangoGetNetworkTypeCatchWinRTException_Staged",
+          "DFFlagFixStreamingObserverSubsOOBWrite_Staged",
+          "FFlagAXFixLayeredClothingRefinementBarZIndex_Staged",
+          "FFlagAXItemDetailsSduiImpressionsAndExposure_Staged",
+          "FFlagAXItemMediaHeaderDefaultAspectRatio_Staged",
+          "FFlagAdjustHorizontalUserListSizeForMobile_Staged",
+          "FFlagApplicationFrameRateClampToDisplay_Staged",
+          "FFlagCleanupTenFootUiCursorEffect_Staged",
+          "FFlagCloudClientEligibilityReasonLogs_Staged",
+          "FFlagCloudClientForceEligibleAttachPopReport_Staged",
+          "FFlagCloudClientSessionHistoryInMemory_Staged",
+          "FFlagCloudClientSyncOfferEligibility_Staged",
+          "FFlagDMCTTrackSharedSetterSources2_Staged",
+          "FFlagEnableDeeplinkCodeParamMergeBeforeSeedAndroid_Staged",
+          "FFlagEnableDeeplinkCodeParamMergeBeforeSeedIOS_Staged",
+          "FFlagExpChatEmojiDropdownDismissAnalytics_Staged",
+          "FFlagExpChatMessageListScrollParity_Staged",
+          "FFlagExpChatPresetEntryPointClickAction_Staged",
+          "FFlagFetchFlagLinkedIxpOnLogin_Staged",
+          "FFlagFixMechanismInterpolationParentSpace_Staged",
+          "FFlagFriendsChatMessageListHeaderFade_Staged",
+          "FFlagGamepadDisconnectAutoFocusSuppression_Staged",
+          "FFlagLuauCageRealloc_Staged",
+          "FFlagMomentsTextOverlayV2RedesignPhase1_Staged",
+          "FFlagMomentsUseSharedReactions_Staged",
+          "FFlagMoveForceThemeToThemeChangeEventReceiver_Staged",
+          "FFlagMoveGamepadDisconnectHandlerToUniversalApp_Staged",
+          "FFlagRbxTransportQuicPrefixAddressDecisions_Staged",
+          "FFlagRealtimeMediaDisconnectReason_Staged",
+          "FFlagSduiLeaderboardCapability_Staged",
+          "FFlagShutdownLuaAppDataModelTeardownTelemetry_Staged",
+          "FFlagVirtualInputWindowTargets_Staged",
+          "FIntPresenceRefetchTelemetryThrottleHundredthsPercent_Staged"
+        ],
+        "unchanged": 25488
+      }
+    },
+    "LuaPackages": {
+      "current": "d49d8c2ca92408ca5ee5f6790964ff9e30adab2e1e550d7cf34127631b5e8d82",
+      "files": {
+        "added": [],
+        "changed": [
+          "content-configs/InExperiencePatchConfig/InExperiencePatchConfig.json",
+          "content-configs/UniversalAppPatchConfig/UniversalAppPatchConfig.json",
+          "extracontent-models/CrossExpVoiceDataModelPatch/CrossExpVoiceDataModelPatch/instances.json",
+          "extracontent-models/InExperience/InExperience/instances.json",
+          "extracontent-models/UniversalApp/UniversalApp/instances.json",
+          "index.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 98
+      },
+      "previous": "2e2b01b5095cf4dd252819f3ad66434aa299d4b9a7d7936f5e22a2d493dbd962",
+      "semantic": {
+        "localizations": [],
+        "sources": {
+          "added": [],
+          "changed": [],
+          "removed": [],
+          "unchanged": 0
+        }
+      }
+    },
+    "Native": {
+      "current": "c1f18ed845233303beed8eaf2fd05b5c42d989743e68678820b0bc40e619f0c7",
+      "files": {
+        "added": [],
+        "changed": [
+          "metadata.json",
+          "pe.json",
+          "strings/ascii.txt",
+          "strings/identifiers.txt",
+          "strings/symbols.txt",
+          "strings/utf16.txt",
+          "strings/utf8.txt",
+          "strings/variables.txt",
+          "symbols.txt"
+        ],
+        "removed": [],
+        "unchanged": 5
+      },
+      "previous": "b6da958401c098966c9693af92774bb0479c61eb89e6e193d02e02fe6b2ac727",
+      "semantic": null
+    },
+    "Web": {
+      "current": "382768b18145447ad42a035bdde49197afed49227990dce373899a91f395e8ff",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-0/GameLaunch.js",
+          "js.rbxcdn.com/page-0/SduiLandingPage.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-1/GameCarousel.js",
+          "js.rbxcdn.com/page-1/GameLaunch.js",
+          "js.rbxcdn.com/page-1/Navigation.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 205
+      },
+      "previous": "e78cdc50cdb8b9dbd06618671a91db11152b6273ce9e4d2d79c3ca17606979f2",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}

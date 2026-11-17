@@ -1,12 +1,12 @@
 [
   {
-    "checksum": "5d3f31cc8f8b95f95e7c3125e4689ffd",
-    "compressedSize": 311682,
+    "checksum": "47b70a36f8518a65f415d26dc976f408",
+    "compressedSize": 334757,
     "name": "content-avatar.zip",
-    "uncompressedSize": 1116435
+    "uncompressedSize": 1170746
   },
   {
-    "checksum": "116cec6af1deadc1879fa054250c6f96",
+    "checksum": "ad9001f9b837ae1a648548ad43e19aa7",
     "compressedSize": 307051,
     "name": "content-configs.zip",
     "uncompressedSize": 1807046
@@ -24,10 +24,10 @@
     "uncompressedSize": 1413471
   },
   {
-    "checksum": "9fd6909e78afd9d3671814ba8f8de7f3",
-    "compressedSize": 458594,
+    "checksum": "369df21c7d0cef3effd0b970965388af",
+    "compressedSize": 457888,
     "name": "content-platform-dictionaries.zip",
-    "uncompressedSize": 1548125
+    "uncompressedSize": 1559106
   },
   {
     "checksum": "8f379ec2b22ff106b837d79f7fdbf0d8",
@@ -72,10 +72,10 @@
     "uncompressedSize": 3091218
   },
   {
-    "checksum": "de69042e6c0da9806bc2cef07d544767",
-    "compressedSize": 28883198,
+    "checksum": "9cadb719ff9d047b3a7d19ceb1304a17",
+    "compressedSize": 29760128,
     "name": "extracontent-models.zip",
-    "uncompressedSize": 28945250
+    "uncompressedSize": 29839245
   },
   {
     "checksum": "154b9840854f37ad3fe8f78f21eeaa0f",
@@ -96,31 +96,31 @@
     "uncompressedSize": 1919259
   },
   {
-    "checksum": "a765b9d75aceaab21a6446e2782f52c6",
-    "compressedSize": 140583122,
+    "checksum": "60e244567d170679c8c497bc5ee888de",
+    "compressedSize": 138433382,
     "name": "RobloxApp.zip",
-    "uncompressedSize": 177377323
+    "uncompressedSize": 175470635
   },
   {
-    "checksum": "e3902320b144a76e915ea3f748c0751c",
-    "compressedSize": 13768656,
+    "checksum": "a9664276346da3ba0e466cd9933b03b0",
+    "compressedSize": 13837264,
     "name": "RobloxPlayerInstaller.exe",
-    "uncompressedSize": 13768656
+    "uncompressedSize": 13837264
   },
   {
-    "checksum": "b7e3d1f6341ab1b52ee827fce2938e2b",
-    "compressedSize": 13872230,
+    "checksum": "d6b46648802e5373a8148387986da472",
+    "compressedSize": 14393776,
     "name": "shaders.zip",
-    "uncompressedSize": 88157049
+    "uncompressedSize": 92161509
   },
   {
-    "checksum": "f56b7675c1ecc37be974547e91fe94e8",
-    "compressedSize": 130569,
+    "checksum": "ae80c2bdecc0c80a59f1da49893e0a10",
+    "compressedSize": 142498,
     "name": "ssl.zip",
-    "uncompressedSize": 228725
+    "uncompressedSize": 248842
   },
   {
-    "checksum": "284dc97dbcdcbbd3a1daf381e3fe048b",
+    "checksum": "f1ef9a10676b76e1aba1f62a5025f1d0",
     "compressedSize": 83405,
     "name": "WebView2.zip",
     "uncompressedSize": 166000
