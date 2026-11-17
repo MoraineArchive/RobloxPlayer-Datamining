@@ -1,0 +1,109 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-2c6fd5e09aaf4cfa",
+    "manifestFiles": 2861,
+    "packages": 22,
+    "version": "0.748.0.7481526"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "cdc8ed87634fb13c78bb43bb0fe4dc00ca2645f6d8c209627015604ec8d5cf79",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "ade67c9aac61263c183f9b119d066b2bbc42eff4c20d9ed0d116289bb57aece6",
+      "semantic": {
+        "added": [
+          "DFFlagBadgeServiceReportTooManyRequests_Staged",
+          "DFFlagBadgeServiceReportTooManyRequests_UniverseFilter",
+          "DFIntParticleEmitter2DStats_ReportHundredthsPercent",
+          "FFlagAXItemDetailsSduiTryOnSimpleView_Staged",
+          "FFlagAXItemViewportRestoreParentScrollingOnUnmount_Staged",
+          "FFlagAppChatSearchSendPlacement",
+          "FFlagAppPageShellScrollTelemetry_Staged",
+          "FFlagAutomaticDRSUseStricterTickTargetForUserCap",
+          "FFlagAutomaticDRSUseStricterTickTarget_Staged",
+          "FFlagCLI1842832",
+          "FFlagCLI235488TelemetryCleanup",
+          "FFlagControlStateApplyServerWritesPerStep",
+          "FFlagCoreScriptErrorCounterIgnoreReporterSampling",
+          "FFlagDeterministicRbxmBundling_Staged",
+          "FFlagDisablePublishPlatformContentWithoutName",
+          "FFlagEnableExternalOriginOnlyUrlRegistration_Staged",
+          "FFlagExpChatUseExpressionCatalogNormalizer",
+          "FFlagFoundationBadgeBetaUpdate4",
+          "FFlagFoundationFixChipAccessoryLayout_Staged",
+          "FFlagFoundationSliderRebuild2_Staged",
+          "FFlagResetHoverTileOnGameLeave_Staged",
+          "FFlagSignalDisconnectAllClearsSlotOwners",
+          "FFlagSoundscapeOpusDynamicPacketLoss_Staged",
+          "FFlagStudioQWidgetPluginGuiCloseButtonEnabled_Staged",
+          "FFlagStudioRetryRefreshWithRotatedToken",
+          "FFlagStudioShortcutsDialogSayResetDefaults_Staged",
+          "FFlagTTITrackerDropEventsOnJoinAttempt_Staged",
+          "FIntDeformationMapFetchRequestAttemptTimeoutSeconds",
+          "FIntDeformationMapFetchRequestFetchRetries"
+        ],
+        "changed": [
+          {
+            "after": "100",
+            "before": "500",
+            "name": "DFIntHttp2StatsHundredthsPercent"
+          },
+          {
+            "after": "8a7f683638e1de02fb5b99dd99f6e026685f6c2e",
+            "before": "1639f6f200f6e93466a27b073ab194b9d7983a80",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-17T22:41:20.922Z",
+            "before": "2026-11-17T21:35:08.005Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagAppChatUseSignalsForChatSettings"
+          },
+          {
+            "after": "8a7f683638e1de02fb5b99dd99f6e026685f6c2e",
+            "before": "1639f6f200f6e93466a27b073ab194b9d7983a80",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-17T22:41:20.922Z",
+            "before": "2026-11-17T21:35:08.005Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFIntHttp2StatsHundredthsPercent_Staged",
+          "DFIntParticleEmitter2DStats_ReportHundredthsPercent_Staged",
+          "FFlagAppChatSearchSendPlacement_Staged",
+          "FFlagAppChatUseSignalsForChatSettings_Staged",
+          "FFlagAutomaticDRSUseStricterTickTargetForUserCap_Staged",
+          "FFlagCLI1842832_Staged",
+          "FFlagCLI235488TelemetryCleanup_Staged",
+          "FFlagControlStateApplyServerWritesPerStep_Staged",
+          "FFlagCoreScriptErrorCounterIgnoreReporterSampling_Staged",
+          "FFlagDisablePublishPlatformContentWithoutName_Staged",
+          "FFlagExpChatUseExpressionCatalogNormalizer_Staged",
+          "FFlagFoundationBadgeBetaUpdate4_Staged",
+          "FFlagSignalDisconnectAllClearsSlotOwners_Staged",
+          "FFlagStudioRetryRefreshWithRotatedToken_Staged",
+          "FIntDeformationMapFetchRequestAttemptTimeoutSeconds_Staged",
+          "FIntDeformationMapFetchRequestFetchRetries_Staged"
+        ],
+        "unchanged": 25561
+      }
+    }
+  },
+  "schemaVersion": 1
+}

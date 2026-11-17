@@ -2,9 +2,9 @@
 
 # Latest Roblox Player Datamining
 
-**Observed:** 17/11/2026, 22:40:01 CET (21:40:01 UTC)
+**Observed:** 17/11/2026, 23:41:59 CET (22:41:59 UTC)
 
-**Event:** [`2026/11/17/21-40-01Z_build_version-2c6fd5e09aaf4cfa/`](2026/11/17/21-40-01Z_build_version-2c6fd5e09aaf4cfa/)
+**Event:** [`2026/11/17/22-41-59Z_live-settings/`](2026/11/17/22-41-59Z_live-settings/)
 
 **Build:** [`0.748.0.7481526`](current/Build/version.json)
 
@@ -13,23 +13,14 @@
 ## Summary
 
 ```text
-Build files        +0 ~3 -0
-LuaPackages files  +0 ~6 -0
-Native files       +0 ~8 -0
-FastVariables files +0 ~2 -0
 LiveSettings files +0 ~1 -0
-Web files          +0 ~10 -0
-Packages           +0 ~9 -0
-Files              +5 ~17 -1
-LuaPackages sources +0 ~0 -0
-FastVariables      +1 ~28 -1
-LiveSettings       +85 ~10 -33
+LiveSettings       +29 ~6 -16
 ```
 
 File counts describe canonical files. Nested semantic rows describe values or API/source records inside those files.
 
 ## Findings
 
-- Avatar abilities — correlated
+No correlated findings for this event.
 
-See the [summary](2026/11/17/21-40-01Z_build_version-2c6fd5e09aaf4cfa/summary.md), [diff](2026/11/17/21-40-01Z_build_version-2c6fd5e09aaf4cfa/diff.md), [findings](2026/11/17/21-40-01Z_build_version-2c6fd5e09aaf4cfa/findings.md), and [changes.json](2026/11/17/21-40-01Z_build_version-2c6fd5e09aaf4cfa/changes.json).
+See the [summary](2026/11/17/22-41-59Z_live-settings/summary.md), [diff](2026/11/17/22-41-59Z_live-settings/diff.md), [findings](2026/11/17/22-41-59Z_live-settings/findings.md), and [changes.json](2026/11/17/22-41-59Z_live-settings/changes.json).
