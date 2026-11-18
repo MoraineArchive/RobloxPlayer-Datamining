@@ -1,0 +1,59 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-2c6fd5e09aaf4cfa",
+    "manifestFiles": 2861,
+    "packages": 22,
+    "version": "0.748.0.7481526"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "190efbfaff9892d1bf0113c2c1d9d9d4dddd178eb0e91e7ea8c3260cb3df4997",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "6e03c5f47c901e5e9ca4c93707002c7ea82f3a61b44fe9c58f42b0d21e238bb2",
+      "semantic": {
+        "added": [],
+        "changed": [
+          {
+            "after": "0bdd942f1cd4ae203e757dad90e4c8cfd32b1e66",
+            "before": "666695b828dfe0d315d34f634041eecf9529b052",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-18T21:59:14.295Z",
+            "before": "2026-11-18T21:29:03.567Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagRbxTransportConnectionAuthGate"
+          },
+          {
+            "after": "0bdd942f1cd4ae203e757dad90e4c8cfd32b1e66",
+            "before": "666695b828dfe0d315d34f634041eecf9529b052",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-18T21:59:14.295Z",
+            "before": "2026-11-18T21:29:03.567Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagRbxTransportConnectionAuthGate_Staged"
+        ],
+        "unchanged": 25643
+      }
+    }
+  },
+  "schemaVersion": 1
+}
