@@ -1,0 +1,141 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-2c6fd5e09aaf4cfa",
+    "manifestFiles": 2861,
+    "packages": 22,
+    "version": "0.748.0.7481526"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "c9224ef74ee1719f484287d5dd2386fdf845538388ae9603bd9a0c46301cccc6",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "a8e098ba05d3c38e4c1424643364149556cdc1066ab0defc7c9e7913f6ce2c15",
+      "semantic": {
+        "added": [
+          "DFFlagBadgeServiceReportTooManyRequests",
+          "DFFlagJoinInfoCheckLength",
+          "DFFlagJoinInfoJsonLimits",
+          "FFlagAXItemDetailsSduiTryOnSimpleView",
+          "FFlagAXItemViewportRestoreParentScrollingOnUnmount",
+          "FFlagAnimGraphUI_SyncNodeDragPosition",
+          "FFlagAppPageShellScrollTelemetry",
+          "FFlagAssistantMcpCapturePerTurn",
+          "FFlagAssistantMcpCaptureUpload",
+          "FFlagAutomaticDRSUseStricterTickTarget",
+          "FFlagBuildExperienceActionOutcomeTelemetry",
+          "FFlagBuildExperienceChatOpenId",
+          "FFlagBuildExperienceConfigurationRowTelemetry",
+          "FFlagBuildExperienceEventContextTelemetry",
+          "FFlagBuildExperienceHomeTelemetry",
+          "FFlagBuildExperienceOverflowMenuTelemetry",
+          "FFlagBuildExperiencePageImpressions",
+          "FFlagCloudClientOfferTypeApi",
+          "FFlagCloudClientOfferTypeApi_IXP",
+          "FFlagDeterministicRbxmBundling",
+          "FFlagEnableCommunitiesHttpDeepLink2",
+          "FFlagEnableExternalOriginOnlyUrlRegistration",
+          "FFlagEnableShopFlagLinkedExposureLogging",
+          "FFlagFixNavigateToCatalogMetric",
+          "FFlagFoundationFixChipAccessoryLayout",
+          "FFlagFoundationSliderRebuild2",
+          "FFlagLuaAppCloudClientPlayButtonOffer_IXP",
+          "FFlagLuauCodegenRuntimeFeedback",
+          "FFlagMicroWebrtcSctpStreamReset",
+          "FFlagMigratePlatformServiceTelemetryToV2",
+          "FFlagResetHoverTileOnGameLeave",
+          "FFlagSduiEdpRenderStarted",
+          "FFlagSduiLaunchExperienceCheckPlayabilityBeforeLaunch",
+          "FFlagShowClassmatesOnPYMK",
+          "FFlagSoundscapeOpusDynamicPacketLoss",
+          "FFlagStudioMCPCaptureHook",
+          "FFlagStudioQWidgetPluginGuiCloseButtonEnabled",
+          "FFlagStudioShortcutsDialogSayResetDefaults",
+          "FFlagTTITrackerDropEventsOnJoinAttempt",
+          "FFlagTexturePackUVTransform2",
+          "FFlagUIGradientFlushFreshBuffers",
+          "FFlagUIGradientLinearKeyBlend",
+          "FFlagUseRRServer_IXP",
+          "FFlagVideo2ControllerSetupOnDecodeThread",
+          "FStringLuaAppCloudClientPlayButtonIxpLayer_IXP"
+        ],
+        "changed": [
+          {
+            "after": "60818b0504d8f13af9f2de3bff29bdd9617a6247",
+            "before": "393b741371abdf27f05f7cdf57061d7f38bfa059",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-18T02:57:44.816Z",
+            "before": "2026-11-17T23:02:02.532Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "1;Engine.CloudClient;Engine.CloudClient.OfflineCheck.v3;386519265;flagbank",
+            "before": "1;Engine.CloudClient;Engine.CloudClient.OfflineCheck.v1;99957326;flagbank",
+            "name": "FFlagUseStratusServer_IXP"
+          },
+          {
+            "after": "60818b0504d8f13af9f2de3bff29bdd9617a6247",
+            "before": "393b741371abdf27f05f7cdf57061d7f38bfa059",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-18T02:57:44.816Z",
+            "before": "2026-11-17T23:02:02.532Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagBadgeServiceReportTooManyRequests_Staged",
+          "FFlagAXItemDetailsSduiTryOnSimpleView_Staged",
+          "FFlagAXItemViewportRestoreParentScrollingOnUnmount_Staged",
+          "FFlagAppPageShellScrollTelemetry_Staged",
+          "FFlagAutomaticDRSUseStricterTickTarget_Staged",
+          "FFlagDeterministicRbxmBundling_Staged",
+          "FFlagEnableExternalOriginOnlyUrlRegistration_Staged",
+          "FFlagFoundationFixChipAccessoryLayout_Staged",
+          "FFlagFoundationSliderRebuild2_Staged",
+          "FFlagLuauCodegenRuntimeFeedback_Staged",
+          "FFlagResetHoverTileOnGameLeave_Staged",
+          "FFlagSduiEdpRenderStarted_Staged",
+          "FFlagSduiLaunchExperienceCheckPlayabilityBeforeLaunch_Staged",
+          "FFlagShowClassmatesOnPYMK_Staged",
+          "FFlagSoundscapeOpusDynamicPacketLoss_Staged",
+          "FFlagStudioQWidgetPluginGuiCloseButtonEnabled_Staged",
+          "FFlagStudioShortcutsDialogSayResetDefaults_Staged",
+          "FFlagTTITrackerDropEventsOnJoinAttempt_Staged",
+          "FFlagTexturePackUVTransform2_Staged",
+          "FFlagUIGradientFlushFreshBuffers_Staged",
+          "FFlagUIGradientLinearKeyBlend_Staged"
+        ],
+        "unchanged": 25573
+      }
+    },
+    "Web": {
+      "current": "4173a3564512a7cdca74b4cb4b1f93d23ba03d1d5fefccce1b6c0b20b29dae4d",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 212
+      },
+      "previous": "382768b18145447ad42a035bdde49197afed49227990dce373899a91f395e8ff",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
