@@ -1,0 +1,76 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-2c6fd5e09aaf4cfa",
+    "manifestFiles": 2861,
+    "packages": 22,
+    "version": "0.748.0.7481526"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "a46070c4d4970405e5d2458b6e9ba6a8e1b7dcf6f2e65cb93b65f89f93d480c5",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "190efbfaff9892d1bf0113c2c1d9d9d4dddd178eb0e91e7ea8c3260cb3df4997",
+      "semantic": {
+        "added": [
+          "DFFlagCLI183138Pre_Staged",
+          "FFlagAppChatBlueSentBubbles",
+          "FFlagLuaAppEnableGamePassFreeTrials8"
+        ],
+        "changed": [
+          {
+            "after": "44339e8bc2d142ed0adacf7b9d9a91b2b22f8262",
+            "before": "0bdd942f1cd4ae203e757dad90e4c8cfd32b1e66",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-18T22:17:56.495Z",
+            "before": "2026-11-18T21:59:14.295Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "44339e8bc2d142ed0adacf7b9d9a91b2b22f8262",
+            "before": "0bdd942f1cd4ae203e757dad90e4c8cfd32b1e66",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-18T22:17:56.495Z",
+            "before": "2026-11-18T21:59:14.295Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FFlagAXAddPlusUpsellToBulkPurchaseExposure_IXP",
+          "FFlagAppChatBlueSentBubbles_Staged",
+          "FFlagLuaAppEnableGamePassFreeTrials8_Staged"
+        ],
+        "unchanged": 25641
+      }
+    },
+    "Web": {
+      "current": "402f3cbc26e6aed4cd216eda6d119a0c308145ba502e6411f39b555545e3878b",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_CommonUI.Messages.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_CommonUI.Messages.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 212
+      },
+      "previous": "f4ce2a6c0e3c089b236d120acb7b7966761e0fcb8a7805fb8db4413514865017",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}

@@ -1,6 +1,6 @@
 {
   "hashes": {
-    "assets.json": "c0ced6cbb241c9fdf2992f6eedbd7497d09dedd4b37bf85f757a1f1b579af48d",
+    "assets.json": "fb63aecf813d255d8d7aada442efb99be3c12900bfa6ccc7d638bb1d4194d49a",
     "js.rbxcdn.com/page-0/AccessManagementUpsell.js": "7a2795cd4a6595d6cdf824a5ec6518b89b887fdd09bab1186d84e315628e35e7",
     "js.rbxcdn.com/page-0/AccessManagementUpsellV2.js": "2ac678bc233ed329c49d9584eef273bb87d6d9a61b3167044e208e89c8d69d44",
     "js.rbxcdn.com/page-0/AngularJsUtilities.js": "6343b8107d42ad08d5a41b917b1f9c2f5274359fedde0fe3f61e4916278dd067",
@@ -21,7 +21,7 @@
     "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Common.VisitGame.js": "192c0db54782a997300e26c8e911037954c43bca3274531bd7d71951dbffd577",
     "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_CommonUI.Controls.js": "6000c1ab479675e0846e1de18db89983eac3a0efb72afd182b504bd0e9312986",
     "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_CommonUI.Features.js": "e0d29a919830bbc3dda21ba39128df0d890f4e12340283719e74fa88689145f7",
-    "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_CommonUI.Messages.js": "d401d79131b9f85d42be516820065c0559141bd5540de75128e0079ab4f3a6b0",
+    "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_CommonUI.Messages.js": "eae33717164e8038a0393e557321d885b36d763f2e0bdf722e19c51af31ed909",
     "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_CommonUI.UserAgreements.js": "90bc8aa37f741d625f48a0e9efe08ec5bb6c1dbac313d6e6e9da10ea3c442053",
     "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AccountSettings.js": "4062d9b9f379a05264e5385453c23ddd669f4a71c55bc11051cb6547676c3724",
     "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.AgeVerificationUpsell.js": "cad7e33442707c7364f642fba731f840461d9799a884ec7c95fcaa562ee35651",
@@ -124,7 +124,7 @@
     "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Common.VisitGame.js": "192c0db54782a997300e26c8e911037954c43bca3274531bd7d71951dbffd577",
     "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_CommonUI.Controls.js": "6000c1ab479675e0846e1de18db89983eac3a0efb72afd182b504bd0e9312986",
     "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_CommonUI.Features.js": "e0d29a919830bbc3dda21ba39128df0d890f4e12340283719e74fa88689145f7",
-    "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_CommonUI.Messages.js": "d401d79131b9f85d42be516820065c0559141bd5540de75128e0079ab4f3a6b0",
+    "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_CommonUI.Messages.js": "eae33717164e8038a0393e557321d885b36d763f2e0bdf722e19c51af31ed909",
     "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_CommonUI.UserAgreements.js": "90bc8aa37f741d625f48a0e9efe08ec5bb6c1dbac313d6e6e9da10ea3c442053",
     "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AccountSettings.js": "4062d9b9f379a05264e5385453c23ddd669f4a71c55bc11051cb6547676c3724",
     "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.AgeVerificationUpsell.js": "cad7e33442707c7364f642fba731f840461d9799a884ec7c95fcaa562ee35651",
@@ -211,15 +211,15 @@
     "js.rbxcdn.com/page-1/leanbase.js": "968a20eab1449bae7485d20d20a614f2a33b0515f27f143792b10cf4d700711e",
     "js.rbxcdn.com/page-1/page.js": "432095ee2a25a586d05e62c1917b10003e21c76a094c065faf79ba5259461c1c",
     "js.rbxcdn.com/page-1/pageEnd.js": "d641aca11ce176ed2ec36b49664600f9345d5e65370b915e33496a7f6ef1e74e",
-    "metadata.json": "04a043cc3adf03d0b93b1aff338eac4155b186579284bce379e6f55a2e55e271",
+    "metadata.json": "686c656d60c1102836e8f73b543bda31302b1b1820ecae44dfb1b3702f6ae859",
     "roblox.com/page-0/script-007.js": "a406bd97fed4ceb8954133f97a6d5c225b2f673606c5d439de4a910c83b4ecad",
     "roblox.com/page-1/script-007.js": "a406bd97fed4ceb8954133f97a6d5c225b2f673606c5d439de4a910c83b4ecad",
     "www.roblox.com/page-0/script-000.js": "f5641e111fbcbc519c8b140eed0015e4e6d0346d9a1b6e57959e3268de21653c",
     "www.roblox.com/page-1/script-000.js": "f5641e111fbcbc519c8b140eed0015e4e6d0346d9a1b6e57959e3268de21653c"
   },
-  "id": "f4ce2a6c0e3c089b236d120acb7b7966761e0fcb8a7805fb8db4413514865017",
+  "id": "402f3cbc26e6aed4cd216eda6d119a0c308145ba502e6411f39b555545e3878b",
   "observationMode": "live",
-  "observedAt": "2026-11-18T12:54:27.749Z",
+  "observedAt": "2026-11-18T22:18:20.902Z",
   "provenance": [
     {
       "bytes": 7972,
@@ -418,18 +418,6 @@
       "sha256": "eed55cdcead61d0825909fba3ecca851b9f13c899168afc40569de7a3d3cfea8",
       "sourceType": "official",
       "sourceUrl": "https://js.rbxcdn.com/2f0fd0c2760ff1898187af6df3b764f4b08f77a315d0a33654f105f61b0ea6d0.js"
-    },
-    {
-      "bytes": 4354,
-      "sha256": "d401d79131b9f85d42be516820065c0559141bd5540de75128e0079ab4f3a6b0",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/30f0fa1431843fcc647e0407091e22efb370a26038b8fedfe41fb07d3d46ed83.js"
-    },
-    {
-      "bytes": 4354,
-      "sha256": "d401d79131b9f85d42be516820065c0559141bd5540de75128e0079ab4f3a6b0",
-      "sourceType": "official",
-      "sourceUrl": "https://js.rbxcdn.com/30f0fa1431843fcc647e0407091e22efb370a26038b8fedfe41fb07d3d46ed83.js"
     },
     {
       "bytes": 738,
@@ -1266,6 +1254,18 @@
       "sourceUrl": "https://js.rbxcdn.com/c2842bfcd97e55a576b1e191a6db391103a029714ef58c8932cd301be2bede05-WebBlox.js"
     },
     {
+      "bytes": 4411,
+      "sha256": "eae33717164e8038a0393e557321d885b36d763f2e0bdf722e19c51af31ed909",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/cae863b74eff85cc130d7c0bdd7e7cb381127ba3adb8da7caae2878a4d4a2e9c.js"
+    },
+    {
+      "bytes": 4411,
+      "sha256": "eae33717164e8038a0393e557321d885b36d763f2e0bdf722e19c51af31ed909",
+      "sourceType": "official",
+      "sourceUrl": "https://js.rbxcdn.com/cae863b74eff85cc130d7c0bdd7e7cb381127ba3adb8da7caae2878a4d4a2e9c.js"
+    },
+    {
       "bytes": 2539,
       "sha256": "20d914c42ae7cb94255f9f178f7bd125359ca012d6c7bea1fb182a02c8a4c329",
       "sourceType": "official",
@@ -1506,7 +1506,7 @@
       "sourceUrl": "https://www.roblox.com/js/utilities/bundleVerifier.js?v=d8be7ec8aee81a9acf17014aae64dd2e"
     }
   ],
-  "sequence": 242,
+  "sequence": 243,
   "status": "available",
   "summary": {
     "assets": 214,
