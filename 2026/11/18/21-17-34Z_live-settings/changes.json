@@ -1,0 +1,122 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-2c6fd5e09aaf4cfa",
+    "manifestFiles": 2861,
+    "packages": 22,
+    "version": "0.748.0.7481526"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "8b5360455ab2817a557e2d5c37fdaf94044cfa529ca413fa16f7561319e3a015",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "c9224ef74ee1719f484287d5dd2386fdf845538388ae9603bd9a0c46301cccc6",
+      "semantic": {
+        "added": [
+          "DFFlagMakeupTransferSharedLayerAlpha",
+          "FFlagAppChatBlueSentBubbles_Staged",
+          "FFlagAssetImportHandleEmptySimplifierOutput",
+          "FFlagCaptureServiceGetScreenshotCaptureObject_Staged",
+          "FFlagCloseShopOnTrialRedemption",
+          "FFlagDevConsoleTabReselectKeepsClientView_Staged",
+          "FFlagDisablePlatformServiceLegacyTelemetryMetrics_Staged",
+          "FFlagEnableActiveFreeTrialBlueDot_Staged",
+          "FFlagEnableActiveFreeTrialShopMenuBadge",
+          "FFlagEnableFreeTrialBlueDot_Staged",
+          "FFlagEnableFreeTrialShopMenuBadge",
+          "FFlagEnableRedeemedFreeTrialShopMenuBadge",
+          "FFlagEnableTiltLoadingScreen4_IXP",
+          "FFlagLoadingScreenControlMilestones_IXP",
+          "FFlagLuaAppEnableGamePassFreeTrials8_Staged",
+          "FFlagLuaAppRootErrorBoundary",
+          "FFlagRbxTransportConnectionAuthGate_Staged",
+          "FFlagRealtimeMediaMuteAudioInputInBackground",
+          "FFlagRenderSurfaceAppearanceResampleModeNoAssetCreation",
+          "FFlagSduiSocialProofTextAnalytics",
+          "FFlagSignalConnectUnderInsertLock",
+          "FFlagTiltLoadingScreenDismissOnLoaded_IXP",
+          "FFlagTrialNotificationBadgeOnStudio",
+          "FFlagTrialNotificationBlueDotOnStudio_Staged",
+          "FFlagUIParticlesBetaFeature",
+          "FFlagUseGetGamePassOwnershipApi",
+          "FFlagWindowsRawInputBroker"
+        ],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagRakNetPingTrace"
+          },
+          {
+            "after": "8cedf3734a4f0633968d185fd64f9d0253f036f5",
+            "before": "60818b0504d8f13af9f2de3bff29bdd9617a6247",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-18T21:14:28.159Z",
+            "before": "2026-11-18T02:57:44.816Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagGen3dTextureGenReapplyMeshInPlace"
+          },
+          {
+            "after": "1;Experience.Menu;Interactivity.LoadingScreen.TiltDesign.3;161030618;flagbank",
+            "before": "1;Experience.Menu;Interactivity.LoadingScreen.TiltDesign;2104195694;flagbank",
+            "name": "FFlagLoadingScreenMilestones2_IXP"
+          },
+          {
+            "after": "True;9707042192;9671070925;8491889239;9164570436;9859999587;5824195619;9876947216;10004846655;9605987780;10036955953;10123702430;10241252491;10382950395;10390927281;10390930030;10390933265;10538358999;10538473450;7738776082;8005766508;10643104390;10631479676;10762769249;10765877033;10766493343;10766485671;4391533696;2564505263;10767763406;10768893031;10765530630;10357239521;10275212796;10770936218;887403347;5990940444;985731078;1235188606;5456952508;1299885893;4832841559;7681040001;4256727482;1281592938;4750561026;7101140819;1831550657;8100760508",
+            "before": "True;9707042192;9671070925;8491889239;9164570436;9859999587;5824195619;9876947216;10004846655;9605987780;10036955953;10123702430;10241252491;10382950395;10390927281;10390930030;10390933265;10538358999;10538473450;7738776082;8005766508;10643104390;10631479676;10762769249;10765877033;10766493343;10766485671;4391533696;2564505263;10767763406;10768893031;10765530630;10357239521;10275212796;10770936218;887403347;5990940444;985731078;1235188606;5456952508;1299885893;4832841559;7681040001;4256727482;1281592938;4750561026;7101140819;1831550657",
+            "name": "FFlagLuaAppIsClickoutEnabledUniverse_UniverseFilter"
+          },
+          {
+            "after": "1;Experience.Menu;Interactivity.LoadingScreen.TiltDesign.3;161030618;flagbank",
+            "before": "1;Experience.Menu;Interactivity.LoadingScreen.TiltDesign;2104195694;flagbank",
+            "name": "FFlagTiltLoadingScreenConsoleHints2_IXP"
+          },
+          {
+            "after": "1;Experience.Menu;Interactivity.LoadingScreen.TiltDesign.3;161030618;flagbank",
+            "before": "1;Experience.Menu;Interactivity.LoadingScreen.TiltDesign;2104195694;flagbank",
+            "name": "FFlagTiltLoadingScreenEnterExitHold3_IXP"
+          },
+          {
+            "after": "1;Experience.Menu;Interactivity.LoadingScreen.TiltDesign.3;161030618;flagbank",
+            "before": "1;Experience.Menu;Interactivity.LoadingScreen.TiltDesign;2104195694;flagbank",
+            "name": "FIntLoadingScreenMilestonesSampleRate2_IXP"
+          },
+          {
+            "after": "8cedf3734a4f0633968d185fd64f9d0253f036f5",
+            "before": "60818b0504d8f13af9f2de3bff29bdd9617a6247",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-18T21:14:28.159Z",
+            "before": "2026-11-18T02:57:44.816Z",
+            "name": "FStringFlipTimeStampFastString"
+          },
+          {
+            "after": "[(8,ktx2)]",
+            "before": "[(8,ktx2),(7rdo,ktx2)]",
+            "name": "FStringTextureTranscodeRollout"
+          }
+        ],
+        "removed": [
+          "FFlagSduiSearchResultsPageEnabled_IXP"
+        ],
+        "unchanged": 25610
+      }
+    }
+  },
+  "schemaVersion": 1
+}
