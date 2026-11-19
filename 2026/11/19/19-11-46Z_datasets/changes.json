@@ -1,0 +1,142 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-2c6fd5e09aaf4cfa",
+    "manifestFiles": 2861,
+    "packages": 22,
+    "version": "0.748.0.7481526"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "4ed0d51022d52f1b0f9bde26b479d790adba3fad996bd3c6881e12e798be324c",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "defd28f09afdf54713b1555b7d44f63cc4388e81d5de00fd6176b715321e3f2f",
+      "semantic": {
+        "added": [
+          "DFFlagConvexHullFailOnBrokenTopology",
+          "DFFlagMomentsServiceAvatarPost2",
+          "DFFlagMomentsServiceAvatarPostEmoteName",
+          "DFFlagRbxTransportQuicHandshakeStatsReportOnce_Staged",
+          "DFFlagRbxTransportQuicHeapReadCallbacks_Staged",
+          "DFIntBadgeSlpInsightsClientRolloutPercentage",
+          "DFIntBadgeSlpInsightsClientRolloutPercentage_Staged",
+          "DFIntBadgeSlpInsightsClientRolloutPercentage_UniverseFilter",
+          "FFlagAACAssetPublishBatchEndpoint_Staged",
+          "FFlagAnimGraphUIEnableExpressionNodes2_Staged",
+          "FFlagAnimGraphUIEnableValueNodes_Staged",
+          "FFlagAnimGraphUI_PoseStateMachineNode_Staged",
+          "FFlagAvatarSettingsDiscardFiresRefreshLocally_Staged",
+          "FFlagBulkPurchaseTestPurchaseHint_Staged",
+          "FFlagBuyRobuxRoutingAppendWebContext_Staged",
+          "FFlagCLI235974_Staged",
+          "FFlagDMCTMigrateCollisionFidelity_Staged",
+          "FFlagEnableAccountSwitcherUncheckedBadge_Staged",
+          "FFlagLuaAppSduiGameTileInteractionFeedback_Staged",
+          "FFlagLuauCodegenExitSyncExpectedTag_Staged",
+          "FFlagLuauCodegenFastcallAnalysisLimit_Staged",
+          "FFlagLuauSaltedInterningTable_Staged",
+          "FFlagMomentsCommentDeepLinks_Staged",
+          "FFlagMomentsCommentTranslation_Staged",
+          "FFlagMomentsComments2_Staged",
+          "FFlagMomentsCommentsCreatorControl_Staged",
+          "FFlagMomentsCommentsIxpEnabled_Staged",
+          "FFlagMomentsCreatorAnalyticsPhase1_IXP",
+          "FFlagMomentsOverflowButtonAnalytics_IXP",
+          "FFlagMomentsPostInsightsIxpEnabled_IXP",
+          "FFlagPCLLegacyBodyColorsUseLoadAvatarRules_Staged",
+          "FFlagSetAllowCustomAnimationsBeforeFirstCharacterSpawn_Staged",
+          "FFlagSimRemoveBodyFromIslandizer_Staged",
+          "FFlagVoiceConnectDisconnectGrafanaMetrics_Staged",
+          "FFlagVoroCDWaitForCompletedComputatedCacheEntry_Staged",
+          "FFlagWinDeviceChangeCameraFilter_Staged",
+          "FFlagWrapDeformerLiveBodyScaleEdits_Staged",
+          "FIntUGCValidateMakeupMaxUBound",
+          "FIntUGCValidateMakeupMaxVBound",
+          "FIntUGCValidateMakeupMinUBound",
+          "FIntUGCValidateMakeupMinVBound",
+          "FStringMomentsPostInsightsIxpLayer_Staged"
+        ],
+        "changed": [
+          {
+            "after": "68cabf902e1c955eadbfb0ab080f6edfba02af23",
+            "before": "30b8378156a63d3a142a7da9b6d240ddd6edb15c",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-19T19:03:25.587Z",
+            "before": "2026-11-19T03:02:37.657Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "1;PlayerApp.Discovery.Charts.SeeAll.Exposure;Discovery.Charts.SeeAll.GenreSelector;898301828;dev_controlled",
+            "before": "1;GameDiscovery.GameSorts;Discovery.Charts.SeeAllGenreSelection;898301828;flagbank",
+            "name": "FFlagSduiChartsSortDetailGenreFilter_IXP"
+          },
+          {
+            "after": "1;Social.Presence;Social.Friends.InGameFriendsJoinButton;836790687;dev_controlled",
+            "before": "1;Social.Friends;Social.Friends.InGameFriendsJoinButton;836790687;dev_controlled",
+            "name": "FFlagSocialCarouselInGamePlayIcon_IXP"
+          },
+          {
+            "after": "1;Social.Presence;Social.Friends.InGameFriendsJoinButton;836790687;dev_controlled",
+            "before": "1;Social.Friends;Social.Friends.InGameFriendsJoinButton;836790687;dev_controlled",
+            "name": "FFlagSocialCarouselInGameTextInstantJoin_IXP"
+          },
+          {
+            "after": "1;Social.Presence;Social.Friends.InGameFriendsJoinButton;836790687;dev_controlled",
+            "before": "1;Social.Friends;Social.Friends.InGameFriendsJoinButton;836790687;dev_controlled",
+            "name": "FFlagSocialCarouselInGameTileInstantJoin_IXP"
+          },
+          {
+            "after": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip,AXFavoritePillFtuxTooltip,AXBackgroundGenerationCreateTooltip,AXBackgroundGenerationPublishTooltip,AXPhotoboothMomentsButtonFtuxTooltip",
+            "before": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip,AXFavoritePillFtuxTooltip,AXBackgroundGenerationCreateTooltip,AXBackgroundGenerationPublishTooltip",
+            "name": "FStringAXTooltipAllowedTooltips"
+          },
+          {
+            "after": "68cabf902e1c955eadbfb0ab080f6edfba02af23",
+            "before": "30b8378156a63d3a142a7da9b6d240ddd6edb15c",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-19T19:03:25.587Z",
+            "before": "2026-11-19T03:02:37.657Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "FIntUGCValidateMakeupMaxUBound_PlaceFilter",
+          "FIntUGCValidateMakeupMaxVBound_PlaceFilter",
+          "FIntUGCValidateMakeupMinUBound_PlaceFilter",
+          "FIntUGCValidateMakeupMinVBound_PlaceFilter"
+        ],
+        "unchanged": 25663
+      }
+    },
+    "Web": {
+      "current": "70a7abf1cd6ee6446ec74f7391b18f3a3ed3f0e07b3b9d5cd6c543ab7e925855",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/CoreUtilities.js",
+          "js.rbxcdn.com/page-1/CoreUtilities.js",
+          "js.rbxcdn.com/page-1/Navigation.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 211
+      },
+      "previous": "dc8ec1cc5aa4834c0fd2dac329e3b9542b1424307a220568a0efdef36b6b7868",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
