@@ -1,0 +1,121 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-2c6fd5e09aaf4cfa",
+    "manifestFiles": 2861,
+    "packages": 22,
+    "version": "0.748.0.7481526"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "fe61f2175cb6a7a1958d54400838799a3bc7c53409cfb60226edb9a62ceb3306",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "4ed0d51022d52f1b0f9bde26b479d790adba3fad996bd3c6881e12e798be324c",
+      "semantic": {
+        "added": [
+          "DFFlagRbxTransportQuicHandshakeStatsReportOnce",
+          "DFFlagRbxTransportQuicHeapReadCallbacks",
+          "DFFlagValueCurveRejectPartiallyDecodedKeys_Staged",
+          "DFIntSQLiteCacheAssetDeliveryResponseTTLSeconds_Staged",
+          "FFlagAACAssetPublishBatchEndpoint",
+          "FFlagAXItemDetailsSduiFillView_Staged",
+          "FFlagAXSduiFeedSkipScrollWithoutContent_Staged",
+          "FFlagAXTabGroupScrollOnlyWhenClipped_Staged",
+          "FFlagAddFriendsAcceptedRequestUx_Staged",
+          "FFlagAnimGraphUIEnableExpressionNodes2",
+          "FFlagAnimGraphUIEnableValueNodes",
+          "FFlagAnimGraphUI_PinOffsetsUseRenderedWidth_Staged",
+          "FFlagAnimGraphUI_PoseStateMachineNode",
+          "FFlagBillboardGuiGestureAllocateOnHit_Staged",
+          "FFlagDMCTMigrateCollisionFidelity",
+          "FFlagEnableAccountSwitcherUncheckedBadge",
+          "FFlagExplorerStreaming4_Staged",
+          "FFlagFileMeshDataParserHardening_Staged",
+          "FFlagFriendsChatScreenExitLoadedMessageCount_Staged",
+          "FFlagIntegrityCheckedProcessorPlayerMetadataOncePerBatch_Staged",
+          "FFlagLeaveExperienceEndWarmAfterGameTeardown_Staged",
+          "FFlagLinuxCpuTempCacheSensorPaths_Staged",
+          "FFlagLuauCodegenExitSyncExpectedTag",
+          "FFlagLuauCodegenFastcallAnalysisLimit",
+          "FFlagMomentScenesAvatarMomentDefaultClothing_Staged",
+          "FFlagMpScopeThreadCacheGrowOnDemand_Staged",
+          "FFlagNetworkOwnerJobReuseClientMapNodes_Staged",
+          "FFlagPerformanceControlSizeCriticalBufferToModifications_Staged",
+          "FFlagRVideoCapWebmFrameSize_Staged",
+          "FFlagResumeDelayedThreadsReuseQueue_Staged",
+          "FFlagSerializerBinaryReuseZstdDecompressContext_Staged",
+          "FFlagSimRemoveBodyFromIslandizer",
+          "FFlagVideo2CapWebmFrameSize_Staged",
+          "FFlagVoiceConnectDisconnectGrafanaMetrics",
+          "FFlagWinDeviceChangeCameraFilter",
+          "FFlagWrapDeformerLiveBodyScaleEdits"
+        ],
+        "changed": [
+          {
+            "after": "10",
+            "before": "1",
+            "name": "DFIntBadgeSlpInsightsClientRolloutPercentage"
+          },
+          {
+            "after": "25;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-19T19:29:51",
+            "before": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-19T18:24:37",
+            "name": "DFIntBadgeSlpInsightsClientRolloutPercentage_Staged"
+          },
+          {
+            "after": "091b9ffcd9a7a64f074a83e47a8a3845b0cf7565",
+            "before": "68cabf902e1c955eadbfb0ab080f6edfba02af23",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-19T20:23:32.709Z",
+            "before": "2026-11-19T19:03:25.587Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-19T19:31:52",
+            "before": "True;SteadyState;10;30;Revert;2026-11-19T18:52:04",
+            "name": "FFlagCLI235974_Staged"
+          },
+          {
+            "after": "091b9ffcd9a7a64f074a83e47a8a3845b0cf7565",
+            "before": "68cabf902e1c955eadbfb0ab080f6edfba02af23",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-19T20:23:32.709Z",
+            "before": "2026-11-19T19:03:25.587Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagRbxTransportQuicHandshakeStatsReportOnce_Staged",
+          "DFFlagRbxTransportQuicHeapReadCallbacks_Staged",
+          "FFlagAACAssetPublishBatchEndpoint_Staged",
+          "FFlagAnimGraphUIEnableExpressionNodes2_Staged",
+          "FFlagAnimGraphUIEnableValueNodes_Staged",
+          "FFlagAnimGraphUI_PoseStateMachineNode_Staged",
+          "FFlagDMCTMigrateCollisionFidelity_Staged",
+          "FFlagEnableAccountSwitcherUncheckedBadge_Staged",
+          "FFlagLuauCodegenExitSyncExpectedTag_Staged",
+          "FFlagLuauCodegenFastcallAnalysisLimit_Staged",
+          "FFlagMomentsCommentDeepLinks_Staged",
+          "FFlagMomentsCommentTranslation_Staged",
+          "FFlagSimRemoveBodyFromIslandizer_Staged",
+          "FFlagVoiceConnectDisconnectGrafanaMetrics_Staged",
+          "FFlagWinDeviceChangeCameraFilter_Staged",
+          "FFlagWrapDeformerLiveBodyScaleEdits_Staged"
+        ],
+        "unchanged": 25691
+      }
+    }
+  },
+  "schemaVersion": 1
+}
