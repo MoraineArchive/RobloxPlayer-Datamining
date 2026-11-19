@@ -1,0 +1,136 @@
+{
+  "build": {
+    "engineRevision": 1,
+    "guid": "version-2c6fd5e09aaf4cfa",
+    "manifestFiles": 2861,
+    "packages": 22,
+    "version": "0.748.0.7481526"
+  },
+  "datasets": {
+    "LiveSettings": {
+      "current": "a8a29b272db2cfdb67fe03867451906fc5d93e62d330ddfb636c6224855429b7",
+      "files": {
+        "added": [],
+        "changed": [
+          "current.json",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 0
+      },
+      "previous": "a46070c4d4970405e5d2458b6e9ba6a8e1b7dcf6f2e65cb93b65f89f93d480c5",
+      "semantic": {
+        "added": [
+          "DFFlagFileMeshDataTransformHardening",
+          "DFFlagSetServerMetroOnDatamodel",
+          "FFlagAXCatalogSduiDisableInSearchResults",
+          "FFlagAXCategoryMenuButtonsFromCategoryData",
+          "FFlagAXFixSplitPaneHomeTryOnReset",
+          "FFlagAXPrefetchSduiWidgetThumbnails",
+          "FFlagAXSduiCatalogTaxonomyFromServer",
+          "FFlagAXUnmountHiddenSduiCatalogFeed",
+          "FFlagAimUploadUseKnownAssetCache",
+          "FFlagAnimGraphExpressionValueNode",
+          "FFlagAnimGraphStateMachine2",
+          "FFlagCaptureServiceGetScreenshotCaptureObject",
+          "FFlagCleanupGenerateAndSetCollisionGeometryFunctions",
+          "FFlagDisablePlatformServiceLegacyTelemetryMetrics",
+          "FFlagEnableMultipartForMeshImage2",
+          "FFlagLegacyAvatarImporterApiMigration",
+          "FFlagLegacyBulkImporterApiMigration",
+          "FFlagLegacyImporterApiMigration",
+          "FFlagLuauExpressionBoundParams",
+          "FFlagLuauExpressionNilAndEqualityMatchLuau",
+          "FFlagMCPCaptureRetention",
+          "FFlagMCPVideoCapture2",
+          "FFlagMomentsParentTimeLimit",
+          "FFlagNAPUseRootLabelTranslationKey",
+          "FFlagRCCMemoryDataModelAttribution",
+          "FFlagSduiChartsAudienceFilter",
+          "FFlagSentryUserIdAsUserContextEnabled",
+          "FFlagSocialCarouselBuildPresence2_IXP",
+          "FFlagTextBoundsRoundUpToLogicalPixels",
+          "FFlagUGCValidateTransitionMakeupBounds",
+          "SFFlagAnimGraphValueNodes2"
+        ],
+        "changed": [
+          {
+            "after": "False",
+            "before": "True",
+            "name": "DFFlagCLI183138Pre"
+          },
+          {
+            "after": "True;388;416;25502;26143;425;25960",
+            "before": "True;388;416;25502;26143",
+            "name": "DFFlagDebugDynamicRCCMemoryLimitsIgnoreContainerLimit_DataCenterFilter"
+          },
+          {
+            "after": "47a6514a67130bb177236667630ee42ad6046c44",
+            "before": "44339e8bc2d142ed0adacf7b9d9a91b2b22f8262",
+            "name": "DFStringFlagRepoGitHashDynamicString"
+          },
+          {
+            "after": "2026-11-19T02:37:27.335Z",
+            "before": "2026-11-18T22:17:56.495Z",
+            "name": "DFStringFlipTimeStampDynamicString"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagEDPTTITrackingEnabled"
+          },
+          {
+            "after": "True",
+            "before": "False",
+            "name": "FFlagEnableAimMeshUploadTime"
+          },
+          {
+            "after": "False",
+            "before": "True",
+            "name": "FFlagEnableEDPTTIManagerColdWarmDetection"
+          },
+          {
+            "after": "47a6514a67130bb177236667630ee42ad6046c44",
+            "before": "44339e8bc2d142ed0adacf7b9d9a91b2b22f8262",
+            "name": "FStringFlagRepoGitHashFastString"
+          },
+          {
+            "after": "2026-11-19T02:37:27.335Z",
+            "before": "2026-11-18T22:17:56.495Z",
+            "name": "FStringFlipTimeStampFastString"
+          }
+        ],
+        "removed": [
+          "DFFlagCLI183138Pre_Staged",
+          "FFlagCaptureServiceGetScreenshotCaptureObject_Staged",
+          "FFlagDisablePlatformServiceLegacyTelemetryMetrics_Staged"
+        ],
+        "unchanged": 25636
+      }
+    },
+    "Web": {
+      "current": "884f8795bcd1fbbe9fb4f2824bce87e94c67aa9823449a837472937160202bf2",
+      "files": {
+        "added": [],
+        "changed": [
+          "assets.json",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-0/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js",
+          "js.rbxcdn.com/page-0/GameLaunch.js",
+          "js.rbxcdn.com/page-0/PresenceStatus.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.Parents.js",
+          "js.rbxcdn.com/page-1/DynamicLocalizationResourceScript_Feature.RobloxSubscription.js",
+          "js.rbxcdn.com/page-1/GameLaunch.js",
+          "js.rbxcdn.com/page-1/Navigation.js",
+          "js.rbxcdn.com/page-1/PresenceStatus.js",
+          "metadata.json"
+        ],
+        "removed": [],
+        "unchanged": 205
+      },
+      "previous": "402f3cbc26e6aed4cd216eda6d119a0c308145ba502e6411f39b555545e3878b",
+      "semantic": null
+    }
+  },
+  "schemaVersion": 1
+}
